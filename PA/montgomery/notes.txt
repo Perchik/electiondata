@@ -1,0 +1,13 @@
+
+https://www.montgomerycountypa.gov/2033/Election-Results
+
+open "2024 General Election Results - Department of State PA"  which is a giant pdf
+
+Downloaded full pdf, found the pages that were for the following races:
+
+63-423 president
+423-566 senate
+567-711 atty general
+999-1147 congress
+
+I'm going to ignore the rest of the races and ballot measures because the file is huge
