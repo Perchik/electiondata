@@ -1,0 +1,14 @@
+https://www.dauphinc.org/election/?key=38
+
+Open the race results in the sidebar on the left. 
+
+Then choose "precinct by ballot"
+
+copy all of the text from the title through to the end, pasted it in dauphin_data.text
+the data file has 
+
+source_url
+office name
+[data]
+
+Ran dauphin.py with the printed_offices and printed_candidate lines uncommented to generate a list of candidates ... then manually added all the parties from the website, filled out the party_lookup table.

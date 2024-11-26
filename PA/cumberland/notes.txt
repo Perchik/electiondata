@@ -1,0 +1,7 @@
+https://www.cumberlandcountypa.gov/DocumentCenter/View/52475/Official-Precinct-Report?bidId=
+
+select all, pasted into cumberland_data
+
+then ran preprocess.py to strip out unneeded lines which produces cumberland_cleaned
+
+then run cumberland.py to parse the csv
