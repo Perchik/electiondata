@@ -69,10 +69,6 @@ for race_dir in os.listdir(RACES_DIRECTORY):
                 votes = row.get("votes", 0)
                 vote_mode = row.get("method", "").strip()
 
-                # Skip total rows
-                if vote_mode.lower() == "total":
-                    continue
-
                 # Handle Unresolved Write-In
                 if candidate.lower() == "unresolved write-in":
                     candidate = "(Other)"
