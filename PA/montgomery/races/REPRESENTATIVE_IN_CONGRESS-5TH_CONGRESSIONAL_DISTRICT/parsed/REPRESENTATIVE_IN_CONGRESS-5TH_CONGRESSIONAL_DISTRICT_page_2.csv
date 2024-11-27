@@ -1,0 +1,21 @@
+precinct,method,candidate,votes
+Bridgeport 1,Election Day,UnresolvedWrite-In,****
+Bridgeport 1,Mail-in,UnresolvedWrite-In,****
+Bridgeport 1,Provisional,UnresolvedWrite-In,****
+Bridgeport 1,Total,UnresolvedWrite-In,2
+Bridgeport 2,Election Day,UnresolvedWrite-In,****
+Bridgeport 2,Mail-in,UnresolvedWrite-In,****
+Bridgeport 2,Provisional,UnresolvedWrite-In,****
+Bridgeport 2,Total,UnresolvedWrite-In,1
+Bridgeport 3,Election Day,UnresolvedWrite-In,2
+Bridgeport 3,Mail-in,UnresolvedWrite-In,1
+Bridgeport 3,Provisional,UnresolvedWrite-In,1
+Bridgeport 3,Total,UnresolvedWrite-In,4
+Narberth 1,Election Day,UnresolvedWrite-In,****
+Narberth 1,Mail-in,UnresolvedWrite-In,****
+Narberth 1,Provisional,UnresolvedWrite-In,****
+Narberth 1,Total,UnresolvedWrite-In,0
+Narberth 2,Election Day,UnresolvedWrite-In,****
+Narberth 2,Mail-in,UnresolvedWrite-In,****
+Narberth 2,Provisional,UnresolvedWrite-In,****
+Narberth 2,Total,UnresolvedWrite-In,4

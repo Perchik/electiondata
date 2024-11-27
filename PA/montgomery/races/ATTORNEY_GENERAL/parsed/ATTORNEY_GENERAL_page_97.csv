@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Plymouth 3-1,Election Day,EUGENE DEPASQUALE(DEM),****
+Plymouth 3-1,Election Day,DAVE SUNDAY(REP),****
+Plymouth 3-1,Mail-in,EUGENE DEPASQUALE(DEM),****
+Plymouth 3-1,Mail-in,DAVE SUNDAY(REP),****
+Plymouth 3-1,Provisional,EUGENE DEPASQUALE(DEM),****
+Plymouth 3-1,Provisional,DAVE SUNDAY(REP),****
+Plymouth 3-1,Total,EUGENE DEPASQUALE(DEM),683
+Plymouth 3-1,Total,DAVE SUNDAY(REP),577
+Plymouth 3-2,Election Day,EUGENE DEPASQUALE(DEM),****
+Plymouth 3-2,Election Day,DAVE SUNDAY(REP),****
+Plymouth 3-2,Mail-in,EUGENE DEPASQUALE(DEM),****
+Plymouth 3-2,Mail-in,DAVE SUNDAY(REP),****
+Plymouth 3-2,Provisional,EUGENE DEPASQUALE(DEM),****
+Plymouth 3-2,Provisional,DAVE SUNDAY(REP),****
+Plymouth 3-2,Total,EUGENE DEPASQUALE(DEM),790
+Plymouth 3-2,Total,DAVE SUNDAY(REP),370
+Plymouth 3-3,Election Day,EUGENE DEPASQUALE(DEM),****
+Plymouth 3-3,Election Day,DAVE SUNDAY(REP),****
+Plymouth 3-3,Mail-in,EUGENE DEPASQUALE(DEM),****
+Plymouth 3-3,Mail-in,DAVE SUNDAY(REP),****
+Plymouth 3-3,Provisional,EUGENE DEPASQUALE(DEM),****
+Plymouth 3-3,Provisional,DAVE SUNDAY(REP),****
+Plymouth 3-3,Total,EUGENE DEPASQUALE(DEM),638
+Plymouth 3-3,Total,DAVE SUNDAY(REP),279
+Plymouth 4-1,Election Day,EUGENE DEPASQUALE(DEM),****
+Plymouth 4-1,Election Day,DAVE SUNDAY(REP),****
+Plymouth 4-1,Mail-in,EUGENE DEPASQUALE(DEM),****
+Plymouth 4-1,Mail-in,DAVE SUNDAY(REP),****
+Plymouth 4-1,Provisional,EUGENE DEPASQUALE(DEM),****
+Plymouth 4-1,Provisional,DAVE SUNDAY(REP),****
+Plymouth 4-1,Total,EUGENE DEPASQUALE(DEM),411
+Plymouth 4-1,Total,DAVE SUNDAY(REP),360
+Plymouth 4-2,Election Day,EUGENE DEPASQUALE(DEM),553
+Plymouth 4-2,Election Day,DAVE SUNDAY(REP),529
+Plymouth 4-2,Mail-in,EUGENE DEPASQUALE(DEM),240
+Plymouth 4-2,Mail-in,DAVE SUNDAY(REP),140
+Plymouth 4-2,Provisional,EUGENE DEPASQUALE(DEM),8
+Plymouth 4-2,Provisional,DAVE SUNDAY(REP),1
+Plymouth 4-2,Total,EUGENE DEPASQUALE(DEM),801
+Plymouth 4-2,Total,DAVE SUNDAY(REP),670
+Lower Salford 1,Election Day,EUGENE DEPASQUALE(DEM),****
+Lower Salford 1,Election Day,DAVE SUNDAY(REP),****
+Lower Salford 1,Mail-in,EUGENE DEPASQUALE(DEM),****
+Lower Salford 1,Mail-in,DAVE SUNDAY(REP),****
+Lower Salford 1,Provisional,EUGENE DEPASQUALE(DEM),****
+Lower Salford 1,Provisional,DAVE SUNDAY(REP),****
+Lower Salford 1,Total,EUGENE DEPASQUALE(DEM),802
+Lower Salford 1,Total,DAVE SUNDAY(REP),"1,001"

@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Whitpain 10,Election Day,JOHN C THOMAS(LIB),8
+Whitpain 10,Election Day,LEILA HAZOU(GRE),5
+Whitpain 10,Election Day,MARTY SELKER(CON),2
+Whitpain 10,Election Day,UnresolvedWrite-In,1
+Whitpain 10,Mail-in,JOHN C THOMAS(LIB),2
+Whitpain 10,Mail-in,LEILA HAZOU(GRE),4
+Whitpain 10,Mail-in,MARTY SELKER(CON),0
+Whitpain 10,Mail-in,UnresolvedWrite-In,0
+Whitpain 10,Provisional,JOHN C THOMAS(LIB),2
+Whitpain 10,Provisional,LEILA HAZOU(GRE),0
+Whitpain 10,Provisional,MARTY SELKER(CON),0
+Whitpain 10,Provisional,UnresolvedWrite-In,0
+Whitpain 10,Total,JOHN C THOMAS(LIB),12
+Whitpain 10,Total,LEILA HAZOU(GRE),9
+Whitpain 10,Total,MARTY SELKER(CON),2
+Whitpain 10,Total,UnresolvedWrite-In,1
+Whitpain 11,Election Day,JOHN C THOMAS(LIB),12
+Whitpain 11,Election Day,LEILA HAZOU(GRE),10
+Whitpain 11,Election Day,MARTY SELKER(CON),1
+Whitpain 11,Election Day,UnresolvedWrite-In,0
+Whitpain 11,Mail-in,JOHN C THOMAS(LIB),1
+Whitpain 11,Mail-in,LEILA HAZOU(GRE),3
+Whitpain 11,Mail-in,MARTY SELKER(CON),0
+Whitpain 11,Mail-in,UnresolvedWrite-In,1
+Whitpain 11,Provisional,JOHN C THOMAS(LIB),0
+Whitpain 11,Provisional,LEILA HAZOU(GRE),0
+Whitpain 11,Provisional,MARTY SELKER(CON),0
+Whitpain 11,Provisional,UnresolvedWrite-In,0
+Whitpain 11,Total,JOHN C THOMAS(LIB),13
+Whitpain 11,Total,LEILA HAZOU(GRE),13
+Whitpain 11,Total,MARTY SELKER(CON),1
+Whitpain 11,Total,UnresolvedWrite-In,1
+Whitpain 12,Election Day,JOHN C THOMAS(LIB),****
+Whitpain 12,Election Day,LEILA HAZOU(GRE),****
+Whitpain 12,Election Day,MARTY SELKER(CON),****
+Whitpain 12,Election Day,UnresolvedWrite-In,****
+Whitpain 12,Mail-in,JOHN C THOMAS(LIB),****
+Whitpain 12,Mail-in,LEILA HAZOU(GRE),****
+Whitpain 12,Mail-in,MARTY SELKER(CON),****
+Whitpain 12,Mail-in,UnresolvedWrite-In,****
+Whitpain 12,Provisional,JOHN C THOMAS(LIB),****
+Whitpain 12,Provisional,LEILA HAZOU(GRE),****
+Whitpain 12,Provisional,MARTY SELKER(CON),****
+Whitpain 12,Provisional,UnresolvedWrite-In,****
+Whitpain 12,Total,JOHN C THOMAS(LIB),6
+Whitpain 12,Total,LEILA HAZOU(GRE),5
+Whitpain 12,Total,MARTY SELKER(CON),2
+Whitpain 12,Total,UnresolvedWrite-In,1
+Worcester East 1,Election Day,JOHN C THOMAS(LIB),****
+Worcester East 1,Election Day,LEILA HAZOU(GRE),****
+Worcester East 1,Election Day,MARTY SELKER(CON),****
+Worcester East 1,Election Day,UnresolvedWrite-In,****
+Worcester East 1,Mail-in,JOHN C THOMAS(LIB),****
+Worcester East 1,Mail-in,LEILA HAZOU(GRE),****
+Worcester East 1,Mail-in,MARTY SELKER(CON),****
+Worcester East 1,Mail-in,UnresolvedWrite-In,****
+Worcester East 1,Provisional,JOHN C THOMAS(LIB),****
+Worcester East 1,Provisional,LEILA HAZOU(GRE),****
+Worcester East 1,Provisional,MARTY SELKER(CON),****
+Worcester East 1,Provisional,UnresolvedWrite-In,****
+Worcester East 1,Total,JOHN C THOMAS(LIB),14
+Worcester East 1,Total,LEILA HAZOU(GRE),13
+Worcester East 1,Total,MARTY SELKER(CON),4
+Worcester East 1,Total,UnresolvedWrite-In,1
+Worcester East 2,Election Day,JOHN C THOMAS(LIB),13
+Worcester East 2,Election Day,LEILA HAZOU(GRE),9
+Worcester East 2,Election Day,MARTY SELKER(CON),1
+Worcester East 2,Election Day,UnresolvedWrite-In,0
+Worcester East 2,Mail-in,JOHN C THOMAS(LIB),6
+Worcester East 2,Mail-in,LEILA HAZOU(GRE),5
+Worcester East 2,Mail-in,MARTY SELKER(CON),1
+Worcester East 2,Mail-in,UnresolvedWrite-In,0
+Worcester East 2,Provisional,JOHN C THOMAS(LIB),0
+Worcester East 2,Provisional,LEILA HAZOU(GRE),1
+Worcester East 2,Provisional,MARTY SELKER(CON),0
+Worcester East 2,Provisional,UnresolvedWrite-In,0
+Worcester East 2,Total,JOHN C THOMAS(LIB),19
+Worcester East 2,Total,LEILA HAZOU(GRE),15
+Worcester East 2,Total,MARTY SELKER(CON),2
+Worcester East 2,Total,UnresolvedWrite-In,0
+Worcester East 3,Election Day,JOHN C THOMAS(LIB),****
+Worcester East 3,Election Day,LEILA HAZOU(GRE),****
+Worcester East 3,Election Day,MARTY SELKER(CON),****
+Worcester East 3,Election Day,UnresolvedWrite-In,****
+Worcester East 3,Mail-in,JOHN C THOMAS(LIB),****
+Worcester East 3,Mail-in,LEILA HAZOU(GRE),****
+Worcester East 3,Mail-in,MARTY SELKER(CON),****
+Worcester East 3,Mail-in,UnresolvedWrite-In,****
+Worcester East 3,Provisional,JOHN C THOMAS(LIB),****
+Worcester East 3,Provisional,LEILA HAZOU(GRE),****
+Worcester East 3,Provisional,MARTY SELKER(CON),****
+Worcester East 3,Provisional,UnresolvedWrite-In,****
+Worcester East 3,Total,JOHN C THOMAS(LIB),10
+Worcester East 3,Total,LEILA HAZOU(GRE),6
+Worcester East 3,Total,MARTY SELKER(CON),4
+Worcester East 3,Total,UnresolvedWrite-In,2

@@ -1,0 +1,121 @@
+precinct,method,candidate,votes
+Whitpain 10,Election Day,ROBERT COWBURN(LIB),4
+Whitpain 10,Election Day,RICHARD L WEISS(GRE),3
+Whitpain 10,Election Day,JUSTIN L MAGILL(CON),7
+Whitpain 10,Election Day,ERIC L SETTLE(FOR),0
+Whitpain 10,Election Day,UnresolvedWrite-In,0
+Whitpain 10,Mail-in,ROBERT COWBURN(LIB),1
+Whitpain 10,Mail-in,RICHARD L WEISS(GRE),4
+Whitpain 10,Mail-in,JUSTIN L MAGILL(CON),0
+Whitpain 10,Mail-in,ERIC L SETTLE(FOR),0
+Whitpain 10,Mail-in,UnresolvedWrite-In,0
+Whitpain 10,Provisional,ROBERT COWBURN(LIB),0
+Whitpain 10,Provisional,RICHARD L WEISS(GRE),0
+Whitpain 10,Provisional,JUSTIN L MAGILL(CON),0
+Whitpain 10,Provisional,ERIC L SETTLE(FOR),1
+Whitpain 10,Provisional,UnresolvedWrite-In,0
+Whitpain 10,Total,ROBERT COWBURN(LIB),5
+Whitpain 10,Total,RICHARD L WEISS(GRE),7
+Whitpain 10,Total,JUSTIN L MAGILL(CON),7
+Whitpain 10,Total,ERIC L SETTLE(FOR),1
+Whitpain 10,Total,UnresolvedWrite-In,0
+Whitpain 11,Election Day,ROBERT COWBURN(LIB),13
+Whitpain 11,Election Day,RICHARD L WEISS(GRE),13
+Whitpain 11,Election Day,JUSTIN L MAGILL(CON),0
+Whitpain 11,Election Day,ERIC L SETTLE(FOR),0
+Whitpain 11,Election Day,UnresolvedWrite-In,0
+Whitpain 11,Mail-in,ROBERT COWBURN(LIB),2
+Whitpain 11,Mail-in,RICHARD L WEISS(GRE),4
+Whitpain 11,Mail-in,JUSTIN L MAGILL(CON),0
+Whitpain 11,Mail-in,ERIC L SETTLE(FOR),0
+Whitpain 11,Mail-in,UnresolvedWrite-In,0
+Whitpain 11,Provisional,ROBERT COWBURN(LIB),0
+Whitpain 11,Provisional,RICHARD L WEISS(GRE),0
+Whitpain 11,Provisional,JUSTIN L MAGILL(CON),0
+Whitpain 11,Provisional,ERIC L SETTLE(FOR),0
+Whitpain 11,Provisional,UnresolvedWrite-In,0
+Whitpain 11,Total,ROBERT COWBURN(LIB),15
+Whitpain 11,Total,RICHARD L WEISS(GRE),17
+Whitpain 11,Total,JUSTIN L MAGILL(CON),0
+Whitpain 11,Total,ERIC L SETTLE(FOR),0
+Whitpain 11,Total,UnresolvedWrite-In,0
+Whitpain 12,Election Day,ROBERT COWBURN(LIB),****
+Whitpain 12,Election Day,RICHARD L WEISS(GRE),****
+Whitpain 12,Election Day,JUSTIN L MAGILL(CON),****
+Whitpain 12,Election Day,ERIC L SETTLE(FOR),****
+Whitpain 12,Election Day,UnresolvedWrite-In,****
+Whitpain 12,Mail-in,ROBERT COWBURN(LIB),****
+Whitpain 12,Mail-in,RICHARD L WEISS(GRE),****
+Whitpain 12,Mail-in,JUSTIN L MAGILL(CON),****
+Whitpain 12,Mail-in,ERIC L SETTLE(FOR),****
+Whitpain 12,Mail-in,UnresolvedWrite-In,****
+Whitpain 12,Provisional,ROBERT COWBURN(LIB),****
+Whitpain 12,Provisional,RICHARD L WEISS(GRE),****
+Whitpain 12,Provisional,JUSTIN L MAGILL(CON),****
+Whitpain 12,Provisional,ERIC L SETTLE(FOR),****
+Whitpain 12,Provisional,UnresolvedWrite-In,****
+Whitpain 12,Total,ROBERT COWBURN(LIB),4
+Whitpain 12,Total,RICHARD L WEISS(GRE),3
+Whitpain 12,Total,JUSTIN L MAGILL(CON),2
+Whitpain 12,Total,ERIC L SETTLE(FOR),2
+Whitpain 12,Total,UnresolvedWrite-In,1
+Worcester East 1,Election Day,ROBERT COWBURN(LIB),****
+Worcester East 1,Election Day,RICHARD L WEISS(GRE),****
+Worcester East 1,Election Day,JUSTIN L MAGILL(CON),****
+Worcester East 1,Election Day,ERIC L SETTLE(FOR),****
+Worcester East 1,Election Day,UnresolvedWrite-In,****
+Worcester East 1,Mail-in,ROBERT COWBURN(LIB),****
+Worcester East 1,Mail-in,RICHARD L WEISS(GRE),****
+Worcester East 1,Mail-in,JUSTIN L MAGILL(CON),****
+Worcester East 1,Mail-in,ERIC L SETTLE(FOR),****
+Worcester East 1,Mail-in,UnresolvedWrite-In,****
+Worcester East 1,Provisional,ROBERT COWBURN(LIB),****
+Worcester East 1,Provisional,RICHARD L WEISS(GRE),****
+Worcester East 1,Provisional,JUSTIN L MAGILL(CON),****
+Worcester East 1,Provisional,ERIC L SETTLE(FOR),****
+Worcester East 1,Provisional,UnresolvedWrite-In,****
+Worcester East 1,Total,ROBERT COWBURN(LIB),16
+Worcester East 1,Total,RICHARD L WEISS(GRE),9
+Worcester East 1,Total,JUSTIN L MAGILL(CON),2
+Worcester East 1,Total,ERIC L SETTLE(FOR),4
+Worcester East 1,Total,UnresolvedWrite-In,1
+Worcester East 2,Election Day,ROBERT COWBURN(LIB),17
+Worcester East 2,Election Day,RICHARD L WEISS(GRE),9
+Worcester East 2,Election Day,JUSTIN L MAGILL(CON),5
+Worcester East 2,Election Day,ERIC L SETTLE(FOR),4
+Worcester East 2,Election Day,UnresolvedWrite-In,0
+Worcester East 2,Mail-in,ROBERT COWBURN(LIB),6
+Worcester East 2,Mail-in,RICHARD L WEISS(GRE),7
+Worcester East 2,Mail-in,JUSTIN L MAGILL(CON),3
+Worcester East 2,Mail-in,ERIC L SETTLE(FOR),7
+Worcester East 2,Mail-in,UnresolvedWrite-In,0
+Worcester East 2,Provisional,ROBERT COWBURN(LIB),0
+Worcester East 2,Provisional,RICHARD L WEISS(GRE),0
+Worcester East 2,Provisional,JUSTIN L MAGILL(CON),1
+Worcester East 2,Provisional,ERIC L SETTLE(FOR),0
+Worcester East 2,Provisional,UnresolvedWrite-In,0
+Worcester East 2,Total,ROBERT COWBURN(LIB),23
+Worcester East 2,Total,RICHARD L WEISS(GRE),16
+Worcester East 2,Total,JUSTIN L MAGILL(CON),9
+Worcester East 2,Total,ERIC L SETTLE(FOR),11
+Worcester East 2,Total,UnresolvedWrite-In,0
+Worcester East 3,Election Day,ROBERT COWBURN(LIB),****
+Worcester East 3,Election Day,RICHARD L WEISS(GRE),****
+Worcester East 3,Election Day,JUSTIN L MAGILL(CON),****
+Worcester East 3,Election Day,ERIC L SETTLE(FOR),****
+Worcester East 3,Election Day,UnresolvedWrite-In,****
+Worcester East 3,Mail-in,ROBERT COWBURN(LIB),****
+Worcester East 3,Mail-in,RICHARD L WEISS(GRE),****
+Worcester East 3,Mail-in,JUSTIN L MAGILL(CON),****
+Worcester East 3,Mail-in,ERIC L SETTLE(FOR),****
+Worcester East 3,Mail-in,UnresolvedWrite-In,****
+Worcester East 3,Provisional,ROBERT COWBURN(LIB),****
+Worcester East 3,Provisional,RICHARD L WEISS(GRE),****
+Worcester East 3,Provisional,JUSTIN L MAGILL(CON),****
+Worcester East 3,Provisional,ERIC L SETTLE(FOR),****
+Worcester East 3,Provisional,UnresolvedWrite-In,****
+Worcester East 3,Total,ROBERT COWBURN(LIB),13
+Worcester East 3,Total,RICHARD L WEISS(GRE),11
+Worcester East 3,Total,JUSTIN L MAGILL(CON),2
+Worcester East 3,Total,ERIC L SETTLE(FOR),1
+Worcester East 3,Total,UnresolvedWrite-In,3

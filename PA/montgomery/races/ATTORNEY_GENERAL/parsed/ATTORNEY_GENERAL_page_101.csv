@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Skippack 2,Election Day,EUGENE DEPASQUALE(DEM),581
+Skippack 2,Election Day,DAVE SUNDAY(REP),851
+Skippack 2,Mail-in,EUGENE DEPASQUALE(DEM),569
+Skippack 2,Mail-in,DAVE SUNDAY(REP),407
+Skippack 2,Provisional,EUGENE DEPASQUALE(DEM),12
+Skippack 2,Provisional,DAVE SUNDAY(REP),9
+Skippack 2,Total,EUGENE DEPASQUALE(DEM),"1,162"
+Skippack 2,Total,DAVE SUNDAY(REP),"1,267"
+Skippack 3,Election Day,EUGENE DEPASQUALE(DEM),506
+Skippack 3,Election Day,DAVE SUNDAY(REP),872
+Skippack 3,Mail-in,EUGENE DEPASQUALE(DEM),623
+Skippack 3,Mail-in,DAVE SUNDAY(REP),483
+Skippack 3,Provisional,EUGENE DEPASQUALE(DEM),6
+Skippack 3,Provisional,DAVE SUNDAY(REP),5
+Skippack 3,Total,EUGENE DEPASQUALE(DEM),"1,135"
+Skippack 3,Total,DAVE SUNDAY(REP),"1,360"
+Springfield 1-1,Election Day,EUGENE DEPASQUALE(DEM),****
+Springfield 1-1,Election Day,DAVE SUNDAY(REP),****
+Springfield 1-1,Mail-in,EUGENE DEPASQUALE(DEM),****
+Springfield 1-1,Mail-in,DAVE SUNDAY(REP),****
+Springfield 1-1,Provisional,EUGENE DEPASQUALE(DEM),****
+Springfield 1-1,Provisional,DAVE SUNDAY(REP),****
+Springfield 1-1,Total,EUGENE DEPASQUALE(DEM),822
+Springfield 1-1,Total,DAVE SUNDAY(REP),320
+Springfield 1-2,Election Day,EUGENE DEPASQUALE(DEM),533
+Springfield 1-2,Election Day,DAVE SUNDAY(REP),405
+Springfield 1-2,Mail-in,EUGENE DEPASQUALE(DEM),300
+Springfield 1-2,Mail-in,DAVE SUNDAY(REP),120
+Springfield 1-2,Provisional,EUGENE DEPASQUALE(DEM),7
+Springfield 1-2,Provisional,DAVE SUNDAY(REP),2
+Springfield 1-2,Total,EUGENE DEPASQUALE(DEM),840
+Springfield 1-2,Total,DAVE SUNDAY(REP),527
+Springfield 2-1,Election Day,EUGENE DEPASQUALE(DEM),415
+Springfield 2-1,Election Day,DAVE SUNDAY(REP),153
+Springfield 2-1,Mail-in,EUGENE DEPASQUALE(DEM),231
+Springfield 2-1,Mail-in,DAVE SUNDAY(REP),31
+Springfield 2-1,Provisional,EUGENE DEPASQUALE(DEM),7
+Springfield 2-1,Provisional,DAVE SUNDAY(REP),8
+Springfield 2-1,Total,EUGENE DEPASQUALE(DEM),653
+Springfield 2-1,Total,DAVE SUNDAY(REP),192
+Springfield 2-2,Election Day,EUGENE DEPASQUALE(DEM),****
+Springfield 2-2,Election Day,DAVE SUNDAY(REP),****
+Springfield 2-2,Mail-in,EUGENE DEPASQUALE(DEM),****
+Springfield 2-2,Mail-in,DAVE SUNDAY(REP),****
+Springfield 2-2,Provisional,EUGENE DEPASQUALE(DEM),****
+Springfield 2-2,Provisional,DAVE SUNDAY(REP),****
+Springfield 2-2,Total,EUGENE DEPASQUALE(DEM),603
+Springfield 2-2,Total,DAVE SUNDAY(REP),162

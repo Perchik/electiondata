@@ -1,0 +1,41 @@
+precinct,method,candidate,votes
+Worcester West,Election Day,ROBERT COWBURN(LIB),18
+Worcester West,Election Day,RICHARD L WEISS(GRE),13
+Worcester West,Election Day,JUSTIN L MAGILL(CON),2
+Worcester West,Election Day,ERIC L SETTLE(FOR),4
+Worcester West,Election Day,UnresolvedWrite-In,2
+Worcester West,Mail-in,ROBERT COWBURN(LIB),2
+Worcester West,Mail-in,RICHARD L WEISS(GRE),4
+Worcester West,Mail-in,JUSTIN L MAGILL(CON),0
+Worcester West,Mail-in,ERIC L SETTLE(FOR),1
+Worcester West,Mail-in,UnresolvedWrite-In,1
+Worcester West,Provisional,ROBERT COWBURN(LIB),0
+Worcester West,Provisional,RICHARD L WEISS(GRE),1
+Worcester West,Provisional,JUSTIN L MAGILL(CON),0
+Worcester West,Provisional,ERIC L SETTLE(FOR),0
+Worcester West,Provisional,UnresolvedWrite-In,0
+Worcester West,Total,ROBERT COWBURN(LIB),20
+Worcester West,Total,RICHARD L WEISS(GRE),18
+Worcester West,Total,JUSTIN L MAGILL(CON),2
+Worcester West,Total,ERIC L SETTLE(FOR),5
+Worcester West,Total,UnresolvedWrite-In,3
+Cumulative,Election Day,ROBERT COWBURN(LIB),0
+Cumulative,Election Day,RICHARD L WEISS(GRE),0
+Cumulative,Election Day,JUSTIN L MAGILL(CON),0
+Cumulative,Election Day,ERIC L SETTLE(FOR),0
+Cumulative,Election Day,UnresolvedWrite-In,0
+Cumulative,Mail-in,ROBERT COWBURN(LIB),0
+Cumulative,Mail-in,RICHARD L WEISS(GRE),0
+Cumulative,Mail-in,JUSTIN L MAGILL(CON),0
+Cumulative,Mail-in,ERIC L SETTLE(FOR),0
+Cumulative,Mail-in,UnresolvedWrite-In,0
+Cumulative,Provisional,ROBERT COWBURN(LIB),0
+Cumulative,Provisional,RICHARD L WEISS(GRE),0
+Cumulative,Provisional,JUSTIN L MAGILL(CON),0
+Cumulative,Provisional,ERIC L SETTLE(FOR),0
+Cumulative,Provisional,UnresolvedWrite-In,0
+Cumulative,Total,ROBERT COWBURN(LIB),0
+Cumulative,Total,RICHARD L WEISS(GRE),0
+Cumulative,Total,JUSTIN L MAGILL(CON),0
+Cumulative,Total,ERIC L SETTLE(FOR),0
+Cumulative,Total,UnresolvedWrite-In,0

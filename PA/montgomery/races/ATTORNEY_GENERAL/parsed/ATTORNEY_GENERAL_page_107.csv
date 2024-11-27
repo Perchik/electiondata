@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Towamencin 1-2,Election Day,EUGENE DEPASQUALE(DEM),****
+Towamencin 1-2,Election Day,DAVE SUNDAY(REP),****
+Towamencin 1-2,Mail-in,EUGENE DEPASQUALE(DEM),****
+Towamencin 1-2,Mail-in,DAVE SUNDAY(REP),****
+Towamencin 1-2,Provisional,EUGENE DEPASQUALE(DEM),****
+Towamencin 1-2,Provisional,DAVE SUNDAY(REP),****
+Towamencin 1-2,Total,EUGENE DEPASQUALE(DEM),512
+Towamencin 1-2,Total,DAVE SUNDAY(REP),430
+Towamencin 1-3,Election Day,EUGENE DEPASQUALE(DEM),395
+Towamencin 1-3,Election Day,DAVE SUNDAY(REP),434
+Towamencin 1-3,Mail-in,EUGENE DEPASQUALE(DEM),350
+Towamencin 1-3,Mail-in,DAVE SUNDAY(REP),179
+Towamencin 1-3,Provisional,EUGENE DEPASQUALE(DEM),9
+Towamencin 1-3,Provisional,DAVE SUNDAY(REP),4
+Towamencin 1-3,Total,EUGENE DEPASQUALE(DEM),754
+Towamencin 1-3,Total,DAVE SUNDAY(REP),617
+Towamencin 2-1,Election Day,EUGENE DEPASQUALE(DEM),378
+Towamencin 2-1,Election Day,DAVE SUNDAY(REP),467
+Towamencin 2-1,Mail-in,EUGENE DEPASQUALE(DEM),255
+Towamencin 2-1,Mail-in,DAVE SUNDAY(REP),137
+Towamencin 2-1,Provisional,EUGENE DEPASQUALE(DEM),11
+Towamencin 2-1,Provisional,DAVE SUNDAY(REP),7
+Towamencin 2-1,Total,EUGENE DEPASQUALE(DEM),644
+Towamencin 2-1,Total,DAVE SUNDAY(REP),611
+Towamencin 2-2,Election Day,EUGENE DEPASQUALE(DEM),****
+Towamencin 2-2,Election Day,DAVE SUNDAY(REP),****
+Towamencin 2-2,Mail-in,EUGENE DEPASQUALE(DEM),****
+Towamencin 2-2,Mail-in,DAVE SUNDAY(REP),****
+Towamencin 2-2,Provisional,EUGENE DEPASQUALE(DEM),****
+Towamencin 2-2,Provisional,DAVE SUNDAY(REP),****
+Towamencin 2-2,Total,EUGENE DEPASQUALE(DEM),652
+Towamencin 2-2,Total,DAVE SUNDAY(REP),583
+Towamencin 2-3,Election Day,EUGENE DEPASQUALE(DEM),352
+Towamencin 2-3,Election Day,DAVE SUNDAY(REP),574
+Towamencin 2-3,Mail-in,EUGENE DEPASQUALE(DEM),196
+Towamencin 2-3,Mail-in,DAVE SUNDAY(REP),130
+Towamencin 2-3,Provisional,EUGENE DEPASQUALE(DEM),9
+Towamencin 2-3,Provisional,DAVE SUNDAY(REP),5
+Towamencin 2-3,Total,EUGENE DEPASQUALE(DEM),557
+Towamencin 2-3,Total,DAVE SUNDAY(REP),709
+Towamencin 3-1,Election Day,EUGENE DEPASQUALE(DEM),398
+Towamencin 3-1,Election Day,DAVE SUNDAY(REP),564
+Towamencin 3-1,Mail-in,EUGENE DEPASQUALE(DEM),459
+Towamencin 3-1,Mail-in,DAVE SUNDAY(REP),332
+Towamencin 3-1,Provisional,EUGENE DEPASQUALE(DEM),10
+Towamencin 3-1,Provisional,DAVE SUNDAY(REP),4
+Towamencin 3-1,Total,EUGENE DEPASQUALE(DEM),867
+Towamencin 3-1,Total,DAVE SUNDAY(REP),900

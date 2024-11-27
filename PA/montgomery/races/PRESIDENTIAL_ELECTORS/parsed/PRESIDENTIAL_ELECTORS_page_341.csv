@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Whitemarsh West 1,Election Day,KAMALA D HARRIS(DEM),569
+Whitemarsh West 1,Election Day,DONALD J TRUMP(REP),427
+Whitemarsh West 1,Mail-in,KAMALA D HARRIS(DEM),289
+Whitemarsh West 1,Mail-in,DONALD J TRUMP(REP),71
+Whitemarsh West 1,Provisional,KAMALA D HARRIS(DEM),11
+Whitemarsh West 1,Provisional,DONALD J TRUMP(REP),6
+Whitemarsh West 1,Total,KAMALA D HARRIS(DEM),869
+Whitemarsh West 1,Total,DONALD J TRUMP(REP),504
+Whitemarsh West 2,Election Day,KAMALA D HARRIS(DEM),830
+Whitemarsh West 2,Election Day,DONALD J TRUMP(REP),427
+Whitemarsh West 2,Mail-in,KAMALA D HARRIS(DEM),550
+Whitemarsh West 2,Mail-in,DONALD J TRUMP(REP),131
+Whitemarsh West 2,Provisional,KAMALA D HARRIS(DEM),20
+Whitemarsh West 2,Provisional,DONALD J TRUMP(REP),5
+Whitemarsh West 2,Total,KAMALA D HARRIS(DEM),"1,400"
+Whitemarsh West 2,Total,DONALD J TRUMP(REP),563
+Whitemarsh West 3,Election Day,KAMALA D HARRIS(DEM),576
+Whitemarsh West 3,Election Day,DONALD J TRUMP(REP),305
+Whitemarsh West 3,Mail-in,KAMALA D HARRIS(DEM),454
+Whitemarsh West 3,Mail-in,DONALD J TRUMP(REP),121
+Whitemarsh West 3,Provisional,KAMALA D HARRIS(DEM),17
+Whitemarsh West 3,Provisional,DONALD J TRUMP(REP),12
+Whitemarsh West 3,Total,KAMALA D HARRIS(DEM),"1,047"
+Whitemarsh West 3,Total,DONALD J TRUMP(REP),438
+Whitpain 1,Election Day,KAMALA D HARRIS(DEM),690
+Whitpain 1,Election Day,DONALD J TRUMP(REP),510
+Whitpain 1,Mail-in,KAMALA D HARRIS(DEM),665
+Whitpain 1,Mail-in,DONALD J TRUMP(REP),274
+Whitpain 1,Provisional,KAMALA D HARRIS(DEM),11
+Whitpain 1,Provisional,DONALD J TRUMP(REP),9
+Whitpain 1,Total,KAMALA D HARRIS(DEM),"1,366"
+Whitpain 1,Total,DONALD J TRUMP(REP),793
+Whitpain 2,Election Day,KAMALA D HARRIS(DEM),378
+Whitpain 2,Election Day,DONALD J TRUMP(REP),334
+Whitpain 2,Mail-in,KAMALA D HARRIS(DEM),334
+Whitpain 2,Mail-in,DONALD J TRUMP(REP),146
+Whitpain 2,Provisional,KAMALA D HARRIS(DEM),7
+Whitpain 2,Provisional,DONALD J TRUMP(REP),4
+Whitpain 2,Total,KAMALA D HARRIS(DEM),719
+Whitpain 2,Total,DONALD J TRUMP(REP),484
+Whitpain 3,Election Day,KAMALA D HARRIS(DEM),****
+Whitpain 3,Election Day,DONALD J TRUMP(REP),****
+Whitpain 3,Mail-in,KAMALA D HARRIS(DEM),****
+Whitpain 3,Mail-in,DONALD J TRUMP(REP),****
+Whitpain 3,Provisional,KAMALA D HARRIS(DEM),****
+Whitpain 3,Provisional,DONALD J TRUMP(REP),****
+Whitpain 3,Total,KAMALA D HARRIS(DEM),603
+Whitpain 3,Total,DONALD J TRUMP(REP),330

@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Springfield 7-2,Election Day,MADELEINE DEAN(DEM),****
+Springfield 7-2,Election Day,DAVID WINKLER(REP),****
+Springfield 7-2,Mail-in,MADELEINE DEAN(DEM),****
+Springfield 7-2,Mail-in,DAVID WINKLER(REP),****
+Springfield 7-2,Provisional,MADELEINE DEAN(DEM),****
+Springfield 7-2,Provisional,DAVID WINKLER(REP),****
+Springfield 7-2,Total,MADELEINE DEAN(DEM),611
+Springfield 7-2,Total,DAVID WINKLER(REP),350
+Towamencin 1-1,Election Day,MADELEINE DEAN(DEM),451
+Towamencin 1-1,Election Day,DAVID WINKLER(REP),422
+Towamencin 1-1,Mail-in,MADELEINE DEAN(DEM),344
+Towamencin 1-1,Mail-in,DAVID WINKLER(REP),135
+Towamencin 1-1,Provisional,MADELEINE DEAN(DEM),10
+Towamencin 1-1,Provisional,DAVID WINKLER(REP),2
+Towamencin 1-1,Total,MADELEINE DEAN(DEM),805
+Towamencin 1-1,Total,DAVID WINKLER(REP),559
+Towamencin 1-2,Election Day,MADELEINE DEAN(DEM),****
+Towamencin 1-2,Election Day,DAVID WINKLER(REP),****
+Towamencin 1-2,Mail-in,MADELEINE DEAN(DEM),****
+Towamencin 1-2,Mail-in,DAVID WINKLER(REP),****
+Towamencin 1-2,Provisional,MADELEINE DEAN(DEM),****
+Towamencin 1-2,Provisional,DAVID WINKLER(REP),****
+Towamencin 1-2,Total,MADELEINE DEAN(DEM),556
+Towamencin 1-2,Total,DAVID WINKLER(REP),398
+Towamencin 1-3,Election Day,MADELEINE DEAN(DEM),448
+Towamencin 1-3,Election Day,DAVID WINKLER(REP),398
+Towamencin 1-3,Mail-in,MADELEINE DEAN(DEM),384
+Towamencin 1-3,Mail-in,DAVID WINKLER(REP),159
+Towamencin 1-3,Provisional,MADELEINE DEAN(DEM),9
+Towamencin 1-3,Provisional,DAVID WINKLER(REP),4
+Towamencin 1-3,Total,MADELEINE DEAN(DEM),841
+Towamencin 1-3,Total,DAVID WINKLER(REP),561
+Towamencin 2-1,Election Day,MADELEINE DEAN(DEM),438
+Towamencin 2-1,Election Day,DAVID WINKLER(REP),422
+Towamencin 2-1,Mail-in,MADELEINE DEAN(DEM),274
+Towamencin 2-1,Mail-in,DAVID WINKLER(REP),126
+Towamencin 2-1,Provisional,MADELEINE DEAN(DEM),12
+Towamencin 2-1,Provisional,DAVID WINKLER(REP),5
+Towamencin 2-1,Total,MADELEINE DEAN(DEM),724
+Towamencin 2-1,Total,DAVID WINKLER(REP),553
+Towamencin 2-2,Election Day,MADELEINE DEAN(DEM),****
+Towamencin 2-2,Election Day,DAVID WINKLER(REP),****
+Towamencin 2-2,Mail-in,MADELEINE DEAN(DEM),****
+Towamencin 2-2,Mail-in,DAVID WINKLER(REP),****
+Towamencin 2-2,Provisional,MADELEINE DEAN(DEM),****
+Towamencin 2-2,Provisional,DAVID WINKLER(REP),****
+Towamencin 2-2,Total,MADELEINE DEAN(DEM),728
+Towamencin 2-2,Total,DAVID WINKLER(REP),520

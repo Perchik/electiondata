@@ -1,0 +1,3805 @@
+precinct,method,candidate,votes
+Ambler 1,Election Day,MADELEINE DEAN(DEM),****
+Ambler 1,Election Day,DAVID WINKLER(REP),****
+Ambler 1,Mail-in,MADELEINE DEAN(DEM),****
+Ambler 1,Mail-in,DAVID WINKLER(REP),****
+Ambler 1,Provisional,MADELEINE DEAN(DEM),****
+Ambler 1,Provisional,DAVID WINKLER(REP),****
+Ambler 1,Total,MADELEINE DEAN(DEM),905
+Ambler 1,Total,DAVID WINKLER(REP),361
+Ambler 2,Election Day,MADELEINE DEAN(DEM),649
+Ambler 2,Election Day,DAVID WINKLER(REP),297
+Ambler 2,Mail-in,MADELEINE DEAN(DEM),293
+Ambler 2,Mail-in,DAVID WINKLER(REP),62
+Ambler 2,Provisional,MADELEINE DEAN(DEM),9
+Ambler 2,Provisional,DAVID WINKLER(REP),2
+Ambler 2,Total,MADELEINE DEAN(DEM),951
+Ambler 2,Total,DAVID WINKLER(REP),361
+Ambler 3,Election Day,MADELEINE DEAN(DEM),****
+Ambler 3,Election Day,DAVID WINKLER(REP),****
+Ambler 3,Mail-in,MADELEINE DEAN(DEM),****
+Ambler 3,Mail-in,DAVID WINKLER(REP),****
+Ambler 3,Provisional,MADELEINE DEAN(DEM),****
+Ambler 3,Provisional,DAVID WINKLER(REP),****
+Ambler 3,Total,MADELEINE DEAN(DEM),805
+Ambler 3,Total,DAVID WINKLER(REP),308
+Bryn Athyn,Election Day,MADELEINE DEAN(DEM),****
+Bryn Athyn,Election Day,DAVID WINKLER(REP),****
+Bryn Athyn,Mail-in,MADELEINE DEAN(DEM),****
+Bryn Athyn,Mail-in,DAVID WINKLER(REP),****
+Bryn Athyn,Provisional,MADELEINE DEAN(DEM),****
+Bryn Athyn,Provisional,DAVID WINKLER(REP),****
+Bryn Athyn,Total,MADELEINE DEAN(DEM),441
+Bryn Athyn,Total,DAVID WINKLER(REP),329
+Collegeville 1,Election Day,MADELEINE DEAN(DEM),416
+Collegeville 1,Election Day,DAVID WINKLER(REP),410
+Collegeville 1,Mail-in,MADELEINE DEAN(DEM),291
+Collegeville 1,Mail-in,DAVID WINKLER(REP),137
+Collegeville 1,Provisional,MADELEINE DEAN(DEM),12
+Collegeville 1,Provisional,DAVID WINKLER(REP),3
+Collegeville 1,Total,MADELEINE DEAN(DEM),719
+Collegeville 1,Total,DAVID WINKLER(REP),550
+Lansdale 1-1,Election Day,Unresolved Write-In,2
+Lansdale 1-1,Mail-in,Unresolved Write-In,1
+Lansdale 1-1,Provisional,Unresolved Write-In,0
+Lansdale 1-1,Total,Unresolved Write-In,3
+Lansdale 1-2,Election Day,Unresolved Write-In,5
+Lansdale 1-2,Mail-in,Unresolved Write-In,1
+Lansdale 1-2,Provisional,Unresolved Write-In,0
+Lansdale 1-2,Total,Unresolved Write-In,6
+Lansdale 1-3,Election Day,Unresolved Write-In,****
+Lansdale 1-3,Mail-in,Unresolved Write-In,****
+Lansdale 1-3,Provisional,Unresolved Write-In,****
+Lansdale 1-3,Total,Unresolved Write-In,1
+Lansdale 2-1,Election Day,Unresolved Write-In,****
+Lansdale 2-1,Mail-in,Unresolved Write-In,****
+Lansdale 2-1,Provisional,Unresolved Write-In,****
+Lansdale 2-1,Total,Unresolved Write-In,2
+Lansdale 2-2,Election Day,Unresolved Write-In,****
+Lansdale 2-2,Mail-in,Unresolved Write-In,****
+Lansdale 2-2,Provisional,Unresolved Write-In,****
+Lansdale 2-2,Total,Unresolved Write-In,2
+Lansdale 2-3,Election Day,Unresolved Write-In,****
+Lansdale 2-3,Mail-in,Unresolved Write-In,****
+Lansdale 2-3,Provisional,Unresolved Write-In,****
+Lansdale 2-3,Total,Unresolved Write-In,2
+Whitemarsh Middle 3,Election Day,Unresolved Write-In,****
+Whitemarsh Middle 3,Mail-in,Unresolved Write-In,****
+Whitemarsh Middle 3,Provisional,Unresolved Write-In,****
+Whitemarsh Middle 3,Total,Unresolved Write-In,2
+Whitemarsh Middle 4,Election Day,Unresolved Write-In,****
+Whitemarsh Middle 4,Mail-in,Unresolved Write-In,****
+Whitemarsh Middle 4,Provisional,Unresolved Write-In,****
+Whitemarsh Middle 4,Total,Unresolved Write-In,3
+Whitemarsh Middle 5,Election Day,Unresolved Write-In,****
+Whitemarsh Middle 5,Mail-in,Unresolved Write-In,****
+Whitemarsh Middle 5,Provisional,Unresolved Write-In,****
+Whitemarsh Middle 5,Total,Unresolved Write-In,3
+Whitemarsh West 1,Election Day,Unresolved Write-In,1
+Whitemarsh West 1,Mail-in,Unresolved Write-In,1
+Whitemarsh West 1,Provisional,Unresolved Write-In,0
+Whitemarsh West 1,Total,Unresolved Write-In,2
+Whitemarsh West 2,Election Day,Unresolved Write-In,2
+Whitemarsh West 2,Mail-in,Unresolved Write-In,1
+Whitemarsh West 2,Provisional,Unresolved Write-In,1
+Whitemarsh West 2,Total,Unresolved Write-In,4
+Whitemarsh West 3,Election Day,Unresolved Write-In,0
+Whitemarsh West 3,Mail-in,Unresolved Write-In,0
+Whitemarsh West 3,Provisional,Unresolved Write-In,0
+Whitemarsh West 3,Total,Unresolved Write-In,0
+Whitpain 1,Election Day,MADELEINE DEAN(DEM),687
+Whitpain 1,Election Day,DAVID WINKLER(REP),500
+Whitpain 1,Mail-in,MADELEINE DEAN(DEM),661
+Whitpain 1,Mail-in,DAVID WINKLER(REP),286
+Whitpain 1,Provisional,MADELEINE DEAN(DEM),12
+Whitpain 1,Provisional,DAVID WINKLER(REP),7
+Whitpain 1,Total,MADELEINE DEAN(DEM),"1,360"
+Whitpain 1,Total,DAVID WINKLER(REP),793
+Whitpain 2,Election Day,MADELEINE DEAN(DEM),368
+Whitpain 2,Election Day,DAVID WINKLER(REP),315
+Whitpain 2,Mail-in,MADELEINE DEAN(DEM),338
+Whitpain 2,Mail-in,DAVID WINKLER(REP),141
+Whitpain 2,Provisional,MADELEINE DEAN(DEM),7
+Whitpain 2,Provisional,DAVID WINKLER(REP),1
+Whitpain 2,Total,MADELEINE DEAN(DEM),713
+Whitpain 2,Total,DAVID WINKLER(REP),457
+Whitpain 3,Election Day,MADELEINE DEAN(DEM),****
+Whitpain 3,Election Day,DAVID WINKLER(REP),****
+Whitpain 3,Mail-in,MADELEINE DEAN(DEM),****
+Whitpain 3,Mail-in,DAVID WINKLER(REP),****
+Whitpain 3,Provisional,MADELEINE DEAN(DEM),****
+Whitpain 3,Provisional,DAVID WINKLER(REP),****
+Whitpain 3,Total,MADELEINE DEAN(DEM),589
+Whitpain 3,Total,DAVID WINKLER(REP),334
+Whitpain 4,Election Day,MADELEINE DEAN(DEM),****
+Whitpain 4,Election Day,DAVID WINKLER(REP),****
+Whitpain 4,Mail-in,MADELEINE DEAN(DEM),****
+Whitpain 4,Mail-in,DAVID WINKLER(REP),****
+Whitpain 4,Provisional,MADELEINE DEAN(DEM),****
+Whitpain 4,Provisional,DAVID WINKLER(REP),****
+Whitpain 4,Total,MADELEINE DEAN(DEM),614
+Whitpain 4,Total,DAVID WINKLER(REP),298
+Whitpain 5,Election Day,MADELEINE DEAN(DEM),****
+Whitpain 5,Election Day,DAVID WINKLER(REP),****
+Whitpain 5,Mail-in,MADELEINE DEAN(DEM),****
+Whitpain 5,Mail-in,DAVID WINKLER(REP),****
+Whitpain 5,Provisional,MADELEINE DEAN(DEM),****
+Whitpain 5,Provisional,DAVID WINKLER(REP),****
+Whitpain 5,Total,MADELEINE DEAN(DEM),609
+Whitpain 5,Total,DAVID WINKLER(REP),392
+Whitpain 6,Election Day,MADELEINE DEAN(DEM),****
+Whitpain 6,Election Day,DAVID WINKLER(REP),****
+Whitpain 6,Mail-in,MADELEINE DEAN(DEM),****
+Whitpain 6,Mail-in,DAVID WINKLER(REP),****
+Whitpain 6,Provisional,MADELEINE DEAN(DEM),****
+Whitpain 6,Provisional,DAVID WINKLER(REP),****
+Whitpain 6,Total,MADELEINE DEAN(DEM),600
+Whitpain 6,Total,DAVID WINKLER(REP),379
+Whitpain 1,Election Day,Unresolved Write-In,0
+Whitpain 1,Mail-in,Unresolved Write-In,1
+Whitpain 1,Provisional,Unresolved Write-In,0
+Whitpain 1,Total,Unresolved Write-In,1
+Whitpain 2,Election Day,Unresolved Write-In,0
+Whitpain 2,Mail-in,Unresolved Write-In,0
+Whitpain 2,Provisional,Unresolved Write-In,0
+Whitpain 2,Total,Unresolved Write-In,0
+Whitpain 3,Election Day,Unresolved Write-In,****
+Whitpain 3,Mail-in,Unresolved Write-In,****
+Whitpain 3,Provisional,Unresolved Write-In,****
+Whitpain 3,Total,Unresolved Write-In,2
+Whitpain 4,Election Day,Unresolved Write-In,****
+Whitpain 4,Mail-in,Unresolved Write-In,****
+Whitpain 4,Provisional,Unresolved Write-In,****
+Whitpain 4,Total,Unresolved Write-In,1
+Whitpain 5,Election Day,Unresolved Write-In,****
+Whitpain 5,Mail-in,Unresolved Write-In,****
+Whitpain 5,Provisional,Unresolved Write-In,****
+Whitpain 5,Total,Unresolved Write-In,0
+Whitpain 6,Election Day,Unresolved Write-In,****
+Whitpain 6,Mail-in,Unresolved Write-In,****
+Whitpain 6,Provisional,Unresolved Write-In,****
+Whitpain 6,Total,Unresolved Write-In,1
+Whitpain 7,Election Day,MADELEINE DEAN(DEM),****
+Whitpain 7,Election Day,DAVID WINKLER(REP),****
+Whitpain 7,Mail-in,MADELEINE DEAN(DEM),****
+Whitpain 7,Mail-in,DAVID WINKLER(REP),****
+Whitpain 7,Provisional,MADELEINE DEAN(DEM),****
+Whitpain 7,Provisional,DAVID WINKLER(REP),****
+Whitpain 7,Total,MADELEINE DEAN(DEM),648
+Whitpain 7,Total,DAVID WINKLER(REP),465
+Whitpain 8,Election Day,MADELEINE DEAN(DEM),****
+Whitpain 8,Election Day,DAVID WINKLER(REP),****
+Whitpain 8,Mail-in,MADELEINE DEAN(DEM),****
+Whitpain 8,Mail-in,DAVID WINKLER(REP),****
+Whitpain 8,Provisional,MADELEINE DEAN(DEM),****
+Whitpain 8,Provisional,DAVID WINKLER(REP),****
+Whitpain 8,Total,MADELEINE DEAN(DEM),495
+Whitpain 8,Total,DAVID WINKLER(REP),283
+Whitpain 9,Election Day,MADELEINE DEAN(DEM),489
+Whitpain 9,Election Day,DAVID WINKLER(REP),304
+Whitpain 9,Mail-in,MADELEINE DEAN(DEM),310
+Whitpain 9,Mail-in,DAVID WINKLER(REP),87
+Whitpain 9,Provisional,MADELEINE DEAN(DEM),6
+Whitpain 9,Provisional,DAVID WINKLER(REP),5
+Whitpain 9,Total,MADELEINE DEAN(DEM),805
+Whitpain 9,Total,DAVID WINKLER(REP),396
+Whitpain 10,Election Day,MADELEINE DEAN(DEM),449
+Whitpain 10,Election Day,DAVID WINKLER(REP),290
+Whitpain 10,Mail-in,MADELEINE DEAN(DEM),250
+Whitpain 10,Mail-in,DAVID WINKLER(REP),79
+Whitpain 10,Provisional,MADELEINE DEAN(DEM),9
+Whitpain 10,Provisional,DAVID WINKLER(REP),5
+Whitpain 10,Total,MADELEINE DEAN(DEM),708
+Whitpain 10,Total,DAVID WINKLER(REP),374
+Whitpain 11,Election Day,MADELEINE DEAN(DEM),480
+Whitpain 11,Election Day,DAVID WINKLER(REP),300
+Whitpain 11,Mail-in,MADELEINE DEAN(DEM),264
+Whitpain 11,Mail-in,DAVID WINKLER(REP),110
+Whitpain 11,Provisional,MADELEINE DEAN(DEM),7
+Whitpain 11,Provisional,DAVID WINKLER(REP),3
+Whitpain 11,Total,MADELEINE DEAN(DEM),751
+Whitpain 11,Total,DAVID WINKLER(REP),413
+Whitpain 12,Election Day,MADELEINE DEAN(DEM),****
+Whitpain 12,Election Day,DAVID WINKLER(REP),****
+Whitpain 12,Mail-in,MADELEINE DEAN(DEM),****
+Whitpain 12,Mail-in,DAVID WINKLER(REP),****
+Whitpain 12,Provisional,MADELEINE DEAN(DEM),****
+Whitpain 12,Provisional,DAVID WINKLER(REP),****
+Whitpain 12,Total,MADELEINE DEAN(DEM),610
+Whitpain 12,Total,DAVID WINKLER(REP),351
+Whitpain 7,Election Day,Unresolved Write-In,****
+Whitpain 7,Mail-in,Unresolved Write-In,****
+Whitpain 7,Provisional,Unresolved Write-In,****
+Whitpain 7,Total,Unresolved Write-In,2
+Whitpain 8,Election Day,Unresolved Write-In,****
+Whitpain 8,Mail-in,Unresolved Write-In,****
+Whitpain 8,Provisional,Unresolved Write-In,****
+Whitpain 8,Total,Unresolved Write-In,3
+Whitpain 9,Election Day,Unresolved Write-In,0
+Whitpain 9,Mail-in,Unresolved Write-In,2
+Whitpain 9,Provisional,Unresolved Write-In,0
+Whitpain 9,Total,Unresolved Write-In,2
+Whitpain 10,Election Day,Unresolved Write-In,0
+Whitpain 10,Mail-in,Unresolved Write-In,0
+Whitpain 10,Provisional,Unresolved Write-In,0
+Whitpain 10,Total,Unresolved Write-In,0
+Whitpain 11,Election Day,Unresolved Write-In,4
+Whitpain 11,Mail-in,Unresolved Write-In,0
+Whitpain 11,Provisional,Unresolved Write-In,0
+Whitpain 11,Total,Unresolved Write-In,4
+Whitpain 12,Election Day,Unresolved Write-In,****
+Whitpain 12,Mail-in,Unresolved Write-In,****
+Whitpain 12,Provisional,Unresolved Write-In,****
+Whitpain 12,Total,Unresolved Write-In,1
+Worcester East 1,Election Day,MADELEINE DEAN(DEM),****
+Worcester East 1,Election Day,DAVID WINKLER(REP),****
+Worcester East 1,Mail-in,MADELEINE DEAN(DEM),****
+Worcester East 1,Mail-in,DAVID WINKLER(REP),****
+Worcester East 1,Provisional,MADELEINE DEAN(DEM),****
+Worcester East 1,Provisional,DAVID WINKLER(REP),****
+Worcester East 1,Total,MADELEINE DEAN(DEM),872
+Worcester East 1,Total,DAVID WINKLER(REP),649
+Worcester East 2,Election Day,MADELEINE DEAN(DEM),658
+Worcester East 2,Election Day,DAVID WINKLER(REP),740
+Worcester East 2,Mail-in,MADELEINE DEAN(DEM),689
+Worcester East 2,Mail-in,DAVID WINKLER(REP),360
+Worcester East 2,Provisional,MADELEINE DEAN(DEM),15
+Worcester East 2,Provisional,DAVID WINKLER(REP),8
+Worcester East 2,Total,MADELEINE DEAN(DEM),"1,362"
+Worcester East 2,Total,DAVID WINKLER(REP),"1,108"
+Worcester East 3,Election Day,MADELEINE DEAN(DEM),****
+Worcester East 3,Election Day,DAVID WINKLER(REP),****
+Worcester East 3,Mail-in,MADELEINE DEAN(DEM),****
+Worcester East 3,Mail-in,DAVID WINKLER(REP),****
+Worcester East 3,Provisional,MADELEINE DEAN(DEM),****
+Worcester East 3,Provisional,DAVID WINKLER(REP),****
+Worcester East 3,Total,MADELEINE DEAN(DEM),651
+Worcester East 3,Total,DAVID WINKLER(REP),675
+Worcester West,Election Day,MADELEINE DEAN(DEM),539
+Worcester West,Election Day,DAVID WINKLER(REP),747
+Worcester West,Mail-in,MADELEINE DEAN(DEM),390
+Worcester West,Mail-in,DAVID WINKLER(REP),206
+Worcester West,Provisional,MADELEINE DEAN(DEM),7
+Worcester West,Provisional,DAVID WINKLER(REP),5
+Worcester West,Total,MADELEINE DEAN(DEM),936
+Worcester West,Total,DAVID WINKLER(REP),958
+Cumulative,Election Day,MADELEINE DEAN(DEM),0
+Cumulative,Election Day,DAVID WINKLER(REP),0
+Cumulative,Mail-in,MADELEINE DEAN(DEM),0
+Cumulative,Mail-in,DAVID WINKLER(REP),0
+Cumulative,Provisional,MADELEINE DEAN(DEM),0
+Cumulative,Provisional,DAVID WINKLER(REP),0
+Cumulative,Total,MADELEINE DEAN(DEM),0
+Cumulative,Total,DAVID WINKLER(REP),0
+Worcester East 1,Election Day,Unresolved Write-In,****
+Worcester East 1,Mail-in,Unresolved Write-In,****
+Worcester East 1,Provisional,Unresolved Write-In,****
+Worcester East 1,Total,Unresolved Write-In,4
+Worcester East 2,Election Day,Unresolved Write-In,3
+Worcester East 2,Mail-in,Unresolved Write-In,4
+Worcester East 2,Provisional,Unresolved Write-In,0
+Worcester East 2,Total,Unresolved Write-In,7
+Worcester East 3,Election Day,Unresolved Write-In,****
+Worcester East 3,Mail-in,Unresolved Write-In,****
+Worcester East 3,Provisional,Unresolved Write-In,****
+Worcester East 3,Total,Unresolved Write-In,7
+Worcester West,Election Day,Unresolved Write-In,2
+Worcester West,Mail-in,Unresolved Write-In,1
+Worcester West,Provisional,Unresolved Write-In,0
+Worcester West,Total,Unresolved Write-In,3
+Cumulative,Election Day,Unresolved Write-In,0
+Cumulative,Mail-in,Unresolved Write-In,0
+Cumulative,Provisional,Unresolved Write-In,0
+Cumulative,Total,Unresolved Write-In,0
+Lansdale 3-1,Election Day,MADELEINE DEAN(DEM),337
+Lansdale 3-1,Election Day,DAVID WINKLER(REP),190
+Lansdale 3-1,Mail-in,MADELEINE DEAN(DEM),114
+Lansdale 3-1,Mail-in,DAVID WINKLER(REP),39
+Lansdale 3-1,Provisional,MADELEINE DEAN(DEM),15
+Lansdale 3-1,Provisional,DAVID WINKLER(REP),7
+Lansdale 3-1,Total,MADELEINE DEAN(DEM),466
+Lansdale 3-1,Total,DAVID WINKLER(REP),236
+Lansdale 3-2,Election Day,MADELEINE DEAN(DEM),****
+Lansdale 3-2,Election Day,DAVID WINKLER(REP),****
+Lansdale 3-2,Mail-in,MADELEINE DEAN(DEM),****
+Lansdale 3-2,Mail-in,DAVID WINKLER(REP),****
+Lansdale 3-2,Provisional,MADELEINE DEAN(DEM),****
+Lansdale 3-2,Provisional,DAVID WINKLER(REP),****
+Lansdale 3-2,Total,MADELEINE DEAN(DEM),711
+Lansdale 3-2,Total,DAVID WINKLER(REP),451
+Lansdale 3-3,Election Day,MADELEINE DEAN(DEM),****
+Lansdale 3-3,Election Day,DAVID WINKLER(REP),****
+Lansdale 3-3,Mail-in,MADELEINE DEAN(DEM),****
+Lansdale 3-3,Mail-in,DAVID WINKLER(REP),****
+Lansdale 3-3,Provisional,MADELEINE DEAN(DEM),****
+Lansdale 3-3,Provisional,DAVID WINKLER(REP),****
+Lansdale 3-3,Total,MADELEINE DEAN(DEM),888
+Lansdale 3-3,Total,DAVID WINKLER(REP),431
+North Wales 1,Election Day,MADELEINE DEAN(DEM),****
+North Wales 1,Election Day,DAVID WINKLER(REP),****
+North Wales 1,Mail-in,MADELEINE DEAN(DEM),****
+North Wales 1,Mail-in,DAVID WINKLER(REP),****
+North Wales 1,Provisional,MADELEINE DEAN(DEM),****
+North Wales 1,Provisional,DAVID WINKLER(REP),****
+North Wales 1,Total,MADELEINE DEAN(DEM),360
+North Wales 1,Total,DAVID WINKLER(REP),264
+North Wales 2,Election Day,MADELEINE DEAN(DEM),277
+North Wales 2,Election Day,DAVID WINKLER(REP),172
+North Wales 2,Mail-in,MADELEINE DEAN(DEM),106
+North Wales 2,Mail-in,DAVID WINKLER(REP),40
+North Wales 2,Provisional,MADELEINE DEAN(DEM),10
+North Wales 2,Provisional,DAVID WINKLER(REP),3
+North Wales 2,Total,MADELEINE DEAN(DEM),393
+North Wales 2,Total,DAVID WINKLER(REP),215
+North Wales 3,Election Day,MADELEINE DEAN(DEM),****
+North Wales 3,Election Day,DAVID WINKLER(REP),****
+North Wales 3,Mail-in,MADELEINE DEAN(DEM),****
+North Wales 3,Mail-in,DAVID WINKLER(REP),****
+North Wales 3,Provisional,MADELEINE DEAN(DEM),****
+North Wales 3,Provisional,DAVID WINKLER(REP),****
+North Wales 3,Total,MADELEINE DEAN(DEM),504
+North Wales 3,Total,DAVID WINKLER(REP),270
+Lansdale 3-1,Election Day,Unresolved Write-In,3
+Lansdale 3-1,Mail-in,Unresolved Write-In,1
+Lansdale 3-1,Provisional,Unresolved Write-In,1
+Lansdale 3-1,Total,Unresolved Write-In,5
+Lansdale 3-2,Election Day,Unresolved Write-In,****
+Lansdale 3-2,Mail-in,Unresolved Write-In,****
+Lansdale 3-2,Provisional,Unresolved Write-In,****
+Lansdale 3-2,Total,Unresolved Write-In,4
+Lansdale 3-3,Election Day,Unresolved Write-In,****
+Lansdale 3-3,Mail-in,Unresolved Write-In,****
+Lansdale 3-3,Provisional,Unresolved Write-In,****
+Lansdale 3-3,Total,Unresolved Write-In,0
+North Wales 1,Election Day,Unresolved Write-In,****
+North Wales 1,Mail-in,Unresolved Write-In,****
+North Wales 1,Provisional,Unresolved Write-In,****
+North Wales 1,Total,Unresolved Write-In,1
+North Wales 2,Election Day,Unresolved Write-In,0
+North Wales 2,Mail-in,Unresolved Write-In,1
+North Wales 2,Provisional,Unresolved Write-In,0
+North Wales 2,Total,Unresolved Write-In,1
+North Wales 3,Election Day,Unresolved Write-In,****
+North Wales 3,Mail-in,Unresolved Write-In,****
+North Wales 3,Provisional,Unresolved Write-In,****
+North Wales 3,Total,Unresolved Write-In,0
+Pottstown 1-1,Election Day,MADELEINE DEAN(DEM),338
+Pottstown 1-1,Election Day,DAVID WINKLER(REP),157
+Pottstown 1-1,Mail-in,MADELEINE DEAN(DEM),113
+Pottstown 1-1,Mail-in,DAVID WINKLER(REP),32
+Pottstown 1-1,Provisional,MADELEINE DEAN(DEM),10
+Pottstown 1-1,Provisional,DAVID WINKLER(REP),3
+Pottstown 1-1,Total,MADELEINE DEAN(DEM),461
+Pottstown 1-1,Total,DAVID WINKLER(REP),192
+Pottstown 1-2,Election Day,MADELEINE DEAN(DEM),212
+Pottstown 1-2,Election Day,DAVID WINKLER(REP),87
+Pottstown 1-2,Mail-in,MADELEINE DEAN(DEM),104
+Pottstown 1-2,Mail-in,DAVID WINKLER(REP),17
+Pottstown 1-2,Provisional,MADELEINE DEAN(DEM),9
+Pottstown 1-2,Provisional,DAVID WINKLER(REP),2
+Pottstown 1-2,Total,MADELEINE DEAN(DEM),325
+Pottstown 1-2,Total,DAVID WINKLER(REP),106
+Pottstown 2-1,Election Day,MADELEINE DEAN(DEM),374
+Pottstown 2-1,Election Day,DAVID WINKLER(REP),159
+Pottstown 2-1,Mail-in,MADELEINE DEAN(DEM),138
+Pottstown 2-1,Mail-in,DAVID WINKLER(REP),26
+Pottstown 2-1,Provisional,MADELEINE DEAN(DEM),11
+Pottstown 2-1,Provisional,DAVID WINKLER(REP),0
+Pottstown 2-1,Total,MADELEINE DEAN(DEM),523
+Pottstown 2-1,Total,DAVID WINKLER(REP),185
+Pottstown 2-2,Election Day,MADELEINE DEAN(DEM),****
+Pottstown 2-2,Election Day,DAVID WINKLER(REP),****
+Pottstown 2-2,Mail-in,MADELEINE DEAN(DEM),****
+Pottstown 2-2,Mail-in,DAVID WINKLER(REP),****
+Pottstown 2-2,Provisional,MADELEINE DEAN(DEM),****
+Pottstown 2-2,Provisional,DAVID WINKLER(REP),****
+Pottstown 2-2,Total,MADELEINE DEAN(DEM),461
+Pottstown 2-2,Total,DAVID WINKLER(REP),252
+Pottstown 3,Election Day,MADELEINE DEAN(DEM),593
+Pottstown 3,Election Day,DAVID WINKLER(REP),450
+Pottstown 3,Mail-in,MADELEINE DEAN(DEM),347
+Pottstown 3,Mail-in,DAVID WINKLER(REP),113
+Pottstown 3,Provisional,MADELEINE DEAN(DEM),0
+Pottstown 3,Provisional,DAVID WINKLER(REP),0
+Pottstown 3,Total,MADELEINE DEAN(DEM),940
+Pottstown 3,Total,DAVID WINKLER(REP),563
+Pottstown 4,Election Day,MADELEINE DEAN(DEM),540
+Pottstown 4,Election Day,DAVID WINKLER(REP),476
+Pottstown 4,Mail-in,MADELEINE DEAN(DEM),302
+Pottstown 4,Mail-in,DAVID WINKLER(REP),128
+Pottstown 4,Provisional,MADELEINE DEAN(DEM),8
+Pottstown 4,Provisional,DAVID WINKLER(REP),4
+Pottstown 4,Total,MADELEINE DEAN(DEM),850
+Pottstown 4,Total,DAVID WINKLER(REP),608
+Pottstown 1-1,Election Day,Unresolved Write-In,3
+Pottstown 1-1,Mail-in,Unresolved Write-In,1
+Pottstown 1-1,Provisional,Unresolved Write-In,0
+Pottstown 1-1,Total,Unresolved Write-In,4
+Pottstown 1-2,Election Day,Unresolved Write-In,1
+Pottstown 1-2,Mail-in,Unresolved Write-In,0
+Pottstown 1-2,Provisional,Unresolved Write-In,0
+Pottstown 1-2,Total,Unresolved Write-In,1
+Pottstown 2-1,Election Day,Unresolved Write-In,0
+Pottstown 2-1,Mail-in,Unresolved Write-In,0
+Pottstown 2-1,Provisional,Unresolved Write-In,0
+Pottstown 2-1,Total,Unresolved Write-In,0
+Pottstown 2-2,Election Day,Unresolved Write-In,****
+Pottstown 2-2,Mail-in,Unresolved Write-In,****
+Pottstown 2-2,Provisional,Unresolved Write-In,****
+Pottstown 2-2,Total,Unresolved Write-In,3
+Pottstown 3,Election Day,Unresolved Write-In,2
+Pottstown 3,Mail-in,Unresolved Write-In,1
+Pottstown 3,Provisional,Unresolved Write-In,0
+Pottstown 3,Total,Unresolved Write-In,3
+Pottstown 4,Election Day,Unresolved Write-In,3
+Pottstown 4,Mail-in,Unresolved Write-In,0
+Pottstown 4,Provisional,Unresolved Write-In,0
+Pottstown 4,Total,Unresolved Write-In,3
+Pottstown 5,Election Day,MADELEINE DEAN(DEM),564
+Pottstown 5,Election Day,DAVID WINKLER(REP),377
+Pottstown 5,Mail-in,MADELEINE DEAN(DEM),285
+Pottstown 5,Mail-in,DAVID WINKLER(REP),91
+Pottstown 5,Provisional,MADELEINE DEAN(DEM),8
+Pottstown 5,Provisional,DAVID WINKLER(REP),5
+Pottstown 5,Total,MADELEINE DEAN(DEM),857
+Pottstown 5,Total,DAVID WINKLER(REP),473
+Pottstown 6,Election Day,MADELEINE DEAN(DEM),638
+Pottstown 6,Election Day,DAVID WINKLER(REP),518
+Pottstown 6,Mail-in,MADELEINE DEAN(DEM),331
+Pottstown 6,Mail-in,DAVID WINKLER(REP),88
+Pottstown 6,Provisional,MADELEINE DEAN(DEM),0
+Pottstown 6,Provisional,DAVID WINKLER(REP),0
+Pottstown 6,Total,MADELEINE DEAN(DEM),969
+Pottstown 6,Total,DAVID WINKLER(REP),606
+Pottstown 7-1,Election Day,MADELEINE DEAN(DEM),538
+Pottstown 7-1,Election Day,DAVID WINKLER(REP),172
+Pottstown 7-1,Mail-in,MADELEINE DEAN(DEM),201
+Pottstown 7-1,Mail-in,DAVID WINKLER(REP),35
+Pottstown 7-1,Provisional,MADELEINE DEAN(DEM),11
+Pottstown 7-1,Provisional,DAVID WINKLER(REP),4
+Pottstown 7-1,Total,MADELEINE DEAN(DEM),750
+Pottstown 7-1,Total,DAVID WINKLER(REP),211
+Pottstown 7-2,Election Day,MADELEINE DEAN(DEM),****
+Pottstown 7-2,Election Day,DAVID WINKLER(REP),****
+Pottstown 7-2,Mail-in,MADELEINE DEAN(DEM),****
+Pottstown 7-2,Mail-in,DAVID WINKLER(REP),****
+Pottstown 7-2,Provisional,MADELEINE DEAN(DEM),****
+Pottstown 7-2,Provisional,DAVID WINKLER(REP),****
+Pottstown 7-2,Total,MADELEINE DEAN(DEM),397
+Pottstown 7-2,Total,DAVID WINKLER(REP),339
+Rockledge,Election Day,MADELEINE DEAN(DEM),****
+Rockledge,Election Day,DAVID WINKLER(REP),****
+Rockledge,Mail-in,MADELEINE DEAN(DEM),****
+Rockledge,Mail-in,DAVID WINKLER(REP),****
+Rockledge,Provisional,MADELEINE DEAN(DEM),****
+Rockledge,Provisional,DAVID WINKLER(REP),****
+Rockledge,Total,MADELEINE DEAN(DEM),815
+Rockledge,Total,DAVID WINKLER(REP),687
+Royersford 1,Election Day,MADELEINE DEAN(DEM),****
+Royersford 1,Election Day,DAVID WINKLER(REP),****
+Royersford 1,Mail-in,MADELEINE DEAN(DEM),****
+Royersford 1,Mail-in,DAVID WINKLER(REP),****
+Royersford 1,Provisional,MADELEINE DEAN(DEM),****
+Royersford 1,Provisional,DAVID WINKLER(REP),****
+Royersford 1,Total,MADELEINE DEAN(DEM),647
+Royersford 1,Total,DAVID WINKLER(REP),448
+Pottstown 5,Election Day,Unresolved Write-In,0
+Pottstown 5,Mail-in,Unresolved Write-In,1
+Pottstown 5,Provisional,Unresolved Write-In,0
+Pottstown 5,Total,Unresolved Write-In,1
+Pottstown 6,Election Day,Unresolved Write-In,0
+Pottstown 6,Mail-in,Unresolved Write-In,2
+Pottstown 6,Provisional,Unresolved Write-In,0
+Pottstown 6,Total,Unresolved Write-In,2
+Pottstown 7-1,Election Day,Unresolved Write-In,1
+Pottstown 7-1,Mail-in,Unresolved Write-In,0
+Pottstown 7-1,Provisional,Unresolved Write-In,0
+Pottstown 7-1,Total,Unresolved Write-In,1
+Pottstown 7-2,Election Day,Unresolved Write-In,****
+Pottstown 7-2,Mail-in,Unresolved Write-In,****
+Pottstown 7-2,Provisional,Unresolved Write-In,****
+Pottstown 7-2,Total,Unresolved Write-In,3
+Rockledge,Election Day,Unresolved Write-In,****
+Rockledge,Mail-in,Unresolved Write-In,****
+Rockledge,Provisional,Unresolved Write-In,****
+Rockledge,Total,Unresolved Write-In,4
+Royersford 1,Election Day,Unresolved Write-In,****
+Royersford 1,Mail-in,Unresolved Write-In,****
+Royersford 1,Provisional,Unresolved Write-In,****
+Royersford 1,Total,Unresolved Write-In,4
+Royersford 2,Election Day,MADELEINE DEAN(DEM),****
+Royersford 2,Election Day,DAVID WINKLER(REP),****
+Royersford 2,Mail-in,MADELEINE DEAN(DEM),****
+Royersford 2,Mail-in,DAVID WINKLER(REP),****
+Royersford 2,Provisional,MADELEINE DEAN(DEM),****
+Royersford 2,Provisional,DAVID WINKLER(REP),****
+Royersford 2,Total,MADELEINE DEAN(DEM),882
+Royersford 2,Total,DAVID WINKLER(REP),567
+Schwenksville,Election Day,MADELEINE DEAN(DEM),****
+Schwenksville,Election Day,DAVID WINKLER(REP),****
+Schwenksville,Mail-in,MADELEINE DEAN(DEM),****
+Schwenksville,Mail-in,DAVID WINKLER(REP),****
+Schwenksville,Provisional,MADELEINE DEAN(DEM),****
+Schwenksville,Provisional,DAVID WINKLER(REP),****
+Schwenksville,Total,MADELEINE DEAN(DEM),362
+Schwenksville,Total,DAVID WINKLER(REP),297
+Trappe Boro,Election Day,MADELEINE DEAN(DEM),785
+Trappe Boro,Election Day,DAVID WINKLER(REP),786
+Trappe Boro,Mail-in,MADELEINE DEAN(DEM),610
+Trappe Boro,Mail-in,DAVID WINKLER(REP),279
+Trappe Boro,Provisional,MADELEINE DEAN(DEM),15
+Trappe Boro,Provisional,DAVID WINKLER(REP),7
+Trappe Boro,Total,MADELEINE DEAN(DEM),"1,410"
+Trappe Boro,Total,DAVID WINKLER(REP),"1,072"
+West Conshohocken,Election Day,MADELEINE DEAN(DEM),****
+West Conshohocken,Election Day,DAVID WINKLER(REP),****
+West Conshohocken,Mail-in,MADELEINE DEAN(DEM),****
+West Conshohocken,Mail-in,DAVID WINKLER(REP),****
+West Conshohocken,Provisional,MADELEINE DEAN(DEM),****
+West Conshohocken,Provisional,DAVID WINKLER(REP),****
+West Conshohocken,Total,MADELEINE DEAN(DEM),586
+West Conshohocken,Total,DAVID WINKLER(REP),364
+Abington 1-1,Election Day,MADELEINE DEAN(DEM),****
+Abington 1-1,Election Day,DAVID WINKLER(REP),****
+Abington 1-1,Mail-in,MADELEINE DEAN(DEM),****
+Abington 1-1,Mail-in,DAVID WINKLER(REP),****
+Abington 1-1,Provisional,MADELEINE DEAN(DEM),****
+Abington 1-1,Provisional,DAVID WINKLER(REP),****
+Abington 1-1,Total,MADELEINE DEAN(DEM),733
+Abington 1-1,Total,DAVID WINKLER(REP),423
+Abington 1-2,Election Day,MADELEINE DEAN(DEM),326
+Abington 1-2,Election Day,DAVID WINKLER(REP),157
+Abington 1-2,Mail-in,MADELEINE DEAN(DEM),250
+Abington 1-2,Mail-in,DAVID WINKLER(REP),78
+Abington 1-2,Provisional,MADELEINE DEAN(DEM),8
+Abington 1-2,Provisional,DAVID WINKLER(REP),4
+Abington 1-2,Total,MADELEINE DEAN(DEM),584
+Abington 1-2,Total,DAVID WINKLER(REP),239
+Royersford 2,Election Day,Unresolved Write-In,****
+Royersford 2,Mail-in,Unresolved Write-In,****
+Royersford 2,Provisional,Unresolved Write-In,****
+Royersford 2,Total,Unresolved Write-In,2
+Schwenksville,Election Day,Unresolved Write-In,****
+Schwenksville,Mail-in,Unresolved Write-In,****
+Schwenksville,Provisional,Unresolved Write-In,****
+Schwenksville,Total,Unresolved Write-In,2
+Trappe Boro,Election Day,Unresolved Write-In,2
+Trappe Boro,Mail-in,Unresolved Write-In,2
+Trappe Boro,Provisional,Unresolved Write-In,0
+Trappe Boro,Total,Unresolved Write-In,4
+West Conshohocken,Election Day,Unresolved Write-In,****
+West Conshohocken,Mail-in,Unresolved Write-In,****
+West Conshohocken,Provisional,Unresolved Write-In,****
+West Conshohocken,Total,Unresolved Write-In,2
+Abington 1-1,Election Day,Unresolved Write-In,****
+Abington 1-1,Mail-in,Unresolved Write-In,****
+Abington 1-1,Provisional,Unresolved Write-In,****
+Abington 1-1,Total,Unresolved Write-In,3
+Abington 1-2,Election Day,Unresolved Write-In,0
+Abington 1-2,Mail-in,Unresolved Write-In,1
+Abington 1-2,Provisional,Unresolved Write-In,0
+Abington 1-2,Total,Unresolved Write-In,1
+Abington 1-3,Election Day,MADELEINE DEAN(DEM),419
+Abington 1-3,Election Day,DAVID WINKLER(REP),252
+Abington 1-3,Mail-in,MADELEINE DEAN(DEM),280
+Abington 1-3,Mail-in,DAVID WINKLER(REP),79
+Abington 1-3,Provisional,MADELEINE DEAN(DEM),12
+Abington 1-3,Provisional,DAVID WINKLER(REP),3
+Abington 1-3,Total,MADELEINE DEAN(DEM),711
+Abington 1-3,Total,DAVID WINKLER(REP),334
+Abington 2-1,Election Day,MADELEINE DEAN(DEM),****
+Abington 2-1,Election Day,DAVID WINKLER(REP),****
+Abington 2-1,Mail-in,MADELEINE DEAN(DEM),****
+Abington 2-1,Mail-in,DAVID WINKLER(REP),****
+Abington 2-1,Provisional,MADELEINE DEAN(DEM),****
+Abington 2-1,Provisional,DAVID WINKLER(REP),****
+Abington 2-1,Total,MADELEINE DEAN(DEM),567
+Abington 2-1,Total,DAVID WINKLER(REP),421
+Abington 2-2,Election Day,MADELEINE DEAN(DEM),****
+Abington 2-2,Election Day,DAVID WINKLER(REP),****
+Abington 2-2,Mail-in,MADELEINE DEAN(DEM),****
+Abington 2-2,Mail-in,DAVID WINKLER(REP),****
+Abington 2-2,Provisional,MADELEINE DEAN(DEM),****
+Abington 2-2,Provisional,DAVID WINKLER(REP),****
+Abington 2-2,Total,MADELEINE DEAN(DEM),562
+Abington 2-2,Total,DAVID WINKLER(REP),248
+Abington 2-3,Election Day,MADELEINE DEAN(DEM),****
+Abington 2-3,Election Day,DAVID WINKLER(REP),****
+Abington 2-3,Mail-in,MADELEINE DEAN(DEM),****
+Abington 2-3,Mail-in,DAVID WINKLER(REP),****
+Abington 2-3,Provisional,MADELEINE DEAN(DEM),****
+Abington 2-3,Provisional,DAVID WINKLER(REP),****
+Abington 2-3,Total,MADELEINE DEAN(DEM),330
+Abington 2-3,Total,DAVID WINKLER(REP),258
+Abington 3-1,Election Day,MADELEINE DEAN(DEM),****
+Abington 3-1,Election Day,DAVID WINKLER(REP),****
+Abington 3-1,Mail-in,MADELEINE DEAN(DEM),****
+Abington 3-1,Mail-in,DAVID WINKLER(REP),****
+Abington 3-1,Provisional,MADELEINE DEAN(DEM),****
+Abington 3-1,Provisional,DAVID WINKLER(REP),****
+Abington 3-1,Total,MADELEINE DEAN(DEM),399
+Abington 3-1,Total,DAVID WINKLER(REP),311
+Abington 3-2,Election Day,MADELEINE DEAN(DEM),****
+Abington 3-2,Election Day,DAVID WINKLER(REP),****
+Abington 3-2,Mail-in,MADELEINE DEAN(DEM),****
+Abington 3-2,Mail-in,DAVID WINKLER(REP),****
+Abington 3-2,Provisional,MADELEINE DEAN(DEM),****
+Abington 3-2,Provisional,DAVID WINKLER(REP),****
+Abington 3-2,Total,MADELEINE DEAN(DEM),502
+Abington 3-2,Total,DAVID WINKLER(REP),406
+Ambler 1,Election Day,Unresolved Write-In,****
+Ambler 1,Mail-in,Unresolved Write-In,****
+Ambler 1,Provisional,Unresolved Write-In,****
+Ambler 1,Total,Unresolved Write-In,2
+Ambler 2,Election Day,Unresolved Write-In,1
+Ambler 2,Mail-in,Unresolved Write-In,0
+Ambler 2,Provisional,Unresolved Write-In,0
+Ambler 2,Total,Unresolved Write-In,1
+Ambler 3,Election Day,Unresolved Write-In,****
+Ambler 3,Mail-in,Unresolved Write-In,****
+Ambler 3,Provisional,Unresolved Write-In,****
+Ambler 3,Total,Unresolved Write-In,3
+Bryn Athyn,Election Day,Unresolved Write-In,****
+Bryn Athyn,Mail-in,Unresolved Write-In,****
+Bryn Athyn,Provisional,Unresolved Write-In,****
+Bryn Athyn,Total,Unresolved Write-In,2
+Collegeville 1,Election Day,Unresolved Write-In,0
+Collegeville 1,Mail-in,Unresolved Write-In,0
+Collegeville 1,Provisional,Unresolved Write-In,0
+Collegeville 1,Total,Unresolved Write-In,0
+Abington 1-3,Election Day,Unresolved Write-In,1
+Abington 1-3,Mail-in,Unresolved Write-In,0
+Abington 1-3,Provisional,Unresolved Write-In,0
+Abington 1-3,Total,Unresolved Write-In,1
+Abington 2-1,Election Day,Unresolved Write-In,****
+Abington 2-1,Mail-in,Unresolved Write-In,****
+Abington 2-1,Provisional,Unresolved Write-In,****
+Abington 2-1,Total,Unresolved Write-In,1
+Abington 2-2,Election Day,Unresolved Write-In,****
+Abington 2-2,Mail-in,Unresolved Write-In,****
+Abington 2-2,Provisional,Unresolved Write-In,****
+Abington 2-2,Total,Unresolved Write-In,1
+Abington 2-3,Election Day,Unresolved Write-In,****
+Abington 2-3,Mail-in,Unresolved Write-In,****
+Abington 2-3,Provisional,Unresolved Write-In,****
+Abington 2-3,Total,Unresolved Write-In,5
+Abington 3-1,Election Day,Unresolved Write-In,****
+Abington 3-1,Mail-in,Unresolved Write-In,****
+Abington 3-1,Provisional,Unresolved Write-In,****
+Abington 3-1,Total,Unresolved Write-In,3
+Abington 3-2,Election Day,Unresolved Write-In,****
+Abington 3-2,Mail-in,Unresolved Write-In,****
+Abington 3-2,Provisional,Unresolved Write-In,****
+Abington 3-2,Total,Unresolved Write-In,1
+Abington 3-3,Election Day,MADELEINE DEAN(DEM),****
+Abington 3-3,Election Day,DAVID WINKLER(REP),****
+Abington 3-3,Mail-in,MADELEINE DEAN(DEM),****
+Abington 3-3,Mail-in,DAVID WINKLER(REP),****
+Abington 3-3,Provisional,MADELEINE DEAN(DEM),****
+Abington 3-3,Provisional,DAVID WINKLER(REP),****
+Abington 3-3,Total,MADELEINE DEAN(DEM),754
+Abington 3-3,Total,DAVID WINKLER(REP),323
+Abington 4-1,Election Day,MADELEINE DEAN(DEM),511
+Abington 4-1,Election Day,DAVID WINKLER(REP),390
+Abington 4-1,Mail-in,MADELEINE DEAN(DEM),368
+Abington 4-1,Mail-in,DAVID WINKLER(REP),98
+Abington 4-1,Provisional,MADELEINE DEAN(DEM),12
+Abington 4-1,Provisional,DAVID WINKLER(REP),4
+Abington 4-1,Total,MADELEINE DEAN(DEM),891
+Abington 4-1,Total,DAVID WINKLER(REP),492
+Abington 4-2,Election Day,MADELEINE DEAN(DEM),****
+Abington 4-2,Election Day,DAVID WINKLER(REP),****
+Abington 4-2,Mail-in,MADELEINE DEAN(DEM),****
+Abington 4-2,Mail-in,DAVID WINKLER(REP),****
+Abington 4-2,Provisional,MADELEINE DEAN(DEM),****
+Abington 4-2,Provisional,DAVID WINKLER(REP),****
+Abington 4-2,Total,MADELEINE DEAN(DEM),755
+Abington 4-2,Total,DAVID WINKLER(REP),248
+Abington 5-1,Election Day,MADELEINE DEAN(DEM),547
+Abington 5-1,Election Day,DAVID WINKLER(REP),90
+Abington 5-1,Mail-in,MADELEINE DEAN(DEM),212
+Abington 5-1,Mail-in,DAVID WINKLER(REP),25
+Abington 5-1,Provisional,MADELEINE DEAN(DEM),14
+Abington 5-1,Provisional,DAVID WINKLER(REP),2
+Abington 5-1,Total,MADELEINE DEAN(DEM),773
+Abington 5-1,Total,DAVID WINKLER(REP),117
+Abington 5-2,Election Day,MADELEINE DEAN(DEM),****
+Abington 5-2,Election Day,DAVID WINKLER(REP),****
+Abington 5-2,Mail-in,MADELEINE DEAN(DEM),****
+Abington 5-2,Mail-in,DAVID WINKLER(REP),****
+Abington 5-2,Provisional,MADELEINE DEAN(DEM),****
+Abington 5-2,Provisional,DAVID WINKLER(REP),****
+Abington 5-2,Total,MADELEINE DEAN(DEM),814
+Abington 5-2,Total,DAVID WINKLER(REP),156
+Abington 6-1,Election Day,MADELEINE DEAN(DEM),****
+Abington 6-1,Election Day,DAVID WINKLER(REP),****
+Abington 6-1,Mail-in,MADELEINE DEAN(DEM),****
+Abington 6-1,Mail-in,DAVID WINKLER(REP),****
+Abington 6-1,Provisional,MADELEINE DEAN(DEM),****
+Abington 6-1,Provisional,DAVID WINKLER(REP),****
+Abington 6-1,Total,MADELEINE DEAN(DEM),849
+Abington 6-1,Total,DAVID WINKLER(REP),454
+Abington 3-3,Election Day,Unresolved Write-In,****
+Abington 3-3,Mail-in,Unresolved Write-In,****
+Abington 3-3,Provisional,Unresolved Write-In,****
+Abington 3-3,Total,Unresolved Write-In,2
+Abington 4-1,Election Day,Unresolved Write-In,6
+Abington 4-1,Mail-in,Unresolved Write-In,0
+Abington 4-1,Provisional,Unresolved Write-In,0
+Abington 4-1,Total,Unresolved Write-In,6
+Abington 4-2,Election Day,Unresolved Write-In,****
+Abington 4-2,Mail-in,Unresolved Write-In,****
+Abington 4-2,Provisional,Unresolved Write-In,****
+Abington 4-2,Total,Unresolved Write-In,2
+Abington 5-1,Election Day,Unresolved Write-In,3
+Abington 5-1,Mail-in,Unresolved Write-In,1
+Abington 5-1,Provisional,Unresolved Write-In,0
+Abington 5-1,Total,Unresolved Write-In,4
+Abington 5-2,Election Day,Unresolved Write-In,****
+Abington 5-2,Mail-in,Unresolved Write-In,****
+Abington 5-2,Provisional,Unresolved Write-In,****
+Abington 5-2,Total,Unresolved Write-In,2
+Abington 6-1,Election Day,Unresolved Write-In,****
+Abington 6-1,Mail-in,Unresolved Write-In,****
+Abington 6-1,Provisional,Unresolved Write-In,****
+Abington 6-1,Total,Unresolved Write-In,4
+Abington 6-2,Election Day,MADELEINE DEAN(DEM),****
+Abington 6-2,Election Day,DAVID WINKLER(REP),****
+Abington 6-2,Mail-in,MADELEINE DEAN(DEM),****
+Abington 6-2,Mail-in,DAVID WINKLER(REP),****
+Abington 6-2,Provisional,MADELEINE DEAN(DEM),****
+Abington 6-2,Provisional,DAVID WINKLER(REP),****
+Abington 6-2,Total,MADELEINE DEAN(DEM),728
+Abington 6-2,Total,DAVID WINKLER(REP),252
+Abington 7-1,Election Day,MADELEINE DEAN(DEM),****
+Abington 7-1,Election Day,DAVID WINKLER(REP),****
+Abington 7-1,Mail-in,MADELEINE DEAN(DEM),****
+Abington 7-1,Mail-in,DAVID WINKLER(REP),****
+Abington 7-1,Provisional,MADELEINE DEAN(DEM),****
+Abington 7-1,Provisional,DAVID WINKLER(REP),****
+Abington 7-1,Total,MADELEINE DEAN(DEM),884
+Abington 7-1,Total,DAVID WINKLER(REP),212
+Abington 7-2,Election Day,MADELEINE DEAN(DEM),454
+Abington 7-2,Election Day,DAVID WINKLER(REP),109
+Abington 7-2,Mail-in,MADELEINE DEAN(DEM),338
+Abington 7-2,Mail-in,DAVID WINKLER(REP),61
+Abington 7-2,Provisional,MADELEINE DEAN(DEM),15
+Abington 7-2,Provisional,DAVID WINKLER(REP),3
+Abington 7-2,Total,MADELEINE DEAN(DEM),807
+Abington 7-2,Total,DAVID WINKLER(REP),173
+Abington 7-3,Election Day,MADELEINE DEAN(DEM),****
+Abington 7-3,Election Day,DAVID WINKLER(REP),****
+Abington 7-3,Mail-in,MADELEINE DEAN(DEM),****
+Abington 7-3,Mail-in,DAVID WINKLER(REP),****
+Abington 7-3,Provisional,MADELEINE DEAN(DEM),****
+Abington 7-3,Provisional,DAVID WINKLER(REP),****
+Abington 7-3,Total,MADELEINE DEAN(DEM),451
+Abington 7-3,Total,DAVID WINKLER(REP),157
+Abington 8-1,Election Day,MADELEINE DEAN(DEM),****
+Abington 8-1,Election Day,DAVID WINKLER(REP),****
+Abington 8-1,Mail-in,MADELEINE DEAN(DEM),****
+Abington 8-1,Mail-in,DAVID WINKLER(REP),****
+Abington 8-1,Provisional,MADELEINE DEAN(DEM),****
+Abington 8-1,Provisional,DAVID WINKLER(REP),****
+Abington 8-1,Total,MADELEINE DEAN(DEM),945
+Abington 8-1,Total,DAVID WINKLER(REP),371
+Abington 8-2,Election Day,MADELEINE DEAN(DEM),****
+Abington 8-2,Election Day,DAVID WINKLER(REP),****
+Abington 8-2,Mail-in,MADELEINE DEAN(DEM),****
+Abington 8-2,Mail-in,DAVID WINKLER(REP),****
+Abington 8-2,Provisional,MADELEINE DEAN(DEM),****
+Abington 8-2,Provisional,DAVID WINKLER(REP),****
+Abington 8-2,Total,MADELEINE DEAN(DEM),680
+Abington 8-2,Total,DAVID WINKLER(REP),210
+Abington 6-2,Election Day,Unresolved Write-In,****
+Abington 6-2,Mail-in,Unresolved Write-In,****
+Abington 6-2,Provisional,Unresolved Write-In,****
+Abington 6-2,Total,Unresolved Write-In,2
+Abington 7-1,Election Day,Unresolved Write-In,****
+Abington 7-1,Mail-in,Unresolved Write-In,****
+Abington 7-1,Provisional,Unresolved Write-In,****
+Abington 7-1,Total,Unresolved Write-In,3
+Abington 7-2,Election Day,Unresolved Write-In,4
+Abington 7-2,Mail-in,Unresolved Write-In,0
+Abington 7-2,Provisional,Unresolved Write-In,0
+Abington 7-2,Total,Unresolved Write-In,4
+Abington 7-3,Election Day,Unresolved Write-In,****
+Abington 7-3,Mail-in,Unresolved Write-In,****
+Abington 7-3,Provisional,Unresolved Write-In,****
+Abington 7-3,Total,Unresolved Write-In,0
+Abington 8-1,Election Day,Unresolved Write-In,****
+Abington 8-1,Mail-in,Unresolved Write-In,****
+Abington 8-1,Provisional,Unresolved Write-In,****
+Abington 8-1,Total,Unresolved Write-In,3
+Abington 8-2,Election Day,Unresolved Write-In,****
+Abington 8-2,Mail-in,Unresolved Write-In,****
+Abington 8-2,Provisional,Unresolved Write-In,****
+Abington 8-2,Total,Unresolved Write-In,3
+Abington 9-1,Election Day,MADELEINE DEAN(DEM),577
+Abington 9-1,Election Day,DAVID WINKLER(REP),333
+Abington 9-1,Mail-in,MADELEINE DEAN(DEM),253
+Abington 9-1,Mail-in,DAVID WINKLER(REP),55
+Abington 9-1,Provisional,MADELEINE DEAN(DEM),9
+Abington 9-1,Provisional,DAVID WINKLER(REP),4
+Abington 9-1,Total,MADELEINE DEAN(DEM),839
+Abington 9-1,Total,DAVID WINKLER(REP),392
+Abington 9-2,Election Day,MADELEINE DEAN(DEM),****
+Abington 9-2,Election Day,DAVID WINKLER(REP),****
+Abington 9-2,Mail-in,MADELEINE DEAN(DEM),****
+Abington 9-2,Mail-in,DAVID WINKLER(REP),****
+Abington 9-2,Provisional,MADELEINE DEAN(DEM),****
+Abington 9-2,Provisional,DAVID WINKLER(REP),****
+Abington 9-2,Total,MADELEINE DEAN(DEM),661
+Abington 9-2,Total,DAVID WINKLER(REP),416
+Abington 10-1,Election Day,MADELEINE DEAN(DEM),388
+Abington 10-1,Election Day,DAVID WINKLER(REP),225
+Abington 10-1,Mail-in,MADELEINE DEAN(DEM),166
+Abington 10-1,Mail-in,DAVID WINKLER(REP),46
+Abington 10-1,Provisional,MADELEINE DEAN(DEM),0
+Abington 10-1,Provisional,DAVID WINKLER(REP),0
+Abington 10-1,Total,MADELEINE DEAN(DEM),554
+Abington 10-1,Total,DAVID WINKLER(REP),271
+Abington 10-2,Election Day,MADELEINE DEAN(DEM),443
+Abington 10-2,Election Day,DAVID WINKLER(REP),189
+Abington 10-2,Mail-in,MADELEINE DEAN(DEM),216
+Abington 10-2,Mail-in,DAVID WINKLER(REP),34
+Abington 10-2,Provisional,MADELEINE DEAN(DEM),11
+Abington 10-2,Provisional,DAVID WINKLER(REP),3
+Abington 10-2,Total,MADELEINE DEAN(DEM),670
+Abington 10-2,Total,DAVID WINKLER(REP),226
+Abington 10-3,Election Day,MADELEINE DEAN(DEM),****
+Abington 10-3,Election Day,DAVID WINKLER(REP),****
+Abington 10-3,Mail-in,MADELEINE DEAN(DEM),****
+Abington 10-3,Mail-in,DAVID WINKLER(REP),****
+Abington 10-3,Provisional,MADELEINE DEAN(DEM),****
+Abington 10-3,Provisional,DAVID WINKLER(REP),****
+Abington 10-3,Total,MADELEINE DEAN(DEM),509
+Abington 10-3,Total,DAVID WINKLER(REP),275
+Abington 11-1,Election Day,MADELEINE DEAN(DEM),228
+Abington 11-1,Election Day,DAVID WINKLER(REP),89
+Abington 11-1,Mail-in,MADELEINE DEAN(DEM),128
+Abington 11-1,Mail-in,DAVID WINKLER(REP),29
+Abington 11-1,Provisional,MADELEINE DEAN(DEM),0
+Abington 11-1,Provisional,DAVID WINKLER(REP),0
+Abington 11-1,Total,MADELEINE DEAN(DEM),356
+Abington 11-1,Total,DAVID WINKLER(REP),118
+Abington 9-1,Election Day,Unresolved Write-In,0
+Abington 9-1,Mail-in,Unresolved Write-In,0
+Abington 9-1,Provisional,Unresolved Write-In,0
+Abington 9-1,Total,Unresolved Write-In,0
+Abington 9-2,Election Day,Unresolved Write-In,****
+Abington 9-2,Mail-in,Unresolved Write-In,****
+Abington 9-2,Provisional,Unresolved Write-In,****
+Abington 9-2,Total,Unresolved Write-In,3
+Abington 10-1,Election Day,Unresolved Write-In,1
+Abington 10-1,Mail-in,Unresolved Write-In,1
+Abington 10-1,Provisional,Unresolved Write-In,0
+Abington 10-1,Total,Unresolved Write-In,2
+Abington 10-2,Election Day,Unresolved Write-In,0
+Abington 10-2,Mail-in,Unresolved Write-In,2
+Abington 10-2,Provisional,Unresolved Write-In,0
+Abington 10-2,Total,Unresolved Write-In,2
+Abington 10-3,Election Day,Unresolved Write-In,****
+Abington 10-3,Mail-in,Unresolved Write-In,****
+Abington 10-3,Provisional,Unresolved Write-In,****
+Abington 10-3,Total,Unresolved Write-In,1
+Abington 11-1,Election Day,Unresolved Write-In,0
+Abington 11-1,Mail-in,Unresolved Write-In,0
+Abington 11-1,Provisional,Unresolved Write-In,0
+Abington 11-1,Total,Unresolved Write-In,0
+Abington 11-2,Election Day,MADELEINE DEAN(DEM),****
+Abington 11-2,Election Day,DAVID WINKLER(REP),****
+Abington 11-2,Mail-in,MADELEINE DEAN(DEM),****
+Abington 11-2,Mail-in,DAVID WINKLER(REP),****
+Abington 11-2,Provisional,MADELEINE DEAN(DEM),****
+Abington 11-2,Provisional,DAVID WINKLER(REP),****
+Abington 11-2,Total,MADELEINE DEAN(DEM),504
+Abington 11-2,Total,DAVID WINKLER(REP),215
+Abington 11-3,Election Day,MADELEINE DEAN(DEM),****
+Abington 11-3,Election Day,DAVID WINKLER(REP),****
+Abington 11-3,Mail-in,MADELEINE DEAN(DEM),****
+Abington 11-3,Mail-in,DAVID WINKLER(REP),****
+Abington 11-3,Provisional,MADELEINE DEAN(DEM),****
+Abington 11-3,Provisional,DAVID WINKLER(REP),****
+Abington 11-3,Total,MADELEINE DEAN(DEM),700
+Abington 11-3,Total,DAVID WINKLER(REP),261
+Abington 12-1,Election Day,MADELEINE DEAN(DEM),****
+Abington 12-1,Election Day,DAVID WINKLER(REP),****
+Abington 12-1,Mail-in,MADELEINE DEAN(DEM),****
+Abington 12-1,Mail-in,DAVID WINKLER(REP),****
+Abington 12-1,Provisional,MADELEINE DEAN(DEM),****
+Abington 12-1,Provisional,DAVID WINKLER(REP),****
+Abington 12-1,Total,MADELEINE DEAN(DEM),616
+Abington 12-1,Total,DAVID WINKLER(REP),313
+Abington 12-2,Election Day,MADELEINE DEAN(DEM),****
+Abington 12-2,Election Day,DAVID WINKLER(REP),****
+Abington 12-2,Mail-in,MADELEINE DEAN(DEM),****
+Abington 12-2,Mail-in,DAVID WINKLER(REP),****
+Abington 12-2,Provisional,MADELEINE DEAN(DEM),****
+Abington 12-2,Provisional,DAVID WINKLER(REP),****
+Abington 12-2,Total,MADELEINE DEAN(DEM),570
+Abington 12-2,Total,DAVID WINKLER(REP),214
+Abington 12-3,Election Day,MADELEINE DEAN(DEM),****
+Abington 12-3,Election Day,DAVID WINKLER(REP),****
+Abington 12-3,Mail-in,MADELEINE DEAN(DEM),****
+Abington 12-3,Mail-in,DAVID WINKLER(REP),****
+Abington 12-3,Provisional,MADELEINE DEAN(DEM),****
+Abington 12-3,Provisional,DAVID WINKLER(REP),****
+Abington 12-3,Total,MADELEINE DEAN(DEM),565
+Abington 12-3,Total,DAVID WINKLER(REP),258
+Abington 13-1,Election Day,MADELEINE DEAN(DEM),****
+Abington 13-1,Election Day,DAVID WINKLER(REP),****
+Abington 13-1,Mail-in,MADELEINE DEAN(DEM),****
+Abington 13-1,Mail-in,DAVID WINKLER(REP),****
+Abington 13-1,Provisional,MADELEINE DEAN(DEM),****
+Abington 13-1,Provisional,DAVID WINKLER(REP),****
+Abington 13-1,Total,MADELEINE DEAN(DEM),624
+Abington 13-1,Total,DAVID WINKLER(REP),238
+Abington 11-2,Election Day,Unresolved Write-In,****
+Abington 11-2,Mail-in,Unresolved Write-In,****
+Abington 11-2,Provisional,Unresolved Write-In,****
+Abington 11-2,Total,Unresolved Write-In,0
+Abington 11-3,Election Day,Unresolved Write-In,****
+Abington 11-3,Mail-in,Unresolved Write-In,****
+Abington 11-3,Provisional,Unresolved Write-In,****
+Abington 11-3,Total,Unresolved Write-In,4
+Abington 12-1,Election Day,Unresolved Write-In,****
+Abington 12-1,Mail-in,Unresolved Write-In,****
+Abington 12-1,Provisional,Unresolved Write-In,****
+Abington 12-1,Total,Unresolved Write-In,0
+Abington 12-2,Election Day,Unresolved Write-In,****
+Abington 12-2,Mail-in,Unresolved Write-In,****
+Abington 12-2,Provisional,Unresolved Write-In,****
+Abington 12-2,Total,Unresolved Write-In,5
+Abington 12-3,Election Day,Unresolved Write-In,****
+Abington 12-3,Mail-in,Unresolved Write-In,****
+Abington 12-3,Provisional,Unresolved Write-In,****
+Abington 12-3,Total,Unresolved Write-In,0
+Abington 13-1,Election Day,Unresolved Write-In,****
+Abington 13-1,Mail-in,Unresolved Write-In,****
+Abington 13-1,Provisional,Unresolved Write-In,****
+Abington 13-1,Total,Unresolved Write-In,2
+Abington 13-2,Election Day,MADELEINE DEAN(DEM),****
+Abington 13-2,Election Day,DAVID WINKLER(REP),****
+Abington 13-2,Mail-in,MADELEINE DEAN(DEM),****
+Abington 13-2,Mail-in,DAVID WINKLER(REP),****
+Abington 13-2,Provisional,MADELEINE DEAN(DEM),****
+Abington 13-2,Provisional,DAVID WINKLER(REP),****
+Abington 13-2,Total,MADELEINE DEAN(DEM),530
+Abington 13-2,Total,DAVID WINKLER(REP),247
+Abington 13-3,Election Day,MADELEINE DEAN(DEM),****
+Abington 13-3,Election Day,DAVID WINKLER(REP),****
+Abington 13-3,Mail-in,MADELEINE DEAN(DEM),****
+Abington 13-3,Mail-in,DAVID WINKLER(REP),****
+Abington 13-3,Provisional,MADELEINE DEAN(DEM),****
+Abington 13-3,Provisional,DAVID WINKLER(REP),****
+Abington 13-3,Total,MADELEINE DEAN(DEM),508
+Abington 13-3,Total,DAVID WINKLER(REP),220
+Abington 14-1,Election Day,MADELEINE DEAN(DEM),****
+Abington 14-1,Election Day,DAVID WINKLER(REP),****
+Abington 14-1,Mail-in,MADELEINE DEAN(DEM),****
+Abington 14-1,Mail-in,DAVID WINKLER(REP),****
+Abington 14-1,Provisional,MADELEINE DEAN(DEM),****
+Abington 14-1,Provisional,DAVID WINKLER(REP),****
+Abington 14-1,Total,MADELEINE DEAN(DEM),609
+Abington 14-1,Total,DAVID WINKLER(REP),155
+Abington 14-2,Election Day,MADELEINE DEAN(DEM),****
+Abington 14-2,Election Day,DAVID WINKLER(REP),****
+Abington 14-2,Mail-in,MADELEINE DEAN(DEM),****
+Abington 14-2,Mail-in,DAVID WINKLER(REP),****
+Abington 14-2,Provisional,MADELEINE DEAN(DEM),****
+Abington 14-2,Provisional,DAVID WINKLER(REP),****
+Abington 14-2,Total,MADELEINE DEAN(DEM),946
+Abington 14-2,Total,DAVID WINKLER(REP),400
+Abington 15-1,Election Day,MADELEINE DEAN(DEM),565
+Abington 15-1,Election Day,DAVID WINKLER(REP),253
+Abington 15-1,Mail-in,MADELEINE DEAN(DEM),231
+Abington 15-1,Mail-in,DAVID WINKLER(REP),68
+Abington 15-1,Provisional,MADELEINE DEAN(DEM),11
+Abington 15-1,Provisional,DAVID WINKLER(REP),0
+Abington 15-1,Total,MADELEINE DEAN(DEM),807
+Abington 15-1,Total,DAVID WINKLER(REP),321
+Abington 15-2,Election Day,MADELEINE DEAN(DEM),560
+Abington 15-2,Election Day,DAVID WINKLER(REP),226
+Abington 15-2,Mail-in,MADELEINE DEAN(DEM),233
+Abington 15-2,Mail-in,DAVID WINKLER(REP),55
+Abington 15-2,Provisional,MADELEINE DEAN(DEM),10
+Abington 15-2,Provisional,DAVID WINKLER(REP),1
+Abington 15-2,Total,MADELEINE DEAN(DEM),803
+Abington 15-2,Total,DAVID WINKLER(REP),282
+Collegeville 2,Election Day,MADELEINE DEAN(DEM),439
+Collegeville 2,Election Day,DAVID WINKLER(REP),280
+Collegeville 2,Mail-in,MADELEINE DEAN(DEM),122
+Collegeville 2,Mail-in,DAVID WINKLER(REP),43
+Collegeville 2,Provisional,MADELEINE DEAN(DEM),7
+Collegeville 2,Provisional,DAVID WINKLER(REP),6
+Collegeville 2,Total,MADELEINE DEAN(DEM),568
+Collegeville 2,Total,DAVID WINKLER(REP),329
+Collegeville 3,Election Day,MADELEINE DEAN(DEM),237
+Collegeville 3,Election Day,DAVID WINKLER(REP),222
+Collegeville 3,Mail-in,MADELEINE DEAN(DEM),174
+Collegeville 3,Mail-in,DAVID WINKLER(REP),59
+Collegeville 3,Provisional,MADELEINE DEAN(DEM),0
+Collegeville 3,Provisional,DAVID WINKLER(REP),0
+Collegeville 3,Total,MADELEINE DEAN(DEM),411
+Collegeville 3,Total,DAVID WINKLER(REP),281
+Conshohocken 1,Election Day,MADELEINE DEAN(DEM),573
+Conshohocken 1,Election Day,DAVID WINKLER(REP),419
+Conshohocken 1,Mail-in,MADELEINE DEAN(DEM),351
+Conshohocken 1,Mail-in,DAVID WINKLER(REP),116
+Conshohocken 1,Provisional,MADELEINE DEAN(DEM),12
+Conshohocken 1,Provisional,DAVID WINKLER(REP),6
+Conshohocken 1,Total,MADELEINE DEAN(DEM),936
+Conshohocken 1,Total,DAVID WINKLER(REP),541
+Conshohocken 2,Election Day,MADELEINE DEAN(DEM),****
+Conshohocken 2,Election Day,DAVID WINKLER(REP),****
+Conshohocken 2,Mail-in,MADELEINE DEAN(DEM),****
+Conshohocken 2,Mail-in,DAVID WINKLER(REP),****
+Conshohocken 2,Provisional,MADELEINE DEAN(DEM),****
+Conshohocken 2,Provisional,DAVID WINKLER(REP),****
+Conshohocken 2,Total,MADELEINE DEAN(DEM),176
+Conshohocken 2,Total,DAVID WINKLER(REP),71
+Conshohocken 3,Election Day,MADELEINE DEAN(DEM),443
+Conshohocken 3,Election Day,DAVID WINKLER(REP),275
+Conshohocken 3,Mail-in,MADELEINE DEAN(DEM),224
+Conshohocken 3,Mail-in,DAVID WINKLER(REP),60
+Conshohocken 3,Provisional,MADELEINE DEAN(DEM),8
+Conshohocken 3,Provisional,DAVID WINKLER(REP),6
+Conshohocken 3,Total,MADELEINE DEAN(DEM),675
+Conshohocken 3,Total,DAVID WINKLER(REP),341
+Conshohocken 4,Election Day,MADELEINE DEAN(DEM),370
+Conshohocken 4,Election Day,DAVID WINKLER(REP),283
+Conshohocken 4,Mail-in,MADELEINE DEAN(DEM),192
+Conshohocken 4,Mail-in,DAVID WINKLER(REP),68
+Conshohocken 4,Provisional,MADELEINE DEAN(DEM),5
+Conshohocken 4,Provisional,DAVID WINKLER(REP),5
+Conshohocken 4,Total,MADELEINE DEAN(DEM),567
+Conshohocken 4,Total,DAVID WINKLER(REP),356
+Abington 13-2,Election Day,Unresolved Write-In,****
+Abington 13-2,Mail-in,Unresolved Write-In,****
+Abington 13-2,Provisional,Unresolved Write-In,****
+Abington 13-2,Total,Unresolved Write-In,1
+Abington 13-3,Election Day,Unresolved Write-In,****
+Abington 13-3,Mail-in,Unresolved Write-In,****
+Abington 13-3,Provisional,Unresolved Write-In,****
+Abington 13-3,Total,Unresolved Write-In,2
+Abington 14-1,Election Day,Unresolved Write-In,****
+Abington 14-1,Mail-in,Unresolved Write-In,****
+Abington 14-1,Provisional,Unresolved Write-In,****
+Abington 14-1,Total,Unresolved Write-In,4
+Abington 14-2,Election Day,Unresolved Write-In,****
+Abington 14-2,Mail-in,Unresolved Write-In,****
+Abington 14-2,Provisional,Unresolved Write-In,****
+Abington 14-2,Total,Unresolved Write-In,8
+Abington 15-1,Election Day,Unresolved Write-In,3
+Abington 15-1,Mail-in,Unresolved Write-In,0
+Abington 15-1,Provisional,Unresolved Write-In,0
+Abington 15-1,Total,Unresolved Write-In,3
+Abington 15-2,Election Day,Unresolved Write-In,4
+Abington 15-2,Mail-in,Unresolved Write-In,1
+Abington 15-2,Provisional,Unresolved Write-In,0
+Abington 15-2,Total,Unresolved Write-In,5
+Cheltenham 1-1,Election Day,MADELEINE DEAN(DEM),555
+Cheltenham 1-1,Election Day,DAVID WINKLER(REP),183
+Cheltenham 1-1,Mail-in,MADELEINE DEAN(DEM),286
+Cheltenham 1-1,Mail-in,DAVID WINKLER(REP),50
+Cheltenham 1-1,Provisional,MADELEINE DEAN(DEM),10
+Cheltenham 1-1,Provisional,DAVID WINKLER(REP),3
+Cheltenham 1-1,Total,MADELEINE DEAN(DEM),851
+Cheltenham 1-1,Total,DAVID WINKLER(REP),236
+Cheltenham 1-2,Election Day,MADELEINE DEAN(DEM),412
+Cheltenham 1-2,Election Day,DAVID WINKLER(REP),100
+Cheltenham 1-2,Mail-in,MADELEINE DEAN(DEM),214
+Cheltenham 1-2,Mail-in,DAVID WINKLER(REP),43
+Cheltenham 1-2,Provisional,MADELEINE DEAN(DEM),8
+Cheltenham 1-2,Provisional,DAVID WINKLER(REP),3
+Cheltenham 1-2,Total,MADELEINE DEAN(DEM),634
+Cheltenham 1-2,Total,DAVID WINKLER(REP),146
+Cheltenham 1-3,Election Day,MADELEINE DEAN(DEM),****
+Cheltenham 1-3,Election Day,DAVID WINKLER(REP),****
+Cheltenham 1-3,Mail-in,MADELEINE DEAN(DEM),****
+Cheltenham 1-3,Mail-in,DAVID WINKLER(REP),****
+Cheltenham 1-3,Provisional,MADELEINE DEAN(DEM),****
+Cheltenham 1-3,Provisional,DAVID WINKLER(REP),****
+Cheltenham 1-3,Total,MADELEINE DEAN(DEM),465
+Cheltenham 1-3,Total,DAVID WINKLER(REP),77
+Cheltenham 1-4,Election Day,MADELEINE DEAN(DEM),****
+Cheltenham 1-4,Election Day,DAVID WINKLER(REP),****
+Cheltenham 1-4,Mail-in,MADELEINE DEAN(DEM),****
+Cheltenham 1-4,Mail-in,DAVID WINKLER(REP),****
+Cheltenham 1-4,Provisional,MADELEINE DEAN(DEM),****
+Cheltenham 1-4,Provisional,DAVID WINKLER(REP),****
+Cheltenham 1-4,Total,MADELEINE DEAN(DEM),565
+Cheltenham 1-4,Total,DAVID WINKLER(REP),129
+Cheltenham 2-1,Election Day,MADELEINE DEAN(DEM),****
+Cheltenham 2-1,Election Day,DAVID WINKLER(REP),****
+Cheltenham 2-1,Mail-in,MADELEINE DEAN(DEM),****
+Cheltenham 2-1,Mail-in,DAVID WINKLER(REP),****
+Cheltenham 2-1,Provisional,MADELEINE DEAN(DEM),****
+Cheltenham 2-1,Provisional,DAVID WINKLER(REP),****
+Cheltenham 2-1,Total,MADELEINE DEAN(DEM),712
+Cheltenham 2-1,Total,DAVID WINKLER(REP),74
+Cheltenham 2-2,Election Day,MADELEINE DEAN(DEM),762
+Cheltenham 2-2,Election Day,DAVID WINKLER(REP),77
+Cheltenham 2-2,Mail-in,MADELEINE DEAN(DEM),277
+Cheltenham 2-2,Mail-in,DAVID WINKLER(REP),26
+Cheltenham 2-2,Provisional,MADELEINE DEAN(DEM),11
+Cheltenham 2-2,Provisional,DAVID WINKLER(REP),1
+Cheltenham 2-2,Total,MADELEINE DEAN(DEM),"1,050"
+Cheltenham 2-2,Total,DAVID WINKLER(REP),104
+Cheltenham 1-1,Election Day,Unresolved Write-In,2
+Cheltenham 1-1,Mail-in,Unresolved Write-In,2
+Cheltenham 1-1,Provisional,Unresolved Write-In,0
+Cheltenham 1-1,Total,Unresolved Write-In,4
+Cheltenham 1-2,Election Day,Unresolved Write-In,1
+Cheltenham 1-2,Mail-in,Unresolved Write-In,1
+Cheltenham 1-2,Provisional,Unresolved Write-In,0
+Cheltenham 1-2,Total,Unresolved Write-In,2
+Cheltenham 1-3,Election Day,Unresolved Write-In,****
+Cheltenham 1-3,Mail-in,Unresolved Write-In,****
+Cheltenham 1-3,Provisional,Unresolved Write-In,****
+Cheltenham 1-3,Total,Unresolved Write-In,1
+Cheltenham 1-4,Election Day,Unresolved Write-In,****
+Cheltenham 1-4,Mail-in,Unresolved Write-In,****
+Cheltenham 1-4,Provisional,Unresolved Write-In,****
+Cheltenham 1-4,Total,Unresolved Write-In,3
+Cheltenham 2-1,Election Day,Unresolved Write-In,****
+Cheltenham 2-1,Mail-in,Unresolved Write-In,****
+Cheltenham 2-1,Provisional,Unresolved Write-In,****
+Cheltenham 2-1,Total,Unresolved Write-In,3
+Cheltenham 2-2,Election Day,Unresolved Write-In,1
+Cheltenham 2-2,Mail-in,Unresolved Write-In,0
+Cheltenham 2-2,Provisional,Unresolved Write-In,0
+Cheltenham 2-2,Total,Unresolved Write-In,1
+Cheltenham 2-3,Election Day,MADELEINE DEAN(DEM),****
+Cheltenham 2-3,Election Day,DAVID WINKLER(REP),****
+Cheltenham 2-3,Mail-in,MADELEINE DEAN(DEM),****
+Cheltenham 2-3,Mail-in,DAVID WINKLER(REP),****
+Cheltenham 2-3,Provisional,MADELEINE DEAN(DEM),****
+Cheltenham 2-3,Provisional,DAVID WINKLER(REP),****
+Cheltenham 2-3,Total,MADELEINE DEAN(DEM),740
+Cheltenham 2-3,Total,DAVID WINKLER(REP),65
+Cheltenham 2-4,Election Day,MADELEINE DEAN(DEM),****
+Cheltenham 2-4,Election Day,DAVID WINKLER(REP),****
+Cheltenham 2-4,Mail-in,MADELEINE DEAN(DEM),****
+Cheltenham 2-4,Mail-in,DAVID WINKLER(REP),****
+Cheltenham 2-4,Provisional,MADELEINE DEAN(DEM),****
+Cheltenham 2-4,Provisional,DAVID WINKLER(REP),****
+Cheltenham 2-4,Total,MADELEINE DEAN(DEM),685
+Cheltenham 2-4,Total,DAVID WINKLER(REP),115
+Cheltenham 3-1,Election Day,MADELEINE DEAN(DEM),****
+Cheltenham 3-1,Election Day,DAVID WINKLER(REP),****
+Cheltenham 3-1,Mail-in,MADELEINE DEAN(DEM),****
+Cheltenham 3-1,Mail-in,DAVID WINKLER(REP),****
+Cheltenham 3-1,Provisional,MADELEINE DEAN(DEM),****
+Cheltenham 3-1,Provisional,DAVID WINKLER(REP),****
+Cheltenham 3-1,Total,MADELEINE DEAN(DEM),568
+Cheltenham 3-1,Total,DAVID WINKLER(REP),92
+Cheltenham 3-2,Election Day,MADELEINE DEAN(DEM),431
+Cheltenham 3-2,Election Day,DAVID WINKLER(REP),55
+Cheltenham 3-2,Mail-in,MADELEINE DEAN(DEM),393
+Cheltenham 3-2,Mail-in,DAVID WINKLER(REP),64
+Cheltenham 3-2,Provisional,MADELEINE DEAN(DEM),10
+Cheltenham 3-2,Provisional,DAVID WINKLER(REP),1
+Cheltenham 3-2,Total,MADELEINE DEAN(DEM),834
+Cheltenham 3-2,Total,DAVID WINKLER(REP),120
+Cheltenham 3-3,Election Day,MADELEINE DEAN(DEM),****
+Cheltenham 3-3,Election Day,DAVID WINKLER(REP),****
+Cheltenham 3-3,Mail-in,MADELEINE DEAN(DEM),****
+Cheltenham 3-3,Mail-in,DAVID WINKLER(REP),****
+Cheltenham 3-3,Provisional,MADELEINE DEAN(DEM),****
+Cheltenham 3-3,Provisional,DAVID WINKLER(REP),****
+Cheltenham 3-3,Total,MADELEINE DEAN(DEM),680
+Cheltenham 3-3,Total,DAVID WINKLER(REP),111
+Cheltenham 3-4,Election Day,MADELEINE DEAN(DEM),601
+Cheltenham 3-4,Election Day,DAVID WINKLER(REP),56
+Cheltenham 3-4,Mail-in,MADELEINE DEAN(DEM),246
+Cheltenham 3-4,Mail-in,DAVID WINKLER(REP),24
+Cheltenham 3-4,Provisional,MADELEINE DEAN(DEM),0
+Cheltenham 3-4,Provisional,DAVID WINKLER(REP),0
+Cheltenham 3-4,Total,MADELEINE DEAN(DEM),847
+Cheltenham 3-4,Total,DAVID WINKLER(REP),80
+Cheltenham 2-3,Election Day,Unresolved Write-In,****
+Cheltenham 2-3,Mail-in,Unresolved Write-In,****
+Cheltenham 2-3,Provisional,Unresolved Write-In,****
+Cheltenham 2-3,Total,Unresolved Write-In,0
+Cheltenham 2-4,Election Day,Unresolved Write-In,****
+Cheltenham 2-4,Mail-in,Unresolved Write-In,****
+Cheltenham 2-4,Provisional,Unresolved Write-In,****
+Cheltenham 2-4,Total,Unresolved Write-In,1
+Cheltenham 3-1,Election Day,Unresolved Write-In,****
+Cheltenham 3-1,Mail-in,Unresolved Write-In,****
+Cheltenham 3-1,Provisional,Unresolved Write-In,****
+Cheltenham 3-1,Total,Unresolved Write-In,2
+Cheltenham 3-2,Election Day,Unresolved Write-In,0
+Cheltenham 3-2,Mail-in,Unresolved Write-In,0
+Cheltenham 3-2,Provisional,Unresolved Write-In,0
+Cheltenham 3-2,Total,Unresolved Write-In,0
+Cheltenham 3-3,Election Day,Unresolved Write-In,****
+Cheltenham 3-3,Mail-in,Unresolved Write-In,****
+Cheltenham 3-3,Provisional,Unresolved Write-In,****
+Cheltenham 3-3,Total,Unresolved Write-In,3
+Cheltenham 3-4,Election Day,Unresolved Write-In,4
+Cheltenham 3-4,Mail-in,Unresolved Write-In,0
+Cheltenham 3-4,Provisional,Unresolved Write-In,0
+Cheltenham 3-4,Total,Unresolved Write-In,4
+Cheltenham 4-1,Election Day,MADELEINE DEAN(DEM),458
+Cheltenham 4-1,Election Day,DAVID WINKLER(REP),48
+Cheltenham 4-1,Mail-in,MADELEINE DEAN(DEM),258
+Cheltenham 4-1,Mail-in,DAVID WINKLER(REP),18
+Cheltenham 4-1,Provisional,MADELEINE DEAN(DEM),9
+Cheltenham 4-1,Provisional,DAVID WINKLER(REP),2
+Cheltenham 4-1,Total,MADELEINE DEAN(DEM),725
+Cheltenham 4-1,Total,DAVID WINKLER(REP),68
+Cheltenham 4-2,Election Day,MADELEINE DEAN(DEM),****
+Cheltenham 4-2,Election Day,DAVID WINKLER(REP),****
+Cheltenham 4-2,Mail-in,MADELEINE DEAN(DEM),****
+Cheltenham 4-2,Mail-in,DAVID WINKLER(REP),****
+Cheltenham 4-2,Provisional,MADELEINE DEAN(DEM),****
+Cheltenham 4-2,Provisional,DAVID WINKLER(REP),****
+Cheltenham 4-2,Total,MADELEINE DEAN(DEM),665
+Cheltenham 4-2,Total,DAVID WINKLER(REP),51
+Cheltenham 4-3,Election Day,MADELEINE DEAN(DEM),****
+Cheltenham 4-3,Election Day,DAVID WINKLER(REP),****
+Cheltenham 4-3,Mail-in,MADELEINE DEAN(DEM),****
+Cheltenham 4-3,Mail-in,DAVID WINKLER(REP),****
+Cheltenham 4-3,Provisional,MADELEINE DEAN(DEM),****
+Cheltenham 4-3,Provisional,DAVID WINKLER(REP),****
+Cheltenham 4-3,Total,MADELEINE DEAN(DEM),585
+Cheltenham 4-3,Total,DAVID WINKLER(REP),89
+Cheltenham 4-4,Election Day,MADELEINE DEAN(DEM),****
+Cheltenham 4-4,Election Day,DAVID WINKLER(REP),****
+Cheltenham 4-4,Mail-in,MADELEINE DEAN(DEM),****
+Cheltenham 4-4,Mail-in,DAVID WINKLER(REP),****
+Cheltenham 4-4,Provisional,MADELEINE DEAN(DEM),****
+Cheltenham 4-4,Provisional,DAVID WINKLER(REP),****
+Cheltenham 4-4,Total,MADELEINE DEAN(DEM),371
+Cheltenham 4-4,Total,DAVID WINKLER(REP),50
+Cheltenham 5-1,Election Day,MADELEINE DEAN(DEM),443
+Cheltenham 5-1,Election Day,DAVID WINKLER(REP),59
+Cheltenham 5-1,Mail-in,MADELEINE DEAN(DEM),235
+Cheltenham 5-1,Mail-in,DAVID WINKLER(REP),20
+Cheltenham 5-1,Provisional,MADELEINE DEAN(DEM),9
+Cheltenham 5-1,Provisional,DAVID WINKLER(REP),2
+Cheltenham 5-1,Total,MADELEINE DEAN(DEM),687
+Cheltenham 5-1,Total,DAVID WINKLER(REP),81
+Cheltenham 5-2,Election Day,MADELEINE DEAN(DEM),****
+Cheltenham 5-2,Election Day,DAVID WINKLER(REP),****
+Cheltenham 5-2,Mail-in,MADELEINE DEAN(DEM),****
+Cheltenham 5-2,Mail-in,DAVID WINKLER(REP),****
+Cheltenham 5-2,Provisional,MADELEINE DEAN(DEM),****
+Cheltenham 5-2,Provisional,DAVID WINKLER(REP),****
+Cheltenham 5-2,Total,MADELEINE DEAN(DEM),627
+Cheltenham 5-2,Total,DAVID WINKLER(REP),87
+Cheltenham 4-1,Election Day,Unresolved Write-In,0
+Cheltenham 4-1,Mail-in,Unresolved Write-In,0
+Cheltenham 4-1,Provisional,Unresolved Write-In,0
+Cheltenham 4-1,Total,Unresolved Write-In,0
+Cheltenham 4-2,Election Day,Unresolved Write-In,****
+Cheltenham 4-2,Mail-in,Unresolved Write-In,****
+Cheltenham 4-2,Provisional,Unresolved Write-In,****
+Cheltenham 4-2,Total,Unresolved Write-In,1
+Cheltenham 4-3,Election Day,Unresolved Write-In,****
+Cheltenham 4-3,Mail-in,Unresolved Write-In,****
+Cheltenham 4-3,Provisional,Unresolved Write-In,****
+Cheltenham 4-3,Total,Unresolved Write-In,4
+Cheltenham 4-4,Election Day,Unresolved Write-In,****
+Cheltenham 4-4,Mail-in,Unresolved Write-In,****
+Cheltenham 4-4,Provisional,Unresolved Write-In,****
+Cheltenham 4-4,Total,Unresolved Write-In,0
+Cheltenham 5-1,Election Day,Unresolved Write-In,0
+Cheltenham 5-1,Mail-in,Unresolved Write-In,1
+Cheltenham 5-1,Provisional,Unresolved Write-In,0
+Cheltenham 5-1,Total,Unresolved Write-In,1
+Cheltenham 5-2,Election Day,Unresolved Write-In,****
+Cheltenham 5-2,Mail-in,Unresolved Write-In,****
+Cheltenham 5-2,Provisional,Unresolved Write-In,****
+Cheltenham 5-2,Total,Unresolved Write-In,2
+Cheltenham 5-3,Election Day,MADELEINE DEAN(DEM),****
+Cheltenham 5-3,Election Day,DAVID WINKLER(REP),****
+Cheltenham 5-3,Mail-in,MADELEINE DEAN(DEM),****
+Cheltenham 5-3,Mail-in,DAVID WINKLER(REP),****
+Cheltenham 5-3,Provisional,MADELEINE DEAN(DEM),****
+Cheltenham 5-3,Provisional,DAVID WINKLER(REP),****
+Cheltenham 5-3,Total,MADELEINE DEAN(DEM),626
+Cheltenham 5-3,Total,DAVID WINKLER(REP),85
+Cheltenham 5-4,Election Day,MADELEINE DEAN(DEM),****
+Cheltenham 5-4,Election Day,DAVID WINKLER(REP),****
+Cheltenham 5-4,Mail-in,MADELEINE DEAN(DEM),****
+Cheltenham 5-4,Mail-in,DAVID WINKLER(REP),****
+Cheltenham 5-4,Provisional,MADELEINE DEAN(DEM),****
+Cheltenham 5-4,Provisional,DAVID WINKLER(REP),****
+Cheltenham 5-4,Total,MADELEINE DEAN(DEM),694
+Cheltenham 5-4,Total,DAVID WINKLER(REP),139
+Cheltenham 6-1,Election Day,MADELEINE DEAN(DEM),647
+Cheltenham 6-1,Election Day,DAVID WINKLER(REP),196
+Cheltenham 6-1,Mail-in,MADELEINE DEAN(DEM),561
+Cheltenham 6-1,Mail-in,DAVID WINKLER(REP),83
+Cheltenham 6-1,Provisional,MADELEINE DEAN(DEM),12
+Cheltenham 6-1,Provisional,DAVID WINKLER(REP),5
+Cheltenham 6-1,Total,MADELEINE DEAN(DEM),"1,220"
+Cheltenham 6-1,Total,DAVID WINKLER(REP),284
+Cheltenham 6-2,Election Day,MADELEINE DEAN(DEM),****
+Cheltenham 6-2,Election Day,DAVID WINKLER(REP),****
+Cheltenham 6-2,Mail-in,MADELEINE DEAN(DEM),****
+Cheltenham 6-2,Mail-in,DAVID WINKLER(REP),****
+Cheltenham 6-2,Provisional,MADELEINE DEAN(DEM),****
+Cheltenham 6-2,Provisional,DAVID WINKLER(REP),****
+Cheltenham 6-2,Total,MADELEINE DEAN(DEM),908
+Cheltenham 6-2,Total,DAVID WINKLER(REP),125
+Cheltenham 6-3,Election Day,MADELEINE DEAN(DEM),423
+Cheltenham 6-3,Election Day,DAVID WINKLER(REP),126
+Cheltenham 6-3,Mail-in,MADELEINE DEAN(DEM),242
+Cheltenham 6-3,Mail-in,DAVID WINKLER(REP),44
+Cheltenham 6-3,Provisional,MADELEINE DEAN(DEM),9
+Cheltenham 6-3,Provisional,DAVID WINKLER(REP),2
+Cheltenham 6-3,Total,MADELEINE DEAN(DEM),674
+Cheltenham 6-3,Total,DAVID WINKLER(REP),172
+Cheltenham 7-1,Election Day,MADELEINE DEAN(DEM),****
+Cheltenham 7-1,Election Day,DAVID WINKLER(REP),****
+Cheltenham 7-1,Mail-in,MADELEINE DEAN(DEM),****
+Cheltenham 7-1,Mail-in,DAVID WINKLER(REP),****
+Cheltenham 7-1,Provisional,MADELEINE DEAN(DEM),****
+Cheltenham 7-1,Provisional,DAVID WINKLER(REP),****
+Cheltenham 7-1,Total,MADELEINE DEAN(DEM),841
+Cheltenham 7-1,Total,DAVID WINKLER(REP),308
+Cheltenham 5-3,Election Day,Unresolved Write-In,****
+Cheltenham 5-3,Mail-in,Unresolved Write-In,****
+Cheltenham 5-3,Provisional,Unresolved Write-In,****
+Cheltenham 5-3,Total,Unresolved Write-In,1
+Cheltenham 5-4,Election Day,Unresolved Write-In,****
+Cheltenham 5-4,Mail-in,Unresolved Write-In,****
+Cheltenham 5-4,Provisional,Unresolved Write-In,****
+Cheltenham 5-4,Total,Unresolved Write-In,0
+Cheltenham 6-1,Election Day,Unresolved Write-In,6
+Cheltenham 6-1,Mail-in,Unresolved Write-In,1
+Cheltenham 6-1,Provisional,Unresolved Write-In,0
+Cheltenham 6-1,Total,Unresolved Write-In,7
+Cheltenham 6-2,Election Day,Unresolved Write-In,****
+Cheltenham 6-2,Mail-in,Unresolved Write-In,****
+Cheltenham 6-2,Provisional,Unresolved Write-In,****
+Cheltenham 6-2,Total,Unresolved Write-In,2
+Cheltenham 6-3,Election Day,Unresolved Write-In,2
+Cheltenham 6-3,Mail-in,Unresolved Write-In,0
+Cheltenham 6-3,Provisional,Unresolved Write-In,0
+Cheltenham 6-3,Total,Unresolved Write-In,2
+Cheltenham 7-1,Election Day,Unresolved Write-In,****
+Cheltenham 7-1,Mail-in,Unresolved Write-In,****
+Cheltenham 7-1,Provisional,Unresolved Write-In,****
+Cheltenham 7-1,Total,Unresolved Write-In,3
+Cheltenham 7-2,Election Day,MADELEINE DEAN(DEM),****
+Cheltenham 7-2,Election Day,DAVID WINKLER(REP),****
+Cheltenham 7-2,Mail-in,MADELEINE DEAN(DEM),****
+Cheltenham 7-2,Mail-in,DAVID WINKLER(REP),****
+Cheltenham 7-2,Provisional,MADELEINE DEAN(DEM),****
+Cheltenham 7-2,Provisional,DAVID WINKLER(REP),****
+Cheltenham 7-2,Total,MADELEINE DEAN(DEM),745
+Cheltenham 7-2,Total,DAVID WINKLER(REP),149
+Cheltenham 7-3,Election Day,MADELEINE DEAN(DEM),680
+Cheltenham 7-3,Election Day,DAVID WINKLER(REP),117
+Cheltenham 7-3,Mail-in,MADELEINE DEAN(DEM),365
+Cheltenham 7-3,Mail-in,DAVID WINKLER(REP),38
+Cheltenham 7-3,Provisional,MADELEINE DEAN(DEM),15
+Cheltenham 7-3,Provisional,DAVID WINKLER(REP),4
+Cheltenham 7-3,Total,MADELEINE DEAN(DEM),"1,060"
+Cheltenham 7-3,Total,DAVID WINKLER(REP),159
+Douglass 1,Election Day,MADELEINE DEAN(DEM),309
+Douglass 1,Election Day,DAVID WINKLER(REP),794
+Douglass 1,Mail-in,MADELEINE DEAN(DEM),180
+Douglass 1,Mail-in,DAVID WINKLER(REP),115
+Douglass 1,Provisional,MADELEINE DEAN(DEM),6
+Douglass 1,Provisional,DAVID WINKLER(REP),7
+Douglass 1,Total,MADELEINE DEAN(DEM),495
+Douglass 1,Total,DAVID WINKLER(REP),916
+Douglass 2,Election Day,MADELEINE DEAN(DEM),423
+Douglass 2,Election Day,DAVID WINKLER(REP),683
+Douglass 2,Mail-in,MADELEINE DEAN(DEM),219
+Douglass 2,Mail-in,DAVID WINKLER(REP),101
+Douglass 2,Provisional,MADELEINE DEAN(DEM),7
+Douglass 2,Provisional,DAVID WINKLER(REP),9
+Douglass 2,Total,MADELEINE DEAN(DEM),649
+Douglass 2,Total,DAVID WINKLER(REP),793
+Douglass 3,Election Day,MADELEINE DEAN(DEM),521
+Douglass 3,Election Day,DAVID WINKLER(REP),"1,043"
+Douglass 3,Mail-in,MADELEINE DEAN(DEM),361
+Douglass 3,Mail-in,DAVID WINKLER(REP),282
+Douglass 3,Provisional,MADELEINE DEAN(DEM),4
+Douglass 3,Provisional,DAVID WINKLER(REP),7
+Douglass 3,Total,MADELEINE DEAN(DEM),886
+Douglass 3,Total,DAVID WINKLER(REP),"1,332"
+Douglass 4,Election Day,MADELEINE DEAN(DEM),345
+Douglass 4,Election Day,DAVID WINKLER(REP),654
+Douglass 4,Mail-in,MADELEINE DEAN(DEM),251
+Douglass 4,Mail-in,DAVID WINKLER(REP),167
+Douglass 4,Provisional,MADELEINE DEAN(DEM),4
+Douglass 4,Provisional,DAVID WINKLER(REP),6
+Douglass 4,Total,MADELEINE DEAN(DEM),600
+Douglass 4,Total,DAVID WINKLER(REP),827
+Collegeville 2,Election Day,Unresolved Write-In,1
+Collegeville 2,Mail-in,Unresolved Write-In,0
+Collegeville 2,Provisional,Unresolved Write-In,0
+Collegeville 2,Total,Unresolved Write-In,1
+Collegeville 3,Election Day,Unresolved Write-In,1
+Collegeville 3,Mail-in,Unresolved Write-In,0
+Collegeville 3,Provisional,Unresolved Write-In,0
+Collegeville 3,Total,Unresolved Write-In,1
+Conshohocken 1,Election Day,Unresolved Write-In,4
+Conshohocken 1,Mail-in,Unresolved Write-In,0
+Conshohocken 1,Provisional,Unresolved Write-In,0
+Conshohocken 1,Total,Unresolved Write-In,4
+Conshohocken 2,Election Day,Unresolved Write-In,****
+Conshohocken 2,Mail-in,Unresolved Write-In,****
+Conshohocken 2,Provisional,Unresolved Write-In,****
+Conshohocken 2,Total,Unresolved Write-In,0
+Conshohocken 3,Election Day,Unresolved Write-In,2
+Conshohocken 3,Mail-in,Unresolved Write-In,0
+Conshohocken 3,Provisional,Unresolved Write-In,0
+Conshohocken 3,Total,Unresolved Write-In,2
+Conshohocken 4,Election Day,Unresolved Write-In,4
+Conshohocken 4,Mail-in,Unresolved Write-In,1
+Conshohocken 4,Provisional,Unresolved Write-In,0
+Conshohocken 4,Total,Unresolved Write-In,5
+Cheltenham 7-2,Election Day,Unresolved Write-In,****
+Cheltenham 7-2,Mail-in,Unresolved Write-In,****
+Cheltenham 7-2,Provisional,Unresolved Write-In,****
+Cheltenham 7-2,Total,Unresolved Write-In,2
+Cheltenham 7-3,Election Day,Unresolved Write-In,1
+Cheltenham 7-3,Mail-in,Unresolved Write-In,0
+Cheltenham 7-3,Provisional,Unresolved Write-In,0
+Cheltenham 7-3,Total,Unresolved Write-In,1
+Douglass 1,Election Day,Unresolved Write-In,1
+Douglass 1,Mail-in,Unresolved Write-In,0
+Douglass 1,Provisional,Unresolved Write-In,0
+Douglass 1,Total,Unresolved Write-In,1
+Douglass 2,Election Day,Unresolved Write-In,4
+Douglass 2,Mail-in,Unresolved Write-In,1
+Douglass 2,Provisional,Unresolved Write-In,0
+Douglass 2,Total,Unresolved Write-In,5
+Douglass 3,Election Day,Unresolved Write-In,0
+Douglass 3,Mail-in,Unresolved Write-In,0
+Douglass 3,Provisional,Unresolved Write-In,0
+Douglass 3,Total,Unresolved Write-In,0
+Douglass 4,Election Day,Unresolved Write-In,0
+Douglass 4,Mail-in,Unresolved Write-In,2
+Douglass 4,Provisional,Unresolved Write-In,0
+Douglass 4,Total,Unresolved Write-In,2
+East Norriton 1-1,Election Day,MADELEINE DEAN(DEM),346
+East Norriton 1-1,Election Day,DAVID WINKLER(REP),334
+East Norriton 1-1,Mail-in,MADELEINE DEAN(DEM),166
+East Norriton 1-1,Mail-in,DAVID WINKLER(REP),82
+East Norriton 1-1,Provisional,MADELEINE DEAN(DEM),0
+East Norriton 1-1,Provisional,DAVID WINKLER(REP),0
+East Norriton 1-1,Total,MADELEINE DEAN(DEM),512
+East Norriton 1-1,Total,DAVID WINKLER(REP),416
+East Norriton 1-2,Election Day,MADELEINE DEAN(DEM),****
+East Norriton 1-2,Election Day,DAVID WINKLER(REP),****
+East Norriton 1-2,Mail-in,MADELEINE DEAN(DEM),****
+East Norriton 1-2,Mail-in,DAVID WINKLER(REP),****
+East Norriton 1-2,Provisional,MADELEINE DEAN(DEM),****
+East Norriton 1-2,Provisional,DAVID WINKLER(REP),****
+East Norriton 1-2,Total,MADELEINE DEAN(DEM),720
+East Norriton 1-2,Total,DAVID WINKLER(REP),349
+East Norriton 1-3,Election Day,MADELEINE DEAN(DEM),507
+East Norriton 1-3,Election Day,DAVID WINKLER(REP),527
+East Norriton 1-3,Mail-in,MADELEINE DEAN(DEM),293
+East Norriton 1-3,Mail-in,DAVID WINKLER(REP),117
+East Norriton 1-3,Provisional,MADELEINE DEAN(DEM),5
+East Norriton 1-3,Provisional,DAVID WINKLER(REP),5
+East Norriton 1-3,Total,MADELEINE DEAN(DEM),805
+East Norriton 1-3,Total,DAVID WINKLER(REP),649
+East Norriton 1-4,Election Day,MADELEINE DEAN(DEM),****
+East Norriton 1-4,Election Day,DAVID WINKLER(REP),****
+East Norriton 1-4,Mail-in,MADELEINE DEAN(DEM),****
+East Norriton 1-4,Mail-in,DAVID WINKLER(REP),****
+East Norriton 1-4,Provisional,MADELEINE DEAN(DEM),****
+East Norriton 1-4,Provisional,DAVID WINKLER(REP),****
+East Norriton 1-4,Total,MADELEINE DEAN(DEM),577
+East Norriton 1-4,Total,DAVID WINKLER(REP),466
+East Norriton 2-1,Election Day,MADELEINE DEAN(DEM),****
+East Norriton 2-1,Election Day,DAVID WINKLER(REP),****
+East Norriton 2-1,Mail-in,MADELEINE DEAN(DEM),****
+East Norriton 2-1,Mail-in,DAVID WINKLER(REP),****
+East Norriton 2-1,Provisional,MADELEINE DEAN(DEM),****
+East Norriton 2-1,Provisional,DAVID WINKLER(REP),****
+East Norriton 2-1,Total,MADELEINE DEAN(DEM),516
+East Norriton 2-1,Total,DAVID WINKLER(REP),290
+East Norriton 2-2,Election Day,MADELEINE DEAN(DEM),395
+East Norriton 2-2,Election Day,DAVID WINKLER(REP),216
+East Norriton 2-2,Mail-in,MADELEINE DEAN(DEM),258
+East Norriton 2-2,Mail-in,DAVID WINKLER(REP),77
+East Norriton 2-2,Provisional,MADELEINE DEAN(DEM),9
+East Norriton 2-2,Provisional,DAVID WINKLER(REP),4
+East Norriton 2-2,Total,MADELEINE DEAN(DEM),662
+East Norriton 2-2,Total,DAVID WINKLER(REP),297
+East Norriton 1-1,Election Day,Unresolved Write-In,0
+East Norriton 1-1,Mail-in,Unresolved Write-In,1
+East Norriton 1-1,Provisional,Unresolved Write-In,0
+East Norriton 1-1,Total,Unresolved Write-In,1
+East Norriton 1-2,Election Day,Unresolved Write-In,****
+East Norriton 1-2,Mail-in,Unresolved Write-In,****
+East Norriton 1-2,Provisional,Unresolved Write-In,****
+East Norriton 1-2,Total,Unresolved Write-In,0
+East Norriton 1-3,Election Day,Unresolved Write-In,3
+East Norriton 1-3,Mail-in,Unresolved Write-In,1
+East Norriton 1-3,Provisional,Unresolved Write-In,0
+East Norriton 1-3,Total,Unresolved Write-In,4
+East Norriton 1-4,Election Day,Unresolved Write-In,****
+East Norriton 1-4,Mail-in,Unresolved Write-In,****
+East Norriton 1-4,Provisional,Unresolved Write-In,****
+East Norriton 1-4,Total,Unresolved Write-In,1
+East Norriton 2-1,Election Day,Unresolved Write-In,****
+East Norriton 2-1,Mail-in,Unresolved Write-In,****
+East Norriton 2-1,Provisional,Unresolved Write-In,****
+East Norriton 2-1,Total,Unresolved Write-In,1
+East Norriton 2-2,Election Day,Unresolved Write-In,0
+East Norriton 2-2,Mail-in,Unresolved Write-In,0
+East Norriton 2-2,Provisional,Unresolved Write-In,0
+East Norriton 2-2,Total,Unresolved Write-In,0
+East Norriton 2-3,Election Day,MADELEINE DEAN(DEM),605
+East Norriton 2-3,Election Day,DAVID WINKLER(REP),409
+East Norriton 2-3,Mail-in,MADELEINE DEAN(DEM),482
+East Norriton 2-3,Mail-in,DAVID WINKLER(REP),200
+East Norriton 2-3,Provisional,MADELEINE DEAN(DEM),10
+East Norriton 2-3,Provisional,DAVID WINKLER(REP),7
+East Norriton 2-3,Total,MADELEINE DEAN(DEM),"1,097"
+East Norriton 2-3,Total,DAVID WINKLER(REP),616
+East Norriton 2-4,Election Day,MADELEINE DEAN(DEM),****
+East Norriton 2-4,Election Day,DAVID WINKLER(REP),****
+East Norriton 2-4,Mail-in,MADELEINE DEAN(DEM),****
+East Norriton 2-4,Mail-in,DAVID WINKLER(REP),****
+East Norriton 2-4,Provisional,MADELEINE DEAN(DEM),****
+East Norriton 2-4,Provisional,DAVID WINKLER(REP),****
+East Norriton 2-4,Total,MADELEINE DEAN(DEM),617
+East Norriton 2-4,Total,DAVID WINKLER(REP),382
+Horsham 2-4,Election Day,MADELEINE DEAN(DEM),****
+Horsham 2-4,Election Day,DAVID WINKLER(REP),****
+Horsham 2-4,Mail-in,MADELEINE DEAN(DEM),****
+Horsham 2-4,Mail-in,DAVID WINKLER(REP),****
+Horsham 2-4,Provisional,MADELEINE DEAN(DEM),****
+Horsham 2-4,Provisional,DAVID WINKLER(REP),****
+Horsham 2-4,Total,MADELEINE DEAN(DEM),510
+Horsham 2-4,Total,DAVID WINKLER(REP),520
+Horsham 3-3,Election Day,MADELEINE DEAN(DEM),474
+Horsham 3-3,Election Day,DAVID WINKLER(REP),419
+Horsham 3-3,Mail-in,MADELEINE DEAN(DEM),270
+Horsham 3-3,Mail-in,DAVID WINKLER(REP),89
+Horsham 3-3,Provisional,MADELEINE DEAN(DEM),6
+Horsham 3-3,Provisional,DAVID WINKLER(REP),3
+Horsham 3-3,Total,MADELEINE DEAN(DEM),750
+Horsham 3-3,Total,DAVID WINKLER(REP),511
+Horsham 4-1,Election Day,MADELEINE DEAN(DEM),****
+Horsham 4-1,Election Day,DAVID WINKLER(REP),****
+Horsham 4-1,Mail-in,MADELEINE DEAN(DEM),****
+Horsham 4-1,Mail-in,DAVID WINKLER(REP),****
+Horsham 4-1,Provisional,MADELEINE DEAN(DEM),****
+Horsham 4-1,Provisional,DAVID WINKLER(REP),****
+Horsham 4-1,Total,MADELEINE DEAN(DEM),245
+Horsham 4-1,Total,DAVID WINKLER(REP),198
+Limerick 1,Election Day,MADELEINE DEAN(DEM),816
+Limerick 1,Election Day,DAVID WINKLER(REP),976
+Limerick 1,Mail-in,MADELEINE DEAN(DEM),646
+Limerick 1,Mail-in,DAVID WINKLER(REP),392
+Limerick 1,Provisional,MADELEINE DEAN(DEM),0
+Limerick 1,Provisional,DAVID WINKLER(REP),0
+Limerick 1,Total,MADELEINE DEAN(DEM),"1,462"
+Limerick 1,Total,DAVID WINKLER(REP),"1,368"
+East Norriton 2-3,Election Day,Unresolved Write-In,1
+East Norriton 2-3,Mail-in,Unresolved Write-In,1
+East Norriton 2-3,Provisional,Unresolved Write-In,0
+East Norriton 2-3,Total,Unresolved Write-In,2
+East Norriton 2-4,Election Day,Unresolved Write-In,****
+East Norriton 2-4,Mail-in,Unresolved Write-In,****
+East Norriton 2-4,Provisional,Unresolved Write-In,****
+East Norriton 2-4,Total,Unresolved Write-In,0
+Horsham 2-4,Election Day,Unresolved Write-In,****
+Horsham 2-4,Mail-in,Unresolved Write-In,****
+Horsham 2-4,Provisional,Unresolved Write-In,****
+Horsham 2-4,Total,Unresolved Write-In,2
+Horsham 3-3,Election Day,Unresolved Write-In,1
+Horsham 3-3,Mail-in,Unresolved Write-In,0
+Horsham 3-3,Provisional,Unresolved Write-In,0
+Horsham 3-3,Total,Unresolved Write-In,1
+Horsham 4-1,Election Day,Unresolved Write-In,****
+Horsham 4-1,Mail-in,Unresolved Write-In,****
+Horsham 4-1,Provisional,Unresolved Write-In,****
+Horsham 4-1,Total,Unresolved Write-In,0
+Limerick 1,Election Day,Unresolved Write-In,4
+Limerick 1,Mail-in,Unresolved Write-In,1
+Limerick 1,Provisional,Unresolved Write-In,0
+Limerick 1,Total,Unresolved Write-In,5
+Limerick 2,Election Day,MADELEINE DEAN(DEM),608
+Limerick 2,Election Day,DAVID WINKLER(REP),692
+Limerick 2,Mail-in,MADELEINE DEAN(DEM),459
+Limerick 2,Mail-in,DAVID WINKLER(REP),219
+Limerick 2,Provisional,MADELEINE DEAN(DEM),7
+Limerick 2,Provisional,DAVID WINKLER(REP),7
+Limerick 2,Total,MADELEINE DEAN(DEM),"1,074"
+Limerick 2,Total,DAVID WINKLER(REP),918
+Limerick 3,Election Day,MADELEINE DEAN(DEM),680
+Limerick 3,Election Day,DAVID WINKLER(REP),851
+Limerick 3,Mail-in,MADELEINE DEAN(DEM),495
+Limerick 3,Mail-in,DAVID WINKLER(REP),281
+Limerick 3,Provisional,MADELEINE DEAN(DEM),6
+Limerick 3,Provisional,DAVID WINKLER(REP),5
+Limerick 3,Total,MADELEINE DEAN(DEM),"1,181"
+Limerick 3,Total,DAVID WINKLER(REP),"1,137"
+Limerick 4,Election Day,MADELEINE DEAN(DEM),653
+Limerick 4,Election Day,DAVID WINKLER(REP),648
+Limerick 4,Mail-in,MADELEINE DEAN(DEM),472
+Limerick 4,Mail-in,DAVID WINKLER(REP),150
+Limerick 4,Provisional,MADELEINE DEAN(DEM),17
+Limerick 4,Provisional,DAVID WINKLER(REP),5
+Limerick 4,Total,MADELEINE DEAN(DEM),"1,142"
+Limerick 4,Total,DAVID WINKLER(REP),803
+Limerick 5,Election Day,MADELEINE DEAN(DEM),536
+Limerick 5,Election Day,DAVID WINKLER(REP),950
+Limerick 5,Mail-in,MADELEINE DEAN(DEM),352
+Limerick 5,Mail-in,DAVID WINKLER(REP),234
+Limerick 5,Provisional,MADELEINE DEAN(DEM),10
+Limerick 5,Provisional,DAVID WINKLER(REP),7
+Limerick 5,Total,MADELEINE DEAN(DEM),898
+Limerick 5,Total,DAVID WINKLER(REP),"1,191"
+Limerick 6,Election Day,MADELEINE DEAN(DEM),634
+Limerick 6,Election Day,DAVID WINKLER(REP),707
+Limerick 6,Mail-in,MADELEINE DEAN(DEM),348
+Limerick 6,Mail-in,DAVID WINKLER(REP),168
+Limerick 6,Provisional,MADELEINE DEAN(DEM),7
+Limerick 6,Provisional,DAVID WINKLER(REP),3
+Limerick 6,Total,MADELEINE DEAN(DEM),989
+Limerick 6,Total,DAVID WINKLER(REP),878
+Lower Frederick 1,Election Day,MADELEINE DEAN(DEM),****
+Lower Frederick 1,Election Day,DAVID WINKLER(REP),****
+Lower Frederick 1,Mail-in,MADELEINE DEAN(DEM),****
+Lower Frederick 1,Mail-in,DAVID WINKLER(REP),****
+Lower Frederick 1,Provisional,MADELEINE DEAN(DEM),****
+Lower Frederick 1,Provisional,DAVID WINKLER(REP),****
+Lower Frederick 1,Total,MADELEINE DEAN(DEM),665
+Lower Frederick 1,Total,DAVID WINKLER(REP),489
+Limerick 2,Election Day,Unresolved Write-In,2
+Limerick 2,Mail-in,Unresolved Write-In,2
+Limerick 2,Provisional,Unresolved Write-In,0
+Limerick 2,Total,Unresolved Write-In,4
+Limerick 3,Election Day,Unresolved Write-In,3
+Limerick 3,Mail-in,Unresolved Write-In,1
+Limerick 3,Provisional,Unresolved Write-In,0
+Limerick 3,Total,Unresolved Write-In,4
+Limerick 4,Election Day,Unresolved Write-In,0
+Limerick 4,Mail-in,Unresolved Write-In,1
+Limerick 4,Provisional,Unresolved Write-In,0
+Limerick 4,Total,Unresolved Write-In,1
+Limerick 5,Election Day,Unresolved Write-In,4
+Limerick 5,Mail-in,Unresolved Write-In,0
+Limerick 5,Provisional,Unresolved Write-In,0
+Limerick 5,Total,Unresolved Write-In,4
+Limerick 6,Election Day,Unresolved Write-In,2
+Limerick 6,Mail-in,Unresolved Write-In,0
+Limerick 6,Provisional,Unresolved Write-In,0
+Limerick 6,Total,Unresolved Write-In,2
+Lower Frederick 1,Election Day,Unresolved Write-In,****
+Lower Frederick 1,Mail-in,Unresolved Write-In,****
+Lower Frederick 1,Provisional,Unresolved Write-In,****
+Lower Frederick 1,Total,Unresolved Write-In,2
+Lower Frederick 2,Election Day,MADELEINE DEAN(DEM),515
+Lower Frederick 2,Election Day,DAVID WINKLER(REP),839
+Lower Frederick 2,Mail-in,MADELEINE DEAN(DEM),327
+Lower Frederick 2,Mail-in,DAVID WINKLER(REP),159
+Lower Frederick 2,Provisional,MADELEINE DEAN(DEM),0
+Lower Frederick 2,Provisional,DAVID WINKLER(REP),0
+Lower Frederick 2,Total,MADELEINE DEAN(DEM),842
+Lower Frederick 2,Total,DAVID WINKLER(REP),998
+Lower Gwynedd 1-1,Election Day,MADELEINE DEAN(DEM),****
+Lower Gwynedd 1-1,Election Day,DAVID WINKLER(REP),****
+Lower Gwynedd 1-1,Mail-in,MADELEINE DEAN(DEM),****
+Lower Gwynedd 1-1,Mail-in,DAVID WINKLER(REP),****
+Lower Gwynedd 1-1,Provisional,MADELEINE DEAN(DEM),****
+Lower Gwynedd 1-1,Provisional,DAVID WINKLER(REP),****
+Lower Gwynedd 1-1,Total,MADELEINE DEAN(DEM),"1,068"
+Lower Gwynedd 1-1,Total,DAVID WINKLER(REP),486
+Lower Gwynedd 1-2,Election Day,MADELEINE DEAN(DEM),****
+Lower Gwynedd 1-2,Election Day,DAVID WINKLER(REP),****
+Lower Gwynedd 1-2,Mail-in,MADELEINE DEAN(DEM),****
+Lower Gwynedd 1-2,Mail-in,DAVID WINKLER(REP),****
+Lower Gwynedd 1-2,Provisional,MADELEINE DEAN(DEM),****
+Lower Gwynedd 1-2,Provisional,DAVID WINKLER(REP),****
+Lower Gwynedd 1-2,Total,MADELEINE DEAN(DEM),641
+Lower Gwynedd 1-2,Total,DAVID WINKLER(REP),474
+Lower Gwynedd 1-3,Election Day,MADELEINE DEAN(DEM),434
+Lower Gwynedd 1-3,Election Day,DAVID WINKLER(REP),408
+Lower Gwynedd 1-3,Mail-in,MADELEINE DEAN(DEM),480
+Lower Gwynedd 1-3,Mail-in,DAVID WINKLER(REP),158
+Lower Gwynedd 1-3,Provisional,MADELEINE DEAN(DEM),17
+Lower Gwynedd 1-3,Provisional,DAVID WINKLER(REP),4
+Lower Gwynedd 1-3,Total,MADELEINE DEAN(DEM),931
+Lower Gwynedd 1-3,Total,DAVID WINKLER(REP),570
+Lower Gwynedd 1-4,Election Day,MADELEINE DEAN(DEM),****
+Lower Gwynedd 1-4,Election Day,DAVID WINKLER(REP),****
+Lower Gwynedd 1-4,Mail-in,MADELEINE DEAN(DEM),****
+Lower Gwynedd 1-4,Mail-in,DAVID WINKLER(REP),****
+Lower Gwynedd 1-4,Provisional,MADELEINE DEAN(DEM),****
+Lower Gwynedd 1-4,Provisional,DAVID WINKLER(REP),****
+Lower Gwynedd 1-4,Total,MADELEINE DEAN(DEM),755
+Lower Gwynedd 1-4,Total,DAVID WINKLER(REP),403
+Lower Gwynedd 2-1,Election Day,MADELEINE DEAN(DEM),482
+Lower Gwynedd 2-1,Election Day,DAVID WINKLER(REP),470
+Lower Gwynedd 2-1,Mail-in,MADELEINE DEAN(DEM),587
+Lower Gwynedd 2-1,Mail-in,DAVID WINKLER(REP),259
+Lower Gwynedd 2-1,Provisional,MADELEINE DEAN(DEM),10
+Lower Gwynedd 2-1,Provisional,DAVID WINKLER(REP),4
+Lower Gwynedd 2-1,Total,MADELEINE DEAN(DEM),"1,079"
+Lower Gwynedd 2-1,Total,DAVID WINKLER(REP),733
+Lower Frederick 2,Election Day,Unresolved Write-In,1
+Lower Frederick 2,Mail-in,Unresolved Write-In,2
+Lower Frederick 2,Provisional,Unresolved Write-In,0
+Lower Frederick 2,Total,Unresolved Write-In,3
+Lower Gwynedd 1-1,Election Day,Unresolved Write-In,****
+Lower Gwynedd 1-1,Mail-in,Unresolved Write-In,****
+Lower Gwynedd 1-1,Provisional,Unresolved Write-In,****
+Lower Gwynedd 1-1,Total,Unresolved Write-In,0
+Lower Gwynedd 1-2,Election Day,Unresolved Write-In,****
+Lower Gwynedd 1-2,Mail-in,Unresolved Write-In,****
+Lower Gwynedd 1-2,Provisional,Unresolved Write-In,****
+Lower Gwynedd 1-2,Total,Unresolved Write-In,0
+Lower Gwynedd 1-3,Election Day,Unresolved Write-In,2
+Lower Gwynedd 1-3,Mail-in,Unresolved Write-In,1
+Lower Gwynedd 1-3,Provisional,Unresolved Write-In,0
+Lower Gwynedd 1-3,Total,Unresolved Write-In,3
+Lower Gwynedd 1-4,Election Day,Unresolved Write-In,****
+Lower Gwynedd 1-4,Mail-in,Unresolved Write-In,****
+Lower Gwynedd 1-4,Provisional,Unresolved Write-In,****
+Lower Gwynedd 1-4,Total,Unresolved Write-In,2
+Lower Gwynedd 2-1,Election Day,Unresolved Write-In,0
+Lower Gwynedd 2-1,Mail-in,Unresolved Write-In,0
+Lower Gwynedd 2-1,Provisional,Unresolved Write-In,0
+Lower Gwynedd 2-1,Total,Unresolved Write-In,0
+Lower Gwynedd 2-2,Election Day,MADELEINE DEAN(DEM),****
+Lower Gwynedd 2-2,Election Day,DAVID WINKLER(REP),****
+Lower Gwynedd 2-2,Mail-in,MADELEINE DEAN(DEM),****
+Lower Gwynedd 2-2,Mail-in,DAVID WINKLER(REP),****
+Lower Gwynedd 2-2,Provisional,MADELEINE DEAN(DEM),****
+Lower Gwynedd 2-2,Provisional,DAVID WINKLER(REP),****
+Lower Gwynedd 2-2,Total,MADELEINE DEAN(DEM),816
+Lower Gwynedd 2-2,Total,DAVID WINKLER(REP),371
+Lower Merion 1-1,Election Day,MADELEINE DEAN(DEM),376
+Lower Merion 1-1,Election Day,DAVID WINKLER(REP),111
+Lower Merion 1-1,Mail-in,MADELEINE DEAN(DEM),396
+Lower Merion 1-1,Mail-in,DAVID WINKLER(REP),56
+Lower Merion 1-1,Provisional,MADELEINE DEAN(DEM),7
+Lower Merion 1-1,Provisional,DAVID WINKLER(REP),4
+Lower Merion 1-1,Total,MADELEINE DEAN(DEM),779
+Lower Merion 1-1,Total,DAVID WINKLER(REP),171
+Lower Merion 1-2,Election Day,MADELEINE DEAN(DEM),610
+Lower Merion 1-2,Election Day,DAVID WINKLER(REP),243
+Lower Merion 1-2,Mail-in,MADELEINE DEAN(DEM),447
+Lower Merion 1-2,Mail-in,DAVID WINKLER(REP),135
+Lower Merion 1-2,Provisional,MADELEINE DEAN(DEM),13
+Lower Merion 1-2,Provisional,DAVID WINKLER(REP),3
+Lower Merion 1-2,Total,MADELEINE DEAN(DEM),"1,070"
+Lower Merion 1-2,Total,DAVID WINKLER(REP),381
+Lower Merion 1-3,Election Day,MADELEINE DEAN(DEM),****
+Lower Merion 1-3,Election Day,DAVID WINKLER(REP),****
+Lower Merion 1-3,Mail-in,MADELEINE DEAN(DEM),****
+Lower Merion 1-3,Mail-in,DAVID WINKLER(REP),****
+Lower Merion 1-3,Provisional,MADELEINE DEAN(DEM),****
+Lower Merion 1-3,Provisional,DAVID WINKLER(REP),****
+Lower Merion 1-3,Total,MADELEINE DEAN(DEM),494
+Lower Merion 1-3,Total,DAVID WINKLER(REP),310
+Lower Merion 2-1,Election Day,MADELEINE DEAN(DEM),417
+Lower Merion 2-1,Election Day,DAVID WINKLER(REP),259
+Lower Merion 2-1,Mail-in,MADELEINE DEAN(DEM),441
+Lower Merion 2-1,Mail-in,DAVID WINKLER(REP),121
+Lower Merion 2-1,Provisional,MADELEINE DEAN(DEM),12
+Lower Merion 2-1,Provisional,DAVID WINKLER(REP),7
+Lower Merion 2-1,Total,MADELEINE DEAN(DEM),870
+Lower Merion 2-1,Total,DAVID WINKLER(REP),387
+Lower Merion 2-2,Election Day,MADELEINE DEAN(DEM),300
+Lower Merion 2-2,Election Day,DAVID WINKLER(REP),216
+Lower Merion 2-2,Mail-in,MADELEINE DEAN(DEM),236
+Lower Merion 2-2,Mail-in,DAVID WINKLER(REP),89
+Lower Merion 2-2,Provisional,MADELEINE DEAN(DEM),5
+Lower Merion 2-2,Provisional,DAVID WINKLER(REP),6
+Lower Merion 2-2,Total,MADELEINE DEAN(DEM),541
+Lower Merion 2-2,Total,DAVID WINKLER(REP),311
+Conshohocken 5,Election Day,MADELEINE DEAN(DEM),****
+Conshohocken 5,Election Day,DAVID WINKLER(REP),****
+Conshohocken 5,Mail-in,MADELEINE DEAN(DEM),****
+Conshohocken 5,Mail-in,DAVID WINKLER(REP),****
+Conshohocken 5,Provisional,MADELEINE DEAN(DEM),****
+Conshohocken 5,Provisional,DAVID WINKLER(REP),****
+Conshohocken 5,Total,MADELEINE DEAN(DEM),483
+Conshohocken 5,Total,DAVID WINKLER(REP),247
+Conshohocken 6,Election Day,MADELEINE DEAN(DEM),****
+Conshohocken 6,Election Day,DAVID WINKLER(REP),****
+Conshohocken 6,Mail-in,MADELEINE DEAN(DEM),****
+Conshohocken 6,Mail-in,DAVID WINKLER(REP),****
+Conshohocken 6,Provisional,MADELEINE DEAN(DEM),****
+Conshohocken 6,Provisional,DAVID WINKLER(REP),****
+Conshohocken 6,Total,MADELEINE DEAN(DEM),435
+Conshohocken 6,Total,DAVID WINKLER(REP),260
+Conshohocken 7,Election Day,MADELEINE DEAN(DEM),****
+Conshohocken 7,Election Day,DAVID WINKLER(REP),****
+Conshohocken 7,Mail-in,MADELEINE DEAN(DEM),****
+Conshohocken 7,Mail-in,DAVID WINKLER(REP),****
+Conshohocken 7,Provisional,MADELEINE DEAN(DEM),****
+Conshohocken 7,Provisional,DAVID WINKLER(REP),****
+Conshohocken 7,Total,MADELEINE DEAN(DEM),410
+Conshohocken 7,Total,DAVID WINKLER(REP),221
+Green Lane,Election Day,MADELEINE DEAN(DEM),****
+Green Lane,Election Day,DAVID WINKLER(REP),****
+Green Lane,Mail-in,MADELEINE DEAN(DEM),****
+Green Lane,Mail-in,DAVID WINKLER(REP),****
+Green Lane,Provisional,MADELEINE DEAN(DEM),****
+Green Lane,Provisional,DAVID WINKLER(REP),****
+Green Lane,Total,MADELEINE DEAN(DEM),122
+Green Lane,Total,DAVID WINKLER(REP),151
+Hatboro North 1,Election Day,MADELEINE DEAN(DEM),****
+Hatboro North 1,Election Day,DAVID WINKLER(REP),****
+Hatboro North 1,Mail-in,MADELEINE DEAN(DEM),****
+Hatboro North 1,Mail-in,DAVID WINKLER(REP),****
+Hatboro North 1,Provisional,MADELEINE DEAN(DEM),****
+Hatboro North 1,Provisional,DAVID WINKLER(REP),****
+Hatboro North 1,Total,MADELEINE DEAN(DEM),427
+Hatboro North 1,Total,DAVID WINKLER(REP),346
+Hatboro North 2,Election Day,MADELEINE DEAN(DEM),716
+Hatboro North 2,Election Day,DAVID WINKLER(REP),601
+Hatboro North 2,Mail-in,MADELEINE DEAN(DEM),375
+Hatboro North 2,Mail-in,DAVID WINKLER(REP),124
+Hatboro North 2,Provisional,MADELEINE DEAN(DEM),10
+Hatboro North 2,Provisional,DAVID WINKLER(REP),7
+Hatboro North 2,Total,MADELEINE DEAN(DEM),"1,101"
+Hatboro North 2,Total,DAVID WINKLER(REP),732
+Lower Gwynedd 2-2,Election Day,Unresolved Write-In,****
+Lower Gwynedd 2-2,Mail-in,Unresolved Write-In,****
+Lower Gwynedd 2-2,Provisional,Unresolved Write-In,****
+Lower Gwynedd 2-2,Total,Unresolved Write-In,4
+Lower Merion 1-1,Election Day,Unresolved Write-In,1
+Lower Merion 1-1,Mail-in,Unresolved Write-In,0
+Lower Merion 1-1,Provisional,Unresolved Write-In,0
+Lower Merion 1-1,Total,Unresolved Write-In,1
+Lower Merion 1-2,Election Day,Unresolved Write-In,3
+Lower Merion 1-2,Mail-in,Unresolved Write-In,1
+Lower Merion 1-2,Provisional,Unresolved Write-In,0
+Lower Merion 1-2,Total,Unresolved Write-In,4
+Lower Merion 1-3,Election Day,Unresolved Write-In,****
+Lower Merion 1-3,Mail-in,Unresolved Write-In,****
+Lower Merion 1-3,Provisional,Unresolved Write-In,****
+Lower Merion 1-3,Total,Unresolved Write-In,5
+Lower Merion 2-1,Election Day,Unresolved Write-In,2
+Lower Merion 2-1,Mail-in,Unresolved Write-In,1
+Lower Merion 2-1,Provisional,Unresolved Write-In,0
+Lower Merion 2-1,Total,Unresolved Write-In,3
+Lower Merion 2-2,Election Day,Unresolved Write-In,0
+Lower Merion 2-2,Mail-in,Unresolved Write-In,0
+Lower Merion 2-2,Provisional,Unresolved Write-In,0
+Lower Merion 2-2,Total,Unresolved Write-In,0
+Lower Merion 2-3,Election Day,MADELEINE DEAN(DEM),****
+Lower Merion 2-3,Election Day,DAVID WINKLER(REP),****
+Lower Merion 2-3,Mail-in,MADELEINE DEAN(DEM),****
+Lower Merion 2-3,Mail-in,DAVID WINKLER(REP),****
+Lower Merion 2-3,Provisional,MADELEINE DEAN(DEM),****
+Lower Merion 2-3,Provisional,DAVID WINKLER(REP),****
+Lower Merion 2-3,Total,MADELEINE DEAN(DEM),738
+Lower Merion 2-3,Total,DAVID WINKLER(REP),248
+Lower Merion 3-1,Election Day,MADELEINE DEAN(DEM),****
+Lower Merion 3-1,Election Day,DAVID WINKLER(REP),****
+Lower Merion 3-1,Mail-in,MADELEINE DEAN(DEM),****
+Lower Merion 3-1,Mail-in,DAVID WINKLER(REP),****
+Lower Merion 3-1,Provisional,MADELEINE DEAN(DEM),****
+Lower Merion 3-1,Provisional,DAVID WINKLER(REP),****
+Lower Merion 3-1,Total,MADELEINE DEAN(DEM),599
+Lower Merion 3-1,Total,DAVID WINKLER(REP),99
+Lower Merion 3-2,Election Day,MADELEINE DEAN(DEM),****
+Lower Merion 3-2,Election Day,DAVID WINKLER(REP),****
+Lower Merion 3-2,Mail-in,MADELEINE DEAN(DEM),****
+Lower Merion 3-2,Mail-in,DAVID WINKLER(REP),****
+Lower Merion 3-2,Provisional,MADELEINE DEAN(DEM),****
+Lower Merion 3-2,Provisional,DAVID WINKLER(REP),****
+Lower Merion 3-2,Total,MADELEINE DEAN(DEM),935
+Lower Merion 3-2,Total,DAVID WINKLER(REP),299
+Lower Merion 3-3,Election Day,MADELEINE DEAN(DEM),****
+Lower Merion 3-3,Election Day,DAVID WINKLER(REP),****
+Lower Merion 3-3,Mail-in,MADELEINE DEAN(DEM),****
+Lower Merion 3-3,Mail-in,DAVID WINKLER(REP),****
+Lower Merion 3-3,Provisional,MADELEINE DEAN(DEM),****
+Lower Merion 3-3,Provisional,DAVID WINKLER(REP),****
+Lower Merion 3-3,Total,MADELEINE DEAN(DEM),552
+Lower Merion 3-3,Total,DAVID WINKLER(REP),309
+Lower Merion 6-3,Election Day,MADELEINE DEAN(DEM),****
+Lower Merion 6-3,Election Day,DAVID WINKLER(REP),****
+Lower Merion 6-3,Mail-in,MADELEINE DEAN(DEM),****
+Lower Merion 6-3,Mail-in,DAVID WINKLER(REP),****
+Lower Merion 6-3,Provisional,MADELEINE DEAN(DEM),****
+Lower Merion 6-3,Provisional,DAVID WINKLER(REP),****
+Lower Merion 6-3,Total,MADELEINE DEAN(DEM),681
+Lower Merion 6-3,Total,DAVID WINKLER(REP),397
+Lower Merion 9-1,Election Day,MADELEINE DEAN(DEM),332
+Lower Merion 9-1,Election Day,DAVID WINKLER(REP),206
+Lower Merion 9-1,Mail-in,MADELEINE DEAN(DEM),288
+Lower Merion 9-1,Mail-in,DAVID WINKLER(REP),120
+Lower Merion 9-1,Provisional,MADELEINE DEAN(DEM),10
+Lower Merion 9-1,Provisional,DAVID WINKLER(REP),6
+Lower Merion 9-1,Total,MADELEINE DEAN(DEM),630
+Lower Merion 9-1,Total,DAVID WINKLER(REP),332
+Lower Merion 2-3,Election Day,Unresolved Write-In,****
+Lower Merion 2-3,Mail-in,Unresolved Write-In,****
+Lower Merion 2-3,Provisional,Unresolved Write-In,****
+Lower Merion 2-3,Total,Unresolved Write-In,2
+Lower Merion 3-1,Election Day,Unresolved Write-In,****
+Lower Merion 3-1,Mail-in,Unresolved Write-In,****
+Lower Merion 3-1,Provisional,Unresolved Write-In,****
+Lower Merion 3-1,Total,Unresolved Write-In,2
+Lower Merion 3-2,Election Day,Unresolved Write-In,****
+Lower Merion 3-2,Mail-in,Unresolved Write-In,****
+Lower Merion 3-2,Provisional,Unresolved Write-In,****
+Lower Merion 3-2,Total,Unresolved Write-In,5
+Lower Merion 3-3,Election Day,Unresolved Write-In,****
+Lower Merion 3-3,Mail-in,Unresolved Write-In,****
+Lower Merion 3-3,Provisional,Unresolved Write-In,****
+Lower Merion 3-3,Total,Unresolved Write-In,6
+Lower Merion 6-3,Election Day,Unresolved Write-In,****
+Lower Merion 6-3,Mail-in,Unresolved Write-In,****
+Lower Merion 6-3,Provisional,Unresolved Write-In,****
+Lower Merion 6-3,Total,Unresolved Write-In,2
+Lower Merion 9-1,Election Day,Unresolved Write-In,2
+Lower Merion 9-1,Mail-in,Unresolved Write-In,2
+Lower Merion 9-1,Provisional,Unresolved Write-In,0
+Lower Merion 9-1,Total,Unresolved Write-In,4
+Lower Merion 9-2,Election Day,MADELEINE DEAN(DEM),481
+Lower Merion 9-2,Election Day,DAVID WINKLER(REP),149
+Lower Merion 9-2,Mail-in,MADELEINE DEAN(DEM),471
+Lower Merion 9-2,Mail-in,DAVID WINKLER(REP),81
+Lower Merion 9-2,Provisional,MADELEINE DEAN(DEM),13
+Lower Merion 9-2,Provisional,DAVID WINKLER(REP),4
+Lower Merion 9-2,Total,MADELEINE DEAN(DEM),965
+Lower Merion 9-2,Total,DAVID WINKLER(REP),234
+Lower Merion 9-3,Election Day,MADELEINE DEAN(DEM),529
+Lower Merion 9-3,Election Day,DAVID WINKLER(REP),194
+Lower Merion 9-3,Mail-in,MADELEINE DEAN(DEM),645
+Lower Merion 9-3,Mail-in,DAVID WINKLER(REP),120
+Lower Merion 9-3,Provisional,MADELEINE DEAN(DEM),13
+Lower Merion 9-3,Provisional,DAVID WINKLER(REP),7
+Lower Merion 9-3,Total,MADELEINE DEAN(DEM),"1,187"
+Lower Merion 9-3,Total,DAVID WINKLER(REP),321
+Lower Merion 11-3,Election Day,MADELEINE DEAN(DEM),339
+Lower Merion 11-3,Election Day,DAVID WINKLER(REP),250
+Lower Merion 11-3,Mail-in,MADELEINE DEAN(DEM),358
+Lower Merion 11-3,Mail-in,DAVID WINKLER(REP),135
+Lower Merion 11-3,Provisional,MADELEINE DEAN(DEM),0
+Lower Merion 11-3,Provisional,DAVID WINKLER(REP),0
+Lower Merion 11-3,Total,MADELEINE DEAN(DEM),697
+Lower Merion 11-3,Total,DAVID WINKLER(REP),385
+Lower Merion 12-3,Election Day,MADELEINE DEAN(DEM),37
+Lower Merion 12-3,Election Day,DAVID WINKLER(REP),69
+Lower Merion 12-3,Mail-in,MADELEINE DEAN(DEM),72
+Lower Merion 12-3,Mail-in,DAVID WINKLER(REP),44
+Lower Merion 12-3,Provisional,MADELEINE DEAN(DEM),0
+Lower Merion 12-3,Provisional,DAVID WINKLER(REP),0
+Lower Merion 12-3,Total,MADELEINE DEAN(DEM),109
+Lower Merion 12-3,Total,DAVID WINKLER(REP),113
+Lower Merion 13-1,Election Day,MADELEINE DEAN(DEM),****
+Lower Merion 13-1,Election Day,DAVID WINKLER(REP),****
+Lower Merion 13-1,Mail-in,MADELEINE DEAN(DEM),****
+Lower Merion 13-1,Mail-in,DAVID WINKLER(REP),****
+Lower Merion 13-1,Provisional,MADELEINE DEAN(DEM),****
+Lower Merion 13-1,Provisional,DAVID WINKLER(REP),****
+Lower Merion 13-1,Total,MADELEINE DEAN(DEM),649
+Lower Merion 13-1,Total,DAVID WINKLER(REP),271
+Lower Merion 13-2,Election Day,MADELEINE DEAN(DEM),****
+Lower Merion 13-2,Election Day,DAVID WINKLER(REP),****
+Lower Merion 13-2,Mail-in,MADELEINE DEAN(DEM),****
+Lower Merion 13-2,Mail-in,DAVID WINKLER(REP),****
+Lower Merion 13-2,Provisional,MADELEINE DEAN(DEM),****
+Lower Merion 13-2,Provisional,DAVID WINKLER(REP),****
+Lower Merion 13-2,Total,MADELEINE DEAN(DEM),879
+Lower Merion 13-2,Total,DAVID WINKLER(REP),200
+Lower Merion 9-2,Election Day,Unresolved Write-In,0
+Lower Merion 9-2,Mail-in,Unresolved Write-In,1
+Lower Merion 9-2,Provisional,Unresolved Write-In,0
+Lower Merion 9-2,Total,Unresolved Write-In,1
+Lower Merion 9-3,Election Day,Unresolved Write-In,5
+Lower Merion 9-3,Mail-in,Unresolved Write-In,1
+Lower Merion 9-3,Provisional,Unresolved Write-In,1
+Lower Merion 9-3,Total,Unresolved Write-In,7
+Lower Merion 11-3,Election Day,Unresolved Write-In,2
+Lower Merion 11-3,Mail-in,Unresolved Write-In,1
+Lower Merion 11-3,Provisional,Unresolved Write-In,0
+Lower Merion 11-3,Total,Unresolved Write-In,3
+Lower Merion 12-3,Election Day,Unresolved Write-In,0
+Lower Merion 12-3,Mail-in,Unresolved Write-In,0
+Lower Merion 12-3,Provisional,Unresolved Write-In,0
+Lower Merion 12-3,Total,Unresolved Write-In,0
+Lower Merion 13-1,Election Day,Unresolved Write-In,****
+Lower Merion 13-1,Mail-in,Unresolved Write-In,****
+Lower Merion 13-1,Provisional,Unresolved Write-In,****
+Lower Merion 13-1,Total,Unresolved Write-In,0
+Lower Merion 13-2,Election Day,Unresolved Write-In,****
+Lower Merion 13-2,Mail-in,Unresolved Write-In,****
+Lower Merion 13-2,Provisional,Unresolved Write-In,****
+Lower Merion 13-2,Total,Unresolved Write-In,3
+Lower Merion 13-3,Election Day,MADELEINE DEAN(DEM),****
+Lower Merion 13-3,Election Day,DAVID WINKLER(REP),****
+Lower Merion 13-3,Mail-in,MADELEINE DEAN(DEM),****
+Lower Merion 13-3,Mail-in,DAVID WINKLER(REP),****
+Lower Merion 13-3,Provisional,MADELEINE DEAN(DEM),****
+Lower Merion 13-3,Provisional,DAVID WINKLER(REP),****
+Lower Merion 13-3,Total,MADELEINE DEAN(DEM),555
+Lower Merion 13-3,Total,DAVID WINKLER(REP),314
+Lower Moreland 1,Election Day,MADELEINE DEAN(DEM),379
+Lower Moreland 1,Election Day,DAVID WINKLER(REP),440
+Lower Moreland 1,Mail-in,MADELEINE DEAN(DEM),352
+Lower Moreland 1,Mail-in,DAVID WINKLER(REP),172
+Lower Moreland 1,Provisional,MADELEINE DEAN(DEM),5
+Lower Moreland 1,Provisional,DAVID WINKLER(REP),4
+Lower Moreland 1,Total,MADELEINE DEAN(DEM),736
+Lower Moreland 1,Total,DAVID WINKLER(REP),616
+Lower Moreland 2,Election Day,MADELEINE DEAN(DEM),****
+Lower Moreland 2,Election Day,DAVID WINKLER(REP),****
+Lower Moreland 2,Mail-in,MADELEINE DEAN(DEM),****
+Lower Moreland 2,Mail-in,DAVID WINKLER(REP),****
+Lower Moreland 2,Provisional,MADELEINE DEAN(DEM),****
+Lower Moreland 2,Provisional,DAVID WINKLER(REP),****
+Lower Moreland 2,Total,MADELEINE DEAN(DEM),586
+Lower Moreland 2,Total,DAVID WINKLER(REP),626
+Lower Moreland 3,Election Day,MADELEINE DEAN(DEM),469
+Lower Moreland 3,Election Day,DAVID WINKLER(REP),699
+Lower Moreland 3,Mail-in,MADELEINE DEAN(DEM),346
+Lower Moreland 3,Mail-in,DAVID WINKLER(REP),156
+Lower Moreland 3,Provisional,MADELEINE DEAN(DEM),12
+Lower Moreland 3,Provisional,DAVID WINKLER(REP),9
+Lower Moreland 3,Total,MADELEINE DEAN(DEM),827
+Lower Moreland 3,Total,DAVID WINKLER(REP),864
+Lower Moreland 4-1,Election Day,MADELEINE DEAN(DEM),****
+Lower Moreland 4-1,Election Day,DAVID WINKLER(REP),****
+Lower Moreland 4-1,Mail-in,MADELEINE DEAN(DEM),****
+Lower Moreland 4-1,Mail-in,DAVID WINKLER(REP),****
+Lower Moreland 4-1,Provisional,MADELEINE DEAN(DEM),****
+Lower Moreland 4-1,Provisional,DAVID WINKLER(REP),****
+Lower Moreland 4-1,Total,MADELEINE DEAN(DEM),314
+Lower Moreland 4-1,Total,DAVID WINKLER(REP),405
+Lower Moreland 4-2,Election Day,MADELEINE DEAN(DEM),****
+Lower Moreland 4-2,Election Day,DAVID WINKLER(REP),****
+Lower Moreland 4-2,Mail-in,MADELEINE DEAN(DEM),****
+Lower Moreland 4-2,Mail-in,DAVID WINKLER(REP),****
+Lower Moreland 4-2,Provisional,MADELEINE DEAN(DEM),****
+Lower Moreland 4-2,Provisional,DAVID WINKLER(REP),****
+Lower Moreland 4-2,Total,MADELEINE DEAN(DEM),395
+Lower Moreland 4-2,Total,DAVID WINKLER(REP),472
+Lower Merion 13-3,Election Day,Unresolved Write-In,****
+Lower Merion 13-3,Mail-in,Unresolved Write-In,****
+Lower Merion 13-3,Provisional,Unresolved Write-In,****
+Lower Merion 13-3,Total,Unresolved Write-In,1
+Lower Moreland 1,Election Day,Unresolved Write-In,2
+Lower Moreland 1,Mail-in,Unresolved Write-In,0
+Lower Moreland 1,Provisional,Unresolved Write-In,0
+Lower Moreland 1,Total,Unresolved Write-In,2
+Lower Moreland 2,Election Day,Unresolved Write-In,****
+Lower Moreland 2,Mail-in,Unresolved Write-In,****
+Lower Moreland 2,Provisional,Unresolved Write-In,****
+Lower Moreland 2,Total,Unresolved Write-In,0
+Lower Moreland 3,Election Day,Unresolved Write-In,3
+Lower Moreland 3,Mail-in,Unresolved Write-In,0
+Lower Moreland 3,Provisional,Unresolved Write-In,0
+Lower Moreland 3,Total,Unresolved Write-In,3
+Lower Moreland 4-1,Election Day,Unresolved Write-In,****
+Lower Moreland 4-1,Mail-in,Unresolved Write-In,****
+Lower Moreland 4-1,Provisional,Unresolved Write-In,****
+Lower Moreland 4-1,Total,Unresolved Write-In,1
+Lower Moreland 4-2,Election Day,Unresolved Write-In,****
+Lower Moreland 4-2,Mail-in,Unresolved Write-In,****
+Lower Moreland 4-2,Provisional,Unresolved Write-In,****
+Lower Moreland 4-2,Total,Unresolved Write-In,0
+Lower Moreland 5,Election Day,MADELEINE DEAN(DEM),390
+Lower Moreland 5,Election Day,DAVID WINKLER(REP),591
+Lower Moreland 5,Mail-in,MADELEINE DEAN(DEM),320
+Lower Moreland 5,Mail-in,DAVID WINKLER(REP),172
+Lower Moreland 5,Provisional,MADELEINE DEAN(DEM),5
+Lower Moreland 5,Provisional,DAVID WINKLER(REP),11
+Lower Moreland 5,Total,MADELEINE DEAN(DEM),715
+Lower Moreland 5,Total,DAVID WINKLER(REP),774
+Lower Moreland 6,Election Day,MADELEINE DEAN(DEM),****
+Lower Moreland 6,Election Day,DAVID WINKLER(REP),****
+Lower Moreland 6,Mail-in,MADELEINE DEAN(DEM),****
+Lower Moreland 6,Mail-in,DAVID WINKLER(REP),****
+Lower Moreland 6,Provisional,MADELEINE DEAN(DEM),****
+Lower Moreland 6,Provisional,DAVID WINKLER(REP),****
+Lower Moreland 6,Total,MADELEINE DEAN(DEM),682
+Lower Moreland 6,Total,DAVID WINKLER(REP),573
+Lower Pottsgrove 1,Election Day,MADELEINE DEAN(DEM),****
+Lower Pottsgrove 1,Election Day,DAVID WINKLER(REP),****
+Lower Pottsgrove 1,Mail-in,MADELEINE DEAN(DEM),****
+Lower Pottsgrove 1,Mail-in,DAVID WINKLER(REP),****
+Lower Pottsgrove 1,Provisional,MADELEINE DEAN(DEM),****
+Lower Pottsgrove 1,Provisional,DAVID WINKLER(REP),****
+Lower Pottsgrove 1,Total,MADELEINE DEAN(DEM),648
+Lower Pottsgrove 1,Total,DAVID WINKLER(REP),697
+Lower Pottsgrove 2,Election Day,MADELEINE DEAN(DEM),764
+Lower Pottsgrove 2,Election Day,DAVID WINKLER(REP),945
+Lower Pottsgrove 2,Mail-in,MADELEINE DEAN(DEM),750
+Lower Pottsgrove 2,Mail-in,DAVID WINKLER(REP),328
+Lower Pottsgrove 2,Provisional,MADELEINE DEAN(DEM),30
+Lower Pottsgrove 2,Provisional,DAVID WINKLER(REP),17
+Lower Pottsgrove 2,Total,MADELEINE DEAN(DEM),"1,544"
+Lower Pottsgrove 2,Total,DAVID WINKLER(REP),"1,290"
+Lower Pottsgrove 3,Election Day,MADELEINE DEAN(DEM),482
+Lower Pottsgrove 3,Election Day,DAVID WINKLER(REP),514
+Lower Pottsgrove 3,Mail-in,MADELEINE DEAN(DEM),243
+Lower Pottsgrove 3,Mail-in,DAVID WINKLER(REP),108
+Lower Pottsgrove 3,Provisional,MADELEINE DEAN(DEM),10
+Lower Pottsgrove 3,Provisional,DAVID WINKLER(REP),2
+Lower Pottsgrove 3,Total,MADELEINE DEAN(DEM),735
+Lower Pottsgrove 3,Total,DAVID WINKLER(REP),624
+Lower Pottsgrove 4,Election Day,MADELEINE DEAN(DEM),603
+Lower Pottsgrove 4,Election Day,DAVID WINKLER(REP),616
+Lower Pottsgrove 4,Mail-in,MADELEINE DEAN(DEM),419
+Lower Pottsgrove 4,Mail-in,DAVID WINKLER(REP),201
+Lower Pottsgrove 4,Provisional,MADELEINE DEAN(DEM),14
+Lower Pottsgrove 4,Provisional,DAVID WINKLER(REP),12
+Lower Pottsgrove 4,Total,MADELEINE DEAN(DEM),"1,036"
+Lower Pottsgrove 4,Total,DAVID WINKLER(REP),829
+Lower Moreland 5,Election Day,Unresolved Write-In,2
+Lower Moreland 5,Mail-in,Unresolved Write-In,2
+Lower Moreland 5,Provisional,Unresolved Write-In,0
+Lower Moreland 5,Total,Unresolved Write-In,4
+Lower Moreland 6,Election Day,Unresolved Write-In,****
+Lower Moreland 6,Mail-in,Unresolved Write-In,****
+Lower Moreland 6,Provisional,Unresolved Write-In,****
+Lower Moreland 6,Total,Unresolved Write-In,0
+Lower Pottsgrove 1,Election Day,Unresolved Write-In,****
+Lower Pottsgrove 1,Mail-in,Unresolved Write-In,****
+Lower Pottsgrove 1,Provisional,Unresolved Write-In,****
+Lower Pottsgrove 1,Total,Unresolved Write-In,1
+Lower Pottsgrove 2,Election Day,Unresolved Write-In,4
+Lower Pottsgrove 2,Mail-in,Unresolved Write-In,0
+Lower Pottsgrove 2,Provisional,Unresolved Write-In,0
+Lower Pottsgrove 2,Total,Unresolved Write-In,4
+Lower Pottsgrove 3,Election Day,Unresolved Write-In,1
+Lower Pottsgrove 3,Mail-in,Unresolved Write-In,0
+Lower Pottsgrove 3,Provisional,Unresolved Write-In,0
+Lower Pottsgrove 3,Total,Unresolved Write-In,1
+Lower Pottsgrove 4,Election Day,Unresolved Write-In,4
+Lower Pottsgrove 4,Mail-in,Unresolved Write-In,2
+Lower Pottsgrove 4,Provisional,Unresolved Write-In,0
+Lower Pottsgrove 4,Total,Unresolved Write-In,6
+Lower Providence 1-1,Election Day,MADELEINE DEAN(DEM),687
+Lower Providence 1-1,Election Day,DAVID WINKLER(REP),674
+Lower Providence 1-1,Mail-in,MADELEINE DEAN(DEM),593
+Lower Providence 1-1,Mail-in,DAVID WINKLER(REP),224
+Lower Providence 1-1,Provisional,MADELEINE DEAN(DEM),19
+Lower Providence 1-1,Provisional,DAVID WINKLER(REP),6
+Lower Providence 1-1,Total,MADELEINE DEAN(DEM),"1,299"
+Lower Providence 1-1,Total,DAVID WINKLER(REP),904
+Lower Providence 1-2,Election Day,MADELEINE DEAN(DEM),589
+Lower Providence 1-2,Election Day,DAVID WINKLER(REP),592
+Lower Providence 1-2,Mail-in,MADELEINE DEAN(DEM),421
+Lower Providence 1-2,Mail-in,DAVID WINKLER(REP),180
+Lower Providence 1-2,Provisional,MADELEINE DEAN(DEM),10
+Lower Providence 1-2,Provisional,DAVID WINKLER(REP),4
+Lower Providence 1-2,Total,MADELEINE DEAN(DEM),"1,020"
+Lower Providence 1-2,Total,DAVID WINKLER(REP),776
+Lower Providence 2-1,Election Day,MADELEINE DEAN(DEM),****
+Lower Providence 2-1,Election Day,DAVID WINKLER(REP),****
+Lower Providence 2-1,Mail-in,MADELEINE DEAN(DEM),****
+Lower Providence 2-1,Mail-in,DAVID WINKLER(REP),****
+Lower Providence 2-1,Provisional,MADELEINE DEAN(DEM),****
+Lower Providence 2-1,Provisional,DAVID WINKLER(REP),****
+Lower Providence 2-1,Total,MADELEINE DEAN(DEM),605
+Lower Providence 2-1,Total,DAVID WINKLER(REP),413
+Lower Providence 2-2,Election Day,MADELEINE DEAN(DEM),458
+Lower Providence 2-2,Election Day,DAVID WINKLER(REP),453
+Lower Providence 2-2,Mail-in,MADELEINE DEAN(DEM),348
+Lower Providence 2-2,Mail-in,DAVID WINKLER(REP),137
+Lower Providence 2-2,Provisional,MADELEINE DEAN(DEM),7
+Lower Providence 2-2,Provisional,DAVID WINKLER(REP),5
+Lower Providence 2-2,Total,MADELEINE DEAN(DEM),813
+Lower Providence 2-2,Total,DAVID WINKLER(REP),595
+Lower Providence 2-3,Election Day,MADELEINE DEAN(DEM),467
+Lower Providence 2-3,Election Day,DAVID WINKLER(REP),555
+Lower Providence 2-3,Mail-in,MADELEINE DEAN(DEM),343
+Lower Providence 2-3,Mail-in,DAVID WINKLER(REP),169
+Lower Providence 2-3,Provisional,MADELEINE DEAN(DEM),10
+Lower Providence 2-3,Provisional,DAVID WINKLER(REP),5
+Lower Providence 2-3,Total,MADELEINE DEAN(DEM),820
+Lower Providence 2-3,Total,DAVID WINKLER(REP),729
+Lower Providence 2-4,Election Day,MADELEINE DEAN(DEM),457
+Lower Providence 2-4,Election Day,DAVID WINKLER(REP),402
+Lower Providence 2-4,Mail-in,MADELEINE DEAN(DEM),213
+Lower Providence 2-4,Mail-in,DAVID WINKLER(REP),111
+Lower Providence 2-4,Provisional,MADELEINE DEAN(DEM),8
+Lower Providence 2-4,Provisional,DAVID WINKLER(REP),10
+Lower Providence 2-4,Total,MADELEINE DEAN(DEM),678
+Lower Providence 2-4,Total,DAVID WINKLER(REP),523
+Conshohocken 5,Election Day,Unresolved Write-In,****
+Conshohocken 5,Mail-in,Unresolved Write-In,****
+Conshohocken 5,Provisional,Unresolved Write-In,****
+Conshohocken 5,Total,Unresolved Write-In,5
+Conshohocken 6,Election Day,Unresolved Write-In,****
+Conshohocken 6,Mail-in,Unresolved Write-In,****
+Conshohocken 6,Provisional,Unresolved Write-In,****
+Conshohocken 6,Total,Unresolved Write-In,0
+Conshohocken 7,Election Day,Unresolved Write-In,****
+Conshohocken 7,Mail-in,Unresolved Write-In,****
+Conshohocken 7,Provisional,Unresolved Write-In,****
+Conshohocken 7,Total,Unresolved Write-In,0
+Green Lane,Election Day,Unresolved Write-In,****
+Green Lane,Mail-in,Unresolved Write-In,****
+Green Lane,Provisional,Unresolved Write-In,****
+Green Lane,Total,Unresolved Write-In,1
+Hatboro North 1,Election Day,Unresolved Write-In,****
+Hatboro North 1,Mail-in,Unresolved Write-In,****
+Hatboro North 1,Provisional,Unresolved Write-In,****
+Hatboro North 1,Total,Unresolved Write-In,0
+Hatboro North 2,Election Day,Unresolved Write-In,5
+Hatboro North 2,Mail-in,Unresolved Write-In,0
+Hatboro North 2,Provisional,Unresolved Write-In,0
+Hatboro North 2,Total,Unresolved Write-In,5
+Lower Providence 1-1,Election Day,Unresolved Write-In,0
+Lower Providence 1-1,Mail-in,Unresolved Write-In,0
+Lower Providence 1-1,Provisional,Unresolved Write-In,0
+Lower Providence 1-1,Total,Unresolved Write-In,0
+Lower Providence 1-2,Election Day,Unresolved Write-In,0
+Lower Providence 1-2,Mail-in,Unresolved Write-In,0
+Lower Providence 1-2,Provisional,Unresolved Write-In,0
+Lower Providence 1-2,Total,Unresolved Write-In,0
+Lower Providence 2-1,Election Day,Unresolved Write-In,****
+Lower Providence 2-1,Mail-in,Unresolved Write-In,****
+Lower Providence 2-1,Provisional,Unresolved Write-In,****
+Lower Providence 2-1,Total,Unresolved Write-In,0
+Lower Providence 2-2,Election Day,Unresolved Write-In,3
+Lower Providence 2-2,Mail-in,Unresolved Write-In,5
+Lower Providence 2-2,Provisional,Unresolved Write-In,0
+Lower Providence 2-2,Total,Unresolved Write-In,8
+Lower Providence 2-3,Election Day,Unresolved Write-In,2
+Lower Providence 2-3,Mail-in,Unresolved Write-In,0
+Lower Providence 2-3,Provisional,Unresolved Write-In,0
+Lower Providence 2-3,Total,Unresolved Write-In,2
+Lower Providence 2-4,Election Day,Unresolved Write-In,2
+Lower Providence 2-4,Mail-in,Unresolved Write-In,0
+Lower Providence 2-4,Provisional,Unresolved Write-In,0
+Lower Providence 2-4,Total,Unresolved Write-In,2
+Lower Providence 3-1,Election Day,MADELEINE DEAN(DEM),309
+Lower Providence 3-1,Election Day,DAVID WINKLER(REP),221
+Lower Providence 3-1,Mail-in,MADELEINE DEAN(DEM),198
+Lower Providence 3-1,Mail-in,DAVID WINKLER(REP),67
+Lower Providence 3-1,Provisional,MADELEINE DEAN(DEM),9
+Lower Providence 3-1,Provisional,DAVID WINKLER(REP),8
+Lower Providence 3-1,Total,MADELEINE DEAN(DEM),516
+Lower Providence 3-1,Total,DAVID WINKLER(REP),296
+Lower Providence 3-2,Election Day,MADELEINE DEAN(DEM),****
+Lower Providence 3-2,Election Day,DAVID WINKLER(REP),****
+Lower Providence 3-2,Mail-in,MADELEINE DEAN(DEM),****
+Lower Providence 3-2,Mail-in,DAVID WINKLER(REP),****
+Lower Providence 3-2,Provisional,MADELEINE DEAN(DEM),****
+Lower Providence 3-2,Provisional,DAVID WINKLER(REP),****
+Lower Providence 3-2,Total,MADELEINE DEAN(DEM),551
+Lower Providence 3-2,Total,DAVID WINKLER(REP),424
+Lower Providence 3-3,Election Day,MADELEINE DEAN(DEM),718
+Lower Providence 3-3,Election Day,DAVID WINKLER(REP),583
+Lower Providence 3-3,Mail-in,MADELEINE DEAN(DEM),621
+Lower Providence 3-3,Mail-in,DAVID WINKLER(REP),232
+Lower Providence 3-3,Provisional,MADELEINE DEAN(DEM),5
+Lower Providence 3-3,Provisional,DAVID WINKLER(REP),7
+Lower Providence 3-3,Total,MADELEINE DEAN(DEM),"1,344"
+Lower Providence 3-3,Total,DAVID WINKLER(REP),822
+Lower Providence 3-4,Election Day,MADELEINE DEAN(DEM),203
+Lower Providence 3-4,Election Day,DAVID WINKLER(REP),213
+Lower Providence 3-4,Mail-in,MADELEINE DEAN(DEM),854
+Lower Providence 3-4,Mail-in,DAVID WINKLER(REP),396
+Lower Providence 3-4,Provisional,MADELEINE DEAN(DEM),9
+Lower Providence 3-4,Provisional,DAVID WINKLER(REP),8
+Lower Providence 3-4,Total,MADELEINE DEAN(DEM),"1,066"
+Lower Providence 3-4,Total,DAVID WINKLER(REP),617
+New Hanover 1,Election Day,MADELEINE DEAN(DEM),547
+New Hanover 1,Election Day,DAVID WINKLER(REP),"1,175"
+New Hanover 1,Mail-in,MADELEINE DEAN(DEM),574
+New Hanover 1,Mail-in,DAVID WINKLER(REP),401
+New Hanover 1,Provisional,MADELEINE DEAN(DEM),9
+New Hanover 1,Provisional,DAVID WINKLER(REP),4
+New Hanover 1,Total,MADELEINE DEAN(DEM),"1,130"
+New Hanover 1,Total,DAVID WINKLER(REP),"1,580"
+New Hanover 2,Election Day,MADELEINE DEAN(DEM),493
+New Hanover 2,Election Day,DAVID WINKLER(REP),963
+New Hanover 2,Mail-in,MADELEINE DEAN(DEM),510
+New Hanover 2,Mail-in,DAVID WINKLER(REP),345
+New Hanover 2,Provisional,MADELEINE DEAN(DEM),7
+New Hanover 2,Provisional,DAVID WINKLER(REP),7
+New Hanover 2,Total,MADELEINE DEAN(DEM),"1,010"
+New Hanover 2,Total,DAVID WINKLER(REP),"1,315"
+Lower Providence 3-1,Election Day,Unresolved Write-In,2
+Lower Providence 3-1,Mail-in,Unresolved Write-In,1
+Lower Providence 3-1,Provisional,Unresolved Write-In,0
+Lower Providence 3-1,Total,Unresolved Write-In,3
+Lower Providence 3-2,Election Day,Unresolved Write-In,****
+Lower Providence 3-2,Mail-in,Unresolved Write-In,****
+Lower Providence 3-2,Provisional,Unresolved Write-In,****
+Lower Providence 3-2,Total,Unresolved Write-In,3
+Lower Providence 3-3,Election Day,Unresolved Write-In,2
+Lower Providence 3-3,Mail-in,Unresolved Write-In,0
+Lower Providence 3-3,Provisional,Unresolved Write-In,0
+Lower Providence 3-3,Total,Unresolved Write-In,2
+Lower Providence 3-4,Election Day,Unresolved Write-In,1
+Lower Providence 3-4,Mail-in,Unresolved Write-In,1
+Lower Providence 3-4,Provisional,Unresolved Write-In,0
+Lower Providence 3-4,Total,Unresolved Write-In,2
+New Hanover 1,Election Day,Unresolved Write-In,6
+New Hanover 1,Mail-in,Unresolved Write-In,1
+New Hanover 1,Provisional,Unresolved Write-In,0
+New Hanover 1,Total,Unresolved Write-In,7
+New Hanover 2,Election Day,Unresolved Write-In,1
+New Hanover 2,Mail-in,Unresolved Write-In,0
+New Hanover 2,Provisional,Unresolved Write-In,0
+New Hanover 2,Total,Unresolved Write-In,1
+New Hanover 3,Election Day,MADELEINE DEAN(DEM),714
+New Hanover 3,Election Day,DAVID WINKLER(REP),"1,200"
+New Hanover 3,Mail-in,MADELEINE DEAN(DEM),629
+New Hanover 3,Mail-in,DAVID WINKLER(REP),289
+New Hanover 3,Provisional,MADELEINE DEAN(DEM),12
+New Hanover 3,Provisional,DAVID WINKLER(REP),3
+New Hanover 3,Total,MADELEINE DEAN(DEM),"1,355"
+New Hanover 3,Total,DAVID WINKLER(REP),"1,492"
+Perkiomen 1,Election Day,MADELEINE DEAN(DEM),751
+Perkiomen 1,Election Day,DAVID WINKLER(REP),840
+Perkiomen 1,Mail-in,MADELEINE DEAN(DEM),772
+Perkiomen 1,Mail-in,DAVID WINKLER(REP),323
+Perkiomen 1,Provisional,MADELEINE DEAN(DEM),6
+Perkiomen 1,Provisional,DAVID WINKLER(REP),7
+Perkiomen 1,Total,MADELEINE DEAN(DEM),"1,529"
+Perkiomen 1,Total,DAVID WINKLER(REP),"1,170"
+Perkiomen 2,Election Day,MADELEINE DEAN(DEM),818
+Perkiomen 2,Election Day,DAVID WINKLER(REP),938
+Perkiomen 2,Mail-in,MADELEINE DEAN(DEM),733
+Perkiomen 2,Mail-in,DAVID WINKLER(REP),338
+Perkiomen 2,Provisional,MADELEINE DEAN(DEM),15
+Perkiomen 2,Provisional,DAVID WINKLER(REP),7
+Perkiomen 2,Total,MADELEINE DEAN(DEM),"1,566"
+Perkiomen 2,Total,DAVID WINKLER(REP),"1,283"
+Plymouth 1-1,Election Day,MADELEINE DEAN(DEM),437
+Plymouth 1-1,Election Day,DAVID WINKLER(REP),390
+Plymouth 1-1,Mail-in,MADELEINE DEAN(DEM),269
+Plymouth 1-1,Mail-in,DAVID WINKLER(REP),108
+Plymouth 1-1,Provisional,MADELEINE DEAN(DEM),12
+Plymouth 1-1,Provisional,DAVID WINKLER(REP),5
+Plymouth 1-1,Total,MADELEINE DEAN(DEM),718
+Plymouth 1-1,Total,DAVID WINKLER(REP),503
+Plymouth 1-2,Election Day,MADELEINE DEAN(DEM),****
+Plymouth 1-2,Election Day,DAVID WINKLER(REP),****
+Plymouth 1-2,Mail-in,MADELEINE DEAN(DEM),****
+Plymouth 1-2,Mail-in,DAVID WINKLER(REP),****
+Plymouth 1-2,Provisional,MADELEINE DEAN(DEM),****
+Plymouth 1-2,Provisional,DAVID WINKLER(REP),****
+Plymouth 1-2,Total,MADELEINE DEAN(DEM),882
+Plymouth 1-2,Total,DAVID WINKLER(REP),497
+Plymouth 2-1,Election Day,MADELEINE DEAN(DEM),236
+Plymouth 2-1,Election Day,DAVID WINKLER(REP),223
+Plymouth 2-1,Mail-in,MADELEINE DEAN(DEM),112
+Plymouth 2-1,Mail-in,DAVID WINKLER(REP),59
+Plymouth 2-1,Provisional,MADELEINE DEAN(DEM),0
+Plymouth 2-1,Provisional,DAVID WINKLER(REP),0
+Plymouth 2-1,Total,MADELEINE DEAN(DEM),348
+Plymouth 2-1,Total,DAVID WINKLER(REP),282
+New Hanover 3,Election Day,Unresolved Write-In,0
+New Hanover 3,Mail-in,Unresolved Write-In,1
+New Hanover 3,Provisional,Unresolved Write-In,0
+New Hanover 3,Total,Unresolved Write-In,1
+Perkiomen 1,Election Day,Unresolved Write-In,6
+Perkiomen 1,Mail-in,Unresolved Write-In,2
+Perkiomen 1,Provisional,Unresolved Write-In,0
+Perkiomen 1,Total,Unresolved Write-In,8
+Perkiomen 2,Election Day,Unresolved Write-In,5
+Perkiomen 2,Mail-in,Unresolved Write-In,3
+Perkiomen 2,Provisional,Unresolved Write-In,0
+Perkiomen 2,Total,Unresolved Write-In,8
+Plymouth 1-1,Election Day,Unresolved Write-In,5
+Plymouth 1-1,Mail-in,Unresolved Write-In,1
+Plymouth 1-1,Provisional,Unresolved Write-In,0
+Plymouth 1-1,Total,Unresolved Write-In,6
+Plymouth 1-2,Election Day,Unresolved Write-In,****
+Plymouth 1-2,Mail-in,Unresolved Write-In,****
+Plymouth 1-2,Provisional,Unresolved Write-In,****
+Plymouth 1-2,Total,Unresolved Write-In,3
+Plymouth 2-1,Election Day,Unresolved Write-In,2
+Plymouth 2-1,Mail-in,Unresolved Write-In,1
+Plymouth 2-1,Provisional,Unresolved Write-In,0
+Plymouth 2-1,Total,Unresolved Write-In,3
+Plymouth 2-2,Election Day,MADELEINE DEAN(DEM),****
+Plymouth 2-2,Election Day,DAVID WINKLER(REP),****
+Plymouth 2-2,Mail-in,MADELEINE DEAN(DEM),****
+Plymouth 2-2,Mail-in,DAVID WINKLER(REP),****
+Plymouth 2-2,Provisional,MADELEINE DEAN(DEM),****
+Plymouth 2-2,Provisional,DAVID WINKLER(REP),****
+Plymouth 2-2,Total,MADELEINE DEAN(DEM),467
+Plymouth 2-2,Total,DAVID WINKLER(REP),400
+Plymouth 2-3,Election Day,MADELEINE DEAN(DEM),****
+Plymouth 2-3,Election Day,DAVID WINKLER(REP),****
+Plymouth 2-3,Mail-in,MADELEINE DEAN(DEM),****
+Plymouth 2-3,Mail-in,DAVID WINKLER(REP),****
+Plymouth 2-3,Provisional,MADELEINE DEAN(DEM),****
+Plymouth 2-3,Provisional,DAVID WINKLER(REP),****
+Plymouth 2-3,Total,MADELEINE DEAN(DEM),642
+Plymouth 2-3,Total,DAVID WINKLER(REP),413
+Plymouth 3-1,Election Day,MADELEINE DEAN(DEM),****
+Plymouth 3-1,Election Day,DAVID WINKLER(REP),****
+Plymouth 3-1,Mail-in,MADELEINE DEAN(DEM),****
+Plymouth 3-1,Mail-in,DAVID WINKLER(REP),****
+Plymouth 3-1,Provisional,MADELEINE DEAN(DEM),****
+Plymouth 3-1,Provisional,DAVID WINKLER(REP),****
+Plymouth 3-1,Total,MADELEINE DEAN(DEM),774
+Plymouth 3-1,Total,DAVID WINKLER(REP),513
+Plymouth 3-2,Election Day,MADELEINE DEAN(DEM),****
+Plymouth 3-2,Election Day,DAVID WINKLER(REP),****
+Plymouth 3-2,Mail-in,MADELEINE DEAN(DEM),****
+Plymouth 3-2,Mail-in,DAVID WINKLER(REP),****
+Plymouth 3-2,Provisional,MADELEINE DEAN(DEM),****
+Plymouth 3-2,Provisional,DAVID WINKLER(REP),****
+Plymouth 3-2,Total,MADELEINE DEAN(DEM),830
+Plymouth 3-2,Total,DAVID WINKLER(REP),333
+Plymouth 3-3,Election Day,MADELEINE DEAN(DEM),****
+Plymouth 3-3,Election Day,DAVID WINKLER(REP),****
+Plymouth 3-3,Mail-in,MADELEINE DEAN(DEM),****
+Plymouth 3-3,Mail-in,DAVID WINKLER(REP),****
+Plymouth 3-3,Provisional,MADELEINE DEAN(DEM),****
+Plymouth 3-3,Provisional,DAVID WINKLER(REP),****
+Plymouth 3-3,Total,MADELEINE DEAN(DEM),691
+Plymouth 3-3,Total,DAVID WINKLER(REP),240
+Plymouth 4-1,Election Day,MADELEINE DEAN(DEM),****
+Plymouth 4-1,Election Day,DAVID WINKLER(REP),****
+Plymouth 4-1,Mail-in,MADELEINE DEAN(DEM),****
+Plymouth 4-1,Mail-in,DAVID WINKLER(REP),****
+Plymouth 4-1,Provisional,MADELEINE DEAN(DEM),****
+Plymouth 4-1,Provisional,DAVID WINKLER(REP),****
+Plymouth 4-1,Total,MADELEINE DEAN(DEM),459
+Plymouth 4-1,Total,DAVID WINKLER(REP),323
+Plymouth 2-2,Election Day,Unresolved Write-In,****
+Plymouth 2-2,Mail-in,Unresolved Write-In,****
+Plymouth 2-2,Provisional,Unresolved Write-In,****
+Plymouth 2-2,Total,Unresolved Write-In,0
+Plymouth 2-3,Election Day,Unresolved Write-In,****
+Plymouth 2-3,Mail-in,Unresolved Write-In,****
+Plymouth 2-3,Provisional,Unresolved Write-In,****
+Plymouth 2-3,Total,Unresolved Write-In,2
+Plymouth 3-1,Election Day,Unresolved Write-In,****
+Plymouth 3-1,Mail-in,Unresolved Write-In,****
+Plymouth 3-1,Provisional,Unresolved Write-In,****
+Plymouth 3-1,Total,Unresolved Write-In,2
+Plymouth 3-2,Election Day,Unresolved Write-In,****
+Plymouth 3-2,Mail-in,Unresolved Write-In,****
+Plymouth 3-2,Provisional,Unresolved Write-In,****
+Plymouth 3-2,Total,Unresolved Write-In,2
+Plymouth 3-3,Election Day,Unresolved Write-In,****
+Plymouth 3-3,Mail-in,Unresolved Write-In,****
+Plymouth 3-3,Provisional,Unresolved Write-In,****
+Plymouth 3-3,Total,Unresolved Write-In,2
+Plymouth 4-1,Election Day,Unresolved Write-In,****
+Plymouth 4-1,Mail-in,Unresolved Write-In,****
+Plymouth 4-1,Provisional,Unresolved Write-In,****
+Plymouth 4-1,Total,Unresolved Write-In,0
+Plymouth 4-2,Election Day,MADELEINE DEAN(DEM),617
+Plymouth 4-2,Election Day,DAVID WINKLER(REP),446
+Plymouth 4-2,Mail-in,MADELEINE DEAN(DEM),272
+Plymouth 4-2,Mail-in,DAVID WINKLER(REP),112
+Plymouth 4-2,Provisional,MADELEINE DEAN(DEM),10
+Plymouth 4-2,Provisional,DAVID WINKLER(REP),1
+Plymouth 4-2,Total,MADELEINE DEAN(DEM),899
+Plymouth 4-2,Total,DAVID WINKLER(REP),559
+Lower Salford 1,Election Day,MADELEINE DEAN(DEM),****
+Lower Salford 1,Election Day,DAVID WINKLER(REP),****
+Lower Salford 1,Mail-in,MADELEINE DEAN(DEM),****
+Lower Salford 1,Mail-in,DAVID WINKLER(REP),****
+Lower Salford 1,Provisional,MADELEINE DEAN(DEM),****
+Lower Salford 1,Provisional,DAVID WINKLER(REP),****
+Lower Salford 1,Total,MADELEINE DEAN(DEM),891
+Lower Salford 1,Total,DAVID WINKLER(REP),954
+Lower Salford 2,Election Day,MADELEINE DEAN(DEM),****
+Lower Salford 2,Election Day,DAVID WINKLER(REP),****
+Lower Salford 2,Mail-in,MADELEINE DEAN(DEM),****
+Lower Salford 2,Mail-in,DAVID WINKLER(REP),****
+Lower Salford 2,Provisional,MADELEINE DEAN(DEM),****
+Lower Salford 2,Provisional,DAVID WINKLER(REP),****
+Lower Salford 2,Total,MADELEINE DEAN(DEM),831
+Lower Salford 2,Total,DAVID WINKLER(REP),724
+Lower Salford 3,Election Day,MADELEINE DEAN(DEM),499
+Lower Salford 3,Election Day,DAVID WINKLER(REP),557
+Lower Salford 3,Mail-in,MADELEINE DEAN(DEM),284
+Lower Salford 3,Mail-in,DAVID WINKLER(REP),170
+Lower Salford 3,Provisional,MADELEINE DEAN(DEM),7
+Lower Salford 3,Provisional,DAVID WINKLER(REP),8
+Lower Salford 3,Total,MADELEINE DEAN(DEM),790
+Lower Salford 3,Total,DAVID WINKLER(REP),735
+Lower Salford 4,Election Day,MADELEINE DEAN(DEM),****
+Lower Salford 4,Election Day,DAVID WINKLER(REP),****
+Lower Salford 4,Mail-in,MADELEINE DEAN(DEM),****
+Lower Salford 4,Mail-in,DAVID WINKLER(REP),****
+Lower Salford 4,Provisional,MADELEINE DEAN(DEM),****
+Lower Salford 4,Provisional,DAVID WINKLER(REP),****
+Lower Salford 4,Total,MADELEINE DEAN(DEM),813
+Lower Salford 4,Total,DAVID WINKLER(REP),709
+Lower Salford 5,Election Day,MADELEINE DEAN(DEM),479
+Lower Salford 5,Election Day,DAVID WINKLER(REP),820
+Lower Salford 5,Mail-in,MADELEINE DEAN(DEM),432
+Lower Salford 5,Mail-in,DAVID WINKLER(REP),285
+Lower Salford 5,Provisional,MADELEINE DEAN(DEM),6
+Lower Salford 5,Provisional,DAVID WINKLER(REP),6
+Lower Salford 5,Total,MADELEINE DEAN(DEM),917
+Lower Salford 5,Total,DAVID WINKLER(REP),"1,111"
+Plymouth 4-2,Election Day,Unresolved Write-In,2
+Plymouth 4-2,Mail-in,Unresolved Write-In,2
+Plymouth 4-2,Provisional,Unresolved Write-In,0
+Plymouth 4-2,Total,Unresolved Write-In,4
+Lower Salford 1,Election Day,Unresolved Write-In,****
+Lower Salford 1,Mail-in,Unresolved Write-In,****
+Lower Salford 1,Provisional,Unresolved Write-In,****
+Lower Salford 1,Total,Unresolved Write-In,2
+Lower Salford 2,Election Day,Unresolved Write-In,****
+Lower Salford 2,Mail-in,Unresolved Write-In,****
+Lower Salford 2,Provisional,Unresolved Write-In,****
+Lower Salford 2,Total,Unresolved Write-In,2
+Lower Salford 3,Election Day,Unresolved Write-In,2
+Lower Salford 3,Mail-in,Unresolved Write-In,0
+Lower Salford 3,Provisional,Unresolved Write-In,0
+Lower Salford 3,Total,Unresolved Write-In,2
+Lower Salford 4,Election Day,Unresolved Write-In,****
+Lower Salford 4,Mail-in,Unresolved Write-In,****
+Lower Salford 4,Provisional,Unresolved Write-In,****
+Lower Salford 4,Total,Unresolved Write-In,0
+Lower Salford 5,Election Day,Unresolved Write-In,3
+Lower Salford 5,Mail-in,Unresolved Write-In,1
+Lower Salford 5,Provisional,Unresolved Write-In,0
+Lower Salford 5,Total,Unresolved Write-In,4
+Lower Salford 6,Election Day,MADELEINE DEAN(DEM),479
+Lower Salford 6,Election Day,DAVID WINKLER(REP),574
+Lower Salford 6,Mail-in,MADELEINE DEAN(DEM),443
+Lower Salford 6,Mail-in,DAVID WINKLER(REP),242
+Lower Salford 6,Provisional,MADELEINE DEAN(DEM),5
+Lower Salford 6,Provisional,DAVID WINKLER(REP),8
+Lower Salford 6,Total,MADELEINE DEAN(DEM),927
+Lower Salford 6,Total,DAVID WINKLER(REP),824
+Skippack 1,Election Day,MADELEINE DEAN(DEM),819
+Skippack 1,Election Day,DAVID WINKLER(REP),866
+Skippack 1,Mail-in,MADELEINE DEAN(DEM),536
+Skippack 1,Mail-in,DAVID WINKLER(REP),247
+Skippack 1,Provisional,MADELEINE DEAN(DEM),11
+Skippack 1,Provisional,DAVID WINKLER(REP),7
+Skippack 1,Total,MADELEINE DEAN(DEM),"1,366"
+Skippack 1,Total,DAVID WINKLER(REP),"1,120"
+Skippack 2,Election Day,MADELEINE DEAN(DEM),628
+Skippack 2,Election Day,DAVID WINKLER(REP),781
+Skippack 2,Mail-in,MADELEINE DEAN(DEM),634
+Skippack 2,Mail-in,DAVID WINKLER(REP),361
+Skippack 2,Provisional,MADELEINE DEAN(DEM),11
+Skippack 2,Provisional,DAVID WINKLER(REP),11
+Skippack 2,Total,MADELEINE DEAN(DEM),"1,273"
+Skippack 2,Total,DAVID WINKLER(REP),"1,153"
+Skippack 3,Election Day,MADELEINE DEAN(DEM),581
+Skippack 3,Election Day,DAVID WINKLER(REP),816
+Skippack 3,Mail-in,MADELEINE DEAN(DEM),689
+Skippack 3,Mail-in,DAVID WINKLER(REP),441
+Skippack 3,Provisional,MADELEINE DEAN(DEM),6
+Skippack 3,Provisional,DAVID WINKLER(REP),5
+Skippack 3,Total,MADELEINE DEAN(DEM),"1,276"
+Skippack 3,Total,DAVID WINKLER(REP),"1,262"
+Springfield 1-1,Election Day,MADELEINE DEAN(DEM),****
+Springfield 1-1,Election Day,DAVID WINKLER(REP),****
+Springfield 1-1,Mail-in,MADELEINE DEAN(DEM),****
+Springfield 1-1,Mail-in,DAVID WINKLER(REP),****
+Springfield 1-1,Provisional,MADELEINE DEAN(DEM),****
+Springfield 1-1,Provisional,DAVID WINKLER(REP),****
+Springfield 1-1,Total,MADELEINE DEAN(DEM),934
+Springfield 1-1,Total,DAVID WINKLER(REP),249
+Springfield 1-2,Election Day,MADELEINE DEAN(DEM),600
+Springfield 1-2,Election Day,DAVID WINKLER(REP),356
+Springfield 1-2,Mail-in,MADELEINE DEAN(DEM),325
+Springfield 1-2,Mail-in,DAVID WINKLER(REP),105
+Springfield 1-2,Provisional,MADELEINE DEAN(DEM),7
+Springfield 1-2,Provisional,DAVID WINKLER(REP),3
+Springfield 1-2,Total,MADELEINE DEAN(DEM),932
+Springfield 1-2,Total,DAVID WINKLER(REP),464
+Hatboro South 1,Election Day,MADELEINE DEAN(DEM),****
+Hatboro South 1,Election Day,DAVID WINKLER(REP),****
+Hatboro South 1,Mail-in,MADELEINE DEAN(DEM),****
+Hatboro South 1,Mail-in,DAVID WINKLER(REP),****
+Hatboro South 1,Provisional,MADELEINE DEAN(DEM),****
+Hatboro South 1,Provisional,DAVID WINKLER(REP),****
+Hatboro South 1,Total,MADELEINE DEAN(DEM),763
+Hatboro South 1,Total,DAVID WINKLER(REP),471
+Hatboro South 2,Election Day,MADELEINE DEAN(DEM),****
+Hatboro South 2,Election Day,DAVID WINKLER(REP),****
+Hatboro South 2,Mail-in,MADELEINE DEAN(DEM),****
+Hatboro South 2,Mail-in,DAVID WINKLER(REP),****
+Hatboro South 2,Provisional,MADELEINE DEAN(DEM),****
+Hatboro South 2,Provisional,DAVID WINKLER(REP),****
+Hatboro South 2,Total,MADELEINE DEAN(DEM),578
+Hatboro South 2,Total,DAVID WINKLER(REP),342
+Jenkintown 1,Election Day,MADELEINE DEAN(DEM),****
+Jenkintown 1,Election Day,DAVID WINKLER(REP),****
+Jenkintown 1,Mail-in,MADELEINE DEAN(DEM),****
+Jenkintown 1,Mail-in,DAVID WINKLER(REP),****
+Jenkintown 1,Provisional,MADELEINE DEAN(DEM),****
+Jenkintown 1,Provisional,DAVID WINKLER(REP),****
+Jenkintown 1,Total,MADELEINE DEAN(DEM),604
+Jenkintown 1,Total,DAVID WINKLER(REP),176
+Jenkintown 2,Election Day,MADELEINE DEAN(DEM),****
+Jenkintown 2,Election Day,DAVID WINKLER(REP),****
+Jenkintown 2,Mail-in,MADELEINE DEAN(DEM),****
+Jenkintown 2,Mail-in,DAVID WINKLER(REP),****
+Jenkintown 2,Provisional,MADELEINE DEAN(DEM),****
+Jenkintown 2,Provisional,DAVID WINKLER(REP),****
+Jenkintown 2,Total,MADELEINE DEAN(DEM),595
+Jenkintown 2,Total,DAVID WINKLER(REP),148
+Jenkintown 3,Election Day,MADELEINE DEAN(DEM),****
+Jenkintown 3,Election Day,DAVID WINKLER(REP),****
+Jenkintown 3,Mail-in,MADELEINE DEAN(DEM),****
+Jenkintown 3,Mail-in,DAVID WINKLER(REP),****
+Jenkintown 3,Provisional,MADELEINE DEAN(DEM),****
+Jenkintown 3,Provisional,DAVID WINKLER(REP),****
+Jenkintown 3,Total,MADELEINE DEAN(DEM),594
+Jenkintown 3,Total,DAVID WINKLER(REP),147
+Jenkintown 4,Election Day,MADELEINE DEAN(DEM),482
+Jenkintown 4,Election Day,DAVID WINKLER(REP),115
+Jenkintown 4,Mail-in,MADELEINE DEAN(DEM),195
+Jenkintown 4,Mail-in,DAVID WINKLER(REP),38
+Jenkintown 4,Provisional,MADELEINE DEAN(DEM),9
+Jenkintown 4,Provisional,DAVID WINKLER(REP),4
+Jenkintown 4,Total,MADELEINE DEAN(DEM),686
+Jenkintown 4,Total,DAVID WINKLER(REP),157
+Lower Salford 6,Election Day,Unresolved Write-In,4
+Lower Salford 6,Mail-in,Unresolved Write-In,0
+Lower Salford 6,Provisional,Unresolved Write-In,0
+Lower Salford 6,Total,Unresolved Write-In,4
+Skippack 1,Election Day,Unresolved Write-In,1
+Skippack 1,Mail-in,Unresolved Write-In,0
+Skippack 1,Provisional,Unresolved Write-In,0
+Skippack 1,Total,Unresolved Write-In,1
+Skippack 2,Election Day,Unresolved Write-In,0
+Skippack 2,Mail-in,Unresolved Write-In,2
+Skippack 2,Provisional,Unresolved Write-In,0
+Skippack 2,Total,Unresolved Write-In,2
+Skippack 3,Election Day,Unresolved Write-In,2
+Skippack 3,Mail-in,Unresolved Write-In,1
+Skippack 3,Provisional,Unresolved Write-In,1
+Skippack 3,Total,Unresolved Write-In,4
+Springfield 1-1,Election Day,Unresolved Write-In,****
+Springfield 1-1,Mail-in,Unresolved Write-In,****
+Springfield 1-1,Provisional,Unresolved Write-In,****
+Springfield 1-1,Total,Unresolved Write-In,3
+Springfield 1-2,Election Day,Unresolved Write-In,1
+Springfield 1-2,Mail-in,Unresolved Write-In,0
+Springfield 1-2,Provisional,Unresolved Write-In,0
+Springfield 1-2,Total,Unresolved Write-In,1
+Springfield 2-1,Election Day,MADELEINE DEAN(DEM),429
+Springfield 2-1,Election Day,DAVID WINKLER(REP),141
+Springfield 2-1,Mail-in,MADELEINE DEAN(DEM),250
+Springfield 2-1,Mail-in,DAVID WINKLER(REP),28
+Springfield 2-1,Provisional,MADELEINE DEAN(DEM),10
+Springfield 2-1,Provisional,DAVID WINKLER(REP),4
+Springfield 2-1,Total,MADELEINE DEAN(DEM),689
+Springfield 2-1,Total,DAVID WINKLER(REP),173
+Springfield 2-2,Election Day,MADELEINE DEAN(DEM),****
+Springfield 2-2,Election Day,DAVID WINKLER(REP),****
+Springfield 2-2,Mail-in,MADELEINE DEAN(DEM),****
+Springfield 2-2,Mail-in,DAVID WINKLER(REP),****
+Springfield 2-2,Provisional,MADELEINE DEAN(DEM),****
+Springfield 2-2,Provisional,DAVID WINKLER(REP),****
+Springfield 2-2,Total,MADELEINE DEAN(DEM),638
+Springfield 2-2,Total,DAVID WINKLER(REP),151
+Springfield 2-3,Election Day,MADELEINE DEAN(DEM),****
+Springfield 2-3,Election Day,DAVID WINKLER(REP),****
+Springfield 2-3,Mail-in,MADELEINE DEAN(DEM),****
+Springfield 2-3,Mail-in,DAVID WINKLER(REP),****
+Springfield 2-3,Provisional,MADELEINE DEAN(DEM),****
+Springfield 2-3,Provisional,DAVID WINKLER(REP),****
+Springfield 2-3,Total,MADELEINE DEAN(DEM),371
+Springfield 2-3,Total,DAVID WINKLER(REP),103
+Springfield 3-1,Election Day,MADELEINE DEAN(DEM),****
+Springfield 3-1,Election Day,DAVID WINKLER(REP),****
+Springfield 3-1,Mail-in,MADELEINE DEAN(DEM),****
+Springfield 3-1,Mail-in,DAVID WINKLER(REP),****
+Springfield 3-1,Provisional,MADELEINE DEAN(DEM),****
+Springfield 3-1,Provisional,DAVID WINKLER(REP),****
+Springfield 3-1,Total,MADELEINE DEAN(DEM),708
+Springfield 3-1,Total,DAVID WINKLER(REP),362
+Springfield 3-2,Election Day,MADELEINE DEAN(DEM),534
+Springfield 3-2,Election Day,DAVID WINKLER(REP),309
+Springfield 3-2,Mail-in,MADELEINE DEAN(DEM),244
+Springfield 3-2,Mail-in,DAVID WINKLER(REP),60
+Springfield 3-2,Provisional,MADELEINE DEAN(DEM),9
+Springfield 3-2,Provisional,DAVID WINKLER(REP),4
+Springfield 3-2,Total,MADELEINE DEAN(DEM),787
+Springfield 3-2,Total,DAVID WINKLER(REP),373
+Springfield 4-1,Election Day,MADELEINE DEAN(DEM),****
+Springfield 4-1,Election Day,DAVID WINKLER(REP),****
+Springfield 4-1,Mail-in,MADELEINE DEAN(DEM),****
+Springfield 4-1,Mail-in,DAVID WINKLER(REP),****
+Springfield 4-1,Provisional,MADELEINE DEAN(DEM),****
+Springfield 4-1,Provisional,DAVID WINKLER(REP),****
+Springfield 4-1,Total,MADELEINE DEAN(DEM),511
+Springfield 4-1,Total,DAVID WINKLER(REP),201
+Springfield 2-1,Election Day,Unresolved Write-In,1
+Springfield 2-1,Mail-in,Unresolved Write-In,0
+Springfield 2-1,Provisional,Unresolved Write-In,0
+Springfield 2-1,Total,Unresolved Write-In,1
+Springfield 2-2,Election Day,Unresolved Write-In,****
+Springfield 2-2,Mail-in,Unresolved Write-In,****
+Springfield 2-2,Provisional,Unresolved Write-In,****
+Springfield 2-2,Total,Unresolved Write-In,3
+Springfield 2-3,Election Day,Unresolved Write-In,****
+Springfield 2-3,Mail-in,Unresolved Write-In,****
+Springfield 2-3,Provisional,Unresolved Write-In,****
+Springfield 2-3,Total,Unresolved Write-In,1
+Springfield 3-1,Election Day,Unresolved Write-In,****
+Springfield 3-1,Mail-in,Unresolved Write-In,****
+Springfield 3-1,Provisional,Unresolved Write-In,****
+Springfield 3-1,Total,Unresolved Write-In,0
+Springfield 3-2,Election Day,Unresolved Write-In,0
+Springfield 3-2,Mail-in,Unresolved Write-In,0
+Springfield 3-2,Provisional,Unresolved Write-In,0
+Springfield 3-2,Total,Unresolved Write-In,0
+Springfield 4-1,Election Day,Unresolved Write-In,****
+Springfield 4-1,Mail-in,Unresolved Write-In,****
+Springfield 4-1,Provisional,Unresolved Write-In,****
+Springfield 4-1,Total,Unresolved Write-In,3
+Springfield 4-2,Election Day,MADELEINE DEAN(DEM),****
+Springfield 4-2,Election Day,DAVID WINKLER(REP),****
+Springfield 4-2,Mail-in,MADELEINE DEAN(DEM),****
+Springfield 4-2,Mail-in,DAVID WINKLER(REP),****
+Springfield 4-2,Provisional,MADELEINE DEAN(DEM),****
+Springfield 4-2,Provisional,DAVID WINKLER(REP),****
+Springfield 4-2,Total,MADELEINE DEAN(DEM),800
+Springfield 4-2,Total,DAVID WINKLER(REP),306
+Springfield 5-1,Election Day,MADELEINE DEAN(DEM),****
+Springfield 5-1,Election Day,DAVID WINKLER(REP),****
+Springfield 5-1,Mail-in,MADELEINE DEAN(DEM),****
+Springfield 5-1,Mail-in,DAVID WINKLER(REP),****
+Springfield 5-1,Provisional,MADELEINE DEAN(DEM),****
+Springfield 5-1,Provisional,DAVID WINKLER(REP),****
+Springfield 5-1,Total,MADELEINE DEAN(DEM),959
+Springfield 5-1,Total,DAVID WINKLER(REP),232
+Springfield 5-2,Election Day,MADELEINE DEAN(DEM),****
+Springfield 5-2,Election Day,DAVID WINKLER(REP),****
+Springfield 5-2,Mail-in,MADELEINE DEAN(DEM),****
+Springfield 5-2,Mail-in,DAVID WINKLER(REP),****
+Springfield 5-2,Provisional,MADELEINE DEAN(DEM),****
+Springfield 5-2,Provisional,DAVID WINKLER(REP),****
+Springfield 5-2,Total,MADELEINE DEAN(DEM),429
+Springfield 5-2,Total,DAVID WINKLER(REP),132
+Springfield 6-1,Election Day,MADELEINE DEAN(DEM),****
+Springfield 6-1,Election Day,DAVID WINKLER(REP),****
+Springfield 6-1,Mail-in,MADELEINE DEAN(DEM),****
+Springfield 6-1,Mail-in,DAVID WINKLER(REP),****
+Springfield 6-1,Provisional,MADELEINE DEAN(DEM),****
+Springfield 6-1,Provisional,DAVID WINKLER(REP),****
+Springfield 6-1,Total,MADELEINE DEAN(DEM),474
+Springfield 6-1,Total,DAVID WINKLER(REP),291
+Springfield 6-2,Election Day,MADELEINE DEAN(DEM),****
+Springfield 6-2,Election Day,DAVID WINKLER(REP),****
+Springfield 6-2,Mail-in,MADELEINE DEAN(DEM),****
+Springfield 6-2,Mail-in,DAVID WINKLER(REP),****
+Springfield 6-2,Provisional,MADELEINE DEAN(DEM),****
+Springfield 6-2,Provisional,DAVID WINKLER(REP),****
+Springfield 6-2,Total,MADELEINE DEAN(DEM),563
+Springfield 6-2,Total,DAVID WINKLER(REP),341
+Springfield 7-1,Election Day,MADELEINE DEAN(DEM),****
+Springfield 7-1,Election Day,DAVID WINKLER(REP),****
+Springfield 7-1,Mail-in,MADELEINE DEAN(DEM),****
+Springfield 7-1,Mail-in,DAVID WINKLER(REP),****
+Springfield 7-1,Provisional,MADELEINE DEAN(DEM),****
+Springfield 7-1,Provisional,DAVID WINKLER(REP),****
+Springfield 7-1,Total,MADELEINE DEAN(DEM),599
+Springfield 7-1,Total,DAVID WINKLER(REP),120
+Springfield 4-2,Election Day,Unresolved Write-In,****
+Springfield 4-2,Mail-in,Unresolved Write-In,****
+Springfield 4-2,Provisional,Unresolved Write-In,****
+Springfield 4-2,Total,Unresolved Write-In,1
+Springfield 5-1,Election Day,Unresolved Write-In,****
+Springfield 5-1,Mail-in,Unresolved Write-In,****
+Springfield 5-1,Provisional,Unresolved Write-In,****
+Springfield 5-1,Total,Unresolved Write-In,8
+Springfield 5-2,Election Day,Unresolved Write-In,****
+Springfield 5-2,Mail-in,Unresolved Write-In,****
+Springfield 5-2,Provisional,Unresolved Write-In,****
+Springfield 5-2,Total,Unresolved Write-In,1
+Springfield 6-1,Election Day,Unresolved Write-In,****
+Springfield 6-1,Mail-in,Unresolved Write-In,****
+Springfield 6-1,Provisional,Unresolved Write-In,****
+Springfield 6-1,Total,Unresolved Write-In,2
+Springfield 6-2,Election Day,Unresolved Write-In,****
+Springfield 6-2,Mail-in,Unresolved Write-In,****
+Springfield 6-2,Provisional,Unresolved Write-In,****
+Springfield 6-2,Total,Unresolved Write-In,2
+Springfield 7-1,Election Day,Unresolved Write-In,****
+Springfield 7-1,Mail-in,Unresolved Write-In,****
+Springfield 7-1,Provisional,Unresolved Write-In,****
+Springfield 7-1,Total,Unresolved Write-In,0
+Springfield 7-2,Election Day,MADELEINE DEAN(DEM),****
+Springfield 7-2,Election Day,DAVID WINKLER(REP),****
+Springfield 7-2,Mail-in,MADELEINE DEAN(DEM),****
+Springfield 7-2,Mail-in,DAVID WINKLER(REP),****
+Springfield 7-2,Provisional,MADELEINE DEAN(DEM),****
+Springfield 7-2,Provisional,DAVID WINKLER(REP),****
+Springfield 7-2,Total,MADELEINE DEAN(DEM),611
+Springfield 7-2,Total,DAVID WINKLER(REP),350
+Towamencin 1-1,Election Day,MADELEINE DEAN(DEM),451
+Towamencin 1-1,Election Day,DAVID WINKLER(REP),422
+Towamencin 1-1,Mail-in,MADELEINE DEAN(DEM),344
+Towamencin 1-1,Mail-in,DAVID WINKLER(REP),135
+Towamencin 1-1,Provisional,MADELEINE DEAN(DEM),10
+Towamencin 1-1,Provisional,DAVID WINKLER(REP),2
+Towamencin 1-1,Total,MADELEINE DEAN(DEM),805
+Towamencin 1-1,Total,DAVID WINKLER(REP),559
+Towamencin 1-2,Election Day,MADELEINE DEAN(DEM),****
+Towamencin 1-2,Election Day,DAVID WINKLER(REP),****
+Towamencin 1-2,Mail-in,MADELEINE DEAN(DEM),****
+Towamencin 1-2,Mail-in,DAVID WINKLER(REP),****
+Towamencin 1-2,Provisional,MADELEINE DEAN(DEM),****
+Towamencin 1-2,Provisional,DAVID WINKLER(REP),****
+Towamencin 1-2,Total,MADELEINE DEAN(DEM),556
+Towamencin 1-2,Total,DAVID WINKLER(REP),398
+Towamencin 1-3,Election Day,MADELEINE DEAN(DEM),448
+Towamencin 1-3,Election Day,DAVID WINKLER(REP),398
+Towamencin 1-3,Mail-in,MADELEINE DEAN(DEM),384
+Towamencin 1-3,Mail-in,DAVID WINKLER(REP),159
+Towamencin 1-3,Provisional,MADELEINE DEAN(DEM),9
+Towamencin 1-3,Provisional,DAVID WINKLER(REP),4
+Towamencin 1-3,Total,MADELEINE DEAN(DEM),841
+Towamencin 1-3,Total,DAVID WINKLER(REP),561
+Towamencin 2-1,Election Day,MADELEINE DEAN(DEM),438
+Towamencin 2-1,Election Day,DAVID WINKLER(REP),422
+Towamencin 2-1,Mail-in,MADELEINE DEAN(DEM),274
+Towamencin 2-1,Mail-in,DAVID WINKLER(REP),126
+Towamencin 2-1,Provisional,MADELEINE DEAN(DEM),12
+Towamencin 2-1,Provisional,DAVID WINKLER(REP),5
+Towamencin 2-1,Total,MADELEINE DEAN(DEM),724
+Towamencin 2-1,Total,DAVID WINKLER(REP),553
+Towamencin 2-2,Election Day,MADELEINE DEAN(DEM),****
+Towamencin 2-2,Election Day,DAVID WINKLER(REP),****
+Towamencin 2-2,Mail-in,MADELEINE DEAN(DEM),****
+Towamencin 2-2,Mail-in,DAVID WINKLER(REP),****
+Towamencin 2-2,Provisional,MADELEINE DEAN(DEM),****
+Towamencin 2-2,Provisional,DAVID WINKLER(REP),****
+Towamencin 2-2,Total,MADELEINE DEAN(DEM),728
+Towamencin 2-2,Total,DAVID WINKLER(REP),520
+Springfield 7-2,Election Day,Unresolved Write-In,****
+Springfield 7-2,Mail-in,Unresolved Write-In,****
+Springfield 7-2,Provisional,Unresolved Write-In,****
+Springfield 7-2,Total,Unresolved Write-In,0
+Towamencin 1-1,Election Day,Unresolved Write-In,1
+Towamencin 1-1,Mail-in,Unresolved Write-In,0
+Towamencin 1-1,Provisional,Unresolved Write-In,0
+Towamencin 1-1,Total,Unresolved Write-In,1
+Towamencin 1-2,Election Day,Unresolved Write-In,****
+Towamencin 1-2,Mail-in,Unresolved Write-In,****
+Towamencin 1-2,Provisional,Unresolved Write-In,****
+Towamencin 1-2,Total,Unresolved Write-In,2
+Towamencin 1-3,Election Day,Unresolved Write-In,3
+Towamencin 1-3,Mail-in,Unresolved Write-In,0
+Towamencin 1-3,Provisional,Unresolved Write-In,0
+Towamencin 1-3,Total,Unresolved Write-In,3
+Towamencin 2-1,Election Day,Unresolved Write-In,3
+Towamencin 2-1,Mail-in,Unresolved Write-In,0
+Towamencin 2-1,Provisional,Unresolved Write-In,0
+Towamencin 2-1,Total,Unresolved Write-In,3
+Towamencin 2-2,Election Day,Unresolved Write-In,****
+Towamencin 2-2,Mail-in,Unresolved Write-In,****
+Towamencin 2-2,Provisional,Unresolved Write-In,****
+Towamencin 2-2,Total,Unresolved Write-In,3
+Towamencin 2-3,Election Day,MADELEINE DEAN(DEM),398
+Towamencin 2-3,Election Day,DAVID WINKLER(REP),535
+Towamencin 2-3,Mail-in,MADELEINE DEAN(DEM),217
+Towamencin 2-3,Mail-in,DAVID WINKLER(REP),114
+Towamencin 2-3,Provisional,MADELEINE DEAN(DEM),9
+Towamencin 2-3,Provisional,DAVID WINKLER(REP),4
+Towamencin 2-3,Total,MADELEINE DEAN(DEM),624
+Towamencin 2-3,Total,DAVID WINKLER(REP),653
+Towamencin 3-1,Election Day,MADELEINE DEAN(DEM),444
+Towamencin 3-1,Election Day,DAVID WINKLER(REP),492
+Towamencin 3-1,Mail-in,MADELEINE DEAN(DEM),530
+Towamencin 3-1,Mail-in,DAVID WINKLER(REP),278
+Towamencin 3-1,Provisional,MADELEINE DEAN(DEM),11
+Towamencin 3-1,Provisional,DAVID WINKLER(REP),5
+Towamencin 3-1,Total,MADELEINE DEAN(DEM),985
+Towamencin 3-1,Total,DAVID WINKLER(REP),775
+Towamencin 3-2,Election Day,MADELEINE DEAN(DEM),395
+Towamencin 3-2,Election Day,DAVID WINKLER(REP),273
+Towamencin 3-2,Mail-in,MADELEINE DEAN(DEM),231
+Towamencin 3-2,Mail-in,DAVID WINKLER(REP),88
+Towamencin 3-2,Provisional,MADELEINE DEAN(DEM),11
+Towamencin 3-2,Provisional,DAVID WINKLER(REP),2
+Towamencin 3-2,Total,MADELEINE DEAN(DEM),637
+Towamencin 3-2,Total,DAVID WINKLER(REP),363
+Towamencin 3-3,Election Day,MADELEINE DEAN(DEM),****
+Towamencin 3-3,Election Day,DAVID WINKLER(REP),****
+Towamencin 3-3,Mail-in,MADELEINE DEAN(DEM),****
+Towamencin 3-3,Mail-in,DAVID WINKLER(REP),****
+Towamencin 3-3,Provisional,MADELEINE DEAN(DEM),****
+Towamencin 3-3,Provisional,DAVID WINKLER(REP),****
+Towamencin 3-3,Total,MADELEINE DEAN(DEM),773
+Towamencin 3-3,Total,DAVID WINKLER(REP),441
+Upper Dublin 1-1,Election Day,MADELEINE DEAN(DEM),****
+Upper Dublin 1-1,Election Day,DAVID WINKLER(REP),****
+Upper Dublin 1-1,Mail-in,MADELEINE DEAN(DEM),****
+Upper Dublin 1-1,Mail-in,DAVID WINKLER(REP),****
+Upper Dublin 1-1,Provisional,MADELEINE DEAN(DEM),****
+Upper Dublin 1-1,Provisional,DAVID WINKLER(REP),****
+Upper Dublin 1-1,Total,MADELEINE DEAN(DEM),558
+Upper Dublin 1-1,Total,DAVID WINKLER(REP),265
+Upper Dublin 1-2,Election Day,MADELEINE DEAN(DEM),****
+Upper Dublin 1-2,Election Day,DAVID WINKLER(REP),****
+Upper Dublin 1-2,Mail-in,MADELEINE DEAN(DEM),****
+Upper Dublin 1-2,Mail-in,DAVID WINKLER(REP),****
+Upper Dublin 1-2,Provisional,MADELEINE DEAN(DEM),****
+Upper Dublin 1-2,Provisional,DAVID WINKLER(REP),****
+Upper Dublin 1-2,Total,MADELEINE DEAN(DEM),594
+Upper Dublin 1-2,Total,DAVID WINKLER(REP),289
+Towamencin 2-3,Election Day,Unresolved Write-In,2
+Towamencin 2-3,Mail-in,Unresolved Write-In,0
+Towamencin 2-3,Provisional,Unresolved Write-In,0
+Towamencin 2-3,Total,Unresolved Write-In,2
+Towamencin 3-1,Election Day,Unresolved Write-In,0
+Towamencin 3-1,Mail-in,Unresolved Write-In,0
+Towamencin 3-1,Provisional,Unresolved Write-In,0
+Towamencin 3-1,Total,Unresolved Write-In,0
+Towamencin 3-2,Election Day,Unresolved Write-In,0
+Towamencin 3-2,Mail-in,Unresolved Write-In,0
+Towamencin 3-2,Provisional,Unresolved Write-In,1
+Towamencin 3-2,Total,Unresolved Write-In,1
+Towamencin 3-3,Election Day,Unresolved Write-In,****
+Towamencin 3-3,Mail-in,Unresolved Write-In,****
+Towamencin 3-3,Provisional,Unresolved Write-In,****
+Towamencin 3-3,Total,Unresolved Write-In,1
+Upper Dublin 1-1,Election Day,Unresolved Write-In,****
+Upper Dublin 1-1,Mail-in,Unresolved Write-In,****
+Upper Dublin 1-1,Provisional,Unresolved Write-In,****
+Upper Dublin 1-1,Total,Unresolved Write-In,0
+Upper Dublin 1-2,Election Day,Unresolved Write-In,****
+Upper Dublin 1-2,Mail-in,Unresolved Write-In,****
+Upper Dublin 1-2,Provisional,Unresolved Write-In,****
+Upper Dublin 1-2,Total,Unresolved Write-In,3
+Upper Dublin 1-3,Election Day,MADELEINE DEAN(DEM),404
+Upper Dublin 1-3,Election Day,DAVID WINKLER(REP),305
+Upper Dublin 1-3,Mail-in,MADELEINE DEAN(DEM),362
+Upper Dublin 1-3,Mail-in,DAVID WINKLER(REP),119
+Upper Dublin 1-3,Provisional,MADELEINE DEAN(DEM),9
+Upper Dublin 1-3,Provisional,DAVID WINKLER(REP),2
+Upper Dublin 1-3,Total,MADELEINE DEAN(DEM),775
+Upper Dublin 1-3,Total,DAVID WINKLER(REP),426
+Upper Dublin 2-1,Election Day,MADELEINE DEAN(DEM),****
+Upper Dublin 2-1,Election Day,DAVID WINKLER(REP),****
+Upper Dublin 2-1,Mail-in,MADELEINE DEAN(DEM),****
+Upper Dublin 2-1,Mail-in,DAVID WINKLER(REP),****
+Upper Dublin 2-1,Provisional,MADELEINE DEAN(DEM),****
+Upper Dublin 2-1,Provisional,DAVID WINKLER(REP),****
+Upper Dublin 2-1,Total,MADELEINE DEAN(DEM),537
+Upper Dublin 2-1,Total,DAVID WINKLER(REP),311
+Upper Dublin 2-2,Election Day,MADELEINE DEAN(DEM),****
+Upper Dublin 2-2,Election Day,DAVID WINKLER(REP),****
+Upper Dublin 2-2,Mail-in,MADELEINE DEAN(DEM),****
+Upper Dublin 2-2,Mail-in,DAVID WINKLER(REP),****
+Upper Dublin 2-2,Provisional,MADELEINE DEAN(DEM),****
+Upper Dublin 2-2,Provisional,DAVID WINKLER(REP),****
+Upper Dublin 2-2,Total,MADELEINE DEAN(DEM),462
+Upper Dublin 2-2,Total,DAVID WINKLER(REP),217
+Upper Dublin 2-3,Election Day,MADELEINE DEAN(DEM),****
+Upper Dublin 2-3,Election Day,DAVID WINKLER(REP),****
+Upper Dublin 2-3,Mail-in,MADELEINE DEAN(DEM),****
+Upper Dublin 2-3,Mail-in,DAVID WINKLER(REP),****
+Upper Dublin 2-3,Provisional,MADELEINE DEAN(DEM),****
+Upper Dublin 2-3,Provisional,DAVID WINKLER(REP),****
+Upper Dublin 2-3,Total,MADELEINE DEAN(DEM),765
+Upper Dublin 2-3,Total,DAVID WINKLER(REP),305
+Upper Dublin 3-1,Election Day,MADELEINE DEAN(DEM),765
+Upper Dublin 3-1,Election Day,DAVID WINKLER(REP),411
+Upper Dublin 3-1,Mail-in,MADELEINE DEAN(DEM),679
+Upper Dublin 3-1,Mail-in,DAVID WINKLER(REP),182
+Upper Dublin 3-1,Provisional,MADELEINE DEAN(DEM),9
+Upper Dublin 3-1,Provisional,DAVID WINKLER(REP),5
+Upper Dublin 3-1,Total,MADELEINE DEAN(DEM),"1,453"
+Upper Dublin 3-1,Total,DAVID WINKLER(REP),598
+Upper Dublin 3-2,Election Day,MADELEINE DEAN(DEM),****
+Upper Dublin 3-2,Election Day,DAVID WINKLER(REP),****
+Upper Dublin 3-2,Mail-in,MADELEINE DEAN(DEM),****
+Upper Dublin 3-2,Mail-in,DAVID WINKLER(REP),****
+Upper Dublin 3-2,Provisional,MADELEINE DEAN(DEM),****
+Upper Dublin 3-2,Provisional,DAVID WINKLER(REP),****
+Upper Dublin 3-2,Total,MADELEINE DEAN(DEM),665
+Upper Dublin 3-2,Total,DAVID WINKLER(REP),401
+Hatboro South 1,Election Day,Unresolved Write-In,****
+Hatboro South 1,Mail-in,Unresolved Write-In,****
+Hatboro South 1,Provisional,Unresolved Write-In,****
+Hatboro South 1,Total,Unresolved Write-In,3
+Hatboro South 2,Election Day,Unresolved Write-In,****
+Hatboro South 2,Mail-in,Unresolved Write-In,****
+Hatboro South 2,Provisional,Unresolved Write-In,****
+Hatboro South 2,Total,Unresolved Write-In,1
+Jenkintown 1,Election Day,Unresolved Write-In,****
+Jenkintown 1,Mail-in,Unresolved Write-In,****
+Jenkintown 1,Provisional,Unresolved Write-In,****
+Jenkintown 1,Total,Unresolved Write-In,2
+Jenkintown 2,Election Day,Unresolved Write-In,****
+Jenkintown 2,Mail-in,Unresolved Write-In,****
+Jenkintown 2,Provisional,Unresolved Write-In,****
+Jenkintown 2,Total,Unresolved Write-In,2
+Jenkintown 3,Election Day,Unresolved Write-In,****
+Jenkintown 3,Mail-in,Unresolved Write-In,****
+Jenkintown 3,Provisional,Unresolved Write-In,****
+Jenkintown 3,Total,Unresolved Write-In,1
+Jenkintown 4,Election Day,Unresolved Write-In,2
+Jenkintown 4,Mail-in,Unresolved Write-In,0
+Jenkintown 4,Provisional,Unresolved Write-In,0
+Jenkintown 4,Total,Unresolved Write-In,2
+Upper Dublin 1-3,Election Day,Unresolved Write-In,1
+Upper Dublin 1-3,Mail-in,Unresolved Write-In,0
+Upper Dublin 1-3,Provisional,Unresolved Write-In,0
+Upper Dublin 1-3,Total,Unresolved Write-In,1
+Upper Dublin 2-1,Election Day,Unresolved Write-In,****
+Upper Dublin 2-1,Mail-in,Unresolved Write-In,****
+Upper Dublin 2-1,Provisional,Unresolved Write-In,****
+Upper Dublin 2-1,Total,Unresolved Write-In,1
+Upper Dublin 2-2,Election Day,Unresolved Write-In,****
+Upper Dublin 2-2,Mail-in,Unresolved Write-In,****
+Upper Dublin 2-2,Provisional,Unresolved Write-In,****
+Upper Dublin 2-2,Total,Unresolved Write-In,0
+Upper Dublin 2-3,Election Day,Unresolved Write-In,****
+Upper Dublin 2-3,Mail-in,Unresolved Write-In,****
+Upper Dublin 2-3,Provisional,Unresolved Write-In,****
+Upper Dublin 2-3,Total,Unresolved Write-In,1
+Upper Dublin 3-1,Election Day,Unresolved Write-In,2
+Upper Dublin 3-1,Mail-in,Unresolved Write-In,0
+Upper Dublin 3-1,Provisional,Unresolved Write-In,0
+Upper Dublin 3-1,Total,Unresolved Write-In,2
+Upper Dublin 3-2,Election Day,Unresolved Write-In,****
+Upper Dublin 3-2,Mail-in,Unresolved Write-In,****
+Upper Dublin 3-2,Provisional,Unresolved Write-In,****
+Upper Dublin 3-2,Total,Unresolved Write-In,0
+Upper Dublin 4-1,Election Day,MADELEINE DEAN(DEM),****
+Upper Dublin 4-1,Election Day,DAVID WINKLER(REP),****
+Upper Dublin 4-1,Mail-in,MADELEINE DEAN(DEM),****
+Upper Dublin 4-1,Mail-in,DAVID WINKLER(REP),****
+Upper Dublin 4-1,Provisional,MADELEINE DEAN(DEM),****
+Upper Dublin 4-1,Provisional,DAVID WINKLER(REP),****
+Upper Dublin 4-1,Total,MADELEINE DEAN(DEM),466
+Upper Dublin 4-1,Total,DAVID WINKLER(REP),279
+Upper Dublin 4-2,Election Day,MADELEINE DEAN(DEM),536
+Upper Dublin 4-2,Election Day,DAVID WINKLER(REP),166
+Upper Dublin 4-2,Mail-in,MADELEINE DEAN(DEM),210
+Upper Dublin 4-2,Mail-in,DAVID WINKLER(REP),54
+Upper Dublin 4-2,Provisional,MADELEINE DEAN(DEM),14
+Upper Dublin 4-2,Provisional,DAVID WINKLER(REP),3
+Upper Dublin 4-2,Total,MADELEINE DEAN(DEM),760
+Upper Dublin 4-2,Total,DAVID WINKLER(REP),223
+Upper Dublin 4-3,Election Day,MADELEINE DEAN(DEM),****
+Upper Dublin 4-3,Election Day,DAVID WINKLER(REP),****
+Upper Dublin 4-3,Mail-in,MADELEINE DEAN(DEM),****
+Upper Dublin 4-3,Mail-in,DAVID WINKLER(REP),****
+Upper Dublin 4-3,Provisional,MADELEINE DEAN(DEM),****
+Upper Dublin 4-3,Provisional,DAVID WINKLER(REP),****
+Upper Dublin 4-3,Total,MADELEINE DEAN(DEM),608
+Upper Dublin 4-3,Total,DAVID WINKLER(REP),280
+Upper Dublin 5-1,Election Day,MADELEINE DEAN(DEM),****
+Upper Dublin 5-1,Election Day,DAVID WINKLER(REP),****
+Upper Dublin 5-1,Mail-in,MADELEINE DEAN(DEM),****
+Upper Dublin 5-1,Mail-in,DAVID WINKLER(REP),****
+Upper Dublin 5-1,Provisional,MADELEINE DEAN(DEM),****
+Upper Dublin 5-1,Provisional,DAVID WINKLER(REP),****
+Upper Dublin 5-1,Total,MADELEINE DEAN(DEM),565
+Upper Dublin 5-1,Total,DAVID WINKLER(REP),266
+Upper Dublin 5-2,Election Day,MADELEINE DEAN(DEM),422
+Upper Dublin 5-2,Election Day,DAVID WINKLER(REP),232
+Upper Dublin 5-2,Mail-in,MADELEINE DEAN(DEM),285
+Upper Dublin 5-2,Mail-in,DAVID WINKLER(REP),73
+Upper Dublin 5-2,Provisional,MADELEINE DEAN(DEM),12
+Upper Dublin 5-2,Provisional,DAVID WINKLER(REP),3
+Upper Dublin 5-2,Total,MADELEINE DEAN(DEM),719
+Upper Dublin 5-2,Total,DAVID WINKLER(REP),308
+Upper Dublin 5-3,Election Day,MADELEINE DEAN(DEM),****
+Upper Dublin 5-3,Election Day,DAVID WINKLER(REP),****
+Upper Dublin 5-3,Mail-in,MADELEINE DEAN(DEM),****
+Upper Dublin 5-3,Mail-in,DAVID WINKLER(REP),****
+Upper Dublin 5-3,Provisional,MADELEINE DEAN(DEM),****
+Upper Dublin 5-3,Provisional,DAVID WINKLER(REP),****
+Upper Dublin 5-3,Total,MADELEINE DEAN(DEM),743
+Upper Dublin 5-3,Total,DAVID WINKLER(REP),264
+Upper Dublin 4-1,Election Day,Unresolved Write-In,****
+Upper Dublin 4-1,Mail-in,Unresolved Write-In,****
+Upper Dublin 4-1,Provisional,Unresolved Write-In,****
+Upper Dublin 4-1,Total,Unresolved Write-In,2
+Upper Dublin 4-2,Election Day,Unresolved Write-In,1
+Upper Dublin 4-2,Mail-in,Unresolved Write-In,0
+Upper Dublin 4-2,Provisional,Unresolved Write-In,0
+Upper Dublin 4-2,Total,Unresolved Write-In,1
+Upper Dublin 4-3,Election Day,Unresolved Write-In,****
+Upper Dublin 4-3,Mail-in,Unresolved Write-In,****
+Upper Dublin 4-3,Provisional,Unresolved Write-In,****
+Upper Dublin 4-3,Total,Unresolved Write-In,0
+Upper Dublin 5-1,Election Day,Unresolved Write-In,****
+Upper Dublin 5-1,Mail-in,Unresolved Write-In,****
+Upper Dublin 5-1,Provisional,Unresolved Write-In,****
+Upper Dublin 5-1,Total,Unresolved Write-In,1
+Upper Dublin 5-2,Election Day,Unresolved Write-In,1
+Upper Dublin 5-2,Mail-in,Unresolved Write-In,0
+Upper Dublin 5-2,Provisional,Unresolved Write-In,0
+Upper Dublin 5-2,Total,Unresolved Write-In,1
+Upper Dublin 5-3,Election Day,Unresolved Write-In,****
+Upper Dublin 5-3,Mail-in,Unresolved Write-In,****
+Upper Dublin 5-3,Provisional,Unresolved Write-In,****
+Upper Dublin 5-3,Total,Unresolved Write-In,3
+Upper Dublin 6-1,Election Day,MADELEINE DEAN(DEM),588
+Upper Dublin 6-1,Election Day,DAVID WINKLER(REP),341
+Upper Dublin 6-1,Mail-in,MADELEINE DEAN(DEM),417
+Upper Dublin 6-1,Mail-in,DAVID WINKLER(REP),96
+Upper Dublin 6-1,Provisional,MADELEINE DEAN(DEM),10
+Upper Dublin 6-1,Provisional,DAVID WINKLER(REP),1
+Upper Dublin 6-1,Total,MADELEINE DEAN(DEM),"1,015"
+Upper Dublin 6-1,Total,DAVID WINKLER(REP),438
+Upper Dublin 6-2,Election Day,MADELEINE DEAN(DEM),****
+Upper Dublin 6-2,Election Day,DAVID WINKLER(REP),****
+Upper Dublin 6-2,Mail-in,MADELEINE DEAN(DEM),****
+Upper Dublin 6-2,Mail-in,DAVID WINKLER(REP),****
+Upper Dublin 6-2,Provisional,MADELEINE DEAN(DEM),****
+Upper Dublin 6-2,Provisional,DAVID WINKLER(REP),****
+Upper Dublin 6-2,Total,MADELEINE DEAN(DEM),624
+Upper Dublin 6-2,Total,DAVID WINKLER(REP),353
+Upper Dublin 7-1,Election Day,MADELEINE DEAN(DEM),****
+Upper Dublin 7-1,Election Day,DAVID WINKLER(REP),****
+Upper Dublin 7-1,Mail-in,MADELEINE DEAN(DEM),****
+Upper Dublin 7-1,Mail-in,DAVID WINKLER(REP),****
+Upper Dublin 7-1,Provisional,MADELEINE DEAN(DEM),****
+Upper Dublin 7-1,Provisional,DAVID WINKLER(REP),****
+Upper Dublin 7-1,Total,MADELEINE DEAN(DEM),555
+Upper Dublin 7-1,Total,DAVID WINKLER(REP),353
+Upper Dublin 7-2,Election Day,MADELEINE DEAN(DEM),****
+Upper Dublin 7-2,Election Day,DAVID WINKLER(REP),****
+Upper Dublin 7-2,Mail-in,MADELEINE DEAN(DEM),****
+Upper Dublin 7-2,Mail-in,DAVID WINKLER(REP),****
+Upper Dublin 7-2,Provisional,MADELEINE DEAN(DEM),****
+Upper Dublin 7-2,Provisional,DAVID WINKLER(REP),****
+Upper Dublin 7-2,Total,MADELEINE DEAN(DEM),551
+Upper Dublin 7-2,Total,DAVID WINKLER(REP),353
+Upper Dublin 7-3,Election Day,MADELEINE DEAN(DEM),****
+Upper Dublin 7-3,Election Day,DAVID WINKLER(REP),****
+Upper Dublin 7-3,Mail-in,MADELEINE DEAN(DEM),****
+Upper Dublin 7-3,Mail-in,DAVID WINKLER(REP),****
+Upper Dublin 7-3,Provisional,MADELEINE DEAN(DEM),****
+Upper Dublin 7-3,Provisional,DAVID WINKLER(REP),****
+Upper Dublin 7-3,Total,MADELEINE DEAN(DEM),490
+Upper Dublin 7-3,Total,DAVID WINKLER(REP),166
+Upper Frederick,Election Day,MADELEINE DEAN(DEM),500
+Upper Frederick,Election Day,DAVID WINKLER(REP),973
+Upper Frederick,Mail-in,MADELEINE DEAN(DEM),423
+Upper Frederick,Mail-in,DAVID WINKLER(REP),258
+Upper Frederick,Provisional,MADELEINE DEAN(DEM),6
+Upper Frederick,Provisional,DAVID WINKLER(REP),15
+Upper Frederick,Total,MADELEINE DEAN(DEM),929
+Upper Frederick,Total,DAVID WINKLER(REP),"1,246"
+Upper Dublin 6-1,Election Day,Unresolved Write-In,0
+Upper Dublin 6-1,Mail-in,Unresolved Write-In,1
+Upper Dublin 6-1,Provisional,Unresolved Write-In,0
+Upper Dublin 6-1,Total,Unresolved Write-In,1
+Upper Dublin 6-2,Election Day,Unresolved Write-In,****
+Upper Dublin 6-2,Mail-in,Unresolved Write-In,****
+Upper Dublin 6-2,Provisional,Unresolved Write-In,****
+Upper Dublin 6-2,Total,Unresolved Write-In,1
+Upper Dublin 7-1,Election Day,Unresolved Write-In,****
+Upper Dublin 7-1,Mail-in,Unresolved Write-In,****
+Upper Dublin 7-1,Provisional,Unresolved Write-In,****
+Upper Dublin 7-1,Total,Unresolved Write-In,3
+Upper Dublin 7-2,Election Day,Unresolved Write-In,****
+Upper Dublin 7-2,Mail-in,Unresolved Write-In,****
+Upper Dublin 7-2,Provisional,Unresolved Write-In,****
+Upper Dublin 7-2,Total,Unresolved Write-In,1
+Upper Dublin 7-3,Election Day,Unresolved Write-In,****
+Upper Dublin 7-3,Mail-in,Unresolved Write-In,****
+Upper Dublin 7-3,Provisional,Unresolved Write-In,****
+Upper Dublin 7-3,Total,Unresolved Write-In,3
+Upper Frederick,Election Day,Unresolved Write-In,2
+Upper Frederick,Mail-in,Unresolved Write-In,1
+Upper Frederick,Provisional,Unresolved Write-In,0
+Upper Frederick,Total,Unresolved Write-In,3
+Upper Gwynedd 1,Election Day,MADELEINE DEAN(DEM),****
+Upper Gwynedd 1,Election Day,DAVID WINKLER(REP),****
+Upper Gwynedd 1,Mail-in,MADELEINE DEAN(DEM),****
+Upper Gwynedd 1,Mail-in,DAVID WINKLER(REP),****
+Upper Gwynedd 1,Provisional,MADELEINE DEAN(DEM),****
+Upper Gwynedd 1,Provisional,DAVID WINKLER(REP),****
+Upper Gwynedd 1,Total,MADELEINE DEAN(DEM),582
+Upper Gwynedd 1,Total,DAVID WINKLER(REP),432
+Upper Gwynedd 2,Election Day,MADELEINE DEAN(DEM),****
+Upper Gwynedd 2,Election Day,DAVID WINKLER(REP),****
+Upper Gwynedd 2,Mail-in,MADELEINE DEAN(DEM),****
+Upper Gwynedd 2,Mail-in,DAVID WINKLER(REP),****
+Upper Gwynedd 2,Provisional,MADELEINE DEAN(DEM),****
+Upper Gwynedd 2,Provisional,DAVID WINKLER(REP),****
+Upper Gwynedd 2,Total,MADELEINE DEAN(DEM),706
+Upper Gwynedd 2,Total,DAVID WINKLER(REP),468
+Upper Gwynedd 3,Election Day,MADELEINE DEAN(DEM),526
+Upper Gwynedd 3,Election Day,DAVID WINKLER(REP),323
+Upper Gwynedd 3,Mail-in,MADELEINE DEAN(DEM),369
+Upper Gwynedd 3,Mail-in,DAVID WINKLER(REP),119
+Upper Gwynedd 3,Provisional,MADELEINE DEAN(DEM),9
+Upper Gwynedd 3,Provisional,DAVID WINKLER(REP),2
+Upper Gwynedd 3,Total,MADELEINE DEAN(DEM),904
+Upper Gwynedd 3,Total,DAVID WINKLER(REP),444
+Upper Gwynedd 4,Election Day,MADELEINE DEAN(DEM),560
+Upper Gwynedd 4,Election Day,DAVID WINKLER(REP),487
+Upper Gwynedd 4,Mail-in,MADELEINE DEAN(DEM),798
+Upper Gwynedd 4,Mail-in,DAVID WINKLER(REP),291
+Upper Gwynedd 4,Provisional,MADELEINE DEAN(DEM),10
+Upper Gwynedd 4,Provisional,DAVID WINKLER(REP),5
+Upper Gwynedd 4,Total,MADELEINE DEAN(DEM),"1,368"
+Upper Gwynedd 4,Total,DAVID WINKLER(REP),783
+Upper Gwynedd 5,Election Day,MADELEINE DEAN(DEM),****
+Upper Gwynedd 5,Election Day,DAVID WINKLER(REP),****
+Upper Gwynedd 5,Mail-in,MADELEINE DEAN(DEM),****
+Upper Gwynedd 5,Mail-in,DAVID WINKLER(REP),****
+Upper Gwynedd 5,Provisional,MADELEINE DEAN(DEM),****
+Upper Gwynedd 5,Provisional,DAVID WINKLER(REP),****
+Upper Gwynedd 5,Total,MADELEINE DEAN(DEM),612
+Upper Gwynedd 5,Total,DAVID WINKLER(REP),443
+Upper Gwynedd 6,Election Day,MADELEINE DEAN(DEM),629
+Upper Gwynedd 6,Election Day,DAVID WINKLER(REP),454
+Upper Gwynedd 6,Mail-in,MADELEINE DEAN(DEM),370
+Upper Gwynedd 6,Mail-in,DAVID WINKLER(REP),147
+Upper Gwynedd 6,Provisional,MADELEINE DEAN(DEM),14
+Upper Gwynedd 6,Provisional,DAVID WINKLER(REP),4
+Upper Gwynedd 6,Total,MADELEINE DEAN(DEM),"1,013"
+Upper Gwynedd 6,Total,DAVID WINKLER(REP),605
+Upper Gwynedd 1,Election Day,Unresolved Write-In,****
+Upper Gwynedd 1,Mail-in,Unresolved Write-In,****
+Upper Gwynedd 1,Provisional,Unresolved Write-In,****
+Upper Gwynedd 1,Total,Unresolved Write-In,1
+Upper Gwynedd 2,Election Day,Unresolved Write-In,****
+Upper Gwynedd 2,Mail-in,Unresolved Write-In,****
+Upper Gwynedd 2,Provisional,Unresolved Write-In,****
+Upper Gwynedd 2,Total,Unresolved Write-In,1
+Upper Gwynedd 3,Election Day,Unresolved Write-In,3
+Upper Gwynedd 3,Mail-in,Unresolved Write-In,2
+Upper Gwynedd 3,Provisional,Unresolved Write-In,0
+Upper Gwynedd 3,Total,Unresolved Write-In,5
+Upper Gwynedd 4,Election Day,Unresolved Write-In,1
+Upper Gwynedd 4,Mail-in,Unresolved Write-In,0
+Upper Gwynedd 4,Provisional,Unresolved Write-In,0
+Upper Gwynedd 4,Total,Unresolved Write-In,1
+Upper Gwynedd 5,Election Day,Unresolved Write-In,****
+Upper Gwynedd 5,Mail-in,Unresolved Write-In,****
+Upper Gwynedd 5,Provisional,Unresolved Write-In,****
+Upper Gwynedd 5,Total,Unresolved Write-In,1
+Upper Gwynedd 6,Election Day,Unresolved Write-In,2
+Upper Gwynedd 6,Mail-in,Unresolved Write-In,1
+Upper Gwynedd 6,Provisional,Unresolved Write-In,0
+Upper Gwynedd 6,Total,Unresolved Write-In,3
+Upper Gwynedd 7,Election Day,MADELEINE DEAN(DEM),630
+Upper Gwynedd 7,Election Day,DAVID WINKLER(REP),535
+Upper Gwynedd 7,Mail-in,MADELEINE DEAN(DEM),587
+Upper Gwynedd 7,Mail-in,DAVID WINKLER(REP),249
+Upper Gwynedd 7,Provisional,MADELEINE DEAN(DEM),8
+Upper Gwynedd 7,Provisional,DAVID WINKLER(REP),7
+Upper Gwynedd 7,Total,MADELEINE DEAN(DEM),"1,225"
+Upper Gwynedd 7,Total,DAVID WINKLER(REP),791
+Upper Merion Belmont 5,Election Day,MADELEINE DEAN(DEM),500
+Upper Merion Belmont 5,Election Day,DAVID WINKLER(REP),270
+Upper Merion Belmont 5,Mail-in,MADELEINE DEAN(DEM),383
+Upper Merion Belmont 5,Mail-in,DAVID WINKLER(REP),85
+Upper Merion Belmont 5,Provisional,MADELEINE DEAN(DEM),0
+Upper Merion Belmont 5,Provisional,DAVID WINKLER(REP),0
+Upper Merion Belmont 5,Total,MADELEINE DEAN(DEM),883
+Upper Merion Belmont 5,Total,DAVID WINKLER(REP),355
+Upper Moreland 1-1,Election Day,MADELEINE DEAN(DEM),****
+Upper Moreland 1-1,Election Day,DAVID WINKLER(REP),****
+Upper Moreland 1-1,Mail-in,MADELEINE DEAN(DEM),****
+Upper Moreland 1-1,Mail-in,DAVID WINKLER(REP),****
+Upper Moreland 1-1,Provisional,MADELEINE DEAN(DEM),****
+Upper Moreland 1-1,Provisional,DAVID WINKLER(REP),****
+Upper Moreland 1-1,Total,MADELEINE DEAN(DEM),839
+Upper Moreland 1-1,Total,DAVID WINKLER(REP),450
+Upper Moreland 1-2,Election Day,MADELEINE DEAN(DEM),412
+Upper Moreland 1-2,Election Day,DAVID WINKLER(REP),281
+Upper Moreland 1-2,Mail-in,MADELEINE DEAN(DEM),205
+Upper Moreland 1-2,Mail-in,DAVID WINKLER(REP),70
+Upper Moreland 1-2,Provisional,MADELEINE DEAN(DEM),0
+Upper Moreland 1-2,Provisional,DAVID WINKLER(REP),0
+Upper Moreland 1-2,Total,MADELEINE DEAN(DEM),617
+Upper Moreland 1-2,Total,DAVID WINKLER(REP),351
+Upper Moreland 2-1,Election Day,MADELEINE DEAN(DEM),308
+Upper Moreland 2-1,Election Day,DAVID WINKLER(REP),253
+Upper Moreland 2-1,Mail-in,MADELEINE DEAN(DEM),229
+Upper Moreland 2-1,Mail-in,DAVID WINKLER(REP),78
+Upper Moreland 2-1,Provisional,MADELEINE DEAN(DEM),8
+Upper Moreland 2-1,Provisional,DAVID WINKLER(REP),5
+Upper Moreland 2-1,Total,MADELEINE DEAN(DEM),545
+Upper Moreland 2-1,Total,DAVID WINKLER(REP),336
+Upper Moreland 2-2,Election Day,MADELEINE DEAN(DEM),****
+Upper Moreland 2-2,Election Day,DAVID WINKLER(REP),****
+Upper Moreland 2-2,Mail-in,MADELEINE DEAN(DEM),****
+Upper Moreland 2-2,Mail-in,DAVID WINKLER(REP),****
+Upper Moreland 2-2,Provisional,MADELEINE DEAN(DEM),****
+Upper Moreland 2-2,Provisional,DAVID WINKLER(REP),****
+Upper Moreland 2-2,Total,MADELEINE DEAN(DEM),534
+Upper Moreland 2-2,Total,DAVID WINKLER(REP),351
+Upper Gwynedd 7,Election Day,Unresolved Write-In,3
+Upper Gwynedd 7,Mail-in,Unresolved Write-In,0
+Upper Gwynedd 7,Provisional,Unresolved Write-In,0
+Upper Gwynedd 7,Total,Unresolved Write-In,3
+Upper Merion Belmont 5,Election Day,Unresolved Write-In,3
+Upper Merion Belmont 5,Mail-in,Unresolved Write-In,1
+Upper Merion Belmont 5,Provisional,Unresolved Write-In,0
+Upper Merion Belmont 5,Total,Unresolved Write-In,4
+Upper Moreland 1-1,Election Day,Unresolved Write-In,****
+Upper Moreland 1-1,Mail-in,Unresolved Write-In,****
+Upper Moreland 1-1,Provisional,Unresolved Write-In,****
+Upper Moreland 1-1,Total,Unresolved Write-In,2
+Upper Moreland 1-2,Election Day,Unresolved Write-In,2
+Upper Moreland 1-2,Mail-in,Unresolved Write-In,1
+Upper Moreland 1-2,Provisional,Unresolved Write-In,0
+Upper Moreland 1-2,Total,Unresolved Write-In,3
+Upper Moreland 2-1,Election Day,Unresolved Write-In,1
+Upper Moreland 2-1,Mail-in,Unresolved Write-In,3
+Upper Moreland 2-1,Provisional,Unresolved Write-In,0
+Upper Moreland 2-1,Total,Unresolved Write-In,4
+Upper Moreland 2-2,Election Day,Unresolved Write-In,****
+Upper Moreland 2-2,Mail-in,Unresolved Write-In,****
+Upper Moreland 2-2,Provisional,Unresolved Write-In,****
+Upper Moreland 2-2,Total,Unresolved Write-In,1
+Upper Moreland 3-1,Election Day,MADELEINE DEAN(DEM),****
+Upper Moreland 3-1,Election Day,DAVID WINKLER(REP),****
+Upper Moreland 3-1,Mail-in,MADELEINE DEAN(DEM),****
+Upper Moreland 3-1,Mail-in,DAVID WINKLER(REP),****
+Upper Moreland 3-1,Provisional,MADELEINE DEAN(DEM),****
+Upper Moreland 3-1,Provisional,DAVID WINKLER(REP),****
+Upper Moreland 3-1,Total,MADELEINE DEAN(DEM),761
+Upper Moreland 3-1,Total,DAVID WINKLER(REP),421
+Upper Moreland 3-2,Election Day,MADELEINE DEAN(DEM),259
+Upper Moreland 3-2,Election Day,DAVID WINKLER(REP),142
+Upper Moreland 3-2,Mail-in,MADELEINE DEAN(DEM),174
+Upper Moreland 3-2,Mail-in,DAVID WINKLER(REP),41
+Upper Moreland 3-2,Provisional,MADELEINE DEAN(DEM),0
+Upper Moreland 3-2,Provisional,DAVID WINKLER(REP),0
+Upper Moreland 3-2,Total,MADELEINE DEAN(DEM),433
+Upper Moreland 3-2,Total,DAVID WINKLER(REP),183
+Upper Moreland 4-1,Election Day,MADELEINE DEAN(DEM),****
+Upper Moreland 4-1,Election Day,DAVID WINKLER(REP),****
+Upper Moreland 4-1,Mail-in,MADELEINE DEAN(DEM),****
+Upper Moreland 4-1,Mail-in,DAVID WINKLER(REP),****
+Upper Moreland 4-1,Provisional,MADELEINE DEAN(DEM),****
+Upper Moreland 4-1,Provisional,DAVID WINKLER(REP),****
+Upper Moreland 4-1,Total,MADELEINE DEAN(DEM),550
+Upper Moreland 4-1,Total,DAVID WINKLER(REP),347
+Upper Moreland 4-2,Election Day,MADELEINE DEAN(DEM),534
+Upper Moreland 4-2,Election Day,DAVID WINKLER(REP),305
+Upper Moreland 4-2,Mail-in,MADELEINE DEAN(DEM),293
+Upper Moreland 4-2,Mail-in,DAVID WINKLER(REP),69
+Upper Moreland 4-2,Provisional,MADELEINE DEAN(DEM),9
+Upper Moreland 4-2,Provisional,DAVID WINKLER(REP),2
+Upper Moreland 4-2,Total,MADELEINE DEAN(DEM),836
+Upper Moreland 4-2,Total,DAVID WINKLER(REP),376
+Upper Moreland 5-1,Election Day,MADELEINE DEAN(DEM),****
+Upper Moreland 5-1,Election Day,DAVID WINKLER(REP),****
+Upper Moreland 5-1,Mail-in,MADELEINE DEAN(DEM),****
+Upper Moreland 5-1,Mail-in,DAVID WINKLER(REP),****
+Upper Moreland 5-1,Provisional,MADELEINE DEAN(DEM),****
+Upper Moreland 5-1,Provisional,DAVID WINKLER(REP),****
+Upper Moreland 5-1,Total,MADELEINE DEAN(DEM),415
+Upper Moreland 5-1,Total,DAVID WINKLER(REP),359
+Upper Moreland 5-2,Election Day,MADELEINE DEAN(DEM),****
+Upper Moreland 5-2,Election Day,DAVID WINKLER(REP),****
+Upper Moreland 5-2,Mail-in,MADELEINE DEAN(DEM),****
+Upper Moreland 5-2,Mail-in,DAVID WINKLER(REP),****
+Upper Moreland 5-2,Provisional,MADELEINE DEAN(DEM),****
+Upper Moreland 5-2,Provisional,DAVID WINKLER(REP),****
+Upper Moreland 5-2,Total,MADELEINE DEAN(DEM),700
+Upper Moreland 5-2,Total,DAVID WINKLER(REP),640
+Lansdale 1-1,Election Day,MADELEINE DEAN(DEM),457
+Lansdale 1-1,Election Day,DAVID WINKLER(REP),271
+Lansdale 1-1,Mail-in,MADELEINE DEAN(DEM),223
+Lansdale 1-1,Mail-in,DAVID WINKLER(REP),51
+Lansdale 1-1,Provisional,MADELEINE DEAN(DEM),8
+Lansdale 1-1,Provisional,DAVID WINKLER(REP),5
+Lansdale 1-1,Total,MADELEINE DEAN(DEM),688
+Lansdale 1-1,Total,DAVID WINKLER(REP),327
+Lansdale 1-2,Election Day,MADELEINE DEAN(DEM),535
+Lansdale 1-2,Election Day,DAVID WINKLER(REP),329
+Lansdale 1-2,Mail-in,MADELEINE DEAN(DEM),308
+Lansdale 1-2,Mail-in,DAVID WINKLER(REP),87
+Lansdale 1-2,Provisional,MADELEINE DEAN(DEM),8
+Lansdale 1-2,Provisional,DAVID WINKLER(REP),9
+Lansdale 1-2,Total,MADELEINE DEAN(DEM),851
+Lansdale 1-2,Total,DAVID WINKLER(REP),425
+Lansdale 1-3,Election Day,MADELEINE DEAN(DEM),****
+Lansdale 1-3,Election Day,DAVID WINKLER(REP),****
+Lansdale 1-3,Mail-in,MADELEINE DEAN(DEM),****
+Lansdale 1-3,Mail-in,DAVID WINKLER(REP),****
+Lansdale 1-3,Provisional,MADELEINE DEAN(DEM),****
+Lansdale 1-3,Provisional,DAVID WINKLER(REP),****
+Lansdale 1-3,Total,MADELEINE DEAN(DEM),431
+Lansdale 1-3,Total,DAVID WINKLER(REP),222
+Lansdale 2-1,Election Day,MADELEINE DEAN(DEM),****
+Lansdale 2-1,Election Day,DAVID WINKLER(REP),****
+Lansdale 2-1,Mail-in,MADELEINE DEAN(DEM),****
+Lansdale 2-1,Mail-in,DAVID WINKLER(REP),****
+Lansdale 2-1,Provisional,MADELEINE DEAN(DEM),****
+Lansdale 2-1,Provisional,DAVID WINKLER(REP),****
+Lansdale 2-1,Total,MADELEINE DEAN(DEM),522
+Lansdale 2-1,Total,DAVID WINKLER(REP),282
+Lansdale 2-2,Election Day,MADELEINE DEAN(DEM),****
+Lansdale 2-2,Election Day,DAVID WINKLER(REP),****
+Lansdale 2-2,Mail-in,MADELEINE DEAN(DEM),****
+Lansdale 2-2,Mail-in,DAVID WINKLER(REP),****
+Lansdale 2-2,Provisional,MADELEINE DEAN(DEM),****
+Lansdale 2-2,Provisional,DAVID WINKLER(REP),****
+Lansdale 2-2,Total,MADELEINE DEAN(DEM),641
+Lansdale 2-2,Total,DAVID WINKLER(REP),449
+Lansdale 2-3,Election Day,MADELEINE DEAN(DEM),****
+Lansdale 2-3,Election Day,DAVID WINKLER(REP),****
+Lansdale 2-3,Mail-in,MADELEINE DEAN(DEM),****
+Lansdale 2-3,Mail-in,DAVID WINKLER(REP),****
+Lansdale 2-3,Provisional,MADELEINE DEAN(DEM),****
+Lansdale 2-3,Provisional,DAVID WINKLER(REP),****
+Lansdale 2-3,Total,MADELEINE DEAN(DEM),630
+Lansdale 2-3,Total,DAVID WINKLER(REP),396
+Upper Moreland 3-1,Election Day,Unresolved Write-In,****
+Upper Moreland 3-1,Mail-in,Unresolved Write-In,****
+Upper Moreland 3-1,Provisional,Unresolved Write-In,****
+Upper Moreland 3-1,Total,Unresolved Write-In,4
+Upper Moreland 3-2,Election Day,Unresolved Write-In,2
+Upper Moreland 3-2,Mail-in,Unresolved Write-In,0
+Upper Moreland 3-2,Provisional,Unresolved Write-In,0
+Upper Moreland 3-2,Total,Unresolved Write-In,2
+Upper Moreland 4-1,Election Day,Unresolved Write-In,****
+Upper Moreland 4-1,Mail-in,Unresolved Write-In,****
+Upper Moreland 4-1,Provisional,Unresolved Write-In,****
+Upper Moreland 4-1,Total,Unresolved Write-In,0
+Upper Moreland 4-2,Election Day,Unresolved Write-In,1
+Upper Moreland 4-2,Mail-in,Unresolved Write-In,0
+Upper Moreland 4-2,Provisional,Unresolved Write-In,0
+Upper Moreland 4-2,Total,Unresolved Write-In,1
+Upper Moreland 5-1,Election Day,Unresolved Write-In,****
+Upper Moreland 5-1,Mail-in,Unresolved Write-In,****
+Upper Moreland 5-1,Provisional,Unresolved Write-In,****
+Upper Moreland 5-1,Total,Unresolved Write-In,2
+Upper Moreland 5-2,Election Day,Unresolved Write-In,****
+Upper Moreland 5-2,Mail-in,Unresolved Write-In,****
+Upper Moreland 5-2,Provisional,Unresolved Write-In,****
+Upper Moreland 5-2,Total,Unresolved Write-In,1
+Upper Moreland 6-1,Election Day,MADELEINE DEAN(DEM),****
+Upper Moreland 6-1,Election Day,DAVID WINKLER(REP),****
+Upper Moreland 6-1,Mail-in,MADELEINE DEAN(DEM),****
+Upper Moreland 6-1,Mail-in,DAVID WINKLER(REP),****
+Upper Moreland 6-1,Provisional,MADELEINE DEAN(DEM),****
+Upper Moreland 6-1,Provisional,DAVID WINKLER(REP),****
+Upper Moreland 6-1,Total,MADELEINE DEAN(DEM),656
+Upper Moreland 6-1,Total,DAVID WINKLER(REP),409
+Upper Moreland 6-2,Election Day,MADELEINE DEAN(DEM),****
+Upper Moreland 6-2,Election Day,DAVID WINKLER(REP),****
+Upper Moreland 6-2,Mail-in,MADELEINE DEAN(DEM),****
+Upper Moreland 6-2,Mail-in,DAVID WINKLER(REP),****
+Upper Moreland 6-2,Provisional,MADELEINE DEAN(DEM),****
+Upper Moreland 6-2,Provisional,DAVID WINKLER(REP),****
+Upper Moreland 6-2,Total,MADELEINE DEAN(DEM),594
+Upper Moreland 6-2,Total,DAVID WINKLER(REP),529
+Upper Moreland 7-1,Election Day,MADELEINE DEAN(DEM),416
+Upper Moreland 7-1,Election Day,DAVID WINKLER(REP),452
+Upper Moreland 7-1,Mail-in,MADELEINE DEAN(DEM),173
+Upper Moreland 7-1,Mail-in,DAVID WINKLER(REP),71
+Upper Moreland 7-1,Provisional,MADELEINE DEAN(DEM),8
+Upper Moreland 7-1,Provisional,DAVID WINKLER(REP),3
+Upper Moreland 7-1,Total,MADELEINE DEAN(DEM),597
+Upper Moreland 7-1,Total,DAVID WINKLER(REP),526
+Upper Moreland 7-2,Election Day,MADELEINE DEAN(DEM),****
+Upper Moreland 7-2,Election Day,DAVID WINKLER(REP),****
+Upper Moreland 7-2,Mail-in,MADELEINE DEAN(DEM),****
+Upper Moreland 7-2,Mail-in,DAVID WINKLER(REP),****
+Upper Moreland 7-2,Provisional,MADELEINE DEAN(DEM),****
+Upper Moreland 7-2,Provisional,DAVID WINKLER(REP),****
+Upper Moreland 7-2,Total,MADELEINE DEAN(DEM),589
+Upper Moreland 7-2,Total,DAVID WINKLER(REP),544
+Upper Pottsgrove,Election Day,MADELEINE DEAN(DEM),"1,066"
+Upper Pottsgrove,Election Day,DAVID WINKLER(REP),"1,273"
+Upper Pottsgrove,Mail-in,MADELEINE DEAN(DEM),742
+Upper Pottsgrove,Mail-in,DAVID WINKLER(REP),397
+Upper Pottsgrove,Provisional,MADELEINE DEAN(DEM),20
+Upper Pottsgrove,Provisional,DAVID WINKLER(REP),7
+Upper Pottsgrove,Total,MADELEINE DEAN(DEM),"1,828"
+Upper Pottsgrove,Total,DAVID WINKLER(REP),"1,677"
+Upper Providence Mingo 1,Election Day,MADELEINE DEAN(DEM),569
+Upper Providence Mingo 1,Election Day,DAVID WINKLER(REP),575
+Upper Providence Mingo 1,Mail-in,MADELEINE DEAN(DEM),489
+Upper Providence Mingo 1,Mail-in,DAVID WINKLER(REP),174
+Upper Providence Mingo 1,Provisional,MADELEINE DEAN(DEM),6
+Upper Providence Mingo 1,Provisional,DAVID WINKLER(REP),5
+Upper Providence Mingo 1,Total,MADELEINE DEAN(DEM),"1,064"
+Upper Providence Mingo 1,Total,DAVID WINKLER(REP),754
+Upper Moreland 6-1,Election Day,Unresolved Write-In,****
+Upper Moreland 6-1,Mail-in,Unresolved Write-In,****
+Upper Moreland 6-1,Provisional,Unresolved Write-In,****
+Upper Moreland 6-1,Total,Unresolved Write-In,0
+Upper Moreland 6-2,Election Day,Unresolved Write-In,****
+Upper Moreland 6-2,Mail-in,Unresolved Write-In,****
+Upper Moreland 6-2,Provisional,Unresolved Write-In,****
+Upper Moreland 6-2,Total,Unresolved Write-In,3
+Upper Moreland 7-1,Election Day,Unresolved Write-In,0
+Upper Moreland 7-1,Mail-in,Unresolved Write-In,1
+Upper Moreland 7-1,Provisional,Unresolved Write-In,0
+Upper Moreland 7-1,Total,Unresolved Write-In,1
+Upper Moreland 7-2,Election Day,Unresolved Write-In,****
+Upper Moreland 7-2,Mail-in,Unresolved Write-In,****
+Upper Moreland 7-2,Provisional,Unresolved Write-In,****
+Upper Moreland 7-2,Total,Unresolved Write-In,3
+Upper Pottsgrove,Election Day,Unresolved Write-In,3
+Upper Pottsgrove,Mail-in,Unresolved Write-In,0
+Upper Pottsgrove,Provisional,Unresolved Write-In,0
+Upper Pottsgrove,Total,Unresolved Write-In,3
+Upper Providence Mingo 1,Election Day,Unresolved Write-In,0
+Upper Providence Mingo 1,Mail-in,Unresolved Write-In,1
+Upper Providence Mingo 1,Provisional,Unresolved Write-In,0
+Upper Providence Mingo 1,Total,Unresolved Write-In,1
+Upper Providence Mingo 2,Election Day,MADELEINE DEAN(DEM),802
+Upper Providence Mingo 2,Election Day,DAVID WINKLER(REP),902
+Upper Providence Mingo 2,Mail-in,MADELEINE DEAN(DEM),786
+Upper Providence Mingo 2,Mail-in,DAVID WINKLER(REP),361
+Upper Providence Mingo 2,Provisional,MADELEINE DEAN(DEM),14
+Upper Providence Mingo 2,Provisional,DAVID WINKLER(REP),7
+Upper Providence Mingo 2,Total,MADELEINE DEAN(DEM),"1,602"
+Upper Providence Mingo 2,Total,DAVID WINKLER(REP),"1,270"
+"Upper Providence Mont 
+Clare",Election Day,MADELEINE DEAN(DEM),888
+"Upper Providence Mont 
+Clare",Election Day,DAVID WINKLER(REP),811
+"Upper Providence Mont 
+Clare",Mail-in,MADELEINE DEAN(DEM),"1,007"
+"Upper Providence Mont 
+Clare",Mail-in,DAVID WINKLER(REP),471
+"Upper Providence Mont 
+Clare",Provisional,MADELEINE DEAN(DEM),15
+"Upper Providence Mont 
+Clare",Provisional,DAVID WINKLER(REP),13
+"Upper Providence Mont 
+Clare",Total,MADELEINE DEAN(DEM),"1,910"
+"Upper Providence Mont 
+Clare",Total,DAVID WINKLER(REP),"1,295"
+Upper Providence Oaks,Election Day,MADELEINE DEAN(DEM),862
+Upper Providence Oaks,Election Day,DAVID WINKLER(REP),866
+Upper Providence Oaks,Mail-in,MADELEINE DEAN(DEM),"1,166"
+Upper Providence Oaks,Mail-in,DAVID WINKLER(REP),535
+Upper Providence Oaks,Provisional,MADELEINE DEAN(DEM),9
+Upper Providence Oaks,Provisional,DAVID WINKLER(REP),14
+Upper Providence Oaks,Total,MADELEINE DEAN(DEM),"2,037"
+Upper Providence Oaks,Total,DAVID WINKLER(REP),"1,415"
+Upper Providence Trappe,Election Day,MADELEINE DEAN(DEM),904
+Upper Providence Trappe,Election Day,DAVID WINKLER(REP),"1,145"
+Upper Providence Trappe,Mail-in,MADELEINE DEAN(DEM),"1,024"
+Upper Providence Trappe,Mail-in,DAVID WINKLER(REP),659
+Upper Providence Trappe,Provisional,MADELEINE DEAN(DEM),13
+Upper Providence Trappe,Provisional,DAVID WINKLER(REP),5
+Upper Providence Trappe,Total,MADELEINE DEAN(DEM),"1,941"
+Upper Providence Trappe,Total,DAVID WINKLER(REP),"1,809"
+Upper Salford,Election Day,MADELEINE DEAN(DEM),497
+Upper Salford,Election Day,DAVID WINKLER(REP),906
+Upper Salford,Mail-in,MADELEINE DEAN(DEM),357
+Upper Salford,Mail-in,DAVID WINKLER(REP),271
+Upper Salford,Provisional,MADELEINE DEAN(DEM),6
+Upper Salford,Provisional,DAVID WINKLER(REP),9
+Upper Salford,Total,MADELEINE DEAN(DEM),860
+Upper Salford,Total,DAVID WINKLER(REP),"1,186"
+West Norriton 1-1,Election Day,MADELEINE DEAN(DEM),587
+West Norriton 1-1,Election Day,DAVID WINKLER(REP),568
+West Norriton 1-1,Mail-in,MADELEINE DEAN(DEM),416
+West Norriton 1-1,Mail-in,DAVID WINKLER(REP),167
+West Norriton 1-1,Provisional,MADELEINE DEAN(DEM),10
+West Norriton 1-1,Provisional,DAVID WINKLER(REP),11
+West Norriton 1-1,Total,MADELEINE DEAN(DEM),"1,013"
+West Norriton 1-1,Total,DAVID WINKLER(REP),746
+Upper Providence Mingo 2,Election Day,Unresolved Write-In,3
+Upper Providence Mingo 2,Mail-in,Unresolved Write-In,1
+Upper Providence Mingo 2,Provisional,Unresolved Write-In,0
+Upper Providence Mingo 2,Total,Unresolved Write-In,4
+"Upper Providence Mont 
+Clare",Election Day,Unresolved Write-In,4
+"Upper Providence Mont 
+Clare",Mail-in,Unresolved Write-In,3
+"Upper Providence Mont 
+Clare",Provisional,Unresolved Write-In,2
+"Upper Providence Mont 
+Clare",Total,Unresolved Write-In,9
+Upper Providence Oaks,Election Day,Unresolved Write-In,8
+Upper Providence Oaks,Mail-in,Unresolved Write-In,3
+Upper Providence Oaks,Provisional,Unresolved Write-In,1
+Upper Providence Oaks,Total,Unresolved Write-In,12
+Upper Providence Trappe,Election Day,Unresolved Write-In,4
+Upper Providence Trappe,Mail-in,Unresolved Write-In,7
+Upper Providence Trappe,Provisional,Unresolved Write-In,0
+Upper Providence Trappe,Total,Unresolved Write-In,11
+Upper Salford,Election Day,Unresolved Write-In,2
+Upper Salford,Mail-in,Unresolved Write-In,2
+Upper Salford,Provisional,Unresolved Write-In,0
+Upper Salford,Total,Unresolved Write-In,4
+West Norriton 1-1,Election Day,Unresolved Write-In,2
+West Norriton 1-1,Mail-in,Unresolved Write-In,0
+West Norriton 1-1,Provisional,Unresolved Write-In,0
+West Norriton 1-1,Total,Unresolved Write-In,2
+West Norriton 1-2,Election Day,MADELEINE DEAN(DEM),321
+West Norriton 1-2,Election Day,DAVID WINKLER(REP),270
+West Norriton 1-2,Mail-in,MADELEINE DEAN(DEM),209
+West Norriton 1-2,Mail-in,DAVID WINKLER(REP),60
+West Norriton 1-2,Provisional,MADELEINE DEAN(DEM),0
+West Norriton 1-2,Provisional,DAVID WINKLER(REP),0
+West Norriton 1-2,Total,MADELEINE DEAN(DEM),530
+West Norriton 1-2,Total,DAVID WINKLER(REP),330
+West Norriton 2-1,Election Day,MADELEINE DEAN(DEM),432
+West Norriton 2-1,Election Day,DAVID WINKLER(REP),355
+West Norriton 2-1,Mail-in,MADELEINE DEAN(DEM),281
+West Norriton 2-1,Mail-in,DAVID WINKLER(REP),82
+West Norriton 2-1,Provisional,MADELEINE DEAN(DEM),5
+West Norriton 2-1,Provisional,DAVID WINKLER(REP),4
+West Norriton 2-1,Total,MADELEINE DEAN(DEM),718
+West Norriton 2-1,Total,DAVID WINKLER(REP),441
+West Norriton 2-2,Election Day,MADELEINE DEAN(DEM),****
+West Norriton 2-2,Election Day,DAVID WINKLER(REP),****
+West Norriton 2-2,Mail-in,MADELEINE DEAN(DEM),****
+West Norriton 2-2,Mail-in,DAVID WINKLER(REP),****
+West Norriton 2-2,Provisional,MADELEINE DEAN(DEM),****
+West Norriton 2-2,Provisional,DAVID WINKLER(REP),****
+West Norriton 2-2,Total,MADELEINE DEAN(DEM),568
+West Norriton 2-2,Total,DAVID WINKLER(REP),271
+West Norriton 3-1,Election Day,MADELEINE DEAN(DEM),729
+West Norriton 3-1,Election Day,DAVID WINKLER(REP),431
+West Norriton 3-1,Mail-in,MADELEINE DEAN(DEM),550
+West Norriton 3-1,Mail-in,DAVID WINKLER(REP),175
+West Norriton 3-1,Provisional,MADELEINE DEAN(DEM),17
+West Norriton 3-1,Provisional,DAVID WINKLER(REP),3
+West Norriton 3-1,Total,MADELEINE DEAN(DEM),"1,296"
+West Norriton 3-1,Total,DAVID WINKLER(REP),609
+West Norriton 3-2,Election Day,MADELEINE DEAN(DEM),****
+West Norriton 3-2,Election Day,DAVID WINKLER(REP),****
+West Norriton 3-2,Mail-in,MADELEINE DEAN(DEM),****
+West Norriton 3-2,Mail-in,DAVID WINKLER(REP),****
+West Norriton 3-2,Provisional,MADELEINE DEAN(DEM),****
+West Norriton 3-2,Provisional,DAVID WINKLER(REP),****
+West Norriton 3-2,Total,MADELEINE DEAN(DEM),623
+West Norriton 3-2,Total,DAVID WINKLER(REP),374
+West Norriton 4-1,Election Day,MADELEINE DEAN(DEM),****
+West Norriton 4-1,Election Day,DAVID WINKLER(REP),****
+West Norriton 4-1,Mail-in,MADELEINE DEAN(DEM),****
+West Norriton 4-1,Mail-in,DAVID WINKLER(REP),****
+West Norriton 4-1,Provisional,MADELEINE DEAN(DEM),****
+West Norriton 4-1,Provisional,DAVID WINKLER(REP),****
+West Norriton 4-1,Total,MADELEINE DEAN(DEM),784
+West Norriton 4-1,Total,DAVID WINKLER(REP),444
+West Norriton 1-2,Election Day,Unresolved Write-In,2
+West Norriton 1-2,Mail-in,Unresolved Write-In,0
+West Norriton 1-2,Provisional,Unresolved Write-In,0
+West Norriton 1-2,Total,Unresolved Write-In,2
+West Norriton 2-1,Election Day,Unresolved Write-In,3
+West Norriton 2-1,Mail-in,Unresolved Write-In,1
+West Norriton 2-1,Provisional,Unresolved Write-In,0
+West Norriton 2-1,Total,Unresolved Write-In,4
+West Norriton 2-2,Election Day,Unresolved Write-In,****
+West Norriton 2-2,Mail-in,Unresolved Write-In,****
+West Norriton 2-2,Provisional,Unresolved Write-In,****
+West Norriton 2-2,Total,Unresolved Write-In,2
+West Norriton 3-1,Election Day,Unresolved Write-In,6
+West Norriton 3-1,Mail-in,Unresolved Write-In,1
+West Norriton 3-1,Provisional,Unresolved Write-In,0
+West Norriton 3-1,Total,Unresolved Write-In,7
+West Norriton 3-2,Election Day,Unresolved Write-In,****
+West Norriton 3-2,Mail-in,Unresolved Write-In,****
+West Norriton 3-2,Provisional,Unresolved Write-In,****
+West Norriton 3-2,Total,Unresolved Write-In,3
+West Norriton 4-1,Election Day,Unresolved Write-In,****
+West Norriton 4-1,Mail-in,Unresolved Write-In,****
+West Norriton 4-1,Provisional,Unresolved Write-In,****
+West Norriton 4-1,Total,Unresolved Write-In,0
+West Norriton 4-2,Election Day,MADELEINE DEAN(DEM),544
+West Norriton 4-2,Election Day,DAVID WINKLER(REP),257
+West Norriton 4-2,Mail-in,MADELEINE DEAN(DEM),227
+West Norriton 4-2,Mail-in,DAVID WINKLER(REP),48
+West Norriton 4-2,Provisional,MADELEINE DEAN(DEM),0
+West Norriton 4-2,Provisional,DAVID WINKLER(REP),0
+West Norriton 4-2,Total,MADELEINE DEAN(DEM),771
+West Norriton 4-2,Total,DAVID WINKLER(REP),305
+West Pottsgrove,Election Day,MADELEINE DEAN(DEM),682
+West Pottsgrove,Election Day,DAVID WINKLER(REP),755
+West Pottsgrove,Mail-in,MADELEINE DEAN(DEM),289
+West Pottsgrove,Mail-in,DAVID WINKLER(REP),122
+West Pottsgrove,Provisional,MADELEINE DEAN(DEM),0
+West Pottsgrove,Provisional,DAVID WINKLER(REP),0
+West Pottsgrove,Total,MADELEINE DEAN(DEM),971
+West Pottsgrove,Total,DAVID WINKLER(REP),877
+Whitemarsh East 1,Election Day,MADELEINE DEAN(DEM),****
+Whitemarsh East 1,Election Day,DAVID WINKLER(REP),****
+Whitemarsh East 1,Mail-in,MADELEINE DEAN(DEM),****
+Whitemarsh East 1,Mail-in,DAVID WINKLER(REP),****
+Whitemarsh East 1,Provisional,MADELEINE DEAN(DEM),****
+Whitemarsh East 1,Provisional,DAVID WINKLER(REP),****
+Whitemarsh East 1,Total,MADELEINE DEAN(DEM),836
+Whitemarsh East 1,Total,DAVID WINKLER(REP),533
+Whitemarsh East 2,Election Day,MADELEINE DEAN(DEM),****
+Whitemarsh East 2,Election Day,DAVID WINKLER(REP),****
+Whitemarsh East 2,Mail-in,MADELEINE DEAN(DEM),****
+Whitemarsh East 2,Mail-in,DAVID WINKLER(REP),****
+Whitemarsh East 2,Provisional,MADELEINE DEAN(DEM),****
+Whitemarsh East 2,Provisional,DAVID WINKLER(REP),****
+Whitemarsh East 2,Total,MADELEINE DEAN(DEM),709
+Whitemarsh East 2,Total,DAVID WINKLER(REP),649
+Whitemarsh Middle 1,Election Day,MADELEINE DEAN(DEM),534
+Whitemarsh Middle 1,Election Day,DAVID WINKLER(REP),441
+Whitemarsh Middle 1,Mail-in,MADELEINE DEAN(DEM),264
+Whitemarsh Middle 1,Mail-in,DAVID WINKLER(REP),76
+Whitemarsh Middle 1,Provisional,MADELEINE DEAN(DEM),8
+Whitemarsh Middle 1,Provisional,DAVID WINKLER(REP),3
+Whitemarsh Middle 1,Total,MADELEINE DEAN(DEM),806
+Whitemarsh Middle 1,Total,DAVID WINKLER(REP),520
+Whitemarsh Middle 2,Election Day,MADELEINE DEAN(DEM),304
+Whitemarsh Middle 2,Election Day,DAVID WINKLER(REP),225
+Whitemarsh Middle 2,Mail-in,MADELEINE DEAN(DEM),126
+Whitemarsh Middle 2,Mail-in,DAVID WINKLER(REP),43
+Whitemarsh Middle 2,Provisional,MADELEINE DEAN(DEM),0
+Whitemarsh Middle 2,Provisional,DAVID WINKLER(REP),0
+Whitemarsh Middle 2,Total,MADELEINE DEAN(DEM),430
+Whitemarsh Middle 2,Total,DAVID WINKLER(REP),268
+West Norriton 4-2,Election Day,Unresolved Write-In,1
+West Norriton 4-2,Mail-in,Unresolved Write-In,0
+West Norriton 4-2,Provisional,Unresolved Write-In,0
+West Norriton 4-2,Total,Unresolved Write-In,1
+West Pottsgrove,Election Day,Unresolved Write-In,4
+West Pottsgrove,Mail-in,Unresolved Write-In,1
+West Pottsgrove,Provisional,Unresolved Write-In,0
+West Pottsgrove,Total,Unresolved Write-In,5
+Whitemarsh East 1,Election Day,Unresolved Write-In,****
+Whitemarsh East 1,Mail-in,Unresolved Write-In,****
+Whitemarsh East 1,Provisional,Unresolved Write-In,****
+Whitemarsh East 1,Total,Unresolved Write-In,2
+Whitemarsh East 2,Election Day,Unresolved Write-In,****
+Whitemarsh East 2,Mail-in,Unresolved Write-In,****
+Whitemarsh East 2,Provisional,Unresolved Write-In,****
+Whitemarsh East 2,Total,Unresolved Write-In,2
+Whitemarsh Middle 1,Election Day,Unresolved Write-In,2
+Whitemarsh Middle 1,Mail-in,Unresolved Write-In,0
+Whitemarsh Middle 1,Provisional,Unresolved Write-In,0
+Whitemarsh Middle 1,Total,Unresolved Write-In,2
+Whitemarsh Middle 2,Election Day,Unresolved Write-In,0
+Whitemarsh Middle 2,Mail-in,Unresolved Write-In,0
+Whitemarsh Middle 2,Provisional,Unresolved Write-In,0
+Whitemarsh Middle 2,Total,Unresolved Write-In,0
+Whitemarsh Middle 3,Election Day,MADELEINE DEAN(DEM),****
+Whitemarsh Middle 3,Election Day,DAVID WINKLER(REP),****
+Whitemarsh Middle 3,Mail-in,MADELEINE DEAN(DEM),****
+Whitemarsh Middle 3,Mail-in,DAVID WINKLER(REP),****
+Whitemarsh Middle 3,Provisional,MADELEINE DEAN(DEM),****
+Whitemarsh Middle 3,Provisional,DAVID WINKLER(REP),****
+Whitemarsh Middle 3,Total,MADELEINE DEAN(DEM),950
+Whitemarsh Middle 3,Total,DAVID WINKLER(REP),432
+Whitemarsh Middle 4,Election Day,MADELEINE DEAN(DEM),****
+Whitemarsh Middle 4,Election Day,DAVID WINKLER(REP),****
+Whitemarsh Middle 4,Mail-in,MADELEINE DEAN(DEM),****
+Whitemarsh Middle 4,Mail-in,DAVID WINKLER(REP),****
+Whitemarsh Middle 4,Provisional,MADELEINE DEAN(DEM),****
+Whitemarsh Middle 4,Provisional,DAVID WINKLER(REP),****
+Whitemarsh Middle 4,Total,MADELEINE DEAN(DEM),"1,012"
+Whitemarsh Middle 4,Total,DAVID WINKLER(REP),441
+Whitemarsh Middle 5,Election Day,MADELEINE DEAN(DEM),****
+Whitemarsh Middle 5,Election Day,DAVID WINKLER(REP),****
+Whitemarsh Middle 5,Mail-in,MADELEINE DEAN(DEM),****
+Whitemarsh Middle 5,Mail-in,DAVID WINKLER(REP),****
+Whitemarsh Middle 5,Provisional,MADELEINE DEAN(DEM),****
+Whitemarsh Middle 5,Provisional,DAVID WINKLER(REP),****
+Whitemarsh Middle 5,Total,MADELEINE DEAN(DEM),518
+Whitemarsh Middle 5,Total,DAVID WINKLER(REP),336
+Whitemarsh West 1,Election Day,MADELEINE DEAN(DEM),582
+Whitemarsh West 1,Election Day,DAVID WINKLER(REP),380
+Whitemarsh West 1,Mail-in,MADELEINE DEAN(DEM),284
+Whitemarsh West 1,Mail-in,DAVID WINKLER(REP),71
+Whitemarsh West 1,Provisional,MADELEINE DEAN(DEM),12
+Whitemarsh West 1,Provisional,DAVID WINKLER(REP),5
+Whitemarsh West 1,Total,MADELEINE DEAN(DEM),878
+Whitemarsh West 1,Total,DAVID WINKLER(REP),456
+Whitemarsh West 2,Election Day,MADELEINE DEAN(DEM),840
+Whitemarsh West 2,Election Day,DAVID WINKLER(REP),378
+Whitemarsh West 2,Mail-in,MADELEINE DEAN(DEM),542
+Whitemarsh West 2,Mail-in,DAVID WINKLER(REP),135
+Whitemarsh West 2,Provisional,MADELEINE DEAN(DEM),21
+Whitemarsh West 2,Provisional,DAVID WINKLER(REP),3
+Whitemarsh West 2,Total,MADELEINE DEAN(DEM),"1,403"
+Whitemarsh West 2,Total,DAVID WINKLER(REP),516
+Whitemarsh West 3,Election Day,MADELEINE DEAN(DEM),559
+Whitemarsh West 3,Election Day,DAVID WINKLER(REP),286
+Whitemarsh West 3,Mail-in,MADELEINE DEAN(DEM),440
+Whitemarsh West 3,Mail-in,DAVID WINKLER(REP),125
+Whitemarsh West 3,Provisional,MADELEINE DEAN(DEM),20
+Whitemarsh West 3,Provisional,DAVID WINKLER(REP),10
+Whitemarsh West 3,Total,MADELEINE DEAN(DEM),"1,019"
+Whitemarsh West 3,Total,DAVID WINKLER(REP),421

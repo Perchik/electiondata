@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Whitpain 10,Election Day,ROBERT P CASEY JR(DEM),443
+Whitpain 10,Election Day,DAVE MCCORMICK(REP),289
+Whitpain 10,Mail-in,ROBERT P CASEY JR(DEM),245
+Whitpain 10,Mail-in,DAVE MCCORMICK(REP),77
+Whitpain 10,Provisional,ROBERT P CASEY JR(DEM),10
+Whitpain 10,Provisional,DAVE MCCORMICK(REP),4
+Whitpain 10,Total,ROBERT P CASEY JR(DEM),698
+Whitpain 10,Total,DAVE MCCORMICK(REP),370
+Whitpain 11,Election Day,ROBERT P CASEY JR(DEM),458
+Whitpain 11,Election Day,DAVE MCCORMICK(REP),314
+Whitpain 11,Mail-in,ROBERT P CASEY JR(DEM),262
+Whitpain 11,Mail-in,DAVE MCCORMICK(REP),111
+Whitpain 11,Provisional,ROBERT P CASEY JR(DEM),9
+Whitpain 11,Provisional,DAVE MCCORMICK(REP),3
+Whitpain 11,Total,ROBERT P CASEY JR(DEM),729
+Whitpain 11,Total,DAVE MCCORMICK(REP),428
+Whitpain 12,Election Day,ROBERT P CASEY JR(DEM),****
+Whitpain 12,Election Day,DAVE MCCORMICK(REP),****
+Whitpain 12,Mail-in,ROBERT P CASEY JR(DEM),****
+Whitpain 12,Mail-in,DAVE MCCORMICK(REP),****
+Whitpain 12,Provisional,ROBERT P CASEY JR(DEM),****
+Whitpain 12,Provisional,DAVE MCCORMICK(REP),****
+Whitpain 12,Total,ROBERT P CASEY JR(DEM),607
+Whitpain 12,Total,DAVE MCCORMICK(REP),362
+Worcester East 1,Election Day,ROBERT P CASEY JR(DEM),****
+Worcester East 1,Election Day,DAVE MCCORMICK(REP),****
+Worcester East 1,Mail-in,ROBERT P CASEY JR(DEM),****
+Worcester East 1,Mail-in,DAVE MCCORMICK(REP),****
+Worcester East 1,Provisional,ROBERT P CASEY JR(DEM),****
+Worcester East 1,Provisional,DAVE MCCORMICK(REP),****
+Worcester East 1,Total,ROBERT P CASEY JR(DEM),836
+Worcester East 1,Total,DAVE MCCORMICK(REP),670
+Worcester East 2,Election Day,ROBERT P CASEY JR(DEM),636
+Worcester East 2,Election Day,DAVE MCCORMICK(REP),758
+Worcester East 2,Mail-in,ROBERT P CASEY JR(DEM),677
+Worcester East 2,Mail-in,DAVE MCCORMICK(REP),379
+Worcester East 2,Provisional,ROBERT P CASEY JR(DEM),13
+Worcester East 2,Provisional,DAVE MCCORMICK(REP),11
+Worcester East 2,Total,ROBERT P CASEY JR(DEM),"1,326"
+Worcester East 2,Total,DAVE MCCORMICK(REP),"1,148"
+Worcester East 3,Election Day,ROBERT P CASEY JR(DEM),****
+Worcester East 3,Election Day,DAVE MCCORMICK(REP),****
+Worcester East 3,Mail-in,ROBERT P CASEY JR(DEM),****
+Worcester East 3,Mail-in,DAVE MCCORMICK(REP),****
+Worcester East 3,Provisional,ROBERT P CASEY JR(DEM),****
+Worcester East 3,Provisional,DAVE MCCORMICK(REP),****
+Worcester East 3,Total,ROBERT P CASEY JR(DEM),650
+Worcester East 3,Total,DAVE MCCORMICK(REP),707

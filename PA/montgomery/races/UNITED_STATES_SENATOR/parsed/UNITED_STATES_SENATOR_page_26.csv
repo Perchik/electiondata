@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Souderton 1,Election Day,JOHN C THOMAS(LIB),****
+Souderton 1,Election Day,LEILA HAZOU(GRE),****
+Souderton 1,Election Day,MARTY SELKER(CON),****
+Souderton 1,Election Day,UnresolvedWrite-In,****
+Souderton 1,Mail-in,JOHN C THOMAS(LIB),****
+Souderton 1,Mail-in,LEILA HAZOU(GRE),****
+Souderton 1,Mail-in,MARTY SELKER(CON),****
+Souderton 1,Mail-in,UnresolvedWrite-In,****
+Souderton 1,Provisional,JOHN C THOMAS(LIB),****
+Souderton 1,Provisional,LEILA HAZOU(GRE),****
+Souderton 1,Provisional,MARTY SELKER(CON),****
+Souderton 1,Provisional,UnresolvedWrite-In,****
+Souderton 1,Total,JOHN C THOMAS(LIB),18
+Souderton 1,Total,LEILA HAZOU(GRE),9
+Souderton 1,Total,MARTY SELKER(CON),8
+Souderton 1,Total,UnresolvedWrite-In,1
+Souderton 2,Election Day,JOHN C THOMAS(LIB),17
+Souderton 2,Election Day,LEILA HAZOU(GRE),8
+Souderton 2,Election Day,MARTY SELKER(CON),3
+Souderton 2,Election Day,UnresolvedWrite-In,0
+Souderton 2,Mail-in,JOHN C THOMAS(LIB),2
+Souderton 2,Mail-in,LEILA HAZOU(GRE),4
+Souderton 2,Mail-in,MARTY SELKER(CON),2
+Souderton 2,Mail-in,UnresolvedWrite-In,0
+Souderton 2,Provisional,JOHN C THOMAS(LIB),0
+Souderton 2,Provisional,LEILA HAZOU(GRE),0
+Souderton 2,Provisional,MARTY SELKER(CON),0
+Souderton 2,Provisional,UnresolvedWrite-In,0
+Souderton 2,Total,JOHN C THOMAS(LIB),19
+Souderton 2,Total,LEILA HAZOU(GRE),12
+Souderton 2,Total,MARTY SELKER(CON),5
+Souderton 2,Total,UnresolvedWrite-In,0
+Souderton 3,Election Day,JOHN C THOMAS(LIB),****
+Souderton 3,Election Day,LEILA HAZOU(GRE),****
+Souderton 3,Election Day,MARTY SELKER(CON),****
+Souderton 3,Election Day,UnresolvedWrite-In,****
+Souderton 3,Mail-in,JOHN C THOMAS(LIB),****
+Souderton 3,Mail-in,LEILA HAZOU(GRE),****
+Souderton 3,Mail-in,MARTY SELKER(CON),****
+Souderton 3,Mail-in,UnresolvedWrite-In,****
+Souderton 3,Provisional,JOHN C THOMAS(LIB),****
+Souderton 3,Provisional,LEILA HAZOU(GRE),****
+Souderton 3,Provisional,MARTY SELKER(CON),****
+Souderton 3,Provisional,UnresolvedWrite-In,****
+Souderton 3,Total,JOHN C THOMAS(LIB),17
+Souderton 3,Total,LEILA HAZOU(GRE),5
+Souderton 3,Total,MARTY SELKER(CON),1
+Souderton 3,Total,UnresolvedWrite-In,2
+Telford,Election Day,JOHN C THOMAS(LIB),12
+Telford,Election Day,LEILA HAZOU(GRE),16
+Telford,Election Day,MARTY SELKER(CON),2
+Telford,Election Day,UnresolvedWrite-In,0
+Telford,Mail-in,JOHN C THOMAS(LIB),5
+Telford,Mail-in,LEILA HAZOU(GRE),2
+Telford,Mail-in,MARTY SELKER(CON),1
+Telford,Mail-in,UnresolvedWrite-In,0
+Telford,Provisional,JOHN C THOMAS(LIB),0
+Telford,Provisional,LEILA HAZOU(GRE),1
+Telford,Provisional,MARTY SELKER(CON),0
+Telford,Provisional,UnresolvedWrite-In,0
+Telford,Total,JOHN C THOMAS(LIB),17
+Telford,Total,LEILA HAZOU(GRE),19
+Telford,Total,MARTY SELKER(CON),3
+Telford,Total,UnresolvedWrite-In,0
+Trappe Boro,Election Day,JOHN C THOMAS(LIB),20
+Trappe Boro,Election Day,LEILA HAZOU(GRE),8
+Trappe Boro,Election Day,MARTY SELKER(CON),4
+Trappe Boro,Election Day,UnresolvedWrite-In,2
+Trappe Boro,Mail-in,JOHN C THOMAS(LIB),8
+Trappe Boro,Mail-in,LEILA HAZOU(GRE),12
+Trappe Boro,Mail-in,MARTY SELKER(CON),2
+Trappe Boro,Mail-in,UnresolvedWrite-In,0
+Trappe Boro,Provisional,JOHN C THOMAS(LIB),0
+Trappe Boro,Provisional,LEILA HAZOU(GRE),0
+Trappe Boro,Provisional,MARTY SELKER(CON),0
+Trappe Boro,Provisional,UnresolvedWrite-In,0
+Trappe Boro,Total,JOHN C THOMAS(LIB),28
+Trappe Boro,Total,LEILA HAZOU(GRE),20
+Trappe Boro,Total,MARTY SELKER(CON),6
+Trappe Boro,Total,UnresolvedWrite-In,2
+West Conshohocken,Election Day,JOHN C THOMAS(LIB),****
+West Conshohocken,Election Day,LEILA HAZOU(GRE),****
+West Conshohocken,Election Day,MARTY SELKER(CON),****
+West Conshohocken,Election Day,UnresolvedWrite-In,****
+West Conshohocken,Mail-in,JOHN C THOMAS(LIB),****
+West Conshohocken,Mail-in,LEILA HAZOU(GRE),****
+West Conshohocken,Mail-in,MARTY SELKER(CON),****
+West Conshohocken,Mail-in,UnresolvedWrite-In,****
+West Conshohocken,Provisional,JOHN C THOMAS(LIB),****
+West Conshohocken,Provisional,LEILA HAZOU(GRE),****
+West Conshohocken,Provisional,MARTY SELKER(CON),****
+West Conshohocken,Provisional,UnresolvedWrite-In,****
+West Conshohocken,Total,JOHN C THOMAS(LIB),6
+West Conshohocken,Total,LEILA HAZOU(GRE),5
+West Conshohocken,Total,MARTY SELKER(CON),3
+West Conshohocken,Total,UnresolvedWrite-In,0

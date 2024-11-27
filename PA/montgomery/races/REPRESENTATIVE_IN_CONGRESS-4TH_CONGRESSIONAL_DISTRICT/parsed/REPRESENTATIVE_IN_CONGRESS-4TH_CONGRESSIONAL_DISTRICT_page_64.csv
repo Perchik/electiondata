@@ -1,0 +1,25 @@
+precinct,method,candidate,votes
+New Hanover 3,Election Day,UnresolvedWrite-In,0
+New Hanover 3,Mail-in,UnresolvedWrite-In,1
+New Hanover 3,Provisional,UnresolvedWrite-In,0
+New Hanover 3,Total,UnresolvedWrite-In,1
+Perkiomen 1,Election Day,UnresolvedWrite-In,6
+Perkiomen 1,Mail-in,UnresolvedWrite-In,2
+Perkiomen 1,Provisional,UnresolvedWrite-In,0
+Perkiomen 1,Total,UnresolvedWrite-In,8
+Perkiomen 2,Election Day,UnresolvedWrite-In,5
+Perkiomen 2,Mail-in,UnresolvedWrite-In,3
+Perkiomen 2,Provisional,UnresolvedWrite-In,0
+Perkiomen 2,Total,UnresolvedWrite-In,8
+Plymouth 1-1,Election Day,UnresolvedWrite-In,5
+Plymouth 1-1,Mail-in,UnresolvedWrite-In,1
+Plymouth 1-1,Provisional,UnresolvedWrite-In,0
+Plymouth 1-1,Total,UnresolvedWrite-In,6
+Plymouth 1-2,Election Day,UnresolvedWrite-In,****
+Plymouth 1-2,Mail-in,UnresolvedWrite-In,****
+Plymouth 1-2,Provisional,UnresolvedWrite-In,****
+Plymouth 1-2,Total,UnresolvedWrite-In,3
+Plymouth 2-1,Election Day,UnresolvedWrite-In,2
+Plymouth 2-1,Mail-in,UnresolvedWrite-In,1
+Plymouth 2-1,Provisional,UnresolvedWrite-In,0
+Plymouth 2-1,Total,UnresolvedWrite-In,3

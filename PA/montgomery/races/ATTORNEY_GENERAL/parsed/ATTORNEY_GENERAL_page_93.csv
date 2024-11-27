@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Montgomery 7,Election Day,EUGENE DEPASQUALE(DEM),689
+Montgomery 7,Election Day,DAVE SUNDAY(REP),841
+Montgomery 7,Mail-in,EUGENE DEPASQUALE(DEM),898
+Montgomery 7,Mail-in,DAVE SUNDAY(REP),517
+Montgomery 7,Provisional,EUGENE DEPASQUALE(DEM),19
+Montgomery 7,Provisional,DAVE SUNDAY(REP),6
+Montgomery 7,Total,EUGENE DEPASQUALE(DEM),"1,606"
+Montgomery 7,Total,DAVE SUNDAY(REP),"1,364"
+Montgomery 8,Election Day,EUGENE DEPASQUALE(DEM),795
+Montgomery 8,Election Day,DAVE SUNDAY(REP),801
+Montgomery 8,Mail-in,EUGENE DEPASQUALE(DEM),"1,071"
+Montgomery 8,Mail-in,DAVE SUNDAY(REP),508
+Montgomery 8,Provisional,EUGENE DEPASQUALE(DEM),23
+Montgomery 8,Provisional,DAVE SUNDAY(REP),14
+Montgomery 8,Total,EUGENE DEPASQUALE(DEM),"1,889"
+Montgomery 8,Total,DAVE SUNDAY(REP),"1,323"
+New Hanover 1,Election Day,EUGENE DEPASQUALE(DEM),499
+New Hanover 1,Election Day,DAVE SUNDAY(REP),"1,224"
+New Hanover 1,Mail-in,EUGENE DEPASQUALE(DEM),519
+New Hanover 1,Mail-in,DAVE SUNDAY(REP),434
+New Hanover 1,Provisional,EUGENE DEPASQUALE(DEM),8
+New Hanover 1,Provisional,DAVE SUNDAY(REP),4
+New Hanover 1,Total,EUGENE DEPASQUALE(DEM),"1,026"
+New Hanover 1,Total,DAVE SUNDAY(REP),"1,662"
+New Hanover 2,Election Day,EUGENE DEPASQUALE(DEM),404
+New Hanover 2,Election Day,DAVE SUNDAY(REP),"1,035"
+New Hanover 2,Mail-in,EUGENE DEPASQUALE(DEM),441
+New Hanover 2,Mail-in,DAVE SUNDAY(REP),382
+New Hanover 2,Provisional,EUGENE DEPASQUALE(DEM),5
+New Hanover 2,Provisional,DAVE SUNDAY(REP),8
+New Hanover 2,Total,EUGENE DEPASQUALE(DEM),850
+New Hanover 2,Total,DAVE SUNDAY(REP),"1,425"
+New Hanover 3,Election Day,EUGENE DEPASQUALE(DEM),677
+New Hanover 3,Election Day,DAVE SUNDAY(REP),"1,308"
+New Hanover 3,Mail-in,EUGENE DEPASQUALE(DEM),569
+New Hanover 3,Mail-in,DAVE SUNDAY(REP),322
+New Hanover 3,Provisional,EUGENE DEPASQUALE(DEM),10
+New Hanover 3,Provisional,DAVE SUNDAY(REP),4
+New Hanover 3,Total,EUGENE DEPASQUALE(DEM),"1,256"
+New Hanover 3,Total,DAVE SUNDAY(REP),"1,634"
+Perkiomen 1,Election Day,EUGENE DEPASQUALE(DEM),647
+Perkiomen 1,Election Day,DAVE SUNDAY(REP),899
+Perkiomen 1,Mail-in,EUGENE DEPASQUALE(DEM),719
+Perkiomen 1,Mail-in,DAVE SUNDAY(REP),363
+Perkiomen 1,Provisional,EUGENE DEPASQUALE(DEM),7
+Perkiomen 1,Provisional,DAVE SUNDAY(REP),6
+Perkiomen 1,Total,EUGENE DEPASQUALE(DEM),"1,373"
+Perkiomen 1,Total,DAVE SUNDAY(REP),"1,268"

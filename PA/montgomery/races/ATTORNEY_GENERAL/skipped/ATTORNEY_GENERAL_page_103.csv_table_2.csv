@@ -1,0 +1,33 @@
+0,1,2
+Precinct,Times Cast,"Registered 
+Voters"
+Springfield 2-3,,
+Election Day,232,605
+Mail-in,244,605
+Provisional,5,605
+Total,481,605
+Springfield 3-1,,
+Election Day,818,"1,241"
+Mail-in,268,"1,241"
+Provisional,10,"1,241"
+Total,"1,096","1,241"
+Springfield 3-2,,
+Election Day,874,"1,394"
+Mail-in,304,"1,394"
+Provisional,13,"1,394"
+Total,"1,191","1,394"
+Springfield 4-1,,
+Election Day,509,831
+Mail-in,217,831
+Provisional,3,831
+Total,729,831
+Springfield 4-2,,
+Election Day,782,"1,231"
+Mail-in,325,"1,231"
+Provisional,8,"1,231"
+Total,"1,115","1,231"
+Springfield 5-1,,
+Election Day,862,"1,431"
+Mail-in,344,"1,431"
+Provisional,10,"1,431"
+Total,"1,216","1,431"

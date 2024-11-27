@@ -1,0 +1,17 @@
+precinct,method,candidate,votes
+Worcester West,Election Day,EUGENE DEPASQUALE(DEM),494
+Worcester West,Election Day,DAVE SUNDAY(REP),843
+Worcester West,Mail-in,EUGENE DEPASQUALE(DEM),372
+Worcester West,Mail-in,DAVE SUNDAY(REP),208
+Worcester West,Provisional,EUGENE DEPASQUALE(DEM),5
+Worcester West,Provisional,DAVE SUNDAY(REP),6
+Worcester West,Total,EUGENE DEPASQUALE(DEM),871
+Worcester West,Total,DAVE SUNDAY(REP),"1,057"
+Cumulative,Election Day,EUGENE DEPASQUALE(DEM),0
+Cumulative,Election Day,DAVE SUNDAY(REP),0
+Cumulative,Mail-in,EUGENE DEPASQUALE(DEM),0
+Cumulative,Mail-in,DAVE SUNDAY(REP),0
+Cumulative,Provisional,EUGENE DEPASQUALE(DEM),0
+Cumulative,Provisional,DAVE SUNDAY(REP),0
+Cumulative,Total,EUGENE DEPASQUALE(DEM),0
+Cumulative,Total,DAVE SUNDAY(REP),0

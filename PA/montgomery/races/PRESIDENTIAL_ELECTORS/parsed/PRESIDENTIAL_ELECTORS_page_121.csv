@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Douglass 3,Election Day,KAMALA D HARRIS(DEM),523
+Douglass 3,Election Day,DONALD J TRUMP(REP),"1,073"
+Douglass 3,Mail-in,KAMALA D HARRIS(DEM),360
+Douglass 3,Mail-in,DONALD J TRUMP(REP),286
+Douglass 3,Provisional,KAMALA D HARRIS(DEM),4
+Douglass 3,Provisional,DONALD J TRUMP(REP),7
+Douglass 3,Total,KAMALA D HARRIS(DEM),887
+Douglass 3,Total,DONALD J TRUMP(REP),"1,366"
+Douglass 4,Election Day,KAMALA D HARRIS(DEM),343
+Douglass 4,Election Day,DONALD J TRUMP(REP),683
+Douglass 4,Mail-in,KAMALA D HARRIS(DEM),259
+Douglass 4,Mail-in,DONALD J TRUMP(REP),164
+Douglass 4,Provisional,KAMALA D HARRIS(DEM),5
+Douglass 4,Provisional,DONALD J TRUMP(REP),5
+Douglass 4,Total,KAMALA D HARRIS(DEM),607
+Douglass 4,Total,DONALD J TRUMP(REP),852
+East Norriton 1-1,Election Day,KAMALA D HARRIS(DEM),344
+East Norriton 1-1,Election Day,DONALD J TRUMP(REP),355
+East Norriton 1-1,Mail-in,KAMALA D HARRIS(DEM),162
+East Norriton 1-1,Mail-in,DONALD J TRUMP(REP),83
+East Norriton 1-1,Provisional,KAMALA D HARRIS(DEM),0
+East Norriton 1-1,Provisional,DONALD J TRUMP(REP),0
+East Norriton 1-1,Total,KAMALA D HARRIS(DEM),506
+East Norriton 1-1,Total,DONALD J TRUMP(REP),438
+East Norriton 1-2,Election Day,KAMALA D HARRIS(DEM),****
+East Norriton 1-2,Election Day,DONALD J TRUMP(REP),****
+East Norriton 1-2,Mail-in,KAMALA D HARRIS(DEM),****
+East Norriton 1-2,Mail-in,DONALD J TRUMP(REP),****
+East Norriton 1-2,Provisional,KAMALA D HARRIS(DEM),****
+East Norriton 1-2,Provisional,DONALD J TRUMP(REP),****
+East Norriton 1-2,Total,KAMALA D HARRIS(DEM),699
+East Norriton 1-2,Total,DONALD J TRUMP(REP),371
+East Norriton 1-3,Election Day,KAMALA D HARRIS(DEM),504
+East Norriton 1-3,Election Day,DONALD J TRUMP(REP),577
+East Norriton 1-3,Mail-in,KAMALA D HARRIS(DEM),286
+East Norriton 1-3,Mail-in,DONALD J TRUMP(REP),120
+East Norriton 1-3,Provisional,KAMALA D HARRIS(DEM),7
+East Norriton 1-3,Provisional,DONALD J TRUMP(REP),5
+East Norriton 1-3,Total,KAMALA D HARRIS(DEM),797
+East Norriton 1-3,Total,DONALD J TRUMP(REP),702
+East Norriton 1-4,Election Day,KAMALA D HARRIS(DEM),****
+East Norriton 1-4,Election Day,DONALD J TRUMP(REP),****
+East Norriton 1-4,Mail-in,KAMALA D HARRIS(DEM),****
+East Norriton 1-4,Mail-in,DONALD J TRUMP(REP),****
+East Norriton 1-4,Provisional,KAMALA D HARRIS(DEM),****
+East Norriton 1-4,Provisional,DONALD J TRUMP(REP),****
+East Norriton 1-4,Total,KAMALA D HARRIS(DEM),573
+East Norriton 1-4,Total,DONALD J TRUMP(REP),482

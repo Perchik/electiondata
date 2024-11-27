@@ -1,0 +1,57 @@
+precinct,method,candidate,votes
+Upper Moreland 7-2,Election Day,ROBERT P CASEY JR(DEM),****
+Upper Moreland 7-2,Election Day,DAVE MCCORMICK(REP),****
+Upper Moreland 7-2,Mail-in,ROBERT P CASEY JR(DEM),****
+Upper Moreland 7-2,Mail-in,DAVE MCCORMICK(REP),****
+Upper Moreland 7-2,Provisional,ROBERT P CASEY JR(DEM),****
+Upper Moreland 7-2,Provisional,DAVE MCCORMICK(REP),****
+Upper Moreland 7-2,Total,ROBERT P CASEY JR(DEM),581
+Upper Moreland 7-2,Total,DAVE MCCORMICK(REP),551
+Upper Pottsgrove,Election Day,ROBERT P CASEY JR(DEM),"1,020"
+Upper Pottsgrove,Election Day,DAVE MCCORMICK(REP),"1,312"
+Upper Pottsgrove,Mail-in,ROBERT P CASEY JR(DEM),722
+Upper Pottsgrove,Mail-in,DAVE MCCORMICK(REP),406
+Upper Pottsgrove,Provisional,ROBERT P CASEY JR(DEM),21
+Upper Pottsgrove,Provisional,DAVE MCCORMICK(REP),8
+Upper Pottsgrove,Total,ROBERT P CASEY JR(DEM),"1,763"
+Upper Pottsgrove,Total,DAVE MCCORMICK(REP),"1,726"
+Upper Providence Mingo 1,Election Day,ROBERT P CASEY JR(DEM),579
+Upper Providence Mingo 1,Election Day,DAVE MCCORMICK(REP),595
+Upper Providence Mingo 1,Mail-in,ROBERT P CASEY JR(DEM),469
+Upper Providence Mingo 1,Mail-in,DAVE MCCORMICK(REP),180
+Upper Providence Mingo 1,Provisional,ROBERT P CASEY JR(DEM),8
+Upper Providence Mingo 1,Provisional,DAVE MCCORMICK(REP),4
+Upper Providence Mingo 1,Total,ROBERT P CASEY JR(DEM),"1,056"
+Upper Providence Mingo 1,Total,DAVE MCCORMICK(REP),779
+Upper Providence Mingo 2,Election Day,ROBERT P CASEY JR(DEM),778
+Upper Providence Mingo 2,Election Day,DAVE MCCORMICK(REP),911
+Upper Providence Mingo 2,Mail-in,ROBERT P CASEY JR(DEM),778
+Upper Providence Mingo 2,Mail-in,DAVE MCCORMICK(REP),365
+Upper Providence Mingo 2,Provisional,ROBERT P CASEY JR(DEM),18
+Upper Providence Mingo 2,Provisional,DAVE MCCORMICK(REP),8
+Upper Providence Mingo 2,Total,ROBERT P CASEY JR(DEM),"1,574"
+Upper Providence Mingo 2,Total,DAVE MCCORMICK(REP),"1,284"
+"Upper Providence Mont 
+Clare",Election Day,ROBERT P CASEY JR(DEM),859
+"Upper Providence Mont 
+Clare",Election Day,DAVE MCCORMICK(REP),836
+"Upper Providence Mont 
+Clare",Mail-in,ROBERT P CASEY JR(DEM),988
+"Upper Providence Mont 
+Clare",Mail-in,DAVE MCCORMICK(REP),462
+"Upper Providence Mont 
+Clare",Provisional,ROBERT P CASEY JR(DEM),17
+"Upper Providence Mont 
+Clare",Provisional,DAVE MCCORMICK(REP),12
+"Upper Providence Mont 
+Clare",Total,ROBERT P CASEY JR(DEM),"1,864"
+"Upper Providence Mont 
+Clare",Total,DAVE MCCORMICK(REP),"1,310"
+Upper Providence Oaks,Election Day,ROBERT P CASEY JR(DEM),888
+Upper Providence Oaks,Election Day,DAVE MCCORMICK(REP),891
+Upper Providence Oaks,Mail-in,ROBERT P CASEY JR(DEM),"1,160"
+Upper Providence Oaks,Mail-in,DAVE MCCORMICK(REP),515
+Upper Providence Oaks,Provisional,ROBERT P CASEY JR(DEM),7
+Upper Providence Oaks,Provisional,DAVE MCCORMICK(REP),14
+Upper Providence Oaks,Total,ROBERT P CASEY JR(DEM),"2,055"
+Upper Providence Oaks,Total,DAVE MCCORMICK(REP),"1,420"

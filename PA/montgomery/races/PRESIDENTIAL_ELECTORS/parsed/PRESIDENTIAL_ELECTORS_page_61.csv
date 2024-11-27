@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Souderton 1,Election Day,KAMALA D HARRIS(DEM),****
+Souderton 1,Election Day,DONALD J TRUMP(REP),****
+Souderton 1,Mail-in,KAMALA D HARRIS(DEM),****
+Souderton 1,Mail-in,DONALD J TRUMP(REP),****
+Souderton 1,Provisional,KAMALA D HARRIS(DEM),****
+Souderton 1,Provisional,DONALD J TRUMP(REP),****
+Souderton 1,Total,KAMALA D HARRIS(DEM),653
+Souderton 1,Total,DONALD J TRUMP(REP),676
+Souderton 2,Election Day,KAMALA D HARRIS(DEM),427
+Souderton 2,Election Day,DONALD J TRUMP(REP),554
+Souderton 2,Mail-in,KAMALA D HARRIS(DEM),174
+Souderton 2,Mail-in,DONALD J TRUMP(REP),94
+Souderton 2,Provisional,KAMALA D HARRIS(DEM),9
+Souderton 2,Provisional,DONALD J TRUMP(REP),3
+Souderton 2,Total,KAMALA D HARRIS(DEM),610
+Souderton 2,Total,DONALD J TRUMP(REP),651
+Souderton 3,Election Day,KAMALA D HARRIS(DEM),****
+Souderton 3,Election Day,DONALD J TRUMP(REP),****
+Souderton 3,Mail-in,KAMALA D HARRIS(DEM),****
+Souderton 3,Mail-in,DONALD J TRUMP(REP),****
+Souderton 3,Provisional,KAMALA D HARRIS(DEM),****
+Souderton 3,Provisional,DONALD J TRUMP(REP),****
+Souderton 3,Total,KAMALA D HARRIS(DEM),511
+Souderton 3,Total,DONALD J TRUMP(REP),514
+Telford,Election Day,KAMALA D HARRIS(DEM),459
+Telford,Election Day,DONALD J TRUMP(REP),599
+Telford,Mail-in,KAMALA D HARRIS(DEM),228
+Telford,Mail-in,DONALD J TRUMP(REP),88
+Telford,Provisional,KAMALA D HARRIS(DEM),11
+Telford,Provisional,DONALD J TRUMP(REP),5
+Telford,Total,KAMALA D HARRIS(DEM),698
+Telford,Total,DONALD J TRUMP(REP),692
+Trappe Boro,Election Day,KAMALA D HARRIS(DEM),787
+Trappe Boro,Election Day,DONALD J TRUMP(REP),818
+Trappe Boro,Mail-in,KAMALA D HARRIS(DEM),608
+Trappe Boro,Mail-in,DONALD J TRUMP(REP),279
+Trappe Boro,Provisional,KAMALA D HARRIS(DEM),13
+Trappe Boro,Provisional,DONALD J TRUMP(REP),9
+Trappe Boro,Total,KAMALA D HARRIS(DEM),"1,408"
+Trappe Boro,Total,DONALD J TRUMP(REP),"1,106"
+West Conshohocken,Election Day,KAMALA D HARRIS(DEM),****
+West Conshohocken,Election Day,DONALD J TRUMP(REP),****
+West Conshohocken,Mail-in,KAMALA D HARRIS(DEM),****
+West Conshohocken,Mail-in,DONALD J TRUMP(REP),****
+West Conshohocken,Provisional,KAMALA D HARRIS(DEM),****
+West Conshohocken,Provisional,DONALD J TRUMP(REP),****
+West Conshohocken,Total,KAMALA D HARRIS(DEM),589
+West Conshohocken,Total,DONALD J TRUMP(REP),372

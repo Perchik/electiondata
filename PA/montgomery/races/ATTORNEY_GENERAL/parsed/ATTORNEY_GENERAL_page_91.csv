@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Montgomery 1,Election Day,EUGENE DEPASQUALE(DEM),****
+Montgomery 1,Election Day,DAVE SUNDAY(REP),****
+Montgomery 1,Mail-in,EUGENE DEPASQUALE(DEM),****
+Montgomery 1,Mail-in,DAVE SUNDAY(REP),****
+Montgomery 1,Provisional,EUGENE DEPASQUALE(DEM),****
+Montgomery 1,Provisional,DAVE SUNDAY(REP),****
+Montgomery 1,Total,EUGENE DEPASQUALE(DEM),634
+Montgomery 1,Total,DAVE SUNDAY(REP),518
+Montgomery 2,Election Day,EUGENE DEPASQUALE(DEM),457
+Montgomery 2,Election Day,DAVE SUNDAY(REP),548
+Montgomery 2,Mail-in,EUGENE DEPASQUALE(DEM),554
+Montgomery 2,Mail-in,DAVE SUNDAY(REP),286
+Montgomery 2,Provisional,EUGENE DEPASQUALE(DEM),9
+Montgomery 2,Provisional,DAVE SUNDAY(REP),7
+Montgomery 2,Total,EUGENE DEPASQUALE(DEM),"1,020"
+Montgomery 2,Total,DAVE SUNDAY(REP),841
+Montgomery 3,Election Day,EUGENE DEPASQUALE(DEM),688
+Montgomery 3,Election Day,DAVE SUNDAY(REP),842
+Montgomery 3,Mail-in,EUGENE DEPASQUALE(DEM),779
+Montgomery 3,Mail-in,DAVE SUNDAY(REP),336
+Montgomery 3,Provisional,EUGENE DEPASQUALE(DEM),13
+Montgomery 3,Provisional,DAVE SUNDAY(REP),10
+Montgomery 3,Total,EUGENE DEPASQUALE(DEM),"1,480"
+Montgomery 3,Total,DAVE SUNDAY(REP),"1,188"
+Montgomery 4,Election Day,EUGENE DEPASQUALE(DEM),****
+Montgomery 4,Election Day,DAVE SUNDAY(REP),****
+Montgomery 4,Mail-in,EUGENE DEPASQUALE(DEM),****
+Montgomery 4,Mail-in,DAVE SUNDAY(REP),****
+Montgomery 4,Provisional,EUGENE DEPASQUALE(DEM),****
+Montgomery 4,Provisional,DAVE SUNDAY(REP),****
+Montgomery 4,Total,EUGENE DEPASQUALE(DEM),455
+Montgomery 4,Total,DAVE SUNDAY(REP),556
+Montgomery 5,Election Day,EUGENE DEPASQUALE(DEM),486
+Montgomery 5,Election Day,DAVE SUNDAY(REP),513
+Montgomery 5,Mail-in,EUGENE DEPASQUALE(DEM),390
+Montgomery 5,Mail-in,DAVE SUNDAY(REP),193
+Montgomery 5,Provisional,EUGENE DEPASQUALE(DEM),12
+Montgomery 5,Provisional,DAVE SUNDAY(REP),4
+Montgomery 5,Total,EUGENE DEPASQUALE(DEM),888
+Montgomery 5,Total,DAVE SUNDAY(REP),710
+Montgomery 6,Election Day,EUGENE DEPASQUALE(DEM),495
+Montgomery 6,Election Day,DAVE SUNDAY(REP),541
+Montgomery 6,Mail-in,EUGENE DEPASQUALE(DEM),392
+Montgomery 6,Mail-in,DAVE SUNDAY(REP),211
+Montgomery 6,Provisional,EUGENE DEPASQUALE(DEM),14
+Montgomery 6,Provisional,DAVE SUNDAY(REP),9
+Montgomery 6,Total,EUGENE DEPASQUALE(DEM),901
+Montgomery 6,Total,DAVE SUNDAY(REP),761

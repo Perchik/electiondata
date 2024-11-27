@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Lansdale 3-2,Election Day,KAMALA D HARRIS(DEM),****
+Lansdale 3-2,Election Day,DONALD J TRUMP(REP),****
+Lansdale 3-2,Mail-in,KAMALA D HARRIS(DEM),****
+Lansdale 3-2,Mail-in,DONALD J TRUMP(REP),****
+Lansdale 3-2,Provisional,KAMALA D HARRIS(DEM),****
+Lansdale 3-2,Provisional,DONALD J TRUMP(REP),****
+Lansdale 3-2,Total,KAMALA D HARRIS(DEM),668
+Lansdale 3-2,Total,DONALD J TRUMP(REP),473
+Lansdale 3-3,Election Day,KAMALA D HARRIS(DEM),****
+Lansdale 3-3,Election Day,DONALD J TRUMP(REP),****
+Lansdale 3-3,Mail-in,KAMALA D HARRIS(DEM),****
+Lansdale 3-3,Mail-in,DONALD J TRUMP(REP),****
+Lansdale 3-3,Provisional,KAMALA D HARRIS(DEM),****
+Lansdale 3-3,Provisional,DONALD J TRUMP(REP),****
+Lansdale 3-3,Total,KAMALA D HARRIS(DEM),865
+Lansdale 3-3,Total,DONALD J TRUMP(REP),458
+Narberth 1,Election Day,KAMALA D HARRIS(DEM),****
+Narberth 1,Election Day,DONALD J TRUMP(REP),****
+Narberth 1,Mail-in,KAMALA D HARRIS(DEM),****
+Narberth 1,Mail-in,DONALD J TRUMP(REP),****
+Narberth 1,Provisional,KAMALA D HARRIS(DEM),****
+Narberth 1,Provisional,DONALD J TRUMP(REP),****
+Narberth 1,Total,KAMALA D HARRIS(DEM),759
+Narberth 1,Total,DONALD J TRUMP(REP),146
+Narberth 2,Election Day,KAMALA D HARRIS(DEM),****
+Narberth 2,Election Day,DONALD J TRUMP(REP),****
+Narberth 2,Mail-in,KAMALA D HARRIS(DEM),****
+Narberth 2,Mail-in,DONALD J TRUMP(REP),****
+Narberth 2,Provisional,KAMALA D HARRIS(DEM),****
+Narberth 2,Provisional,DONALD J TRUMP(REP),****
+Narberth 2,Total,KAMALA D HARRIS(DEM),"1,286"
+Narberth 2,Total,DONALD J TRUMP(REP),248
+Narberth 3,Election Day,KAMALA D HARRIS(DEM),****
+Narberth 3,Election Day,DONALD J TRUMP(REP),****
+Narberth 3,Mail-in,KAMALA D HARRIS(DEM),****
+Narberth 3,Mail-in,DONALD J TRUMP(REP),****
+Narberth 3,Provisional,KAMALA D HARRIS(DEM),****
+Narberth 3,Provisional,DONALD J TRUMP(REP),****
+Narberth 3,Total,KAMALA D HARRIS(DEM),542
+Narberth 3,Total,DONALD J TRUMP(REP),66
+Norristown 1-1,Election Day,KAMALA D HARRIS(DEM),365
+Norristown 1-1,Election Day,DONALD J TRUMP(REP),105
+Norristown 1-1,Mail-in,KAMALA D HARRIS(DEM),167
+Norristown 1-1,Mail-in,DONALD J TRUMP(REP),29
+Norristown 1-1,Provisional,KAMALA D HARRIS(DEM),11
+Norristown 1-1,Provisional,DONALD J TRUMP(REP),3
+Norristown 1-1,Total,KAMALA D HARRIS(DEM),543
+Norristown 1-1,Total,DONALD J TRUMP(REP),137

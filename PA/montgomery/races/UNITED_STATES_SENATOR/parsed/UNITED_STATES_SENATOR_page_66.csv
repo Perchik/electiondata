@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Limerick 3,Election Day,JOHN C THOMAS(LIB),11
+Limerick 3,Election Day,LEILA HAZOU(GRE),13
+Limerick 3,Election Day,MARTY SELKER(CON),4
+Limerick 3,Election Day,UnresolvedWrite-In,0
+Limerick 3,Mail-in,JOHN C THOMAS(LIB),8
+Limerick 3,Mail-in,LEILA HAZOU(GRE),3
+Limerick 3,Mail-in,MARTY SELKER(CON),1
+Limerick 3,Mail-in,UnresolvedWrite-In,0
+Limerick 3,Provisional,JOHN C THOMAS(LIB),0
+Limerick 3,Provisional,LEILA HAZOU(GRE),0
+Limerick 3,Provisional,MARTY SELKER(CON),0
+Limerick 3,Provisional,UnresolvedWrite-In,0
+Limerick 3,Total,JOHN C THOMAS(LIB),19
+Limerick 3,Total,LEILA HAZOU(GRE),16
+Limerick 3,Total,MARTY SELKER(CON),5
+Limerick 3,Total,UnresolvedWrite-In,0
+Limerick 4,Election Day,JOHN C THOMAS(LIB),14
+Limerick 4,Election Day,LEILA HAZOU(GRE),11
+Limerick 4,Election Day,MARTY SELKER(CON),2
+Limerick 4,Election Day,UnresolvedWrite-In,0
+Limerick 4,Mail-in,JOHN C THOMAS(LIB),7
+Limerick 4,Mail-in,LEILA HAZOU(GRE),9
+Limerick 4,Mail-in,MARTY SELKER(CON),1
+Limerick 4,Mail-in,UnresolvedWrite-In,0
+Limerick 4,Provisional,JOHN C THOMAS(LIB),0
+Limerick 4,Provisional,LEILA HAZOU(GRE),0
+Limerick 4,Provisional,MARTY SELKER(CON),0
+Limerick 4,Provisional,UnresolvedWrite-In,0
+Limerick 4,Total,JOHN C THOMAS(LIB),21
+Limerick 4,Total,LEILA HAZOU(GRE),20
+Limerick 4,Total,MARTY SELKER(CON),3
+Limerick 4,Total,UnresolvedWrite-In,0
+Limerick 5,Election Day,JOHN C THOMAS(LIB),18
+Limerick 5,Election Day,LEILA HAZOU(GRE),9
+Limerick 5,Election Day,MARTY SELKER(CON),3
+Limerick 5,Election Day,UnresolvedWrite-In,3
+Limerick 5,Mail-in,JOHN C THOMAS(LIB),5
+Limerick 5,Mail-in,LEILA HAZOU(GRE),8
+Limerick 5,Mail-in,MARTY SELKER(CON),1
+Limerick 5,Mail-in,UnresolvedWrite-In,0
+Limerick 5,Provisional,JOHN C THOMAS(LIB),0
+Limerick 5,Provisional,LEILA HAZOU(GRE),1
+Limerick 5,Provisional,MARTY SELKER(CON),0
+Limerick 5,Provisional,UnresolvedWrite-In,0
+Limerick 5,Total,JOHN C THOMAS(LIB),23
+Limerick 5,Total,LEILA HAZOU(GRE),18
+Limerick 5,Total,MARTY SELKER(CON),4
+Limerick 5,Total,UnresolvedWrite-In,3
+Limerick 6,Election Day,JOHN C THOMAS(LIB),21
+Limerick 6,Election Day,LEILA HAZOU(GRE),15
+Limerick 6,Election Day,MARTY SELKER(CON),1
+Limerick 6,Election Day,UnresolvedWrite-In,0
+Limerick 6,Mail-in,JOHN C THOMAS(LIB),5
+Limerick 6,Mail-in,LEILA HAZOU(GRE),1
+Limerick 6,Mail-in,MARTY SELKER(CON),2
+Limerick 6,Mail-in,UnresolvedWrite-In,0
+Limerick 6,Provisional,JOHN C THOMAS(LIB),0
+Limerick 6,Provisional,LEILA HAZOU(GRE),0
+Limerick 6,Provisional,MARTY SELKER(CON),0
+Limerick 6,Provisional,UnresolvedWrite-In,0
+Limerick 6,Total,JOHN C THOMAS(LIB),26
+Limerick 6,Total,LEILA HAZOU(GRE),16
+Limerick 6,Total,MARTY SELKER(CON),3
+Limerick 6,Total,UnresolvedWrite-In,0
+Lower Frederick 1,Election Day,JOHN C THOMAS(LIB),****
+Lower Frederick 1,Election Day,LEILA HAZOU(GRE),****
+Lower Frederick 1,Election Day,MARTY SELKER(CON),****
+Lower Frederick 1,Election Day,UnresolvedWrite-In,****
+Lower Frederick 1,Mail-in,JOHN C THOMAS(LIB),****
+Lower Frederick 1,Mail-in,LEILA HAZOU(GRE),****
+Lower Frederick 1,Mail-in,MARTY SELKER(CON),****
+Lower Frederick 1,Mail-in,UnresolvedWrite-In,****
+Lower Frederick 1,Provisional,JOHN C THOMAS(LIB),****
+Lower Frederick 1,Provisional,LEILA HAZOU(GRE),****
+Lower Frederick 1,Provisional,MARTY SELKER(CON),****
+Lower Frederick 1,Provisional,UnresolvedWrite-In,****
+Lower Frederick 1,Total,JOHN C THOMAS(LIB),18
+Lower Frederick 1,Total,LEILA HAZOU(GRE),12
+Lower Frederick 1,Total,MARTY SELKER(CON),5
+Lower Frederick 1,Total,UnresolvedWrite-In,1
+Lower Frederick 2,Election Day,JOHN C THOMAS(LIB),23
+Lower Frederick 2,Election Day,LEILA HAZOU(GRE),7
+Lower Frederick 2,Election Day,MARTY SELKER(CON),5
+Lower Frederick 2,Election Day,UnresolvedWrite-In,1
+Lower Frederick 2,Mail-in,JOHN C THOMAS(LIB),4
+Lower Frederick 2,Mail-in,LEILA HAZOU(GRE),4
+Lower Frederick 2,Mail-in,MARTY SELKER(CON),1
+Lower Frederick 2,Mail-in,UnresolvedWrite-In,2
+Lower Frederick 2,Provisional,JOHN C THOMAS(LIB),0
+Lower Frederick 2,Provisional,LEILA HAZOU(GRE),0
+Lower Frederick 2,Provisional,MARTY SELKER(CON),0
+Lower Frederick 2,Provisional,UnresolvedWrite-In,0
+Lower Frederick 2,Total,JOHN C THOMAS(LIB),27
+Lower Frederick 2,Total,LEILA HAZOU(GRE),11
+Lower Frederick 2,Total,MARTY SELKER(CON),6
+Lower Frederick 2,Total,UnresolvedWrite-In,3

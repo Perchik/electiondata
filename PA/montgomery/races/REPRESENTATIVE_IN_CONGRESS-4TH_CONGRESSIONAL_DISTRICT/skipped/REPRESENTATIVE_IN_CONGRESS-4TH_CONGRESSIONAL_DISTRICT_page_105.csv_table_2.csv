@@ -1,0 +1,32 @@
+0,1,2
+Precinct,Times Cast,"Registered 
+Voters"
+Worcester East 1,,
+Election Day,"1,067","1,836"
+Mail-in,478,"1,836"
+Provisional,10,"1,836"
+Total,"1,555","1,836"
+Worcester East 2,,
+Election Day,"1,426","2,873"
+Mail-in,"1,071","2,873"
+Provisional,25,"2,873"
+Total,"2,522","2,873"
+Worcester East 3,,
+Election Day,835,"1,647"
+Mail-in,558,"1,647"
+Provisional,4,"1,647"
+Total,"1,397","1,647"
+Worcester West,,
+Election Day,"1,390","2,331"
+Mail-in,604,"2,331"
+Provisional,12,"2,331"
+Total,"2,006","2,331"
+PA County - Total,"392,871","469,550"
+Cumulative,,
+Cumulative,,
+Election Day,0,0
+Mail-in,0,0
+Provisional,0,0
+Total,0,0
+Cumulative - Total,0,0
+County - Total,"392,871","469,550"

@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Perkiomen 2,Election Day,JOHN C THOMAS(LIB),31
+Perkiomen 2,Election Day,LEILA HAZOU(GRE),11
+Perkiomen 2,Election Day,MARTY SELKER(CON),1
+Perkiomen 2,Election Day,UnresolvedWrite-In,1
+Perkiomen 2,Mail-in,JOHN C THOMAS(LIB),13
+Perkiomen 2,Mail-in,LEILA HAZOU(GRE),22
+Perkiomen 2,Mail-in,MARTY SELKER(CON),5
+Perkiomen 2,Mail-in,UnresolvedWrite-In,0
+Perkiomen 2,Provisional,JOHN C THOMAS(LIB),0
+Perkiomen 2,Provisional,LEILA HAZOU(GRE),1
+Perkiomen 2,Provisional,MARTY SELKER(CON),0
+Perkiomen 2,Provisional,UnresolvedWrite-In,0
+Perkiomen 2,Total,JOHN C THOMAS(LIB),44
+Perkiomen 2,Total,LEILA HAZOU(GRE),34
+Perkiomen 2,Total,MARTY SELKER(CON),6
+Perkiomen 2,Total,UnresolvedWrite-In,1
+Plymouth 1-1,Election Day,JOHN C THOMAS(LIB),12
+Plymouth 1-1,Election Day,LEILA HAZOU(GRE),14
+Plymouth 1-1,Election Day,MARTY SELKER(CON),3
+Plymouth 1-1,Election Day,UnresolvedWrite-In,3
+Plymouth 1-1,Mail-in,JOHN C THOMAS(LIB),1
+Plymouth 1-1,Mail-in,LEILA HAZOU(GRE),6
+Plymouth 1-1,Mail-in,MARTY SELKER(CON),0
+Plymouth 1-1,Mail-in,UnresolvedWrite-In,0
+Plymouth 1-1,Provisional,JOHN C THOMAS(LIB),1
+Plymouth 1-1,Provisional,LEILA HAZOU(GRE),0
+Plymouth 1-1,Provisional,MARTY SELKER(CON),0
+Plymouth 1-1,Provisional,UnresolvedWrite-In,0
+Plymouth 1-1,Total,JOHN C THOMAS(LIB),14
+Plymouth 1-1,Total,LEILA HAZOU(GRE),20
+Plymouth 1-1,Total,MARTY SELKER(CON),3
+Plymouth 1-1,Total,UnresolvedWrite-In,3
+Plymouth 1-2,Election Day,JOHN C THOMAS(LIB),****
+Plymouth 1-2,Election Day,LEILA HAZOU(GRE),****
+Plymouth 1-2,Election Day,MARTY SELKER(CON),****
+Plymouth 1-2,Election Day,UnresolvedWrite-In,****
+Plymouth 1-2,Mail-in,JOHN C THOMAS(LIB),****
+Plymouth 1-2,Mail-in,LEILA HAZOU(GRE),****
+Plymouth 1-2,Mail-in,MARTY SELKER(CON),****
+Plymouth 1-2,Mail-in,UnresolvedWrite-In,****
+Plymouth 1-2,Provisional,JOHN C THOMAS(LIB),****
+Plymouth 1-2,Provisional,LEILA HAZOU(GRE),****
+Plymouth 1-2,Provisional,MARTY SELKER(CON),****
+Plymouth 1-2,Provisional,UnresolvedWrite-In,****
+Plymouth 1-2,Total,JOHN C THOMAS(LIB),12
+Plymouth 1-2,Total,LEILA HAZOU(GRE),15
+Plymouth 1-2,Total,MARTY SELKER(CON),4
+Plymouth 1-2,Total,UnresolvedWrite-In,3
+Plymouth 2-1,Election Day,JOHN C THOMAS(LIB),6
+Plymouth 2-1,Election Day,LEILA HAZOU(GRE),1
+Plymouth 2-1,Election Day,MARTY SELKER(CON),1
+Plymouth 2-1,Election Day,UnresolvedWrite-In,1
+Plymouth 2-1,Mail-in,JOHN C THOMAS(LIB),2
+Plymouth 2-1,Mail-in,LEILA HAZOU(GRE),1
+Plymouth 2-1,Mail-in,MARTY SELKER(CON),0
+Plymouth 2-1,Mail-in,UnresolvedWrite-In,0
+Plymouth 2-1,Provisional,JOHN C THOMAS(LIB),0
+Plymouth 2-1,Provisional,LEILA HAZOU(GRE),0
+Plymouth 2-1,Provisional,MARTY SELKER(CON),0
+Plymouth 2-1,Provisional,UnresolvedWrite-In,0
+Plymouth 2-1,Total,JOHN C THOMAS(LIB),8
+Plymouth 2-1,Total,LEILA HAZOU(GRE),2
+Plymouth 2-1,Total,MARTY SELKER(CON),1
+Plymouth 2-1,Total,UnresolvedWrite-In,1
+Plymouth 2-2,Election Day,JOHN C THOMAS(LIB),****
+Plymouth 2-2,Election Day,LEILA HAZOU(GRE),****
+Plymouth 2-2,Election Day,MARTY SELKER(CON),****
+Plymouth 2-2,Election Day,UnresolvedWrite-In,****
+Plymouth 2-2,Mail-in,JOHN C THOMAS(LIB),****
+Plymouth 2-2,Mail-in,LEILA HAZOU(GRE),****
+Plymouth 2-2,Mail-in,MARTY SELKER(CON),****
+Plymouth 2-2,Mail-in,UnresolvedWrite-In,****
+Plymouth 2-2,Provisional,JOHN C THOMAS(LIB),****
+Plymouth 2-2,Provisional,LEILA HAZOU(GRE),****
+Plymouth 2-2,Provisional,MARTY SELKER(CON),****
+Plymouth 2-2,Provisional,UnresolvedWrite-In,****
+Plymouth 2-2,Total,JOHN C THOMAS(LIB),16
+Plymouth 2-2,Total,LEILA HAZOU(GRE),14
+Plymouth 2-2,Total,MARTY SELKER(CON),3
+Plymouth 2-2,Total,UnresolvedWrite-In,2
+Plymouth 2-3,Election Day,JOHN C THOMAS(LIB),****
+Plymouth 2-3,Election Day,LEILA HAZOU(GRE),****
+Plymouth 2-3,Election Day,MARTY SELKER(CON),****
+Plymouth 2-3,Election Day,UnresolvedWrite-In,****
+Plymouth 2-3,Mail-in,JOHN C THOMAS(LIB),****
+Plymouth 2-3,Mail-in,LEILA HAZOU(GRE),****
+Plymouth 2-3,Mail-in,MARTY SELKER(CON),****
+Plymouth 2-3,Mail-in,UnresolvedWrite-In,****
+Plymouth 2-3,Provisional,JOHN C THOMAS(LIB),****
+Plymouth 2-3,Provisional,LEILA HAZOU(GRE),****
+Plymouth 2-3,Provisional,MARTY SELKER(CON),****
+Plymouth 2-3,Provisional,UnresolvedWrite-In,****
+Plymouth 2-3,Total,JOHN C THOMAS(LIB),15
+Plymouth 2-3,Total,LEILA HAZOU(GRE),10
+Plymouth 2-3,Total,MARTY SELKER(CON),2
+Plymouth 2-3,Total,UnresolvedWrite-In,1

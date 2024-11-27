@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Lower Salford 2,Election Day,KAMALA D HARRIS(DEM),****
+Lower Salford 2,Election Day,DONALD J TRUMP(REP),****
+Lower Salford 2,Mail-in,KAMALA D HARRIS(DEM),****
+Lower Salford 2,Mail-in,DONALD J TRUMP(REP),****
+Lower Salford 2,Provisional,KAMALA D HARRIS(DEM),****
+Lower Salford 2,Provisional,DONALD J TRUMP(REP),****
+Lower Salford 2,Total,KAMALA D HARRIS(DEM),824
+Lower Salford 2,Total,DONALD J TRUMP(REP),748
+Lower Salford 3,Election Day,KAMALA D HARRIS(DEM),492
+Lower Salford 3,Election Day,DONALD J TRUMP(REP),588
+Lower Salford 3,Mail-in,KAMALA D HARRIS(DEM),282
+Lower Salford 3,Mail-in,DONALD J TRUMP(REP),179
+Lower Salford 3,Provisional,KAMALA D HARRIS(DEM),8
+Lower Salford 3,Provisional,DONALD J TRUMP(REP),8
+Lower Salford 3,Total,KAMALA D HARRIS(DEM),782
+Lower Salford 3,Total,DONALD J TRUMP(REP),775
+Lower Salford 4,Election Day,KAMALA D HARRIS(DEM),****
+Lower Salford 4,Election Day,DONALD J TRUMP(REP),****
+Lower Salford 4,Mail-in,KAMALA D HARRIS(DEM),****
+Lower Salford 4,Mail-in,DONALD J TRUMP(REP),****
+Lower Salford 4,Provisional,KAMALA D HARRIS(DEM),****
+Lower Salford 4,Provisional,DONALD J TRUMP(REP),****
+Lower Salford 4,Total,KAMALA D HARRIS(DEM),819
+Lower Salford 4,Total,DONALD J TRUMP(REP),746
+Lower Salford 5,Election Day,KAMALA D HARRIS(DEM),474
+Lower Salford 5,Election Day,DONALD J TRUMP(REP),819
+Lower Salford 5,Mail-in,KAMALA D HARRIS(DEM),444
+Lower Salford 5,Mail-in,DONALD J TRUMP(REP),276
+Lower Salford 5,Provisional,KAMALA D HARRIS(DEM),8
+Lower Salford 5,Provisional,DONALD J TRUMP(REP),7
+Lower Salford 5,Total,KAMALA D HARRIS(DEM),926
+Lower Salford 5,Total,DONALD J TRUMP(REP),"1,102"
+Lower Salford 6,Election Day,KAMALA D HARRIS(DEM),497
+Lower Salford 6,Election Day,DONALD J TRUMP(REP),581
+Lower Salford 6,Mail-in,KAMALA D HARRIS(DEM),451
+Lower Salford 6,Mail-in,DONALD J TRUMP(REP),237
+Lower Salford 6,Provisional,KAMALA D HARRIS(DEM),6
+Lower Salford 6,Provisional,DONALD J TRUMP(REP),8
+Lower Salford 6,Total,KAMALA D HARRIS(DEM),954
+Lower Salford 6,Total,DONALD J TRUMP(REP),826
+Skippack 1,Election Day,KAMALA D HARRIS(DEM),811
+Skippack 1,Election Day,DONALD J TRUMP(REP),882
+Skippack 1,Mail-in,KAMALA D HARRIS(DEM),526
+Skippack 1,Mail-in,DONALD J TRUMP(REP),247
+Skippack 1,Provisional,KAMALA D HARRIS(DEM),10
+Skippack 1,Provisional,DONALD J TRUMP(REP),8
+Skippack 1,Total,KAMALA D HARRIS(DEM),"1,347"
+Skippack 1,Total,DONALD J TRUMP(REP),"1,137"

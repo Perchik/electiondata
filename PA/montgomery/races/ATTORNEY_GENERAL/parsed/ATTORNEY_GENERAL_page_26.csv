@@ -1,0 +1,121 @@
+precinct,method,candidate,votes
+Souderton 1,Election Day,ROBERT COWBURN(LIB),****
+Souderton 1,Election Day,RICHARD L WEISS(GRE),****
+Souderton 1,Election Day,JUSTIN L MAGILL(CON),****
+Souderton 1,Election Day,ERIC L SETTLE(FOR),****
+Souderton 1,Election Day,UnresolvedWrite-In,****
+Souderton 1,Mail-in,ROBERT COWBURN(LIB),****
+Souderton 1,Mail-in,RICHARD L WEISS(GRE),****
+Souderton 1,Mail-in,JUSTIN L MAGILL(CON),****
+Souderton 1,Mail-in,ERIC L SETTLE(FOR),****
+Souderton 1,Mail-in,UnresolvedWrite-In,****
+Souderton 1,Provisional,ROBERT COWBURN(LIB),****
+Souderton 1,Provisional,RICHARD L WEISS(GRE),****
+Souderton 1,Provisional,JUSTIN L MAGILL(CON),****
+Souderton 1,Provisional,ERIC L SETTLE(FOR),****
+Souderton 1,Provisional,UnresolvedWrite-In,****
+Souderton 1,Total,ROBERT COWBURN(LIB),18
+Souderton 1,Total,RICHARD L WEISS(GRE),11
+Souderton 1,Total,JUSTIN L MAGILL(CON),11
+Souderton 1,Total,ERIC L SETTLE(FOR),4
+Souderton 1,Total,UnresolvedWrite-In,1
+Souderton 2,Election Day,ROBERT COWBURN(LIB),25
+Souderton 2,Election Day,RICHARD L WEISS(GRE),12
+Souderton 2,Election Day,JUSTIN L MAGILL(CON),7
+Souderton 2,Election Day,ERIC L SETTLE(FOR),5
+Souderton 2,Election Day,UnresolvedWrite-In,0
+Souderton 2,Mail-in,ROBERT COWBURN(LIB),3
+Souderton 2,Mail-in,RICHARD L WEISS(GRE),2
+Souderton 2,Mail-in,JUSTIN L MAGILL(CON),1
+Souderton 2,Mail-in,ERIC L SETTLE(FOR),1
+Souderton 2,Mail-in,UnresolvedWrite-In,0
+Souderton 2,Provisional,ROBERT COWBURN(LIB),0
+Souderton 2,Provisional,RICHARD L WEISS(GRE),1
+Souderton 2,Provisional,JUSTIN L MAGILL(CON),0
+Souderton 2,Provisional,ERIC L SETTLE(FOR),0
+Souderton 2,Provisional,UnresolvedWrite-In,0
+Souderton 2,Total,ROBERT COWBURN(LIB),28
+Souderton 2,Total,RICHARD L WEISS(GRE),15
+Souderton 2,Total,JUSTIN L MAGILL(CON),8
+Souderton 2,Total,ERIC L SETTLE(FOR),6
+Souderton 2,Total,UnresolvedWrite-In,0
+Souderton 3,Election Day,ROBERT COWBURN(LIB),****
+Souderton 3,Election Day,RICHARD L WEISS(GRE),****
+Souderton 3,Election Day,JUSTIN L MAGILL(CON),****
+Souderton 3,Election Day,ERIC L SETTLE(FOR),****
+Souderton 3,Election Day,UnresolvedWrite-In,****
+Souderton 3,Mail-in,ROBERT COWBURN(LIB),****
+Souderton 3,Mail-in,RICHARD L WEISS(GRE),****
+Souderton 3,Mail-in,JUSTIN L MAGILL(CON),****
+Souderton 3,Mail-in,ERIC L SETTLE(FOR),****
+Souderton 3,Mail-in,UnresolvedWrite-In,****
+Souderton 3,Provisional,ROBERT COWBURN(LIB),****
+Souderton 3,Provisional,RICHARD L WEISS(GRE),****
+Souderton 3,Provisional,JUSTIN L MAGILL(CON),****
+Souderton 3,Provisional,ERIC L SETTLE(FOR),****
+Souderton 3,Provisional,UnresolvedWrite-In,****
+Souderton 3,Total,ROBERT COWBURN(LIB),14
+Souderton 3,Total,RICHARD L WEISS(GRE),7
+Souderton 3,Total,JUSTIN L MAGILL(CON),1
+Souderton 3,Total,ERIC L SETTLE(FOR),2
+Souderton 3,Total,UnresolvedWrite-In,2
+Telford,Election Day,ROBERT COWBURN(LIB),12
+Telford,Election Day,RICHARD L WEISS(GRE),20
+Telford,Election Day,JUSTIN L MAGILL(CON),8
+Telford,Election Day,ERIC L SETTLE(FOR),2
+Telford,Election Day,UnresolvedWrite-In,1
+Telford,Mail-in,ROBERT COWBURN(LIB),4
+Telford,Mail-in,RICHARD L WEISS(GRE),1
+Telford,Mail-in,JUSTIN L MAGILL(CON),1
+Telford,Mail-in,ERIC L SETTLE(FOR),0
+Telford,Mail-in,UnresolvedWrite-In,0
+Telford,Provisional,ROBERT COWBURN(LIB),0
+Telford,Provisional,RICHARD L WEISS(GRE),1
+Telford,Provisional,JUSTIN L MAGILL(CON),0
+Telford,Provisional,ERIC L SETTLE(FOR),1
+Telford,Provisional,UnresolvedWrite-In,0
+Telford,Total,ROBERT COWBURN(LIB),16
+Telford,Total,RICHARD L WEISS(GRE),22
+Telford,Total,JUSTIN L MAGILL(CON),9
+Telford,Total,ERIC L SETTLE(FOR),3
+Telford,Total,UnresolvedWrite-In,1
+Trappe Boro,Election Day,ROBERT COWBURN(LIB),15
+Trappe Boro,Election Day,RICHARD L WEISS(GRE),12
+Trappe Boro,Election Day,JUSTIN L MAGILL(CON),11
+Trappe Boro,Election Day,ERIC L SETTLE(FOR),5
+Trappe Boro,Election Day,UnresolvedWrite-In,1
+Trappe Boro,Mail-in,ROBERT COWBURN(LIB),4
+Trappe Boro,Mail-in,RICHARD L WEISS(GRE),9
+Trappe Boro,Mail-in,JUSTIN L MAGILL(CON),2
+Trappe Boro,Mail-in,ERIC L SETTLE(FOR),2
+Trappe Boro,Mail-in,UnresolvedWrite-In,0
+Trappe Boro,Provisional,ROBERT COWBURN(LIB),1
+Trappe Boro,Provisional,RICHARD L WEISS(GRE),0
+Trappe Boro,Provisional,JUSTIN L MAGILL(CON),0
+Trappe Boro,Provisional,ERIC L SETTLE(FOR),0
+Trappe Boro,Provisional,UnresolvedWrite-In,0
+Trappe Boro,Total,ROBERT COWBURN(LIB),20
+Trappe Boro,Total,RICHARD L WEISS(GRE),21
+Trappe Boro,Total,JUSTIN L MAGILL(CON),13
+Trappe Boro,Total,ERIC L SETTLE(FOR),7
+Trappe Boro,Total,UnresolvedWrite-In,1
+West Conshohocken,Election Day,ROBERT COWBURN(LIB),****
+West Conshohocken,Election Day,RICHARD L WEISS(GRE),****
+West Conshohocken,Election Day,JUSTIN L MAGILL(CON),****
+West Conshohocken,Election Day,ERIC L SETTLE(FOR),****
+West Conshohocken,Election Day,UnresolvedWrite-In,****
+West Conshohocken,Mail-in,ROBERT COWBURN(LIB),****
+West Conshohocken,Mail-in,RICHARD L WEISS(GRE),****
+West Conshohocken,Mail-in,JUSTIN L MAGILL(CON),****
+West Conshohocken,Mail-in,ERIC L SETTLE(FOR),****
+West Conshohocken,Mail-in,UnresolvedWrite-In,****
+West Conshohocken,Provisional,ROBERT COWBURN(LIB),****
+West Conshohocken,Provisional,RICHARD L WEISS(GRE),****
+West Conshohocken,Provisional,JUSTIN L MAGILL(CON),****
+West Conshohocken,Provisional,ERIC L SETTLE(FOR),****
+West Conshohocken,Provisional,UnresolvedWrite-In,****
+West Conshohocken,Total,ROBERT COWBURN(LIB),8
+West Conshohocken,Total,RICHARD L WEISS(GRE),9
+West Conshohocken,Total,JUSTIN L MAGILL(CON),3
+West Conshohocken,Total,ERIC L SETTLE(FOR),6
+West Conshohocken,Total,UnresolvedWrite-In,0

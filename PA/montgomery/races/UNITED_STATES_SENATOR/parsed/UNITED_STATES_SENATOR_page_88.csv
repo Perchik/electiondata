@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Lower Providence 1-1,Election Day,JOHN C THOMAS(LIB),17
+Lower Providence 1-1,Election Day,LEILA HAZOU(GRE),12
+Lower Providence 1-1,Election Day,MARTY SELKER(CON),0
+Lower Providence 1-1,Election Day,UnresolvedWrite-In,2
+Lower Providence 1-1,Mail-in,JOHN C THOMAS(LIB),7
+Lower Providence 1-1,Mail-in,LEILA HAZOU(GRE),11
+Lower Providence 1-1,Mail-in,MARTY SELKER(CON),1
+Lower Providence 1-1,Mail-in,UnresolvedWrite-In,0
+Lower Providence 1-1,Provisional,JOHN C THOMAS(LIB),0
+Lower Providence 1-1,Provisional,LEILA HAZOU(GRE),1
+Lower Providence 1-1,Provisional,MARTY SELKER(CON),0
+Lower Providence 1-1,Provisional,UnresolvedWrite-In,0
+Lower Providence 1-1,Total,JOHN C THOMAS(LIB),24
+Lower Providence 1-1,Total,LEILA HAZOU(GRE),24
+Lower Providence 1-1,Total,MARTY SELKER(CON),1
+Lower Providence 1-1,Total,UnresolvedWrite-In,2
+Lower Providence 1-2,Election Day,JOHN C THOMAS(LIB),10
+Lower Providence 1-2,Election Day,LEILA HAZOU(GRE),6
+Lower Providence 1-2,Election Day,MARTY SELKER(CON),4
+Lower Providence 1-2,Election Day,UnresolvedWrite-In,0
+Lower Providence 1-2,Mail-in,JOHN C THOMAS(LIB),4
+Lower Providence 1-2,Mail-in,LEILA HAZOU(GRE),4
+Lower Providence 1-2,Mail-in,MARTY SELKER(CON),1
+Lower Providence 1-2,Mail-in,UnresolvedWrite-In,1
+Lower Providence 1-2,Provisional,JOHN C THOMAS(LIB),1
+Lower Providence 1-2,Provisional,LEILA HAZOU(GRE),0
+Lower Providence 1-2,Provisional,MARTY SELKER(CON),0
+Lower Providence 1-2,Provisional,UnresolvedWrite-In,0
+Lower Providence 1-2,Total,JOHN C THOMAS(LIB),15
+Lower Providence 1-2,Total,LEILA HAZOU(GRE),10
+Lower Providence 1-2,Total,MARTY SELKER(CON),5
+Lower Providence 1-2,Total,UnresolvedWrite-In,1
+Lower Providence 2-1,Election Day,JOHN C THOMAS(LIB),****
+Lower Providence 2-1,Election Day,LEILA HAZOU(GRE),****
+Lower Providence 2-1,Election Day,MARTY SELKER(CON),****
+Lower Providence 2-1,Election Day,UnresolvedWrite-In,****
+Lower Providence 2-1,Mail-in,JOHN C THOMAS(LIB),****
+Lower Providence 2-1,Mail-in,LEILA HAZOU(GRE),****
+Lower Providence 2-1,Mail-in,MARTY SELKER(CON),****
+Lower Providence 2-1,Mail-in,UnresolvedWrite-In,****
+Lower Providence 2-1,Provisional,JOHN C THOMAS(LIB),****
+Lower Providence 2-1,Provisional,LEILA HAZOU(GRE),****
+Lower Providence 2-1,Provisional,MARTY SELKER(CON),****
+Lower Providence 2-1,Provisional,UnresolvedWrite-In,****
+Lower Providence 2-1,Total,JOHN C THOMAS(LIB),13
+Lower Providence 2-1,Total,LEILA HAZOU(GRE),19
+Lower Providence 2-1,Total,MARTY SELKER(CON),2
+Lower Providence 2-1,Total,UnresolvedWrite-In,0
+Lower Providence 2-2,Election Day,JOHN C THOMAS(LIB),13
+Lower Providence 2-2,Election Day,LEILA HAZOU(GRE),15
+Lower Providence 2-2,Election Day,MARTY SELKER(CON),2
+Lower Providence 2-2,Election Day,UnresolvedWrite-In,1
+Lower Providence 2-2,Mail-in,JOHN C THOMAS(LIB),6
+Lower Providence 2-2,Mail-in,LEILA HAZOU(GRE),7
+Lower Providence 2-2,Mail-in,MARTY SELKER(CON),0
+Lower Providence 2-2,Mail-in,UnresolvedWrite-In,1
+Lower Providence 2-2,Provisional,JOHN C THOMAS(LIB),0
+Lower Providence 2-2,Provisional,LEILA HAZOU(GRE),2
+Lower Providence 2-2,Provisional,MARTY SELKER(CON),0
+Lower Providence 2-2,Provisional,UnresolvedWrite-In,0
+Lower Providence 2-2,Total,JOHN C THOMAS(LIB),19
+Lower Providence 2-2,Total,LEILA HAZOU(GRE),24
+Lower Providence 2-2,Total,MARTY SELKER(CON),2
+Lower Providence 2-2,Total,UnresolvedWrite-In,2
+Lower Providence 2-3,Election Day,JOHN C THOMAS(LIB),14
+Lower Providence 2-3,Election Day,LEILA HAZOU(GRE),8
+Lower Providence 2-3,Election Day,MARTY SELKER(CON),3
+Lower Providence 2-3,Election Day,UnresolvedWrite-In,1
+Lower Providence 2-3,Mail-in,JOHN C THOMAS(LIB),4
+Lower Providence 2-3,Mail-in,LEILA HAZOU(GRE),7
+Lower Providence 2-3,Mail-in,MARTY SELKER(CON),0
+Lower Providence 2-3,Mail-in,UnresolvedWrite-In,0
+Lower Providence 2-3,Provisional,JOHN C THOMAS(LIB),0
+Lower Providence 2-3,Provisional,LEILA HAZOU(GRE),1
+Lower Providence 2-3,Provisional,MARTY SELKER(CON),0
+Lower Providence 2-3,Provisional,UnresolvedWrite-In,0
+Lower Providence 2-3,Total,JOHN C THOMAS(LIB),18
+Lower Providence 2-3,Total,LEILA HAZOU(GRE),16
+Lower Providence 2-3,Total,MARTY SELKER(CON),3
+Lower Providence 2-3,Total,UnresolvedWrite-In,1
+Lower Providence 2-4,Election Day,JOHN C THOMAS(LIB),16
+Lower Providence 2-4,Election Day,LEILA HAZOU(GRE),12
+Lower Providence 2-4,Election Day,MARTY SELKER(CON),7
+Lower Providence 2-4,Election Day,UnresolvedWrite-In,1
+Lower Providence 2-4,Mail-in,JOHN C THOMAS(LIB),1
+Lower Providence 2-4,Mail-in,LEILA HAZOU(GRE),0
+Lower Providence 2-4,Mail-in,MARTY SELKER(CON),0
+Lower Providence 2-4,Mail-in,UnresolvedWrite-In,0
+Lower Providence 2-4,Provisional,JOHN C THOMAS(LIB),0
+Lower Providence 2-4,Provisional,LEILA HAZOU(GRE),0
+Lower Providence 2-4,Provisional,MARTY SELKER(CON),0
+Lower Providence 2-4,Provisional,UnresolvedWrite-In,0
+Lower Providence 2-4,Total,JOHN C THOMAS(LIB),17
+Lower Providence 2-4,Total,LEILA HAZOU(GRE),12
+Lower Providence 2-4,Total,MARTY SELKER(CON),7
+Lower Providence 2-4,Total,UnresolvedWrite-In,1

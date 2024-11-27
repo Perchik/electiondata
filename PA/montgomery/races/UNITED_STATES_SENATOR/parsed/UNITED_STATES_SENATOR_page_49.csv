@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Douglass 3,Election Day,ROBERT P CASEY JR(DEM),507
+Douglass 3,Election Day,DAVE MCCORMICK(REP),"1,062"
+Douglass 3,Mail-in,ROBERT P CASEY JR(DEM),362
+Douglass 3,Mail-in,DAVE MCCORMICK(REP),277
+Douglass 3,Provisional,ROBERT P CASEY JR(DEM),3
+Douglass 3,Provisional,DAVE MCCORMICK(REP),8
+Douglass 3,Total,ROBERT P CASEY JR(DEM),872
+Douglass 3,Total,DAVE MCCORMICK(REP),"1,347"
+Douglass 4,Election Day,ROBERT P CASEY JR(DEM),333
+Douglass 4,Election Day,DAVE MCCORMICK(REP),664
+Douglass 4,Mail-in,ROBERT P CASEY JR(DEM),250
+Douglass 4,Mail-in,DAVE MCCORMICK(REP),165
+Douglass 4,Provisional,ROBERT P CASEY JR(DEM),5
+Douglass 4,Provisional,DAVE MCCORMICK(REP),6
+Douglass 4,Total,ROBERT P CASEY JR(DEM),588
+Douglass 4,Total,DAVE MCCORMICK(REP),835
+East Norriton 1-1,Election Day,ROBERT P CASEY JR(DEM),335
+East Norriton 1-1,Election Day,DAVE MCCORMICK(REP),347
+East Norriton 1-1,Mail-in,ROBERT P CASEY JR(DEM),158
+East Norriton 1-1,Mail-in,DAVE MCCORMICK(REP),84
+East Norriton 1-1,Provisional,ROBERT P CASEY JR(DEM),0
+East Norriton 1-1,Provisional,DAVE MCCORMICK(REP),0
+East Norriton 1-1,Total,ROBERT P CASEY JR(DEM),493
+East Norriton 1-1,Total,DAVE MCCORMICK(REP),431
+East Norriton 1-2,Election Day,ROBERT P CASEY JR(DEM),****
+East Norriton 1-2,Election Day,DAVE MCCORMICK(REP),****
+East Norriton 1-2,Mail-in,ROBERT P CASEY JR(DEM),****
+East Norriton 1-2,Mail-in,DAVE MCCORMICK(REP),****
+East Norriton 1-2,Provisional,ROBERT P CASEY JR(DEM),****
+East Norriton 1-2,Provisional,DAVE MCCORMICK(REP),****
+East Norriton 1-2,Total,ROBERT P CASEY JR(DEM),701
+East Norriton 1-2,Total,DAVE MCCORMICK(REP),351
+East Norriton 1-3,Election Day,ROBERT P CASEY JR(DEM),504
+East Norriton 1-3,Election Day,DAVE MCCORMICK(REP),560
+East Norriton 1-3,Mail-in,ROBERT P CASEY JR(DEM),290
+East Norriton 1-3,Mail-in,DAVE MCCORMICK(REP),116
+East Norriton 1-3,Provisional,ROBERT P CASEY JR(DEM),7
+East Norriton 1-3,Provisional,DAVE MCCORMICK(REP),5
+East Norriton 1-3,Total,ROBERT P CASEY JR(DEM),801
+East Norriton 1-3,Total,DAVE MCCORMICK(REP),681
+East Norriton 1-4,Election Day,ROBERT P CASEY JR(DEM),****
+East Norriton 1-4,Election Day,DAVE MCCORMICK(REP),****
+East Norriton 1-4,Mail-in,ROBERT P CASEY JR(DEM),****
+East Norriton 1-4,Mail-in,DAVE MCCORMICK(REP),****
+East Norriton 1-4,Provisional,ROBERT P CASEY JR(DEM),****
+East Norriton 1-4,Provisional,DAVE MCCORMICK(REP),****
+East Norriton 1-4,Total,ROBERT P CASEY JR(DEM),564
+East Norriton 1-4,Total,DAVE MCCORMICK(REP),472

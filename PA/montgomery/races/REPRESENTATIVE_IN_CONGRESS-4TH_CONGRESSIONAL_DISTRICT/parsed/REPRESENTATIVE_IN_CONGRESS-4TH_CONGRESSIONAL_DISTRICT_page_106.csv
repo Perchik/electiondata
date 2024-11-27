@@ -1,0 +1,21 @@
+precinct,method,candidate,votes
+Worcester East 1,Election Day,UnresolvedWrite-In,****
+Worcester East 1,Mail-in,UnresolvedWrite-In,****
+Worcester East 1,Provisional,UnresolvedWrite-In,****
+Worcester East 1,Total,UnresolvedWrite-In,4
+Worcester East 2,Election Day,UnresolvedWrite-In,3
+Worcester East 2,Mail-in,UnresolvedWrite-In,4
+Worcester East 2,Provisional,UnresolvedWrite-In,0
+Worcester East 2,Total,UnresolvedWrite-In,7
+Worcester East 3,Election Day,UnresolvedWrite-In,****
+Worcester East 3,Mail-in,UnresolvedWrite-In,****
+Worcester East 3,Provisional,UnresolvedWrite-In,****
+Worcester East 3,Total,UnresolvedWrite-In,7
+Worcester West,Election Day,UnresolvedWrite-In,2
+Worcester West,Mail-in,UnresolvedWrite-In,1
+Worcester West,Provisional,UnresolvedWrite-In,0
+Worcester West,Total,UnresolvedWrite-In,3
+Cumulative,Election Day,UnresolvedWrite-In,0
+Cumulative,Mail-in,UnresolvedWrite-In,0
+Cumulative,Provisional,UnresolvedWrite-In,0
+Cumulative,Total,UnresolvedWrite-In,0

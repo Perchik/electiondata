@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Pottstown 5,Election Day,MADELEINE DEAN(DEM),564
+Pottstown 5,Election Day,DAVID WINKLER(REP),377
+Pottstown 5,Mail-in,MADELEINE DEAN(DEM),285
+Pottstown 5,Mail-in,DAVID WINKLER(REP),91
+Pottstown 5,Provisional,MADELEINE DEAN(DEM),8
+Pottstown 5,Provisional,DAVID WINKLER(REP),5
+Pottstown 5,Total,MADELEINE DEAN(DEM),857
+Pottstown 5,Total,DAVID WINKLER(REP),473
+Pottstown 6,Election Day,MADELEINE DEAN(DEM),638
+Pottstown 6,Election Day,DAVID WINKLER(REP),518
+Pottstown 6,Mail-in,MADELEINE DEAN(DEM),331
+Pottstown 6,Mail-in,DAVID WINKLER(REP),88
+Pottstown 6,Provisional,MADELEINE DEAN(DEM),0
+Pottstown 6,Provisional,DAVID WINKLER(REP),0
+Pottstown 6,Total,MADELEINE DEAN(DEM),969
+Pottstown 6,Total,DAVID WINKLER(REP),606
+Pottstown 7-1,Election Day,MADELEINE DEAN(DEM),538
+Pottstown 7-1,Election Day,DAVID WINKLER(REP),172
+Pottstown 7-1,Mail-in,MADELEINE DEAN(DEM),201
+Pottstown 7-1,Mail-in,DAVID WINKLER(REP),35
+Pottstown 7-1,Provisional,MADELEINE DEAN(DEM),11
+Pottstown 7-1,Provisional,DAVID WINKLER(REP),4
+Pottstown 7-1,Total,MADELEINE DEAN(DEM),750
+Pottstown 7-1,Total,DAVID WINKLER(REP),211
+Pottstown 7-2,Election Day,MADELEINE DEAN(DEM),****
+Pottstown 7-2,Election Day,DAVID WINKLER(REP),****
+Pottstown 7-2,Mail-in,MADELEINE DEAN(DEM),****
+Pottstown 7-2,Mail-in,DAVID WINKLER(REP),****
+Pottstown 7-2,Provisional,MADELEINE DEAN(DEM),****
+Pottstown 7-2,Provisional,DAVID WINKLER(REP),****
+Pottstown 7-2,Total,MADELEINE DEAN(DEM),397
+Pottstown 7-2,Total,DAVID WINKLER(REP),339
+Rockledge,Election Day,MADELEINE DEAN(DEM),****
+Rockledge,Election Day,DAVID WINKLER(REP),****
+Rockledge,Mail-in,MADELEINE DEAN(DEM),****
+Rockledge,Mail-in,DAVID WINKLER(REP),****
+Rockledge,Provisional,MADELEINE DEAN(DEM),****
+Rockledge,Provisional,DAVID WINKLER(REP),****
+Rockledge,Total,MADELEINE DEAN(DEM),815
+Rockledge,Total,DAVID WINKLER(REP),687
+Royersford 1,Election Day,MADELEINE DEAN(DEM),****
+Royersford 1,Election Day,DAVID WINKLER(REP),****
+Royersford 1,Mail-in,MADELEINE DEAN(DEM),****
+Royersford 1,Mail-in,DAVID WINKLER(REP),****
+Royersford 1,Provisional,MADELEINE DEAN(DEM),****
+Royersford 1,Provisional,DAVID WINKLER(REP),****
+Royersford 1,Total,MADELEINE DEAN(DEM),647
+Royersford 1,Total,DAVID WINKLER(REP),448

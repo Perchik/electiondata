@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Lansdale 1-2,Election Day,JOHN C THOMAS(LIB),21
+Lansdale 1-2,Election Day,LEILA HAZOU(GRE),19
+Lansdale 1-2,Election Day,MARTY SELKER(CON),2
+Lansdale 1-2,Election Day,UnresolvedWrite-In,5
+Lansdale 1-2,Mail-in,JOHN C THOMAS(LIB),6
+Lansdale 1-2,Mail-in,LEILA HAZOU(GRE),8
+Lansdale 1-2,Mail-in,MARTY SELKER(CON),1
+Lansdale 1-2,Mail-in,UnresolvedWrite-In,0
+Lansdale 1-2,Provisional,JOHN C THOMAS(LIB),1
+Lansdale 1-2,Provisional,LEILA HAZOU(GRE),0
+Lansdale 1-2,Provisional,MARTY SELKER(CON),0
+Lansdale 1-2,Provisional,UnresolvedWrite-In,0
+Lansdale 1-2,Total,JOHN C THOMAS(LIB),28
+Lansdale 1-2,Total,LEILA HAZOU(GRE),27
+Lansdale 1-2,Total,MARTY SELKER(CON),3
+Lansdale 1-2,Total,UnresolvedWrite-In,5
+Lansdale 1-3,Election Day,JOHN C THOMAS(LIB),****
+Lansdale 1-3,Election Day,LEILA HAZOU(GRE),****
+Lansdale 1-3,Election Day,MARTY SELKER(CON),****
+Lansdale 1-3,Election Day,UnresolvedWrite-In,****
+Lansdale 1-3,Mail-in,JOHN C THOMAS(LIB),****
+Lansdale 1-3,Mail-in,LEILA HAZOU(GRE),****
+Lansdale 1-3,Mail-in,MARTY SELKER(CON),****
+Lansdale 1-3,Mail-in,UnresolvedWrite-In,****
+Lansdale 1-3,Provisional,JOHN C THOMAS(LIB),****
+Lansdale 1-3,Provisional,LEILA HAZOU(GRE),****
+Lansdale 1-3,Provisional,MARTY SELKER(CON),****
+Lansdale 1-3,Provisional,UnresolvedWrite-In,****
+Lansdale 1-3,Total,JOHN C THOMAS(LIB),8
+Lansdale 1-3,Total,LEILA HAZOU(GRE),17
+Lansdale 1-3,Total,MARTY SELKER(CON),4
+Lansdale 1-3,Total,UnresolvedWrite-In,0
+Lansdale 2-1,Election Day,JOHN C THOMAS(LIB),****
+Lansdale 2-1,Election Day,LEILA HAZOU(GRE),****
+Lansdale 2-1,Election Day,MARTY SELKER(CON),****
+Lansdale 2-1,Election Day,UnresolvedWrite-In,****
+Lansdale 2-1,Mail-in,JOHN C THOMAS(LIB),****
+Lansdale 2-1,Mail-in,LEILA HAZOU(GRE),****
+Lansdale 2-1,Mail-in,MARTY SELKER(CON),****
+Lansdale 2-1,Mail-in,UnresolvedWrite-In,****
+Lansdale 2-1,Provisional,JOHN C THOMAS(LIB),****
+Lansdale 2-1,Provisional,LEILA HAZOU(GRE),****
+Lansdale 2-1,Provisional,MARTY SELKER(CON),****
+Lansdale 2-1,Provisional,UnresolvedWrite-In,****
+Lansdale 2-1,Total,JOHN C THOMAS(LIB),20
+Lansdale 2-1,Total,LEILA HAZOU(GRE),19
+Lansdale 2-1,Total,MARTY SELKER(CON),2
+Lansdale 2-1,Total,UnresolvedWrite-In,2
+Lansdale 2-2,Election Day,JOHN C THOMAS(LIB),****
+Lansdale 2-2,Election Day,LEILA HAZOU(GRE),****
+Lansdale 2-2,Election Day,MARTY SELKER(CON),****
+Lansdale 2-2,Election Day,UnresolvedWrite-In,****
+Lansdale 2-2,Mail-in,JOHN C THOMAS(LIB),****
+Lansdale 2-2,Mail-in,LEILA HAZOU(GRE),****
+Lansdale 2-2,Mail-in,MARTY SELKER(CON),****
+Lansdale 2-2,Mail-in,UnresolvedWrite-In,****
+Lansdale 2-2,Provisional,JOHN C THOMAS(LIB),****
+Lansdale 2-2,Provisional,LEILA HAZOU(GRE),****
+Lansdale 2-2,Provisional,MARTY SELKER(CON),****
+Lansdale 2-2,Provisional,UnresolvedWrite-In,****
+Lansdale 2-2,Total,JOHN C THOMAS(LIB),21
+Lansdale 2-2,Total,LEILA HAZOU(GRE),23
+Lansdale 2-2,Total,MARTY SELKER(CON),2
+Lansdale 2-2,Total,UnresolvedWrite-In,1
+Lansdale 2-3,Election Day,JOHN C THOMAS(LIB),****
+Lansdale 2-3,Election Day,LEILA HAZOU(GRE),****
+Lansdale 2-3,Election Day,MARTY SELKER(CON),****
+Lansdale 2-3,Election Day,UnresolvedWrite-In,****
+Lansdale 2-3,Mail-in,JOHN C THOMAS(LIB),****
+Lansdale 2-3,Mail-in,LEILA HAZOU(GRE),****
+Lansdale 2-3,Mail-in,MARTY SELKER(CON),****
+Lansdale 2-3,Mail-in,UnresolvedWrite-In,****
+Lansdale 2-3,Provisional,JOHN C THOMAS(LIB),****
+Lansdale 2-3,Provisional,LEILA HAZOU(GRE),****
+Lansdale 2-3,Provisional,MARTY SELKER(CON),****
+Lansdale 2-3,Provisional,UnresolvedWrite-In,****
+Lansdale 2-3,Total,JOHN C THOMAS(LIB),14
+Lansdale 2-3,Total,LEILA HAZOU(GRE),18
+Lansdale 2-3,Total,MARTY SELKER(CON),4
+Lansdale 2-3,Total,UnresolvedWrite-In,1
+Lansdale 3-1,Election Day,JOHN C THOMAS(LIB),21
+Lansdale 3-1,Election Day,LEILA HAZOU(GRE),10
+Lansdale 3-1,Election Day,MARTY SELKER(CON),5
+Lansdale 3-1,Election Day,UnresolvedWrite-In,2
+Lansdale 3-1,Mail-in,JOHN C THOMAS(LIB),2
+Lansdale 3-1,Mail-in,LEILA HAZOU(GRE),12
+Lansdale 3-1,Mail-in,MARTY SELKER(CON),1
+Lansdale 3-1,Mail-in,UnresolvedWrite-In,0
+Lansdale 3-1,Provisional,JOHN C THOMAS(LIB),0
+Lansdale 3-1,Provisional,LEILA HAZOU(GRE),0
+Lansdale 3-1,Provisional,MARTY SELKER(CON),0
+Lansdale 3-1,Provisional,UnresolvedWrite-In,1
+Lansdale 3-1,Total,JOHN C THOMAS(LIB),23
+Lansdale 3-1,Total,LEILA HAZOU(GRE),22
+Lansdale 3-1,Total,MARTY SELKER(CON),6
+Lansdale 3-1,Total,UnresolvedWrite-In,3

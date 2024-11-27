@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Limerick 3,Election Day,KAMALA D HARRIS(DEM),664
+Limerick 3,Election Day,DONALD J TRUMP(REP),880
+Limerick 3,Mail-in,KAMALA D HARRIS(DEM),497
+Limerick 3,Mail-in,DONALD J TRUMP(REP),275
+Limerick 3,Provisional,KAMALA D HARRIS(DEM),6
+Limerick 3,Provisional,DONALD J TRUMP(REP),5
+Limerick 3,Total,KAMALA D HARRIS(DEM),"1,167"
+Limerick 3,Total,DONALD J TRUMP(REP),"1,160"
+Limerick 4,Election Day,KAMALA D HARRIS(DEM),623
+Limerick 4,Election Day,DONALD J TRUMP(REP),681
+Limerick 4,Mail-in,KAMALA D HARRIS(DEM),462
+Limerick 4,Mail-in,DONALD J TRUMP(REP),154
+Limerick 4,Provisional,KAMALA D HARRIS(DEM),15
+Limerick 4,Provisional,DONALD J TRUMP(REP),6
+Limerick 4,Total,KAMALA D HARRIS(DEM),"1,100"
+Limerick 4,Total,DONALD J TRUMP(REP),841
+Limerick 5,Election Day,KAMALA D HARRIS(DEM),532
+Limerick 5,Election Day,DONALD J TRUMP(REP),969
+Limerick 5,Mail-in,KAMALA D HARRIS(DEM),353
+Limerick 5,Mail-in,DONALD J TRUMP(REP),235
+Limerick 5,Provisional,KAMALA D HARRIS(DEM),9
+Limerick 5,Provisional,DONALD J TRUMP(REP),5
+Limerick 5,Total,KAMALA D HARRIS(DEM),894
+Limerick 5,Total,DONALD J TRUMP(REP),"1,209"
+Limerick 6,Election Day,KAMALA D HARRIS(DEM),634
+Limerick 6,Election Day,DONALD J TRUMP(REP),718
+Limerick 6,Mail-in,KAMALA D HARRIS(DEM),358
+Limerick 6,Mail-in,DONALD J TRUMP(REP),157
+Limerick 6,Provisional,KAMALA D HARRIS(DEM),8
+Limerick 6,Provisional,DONALD J TRUMP(REP),3
+Limerick 6,Total,KAMALA D HARRIS(DEM),"1,000"
+Limerick 6,Total,DONALD J TRUMP(REP),878
+Lower Frederick 1,Election Day,KAMALA D HARRIS(DEM),****
+Lower Frederick 1,Election Day,DONALD J TRUMP(REP),****
+Lower Frederick 1,Mail-in,KAMALA D HARRIS(DEM),****
+Lower Frederick 1,Mail-in,DONALD J TRUMP(REP),****
+Lower Frederick 1,Provisional,KAMALA D HARRIS(DEM),****
+Lower Frederick 1,Provisional,DONALD J TRUMP(REP),****
+Lower Frederick 1,Total,KAMALA D HARRIS(DEM),675
+Lower Frederick 1,Total,DONALD J TRUMP(REP),515
+Lower Frederick 2,Election Day,KAMALA D HARRIS(DEM),511
+Lower Frederick 2,Election Day,DONALD J TRUMP(REP),876
+Lower Frederick 2,Mail-in,KAMALA D HARRIS(DEM),330
+Lower Frederick 2,Mail-in,DONALD J TRUMP(REP),156
+Lower Frederick 2,Provisional,KAMALA D HARRIS(DEM),0
+Lower Frederick 2,Provisional,DONALD J TRUMP(REP),0
+Lower Frederick 2,Total,KAMALA D HARRIS(DEM),841
+Lower Frederick 2,Total,DONALD J TRUMP(REP),"1,032"

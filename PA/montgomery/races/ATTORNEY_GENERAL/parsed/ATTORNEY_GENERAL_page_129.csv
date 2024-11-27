@@ -1,0 +1,57 @@
+precinct,method,candidate,votes
+Upper Moreland 7-2,Election Day,EUGENE DEPASQUALE(DEM),****
+Upper Moreland 7-2,Election Day,DAVE SUNDAY(REP),****
+Upper Moreland 7-2,Mail-in,EUGENE DEPASQUALE(DEM),****
+Upper Moreland 7-2,Mail-in,DAVE SUNDAY(REP),****
+Upper Moreland 7-2,Provisional,EUGENE DEPASQUALE(DEM),****
+Upper Moreland 7-2,Provisional,DAVE SUNDAY(REP),****
+Upper Moreland 7-2,Total,EUGENE DEPASQUALE(DEM),489
+Upper Moreland 7-2,Total,DAVE SUNDAY(REP),623
+Upper Pottsgrove,Election Day,EUGENE DEPASQUALE(DEM),960
+Upper Pottsgrove,Election Day,DAVE SUNDAY(REP),"1,366"
+Upper Pottsgrove,Mail-in,EUGENE DEPASQUALE(DEM),672
+Upper Pottsgrove,Mail-in,DAVE SUNDAY(REP),434
+Upper Pottsgrove,Provisional,EUGENE DEPASQUALE(DEM),19
+Upper Pottsgrove,Provisional,DAVE SUNDAY(REP),8
+Upper Pottsgrove,Total,EUGENE DEPASQUALE(DEM),"1,651"
+Upper Pottsgrove,Total,DAVE SUNDAY(REP),"1,808"
+Upper Providence Mingo 1,Election Day,EUGENE DEPASQUALE(DEM),517
+Upper Providence Mingo 1,Election Day,DAVE SUNDAY(REP),645
+Upper Providence Mingo 1,Mail-in,EUGENE DEPASQUALE(DEM),426
+Upper Providence Mingo 1,Mail-in,DAVE SUNDAY(REP),218
+Upper Providence Mingo 1,Provisional,EUGENE DEPASQUALE(DEM),6
+Upper Providence Mingo 1,Provisional,DAVE SUNDAY(REP),6
+Upper Providence Mingo 1,Total,EUGENE DEPASQUALE(DEM),949
+Upper Providence Mingo 1,Total,DAVE SUNDAY(REP),869
+Upper Providence Mingo 2,Election Day,EUGENE DEPASQUALE(DEM),725
+Upper Providence Mingo 2,Election Day,DAVE SUNDAY(REP),937
+Upper Providence Mingo 2,Mail-in,EUGENE DEPASQUALE(DEM),718
+Upper Providence Mingo 2,Mail-in,DAVE SUNDAY(REP),415
+Upper Providence Mingo 2,Provisional,EUGENE DEPASQUALE(DEM),16
+Upper Providence Mingo 2,Provisional,DAVE SUNDAY(REP),10
+Upper Providence Mingo 2,Total,EUGENE DEPASQUALE(DEM),"1,459"
+Upper Providence Mingo 2,Total,DAVE SUNDAY(REP),"1,362"
+"Upper Providence Mont 
+Clare",Election Day,EUGENE DEPASQUALE(DEM),803
+"Upper Providence Mont 
+Clare",Election Day,DAVE SUNDAY(REP),871
+"Upper Providence Mont 
+Clare",Mail-in,EUGENE DEPASQUALE(DEM),928
+"Upper Providence Mont 
+Clare",Mail-in,DAVE SUNDAY(REP),505
+"Upper Providence Mont 
+Clare",Provisional,EUGENE DEPASQUALE(DEM),16
+"Upper Providence Mont 
+Clare",Provisional,DAVE SUNDAY(REP),14
+"Upper Providence Mont 
+Clare",Total,EUGENE DEPASQUALE(DEM),"1,747"
+"Upper Providence Mont 
+Clare",Total,DAVE SUNDAY(REP),"1,390"
+Upper Providence Oaks,Election Day,EUGENE DEPASQUALE(DEM),797
+Upper Providence Oaks,Election Day,DAVE SUNDAY(REP),946
+Upper Providence Oaks,Mail-in,EUGENE DEPASQUALE(DEM),"1,045"
+Upper Providence Oaks,Mail-in,DAVE SUNDAY(REP),600
+Upper Providence Oaks,Provisional,EUGENE DEPASQUALE(DEM),7
+Upper Providence Oaks,Provisional,DAVE SUNDAY(REP),15
+Upper Providence Oaks,Total,EUGENE DEPASQUALE(DEM),"1,849"
+Upper Providence Oaks,Total,DAVE SUNDAY(REP),"1,561"

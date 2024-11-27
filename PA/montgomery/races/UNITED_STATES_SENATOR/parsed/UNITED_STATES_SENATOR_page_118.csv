@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Upper Gwynedd 3,Election Day,JOHN C THOMAS(LIB),11
+Upper Gwynedd 3,Election Day,LEILA HAZOU(GRE),6
+Upper Gwynedd 3,Election Day,MARTY SELKER(CON),2
+Upper Gwynedd 3,Election Day,UnresolvedWrite-In,1
+Upper Gwynedd 3,Mail-in,JOHN C THOMAS(LIB),7
+Upper Gwynedd 3,Mail-in,LEILA HAZOU(GRE),5
+Upper Gwynedd 3,Mail-in,MARTY SELKER(CON),2
+Upper Gwynedd 3,Mail-in,UnresolvedWrite-In,3
+Upper Gwynedd 3,Provisional,JOHN C THOMAS(LIB),1
+Upper Gwynedd 3,Provisional,LEILA HAZOU(GRE),0
+Upper Gwynedd 3,Provisional,MARTY SELKER(CON),0
+Upper Gwynedd 3,Provisional,UnresolvedWrite-In,0
+Upper Gwynedd 3,Total,JOHN C THOMAS(LIB),19
+Upper Gwynedd 3,Total,LEILA HAZOU(GRE),11
+Upper Gwynedd 3,Total,MARTY SELKER(CON),4
+Upper Gwynedd 3,Total,UnresolvedWrite-In,4
+Upper Gwynedd 4,Election Day,JOHN C THOMAS(LIB),16
+Upper Gwynedd 4,Election Day,LEILA HAZOU(GRE),12
+Upper Gwynedd 4,Election Day,MARTY SELKER(CON),1
+Upper Gwynedd 4,Election Day,UnresolvedWrite-In,1
+Upper Gwynedd 4,Mail-in,JOHN C THOMAS(LIB),6
+Upper Gwynedd 4,Mail-in,LEILA HAZOU(GRE),10
+Upper Gwynedd 4,Mail-in,MARTY SELKER(CON),6
+Upper Gwynedd 4,Mail-in,UnresolvedWrite-In,0
+Upper Gwynedd 4,Provisional,JOHN C THOMAS(LIB),1
+Upper Gwynedd 4,Provisional,LEILA HAZOU(GRE),0
+Upper Gwynedd 4,Provisional,MARTY SELKER(CON),0
+Upper Gwynedd 4,Provisional,UnresolvedWrite-In,0
+Upper Gwynedd 4,Total,JOHN C THOMAS(LIB),23
+Upper Gwynedd 4,Total,LEILA HAZOU(GRE),22
+Upper Gwynedd 4,Total,MARTY SELKER(CON),7
+Upper Gwynedd 4,Total,UnresolvedWrite-In,1
+Upper Gwynedd 5,Election Day,JOHN C THOMAS(LIB),****
+Upper Gwynedd 5,Election Day,LEILA HAZOU(GRE),****
+Upper Gwynedd 5,Election Day,MARTY SELKER(CON),****
+Upper Gwynedd 5,Election Day,UnresolvedWrite-In,****
+Upper Gwynedd 5,Mail-in,JOHN C THOMAS(LIB),****
+Upper Gwynedd 5,Mail-in,LEILA HAZOU(GRE),****
+Upper Gwynedd 5,Mail-in,MARTY SELKER(CON),****
+Upper Gwynedd 5,Mail-in,UnresolvedWrite-In,****
+Upper Gwynedd 5,Provisional,JOHN C THOMAS(LIB),****
+Upper Gwynedd 5,Provisional,LEILA HAZOU(GRE),****
+Upper Gwynedd 5,Provisional,MARTY SELKER(CON),****
+Upper Gwynedd 5,Provisional,UnresolvedWrite-In,****
+Upper Gwynedd 5,Total,JOHN C THOMAS(LIB),11
+Upper Gwynedd 5,Total,LEILA HAZOU(GRE),10
+Upper Gwynedd 5,Total,MARTY SELKER(CON),3
+Upper Gwynedd 5,Total,UnresolvedWrite-In,1
+Upper Gwynedd 6,Election Day,JOHN C THOMAS(LIB),18
+Upper Gwynedd 6,Election Day,LEILA HAZOU(GRE),20
+Upper Gwynedd 6,Election Day,MARTY SELKER(CON),1
+Upper Gwynedd 6,Election Day,UnresolvedWrite-In,0
+Upper Gwynedd 6,Mail-in,JOHN C THOMAS(LIB),4
+Upper Gwynedd 6,Mail-in,LEILA HAZOU(GRE),3
+Upper Gwynedd 6,Mail-in,MARTY SELKER(CON),3
+Upper Gwynedd 6,Mail-in,UnresolvedWrite-In,0
+Upper Gwynedd 6,Provisional,JOHN C THOMAS(LIB),0
+Upper Gwynedd 6,Provisional,LEILA HAZOU(GRE),0
+Upper Gwynedd 6,Provisional,MARTY SELKER(CON),0
+Upper Gwynedd 6,Provisional,UnresolvedWrite-In,0
+Upper Gwynedd 6,Total,JOHN C THOMAS(LIB),22
+Upper Gwynedd 6,Total,LEILA HAZOU(GRE),23
+Upper Gwynedd 6,Total,MARTY SELKER(CON),4
+Upper Gwynedd 6,Total,UnresolvedWrite-In,0
+Upper Gwynedd 7,Election Day,JOHN C THOMAS(LIB),7
+Upper Gwynedd 7,Election Day,LEILA HAZOU(GRE),11
+Upper Gwynedd 7,Election Day,MARTY SELKER(CON),3
+Upper Gwynedd 7,Election Day,UnresolvedWrite-In,1
+Upper Gwynedd 7,Mail-in,JOHN C THOMAS(LIB),3
+Upper Gwynedd 7,Mail-in,LEILA HAZOU(GRE),4
+Upper Gwynedd 7,Mail-in,MARTY SELKER(CON),1
+Upper Gwynedd 7,Mail-in,UnresolvedWrite-In,0
+Upper Gwynedd 7,Provisional,JOHN C THOMAS(LIB),0
+Upper Gwynedd 7,Provisional,LEILA HAZOU(GRE),0
+Upper Gwynedd 7,Provisional,MARTY SELKER(CON),0
+Upper Gwynedd 7,Provisional,UnresolvedWrite-In,0
+Upper Gwynedd 7,Total,JOHN C THOMAS(LIB),10
+Upper Gwynedd 7,Total,LEILA HAZOU(GRE),15
+Upper Gwynedd 7,Total,MARTY SELKER(CON),4
+Upper Gwynedd 7,Total,UnresolvedWrite-In,1
+Upper Hanover 1,Election Day,JOHN C THOMAS(LIB),25
+Upper Hanover 1,Election Day,LEILA HAZOU(GRE),28
+Upper Hanover 1,Election Day,MARTY SELKER(CON),7
+Upper Hanover 1,Election Day,UnresolvedWrite-In,2
+Upper Hanover 1,Mail-in,JOHN C THOMAS(LIB),14
+Upper Hanover 1,Mail-in,LEILA HAZOU(GRE),8
+Upper Hanover 1,Mail-in,MARTY SELKER(CON),5
+Upper Hanover 1,Mail-in,UnresolvedWrite-In,0
+Upper Hanover 1,Provisional,JOHN C THOMAS(LIB),0
+Upper Hanover 1,Provisional,LEILA HAZOU(GRE),1
+Upper Hanover 1,Provisional,MARTY SELKER(CON),0
+Upper Hanover 1,Provisional,UnresolvedWrite-In,0
+Upper Hanover 1,Total,JOHN C THOMAS(LIB),39
+Upper Hanover 1,Total,LEILA HAZOU(GRE),37
+Upper Hanover 1,Total,MARTY SELKER(CON),12
+Upper Hanover 1,Total,UnresolvedWrite-In,2

@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Limerick 2,Election Day,MADELEINE DEAN(DEM),608
+Limerick 2,Election Day,DAVID WINKLER(REP),692
+Limerick 2,Mail-in,MADELEINE DEAN(DEM),459
+Limerick 2,Mail-in,DAVID WINKLER(REP),219
+Limerick 2,Provisional,MADELEINE DEAN(DEM),7
+Limerick 2,Provisional,DAVID WINKLER(REP),7
+Limerick 2,Total,MADELEINE DEAN(DEM),"1,074"
+Limerick 2,Total,DAVID WINKLER(REP),918
+Limerick 3,Election Day,MADELEINE DEAN(DEM),680
+Limerick 3,Election Day,DAVID WINKLER(REP),851
+Limerick 3,Mail-in,MADELEINE DEAN(DEM),495
+Limerick 3,Mail-in,DAVID WINKLER(REP),281
+Limerick 3,Provisional,MADELEINE DEAN(DEM),6
+Limerick 3,Provisional,DAVID WINKLER(REP),5
+Limerick 3,Total,MADELEINE DEAN(DEM),"1,181"
+Limerick 3,Total,DAVID WINKLER(REP),"1,137"
+Limerick 4,Election Day,MADELEINE DEAN(DEM),653
+Limerick 4,Election Day,DAVID WINKLER(REP),648
+Limerick 4,Mail-in,MADELEINE DEAN(DEM),472
+Limerick 4,Mail-in,DAVID WINKLER(REP),150
+Limerick 4,Provisional,MADELEINE DEAN(DEM),17
+Limerick 4,Provisional,DAVID WINKLER(REP),5
+Limerick 4,Total,MADELEINE DEAN(DEM),"1,142"
+Limerick 4,Total,DAVID WINKLER(REP),803
+Limerick 5,Election Day,MADELEINE DEAN(DEM),536
+Limerick 5,Election Day,DAVID WINKLER(REP),950
+Limerick 5,Mail-in,MADELEINE DEAN(DEM),352
+Limerick 5,Mail-in,DAVID WINKLER(REP),234
+Limerick 5,Provisional,MADELEINE DEAN(DEM),10
+Limerick 5,Provisional,DAVID WINKLER(REP),7
+Limerick 5,Total,MADELEINE DEAN(DEM),898
+Limerick 5,Total,DAVID WINKLER(REP),"1,191"
+Limerick 6,Election Day,MADELEINE DEAN(DEM),634
+Limerick 6,Election Day,DAVID WINKLER(REP),707
+Limerick 6,Mail-in,MADELEINE DEAN(DEM),348
+Limerick 6,Mail-in,DAVID WINKLER(REP),168
+Limerick 6,Provisional,MADELEINE DEAN(DEM),7
+Limerick 6,Provisional,DAVID WINKLER(REP),3
+Limerick 6,Total,MADELEINE DEAN(DEM),989
+Limerick 6,Total,DAVID WINKLER(REP),878
+Lower Frederick 1,Election Day,MADELEINE DEAN(DEM),****
+Lower Frederick 1,Election Day,DAVID WINKLER(REP),****
+Lower Frederick 1,Mail-in,MADELEINE DEAN(DEM),****
+Lower Frederick 1,Mail-in,DAVID WINKLER(REP),****
+Lower Frederick 1,Provisional,MADELEINE DEAN(DEM),****
+Lower Frederick 1,Provisional,DAVID WINKLER(REP),****
+Lower Frederick 1,Total,MADELEINE DEAN(DEM),665
+Lower Frederick 1,Total,DAVID WINKLER(REP),489

@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Springfield 5-2,Election Day,KAMALA D HARRIS(DEM),****
+Springfield 5-2,Election Day,DONALD J TRUMP(REP),****
+Springfield 5-2,Mail-in,KAMALA D HARRIS(DEM),****
+Springfield 5-2,Mail-in,DONALD J TRUMP(REP),****
+Springfield 5-2,Provisional,KAMALA D HARRIS(DEM),****
+Springfield 5-2,Provisional,DONALD J TRUMP(REP),****
+Springfield 5-2,Total,KAMALA D HARRIS(DEM),443
+Springfield 5-2,Total,DONALD J TRUMP(REP),120
+Springfield 6-1,Election Day,KAMALA D HARRIS(DEM),****
+Springfield 6-1,Election Day,DONALD J TRUMP(REP),****
+Springfield 6-1,Mail-in,KAMALA D HARRIS(DEM),****
+Springfield 6-1,Mail-in,DONALD J TRUMP(REP),****
+Springfield 6-1,Provisional,KAMALA D HARRIS(DEM),****
+Springfield 6-1,Provisional,DONALD J TRUMP(REP),****
+Springfield 6-1,Total,KAMALA D HARRIS(DEM),465
+Springfield 6-1,Total,DONALD J TRUMP(REP),306
+Springfield 6-2,Election Day,KAMALA D HARRIS(DEM),****
+Springfield 6-2,Election Day,DONALD J TRUMP(REP),****
+Springfield 6-2,Mail-in,KAMALA D HARRIS(DEM),****
+Springfield 6-2,Mail-in,DONALD J TRUMP(REP),****
+Springfield 6-2,Provisional,KAMALA D HARRIS(DEM),****
+Springfield 6-2,Provisional,DONALD J TRUMP(REP),****
+Springfield 6-2,Total,KAMALA D HARRIS(DEM),563
+Springfield 6-2,Total,DONALD J TRUMP(REP),353
+Springfield 7-1,Election Day,KAMALA D HARRIS(DEM),****
+Springfield 7-1,Election Day,DONALD J TRUMP(REP),****
+Springfield 7-1,Mail-in,KAMALA D HARRIS(DEM),****
+Springfield 7-1,Mail-in,DONALD J TRUMP(REP),****
+Springfield 7-1,Provisional,KAMALA D HARRIS(DEM),****
+Springfield 7-1,Provisional,DONALD J TRUMP(REP),****
+Springfield 7-1,Total,KAMALA D HARRIS(DEM),598
+Springfield 7-1,Total,DONALD J TRUMP(REP),115
+Springfield 7-2,Election Day,KAMALA D HARRIS(DEM),****
+Springfield 7-2,Election Day,DONALD J TRUMP(REP),****
+Springfield 7-2,Mail-in,KAMALA D HARRIS(DEM),****
+Springfield 7-2,Mail-in,DONALD J TRUMP(REP),****
+Springfield 7-2,Provisional,KAMALA D HARRIS(DEM),****
+Springfield 7-2,Provisional,DONALD J TRUMP(REP),****
+Springfield 7-2,Total,KAMALA D HARRIS(DEM),613
+Springfield 7-2,Total,DONALD J TRUMP(REP),335
+Towamencin 1-1,Election Day,KAMALA D HARRIS(DEM),439
+Towamencin 1-1,Election Day,DONALD J TRUMP(REP),433
+Towamencin 1-1,Mail-in,KAMALA D HARRIS(DEM),343
+Towamencin 1-1,Mail-in,DONALD J TRUMP(REP),132
+Towamencin 1-1,Provisional,KAMALA D HARRIS(DEM),9
+Towamencin 1-1,Provisional,DONALD J TRUMP(REP),2
+Towamencin 1-1,Total,KAMALA D HARRIS(DEM),791
+Towamencin 1-1,Total,DONALD J TRUMP(REP),567

@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Montgomery 1,Election Day,JOHN C THOMAS(LIB),****
+Montgomery 1,Election Day,LEILA HAZOU(GRE),****
+Montgomery 1,Election Day,MARTY SELKER(CON),****
+Montgomery 1,Election Day,UnresolvedWrite-In,****
+Montgomery 1,Mail-in,JOHN C THOMAS(LIB),****
+Montgomery 1,Mail-in,LEILA HAZOU(GRE),****
+Montgomery 1,Mail-in,MARTY SELKER(CON),****
+Montgomery 1,Mail-in,UnresolvedWrite-In,****
+Montgomery 1,Provisional,JOHN C THOMAS(LIB),****
+Montgomery 1,Provisional,LEILA HAZOU(GRE),****
+Montgomery 1,Provisional,MARTY SELKER(CON),****
+Montgomery 1,Provisional,UnresolvedWrite-In,****
+Montgomery 1,Total,JOHN C THOMAS(LIB),11
+Montgomery 1,Total,LEILA HAZOU(GRE),12
+Montgomery 1,Total,MARTY SELKER(CON),2
+Montgomery 1,Total,UnresolvedWrite-In,3
+Montgomery 2,Election Day,JOHN C THOMAS(LIB),13
+Montgomery 2,Election Day,LEILA HAZOU(GRE),9
+Montgomery 2,Election Day,MARTY SELKER(CON),4
+Montgomery 2,Election Day,UnresolvedWrite-In,1
+Montgomery 2,Mail-in,JOHN C THOMAS(LIB),7
+Montgomery 2,Mail-in,LEILA HAZOU(GRE),6
+Montgomery 2,Mail-in,MARTY SELKER(CON),0
+Montgomery 2,Mail-in,UnresolvedWrite-In,0
+Montgomery 2,Provisional,JOHN C THOMAS(LIB),0
+Montgomery 2,Provisional,LEILA HAZOU(GRE),0
+Montgomery 2,Provisional,MARTY SELKER(CON),0
+Montgomery 2,Provisional,UnresolvedWrite-In,0
+Montgomery 2,Total,JOHN C THOMAS(LIB),20
+Montgomery 2,Total,LEILA HAZOU(GRE),15
+Montgomery 2,Total,MARTY SELKER(CON),4
+Montgomery 2,Total,UnresolvedWrite-In,1
+Montgomery 3,Election Day,JOHN C THOMAS(LIB),16
+Montgomery 3,Election Day,LEILA HAZOU(GRE),19
+Montgomery 3,Election Day,MARTY SELKER(CON),3
+Montgomery 3,Election Day,UnresolvedWrite-In,3
+Montgomery 3,Mail-in,JOHN C THOMAS(LIB),6
+Montgomery 3,Mail-in,LEILA HAZOU(GRE),8
+Montgomery 3,Mail-in,MARTY SELKER(CON),1
+Montgomery 3,Mail-in,UnresolvedWrite-In,1
+Montgomery 3,Provisional,JOHN C THOMAS(LIB),0
+Montgomery 3,Provisional,LEILA HAZOU(GRE),0
+Montgomery 3,Provisional,MARTY SELKER(CON),0
+Montgomery 3,Provisional,UnresolvedWrite-In,0
+Montgomery 3,Total,JOHN C THOMAS(LIB),22
+Montgomery 3,Total,LEILA HAZOU(GRE),27
+Montgomery 3,Total,MARTY SELKER(CON),4
+Montgomery 3,Total,UnresolvedWrite-In,4
+Montgomery 4,Election Day,JOHN C THOMAS(LIB),****
+Montgomery 4,Election Day,LEILA HAZOU(GRE),****
+Montgomery 4,Election Day,MARTY SELKER(CON),****
+Montgomery 4,Election Day,UnresolvedWrite-In,****
+Montgomery 4,Mail-in,JOHN C THOMAS(LIB),****
+Montgomery 4,Mail-in,LEILA HAZOU(GRE),****
+Montgomery 4,Mail-in,MARTY SELKER(CON),****
+Montgomery 4,Mail-in,UnresolvedWrite-In,****
+Montgomery 4,Provisional,JOHN C THOMAS(LIB),****
+Montgomery 4,Provisional,LEILA HAZOU(GRE),****
+Montgomery 4,Provisional,MARTY SELKER(CON),****
+Montgomery 4,Provisional,UnresolvedWrite-In,****
+Montgomery 4,Total,JOHN C THOMAS(LIB),18
+Montgomery 4,Total,LEILA HAZOU(GRE),7
+Montgomery 4,Total,MARTY SELKER(CON),2
+Montgomery 4,Total,UnresolvedWrite-In,1
+Montgomery 5,Election Day,JOHN C THOMAS(LIB),11
+Montgomery 5,Election Day,LEILA HAZOU(GRE),12
+Montgomery 5,Election Day,MARTY SELKER(CON),2
+Montgomery 5,Election Day,UnresolvedWrite-In,1
+Montgomery 5,Mail-in,JOHN C THOMAS(LIB),3
+Montgomery 5,Mail-in,LEILA HAZOU(GRE),7
+Montgomery 5,Mail-in,MARTY SELKER(CON),0
+Montgomery 5,Mail-in,UnresolvedWrite-In,0
+Montgomery 5,Provisional,JOHN C THOMAS(LIB),0
+Montgomery 5,Provisional,LEILA HAZOU(GRE),0
+Montgomery 5,Provisional,MARTY SELKER(CON),0
+Montgomery 5,Provisional,UnresolvedWrite-In,0
+Montgomery 5,Total,JOHN C THOMAS(LIB),14
+Montgomery 5,Total,LEILA HAZOU(GRE),19
+Montgomery 5,Total,MARTY SELKER(CON),2
+Montgomery 5,Total,UnresolvedWrite-In,1
+Montgomery 6,Election Day,JOHN C THOMAS(LIB),9
+Montgomery 6,Election Day,LEILA HAZOU(GRE),8
+Montgomery 6,Election Day,MARTY SELKER(CON),4
+Montgomery 6,Election Day,UnresolvedWrite-In,0
+Montgomery 6,Mail-in,JOHN C THOMAS(LIB),5
+Montgomery 6,Mail-in,LEILA HAZOU(GRE),3
+Montgomery 6,Mail-in,MARTY SELKER(CON),0
+Montgomery 6,Mail-in,UnresolvedWrite-In,0
+Montgomery 6,Provisional,JOHN C THOMAS(LIB),0
+Montgomery 6,Provisional,LEILA HAZOU(GRE),0
+Montgomery 6,Provisional,MARTY SELKER(CON),0
+Montgomery 6,Provisional,UnresolvedWrite-In,0
+Montgomery 6,Total,JOHN C THOMAS(LIB),14
+Montgomery 6,Total,LEILA HAZOU(GRE),11
+Montgomery 6,Total,MARTY SELKER(CON),4
+Montgomery 6,Total,UnresolvedWrite-In,0

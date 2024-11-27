@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Lower Merion 1-1,Election Day,ROBERT P CASEY JR(DEM),370
+Lower Merion 1-1,Election Day,DAVE MCCORMICK(REP),121
+Lower Merion 1-1,Mail-in,ROBERT P CASEY JR(DEM),392
+Lower Merion 1-1,Mail-in,DAVE MCCORMICK(REP),59
+Lower Merion 1-1,Provisional,ROBERT P CASEY JR(DEM),7
+Lower Merion 1-1,Provisional,DAVE MCCORMICK(REP),3
+Lower Merion 1-1,Total,ROBERT P CASEY JR(DEM),769
+Lower Merion 1-1,Total,DAVE MCCORMICK(REP),183
+Lower Merion 1-2,Election Day,ROBERT P CASEY JR(DEM),620
+Lower Merion 1-2,Election Day,DAVE MCCORMICK(REP),234
+Lower Merion 1-2,Mail-in,ROBERT P CASEY JR(DEM),462
+Lower Merion 1-2,Mail-in,DAVE MCCORMICK(REP),127
+Lower Merion 1-2,Provisional,ROBERT P CASEY JR(DEM),12
+Lower Merion 1-2,Provisional,DAVE MCCORMICK(REP),4
+Lower Merion 1-2,Total,ROBERT P CASEY JR(DEM),"1,094"
+Lower Merion 1-2,Total,DAVE MCCORMICK(REP),365
+Lower Merion 1-3,Election Day,ROBERT P CASEY JR(DEM),****
+Lower Merion 1-3,Election Day,DAVE MCCORMICK(REP),****
+Lower Merion 1-3,Mail-in,ROBERT P CASEY JR(DEM),****
+Lower Merion 1-3,Mail-in,DAVE MCCORMICK(REP),****
+Lower Merion 1-3,Provisional,ROBERT P CASEY JR(DEM),****
+Lower Merion 1-3,Provisional,DAVE MCCORMICK(REP),****
+Lower Merion 1-3,Total,ROBERT P CASEY JR(DEM),498
+Lower Merion 1-3,Total,DAVE MCCORMICK(REP),309
+Lower Merion 2-1,Election Day,ROBERT P CASEY JR(DEM),402
+Lower Merion 2-1,Election Day,DAVE MCCORMICK(REP),273
+Lower Merion 2-1,Mail-in,ROBERT P CASEY JR(DEM),438
+Lower Merion 2-1,Mail-in,DAVE MCCORMICK(REP),120
+Lower Merion 2-1,Provisional,ROBERT P CASEY JR(DEM),13
+Lower Merion 2-1,Provisional,DAVE MCCORMICK(REP),7
+Lower Merion 2-1,Total,ROBERT P CASEY JR(DEM),853
+Lower Merion 2-1,Total,DAVE MCCORMICK(REP),400
+Lower Merion 2-2,Election Day,ROBERT P CASEY JR(DEM),297
+Lower Merion 2-2,Election Day,DAVE MCCORMICK(REP),224
+Lower Merion 2-2,Mail-in,ROBERT P CASEY JR(DEM),233
+Lower Merion 2-2,Mail-in,DAVE MCCORMICK(REP),89
+Lower Merion 2-2,Provisional,ROBERT P CASEY JR(DEM),6
+Lower Merion 2-2,Provisional,DAVE MCCORMICK(REP),6
+Lower Merion 2-2,Total,ROBERT P CASEY JR(DEM),536
+Lower Merion 2-2,Total,DAVE MCCORMICK(REP),319
+Lower Merion 2-3,Election Day,ROBERT P CASEY JR(DEM),****
+Lower Merion 2-3,Election Day,DAVE MCCORMICK(REP),****
+Lower Merion 2-3,Mail-in,ROBERT P CASEY JR(DEM),****
+Lower Merion 2-3,Mail-in,DAVE MCCORMICK(REP),****
+Lower Merion 2-3,Provisional,ROBERT P CASEY JR(DEM),****
+Lower Merion 2-3,Provisional,DAVE MCCORMICK(REP),****
+Lower Merion 2-3,Total,ROBERT P CASEY JR(DEM),744
+Lower Merion 2-3,Total,DAVE MCCORMICK(REP),239

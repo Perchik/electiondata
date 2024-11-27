@@ -1,0 +1,721 @@
+precinct,method,candidate,votes
+Bridgeport 1,Election Day,MARY GAY SCANLON(DEM),****
+Bridgeport 1,Election Day,ALFEIA GOODWIN(REP),****
+Bridgeport 1,Mail-in,MARY GAY SCANLON(DEM),****
+Bridgeport 1,Mail-in,ALFEIA GOODWIN(REP),****
+Bridgeport 1,Provisional,MARY GAY SCANLON(DEM),****
+Bridgeport 1,Provisional,ALFEIA GOODWIN(REP),****
+Bridgeport 1,Total,MARY GAY SCANLON(DEM),420
+Bridgeport 1,Total,ALFEIA GOODWIN(REP),198
+Bridgeport 2,Election Day,MARY GAY SCANLON(DEM),****
+Bridgeport 2,Election Day,ALFEIA GOODWIN(REP),****
+Bridgeport 2,Mail-in,MARY GAY SCANLON(DEM),****
+Bridgeport 2,Mail-in,ALFEIA GOODWIN(REP),****
+Bridgeport 2,Provisional,MARY GAY SCANLON(DEM),****
+Bridgeport 2,Provisional,ALFEIA GOODWIN(REP),****
+Bridgeport 2,Total,MARY GAY SCANLON(DEM),491
+Bridgeport 2,Total,ALFEIA GOODWIN(REP),354
+Bridgeport 3,Election Day,MARY GAY SCANLON(DEM),406
+Bridgeport 3,Election Day,ALFEIA GOODWIN(REP),225
+Bridgeport 3,Mail-in,MARY GAY SCANLON(DEM),103
+Bridgeport 3,Mail-in,ALFEIA GOODWIN(REP),35
+Bridgeport 3,Provisional,MARY GAY SCANLON(DEM),11
+Bridgeport 3,Provisional,ALFEIA GOODWIN(REP),6
+Bridgeport 3,Total,MARY GAY SCANLON(DEM),520
+Bridgeport 3,Total,ALFEIA GOODWIN(REP),266
+Narberth 1,Election Day,MARY GAY SCANLON(DEM),****
+Narberth 1,Election Day,ALFEIA GOODWIN(REP),****
+Narberth 1,Mail-in,MARY GAY SCANLON(DEM),****
+Narberth 1,Mail-in,ALFEIA GOODWIN(REP),****
+Narberth 1,Provisional,MARY GAY SCANLON(DEM),****
+Narberth 1,Provisional,ALFEIA GOODWIN(REP),****
+Narberth 1,Total,MARY GAY SCANLON(DEM),751
+Narberth 1,Total,ALFEIA GOODWIN(REP),145
+Narberth 2,Election Day,MARY GAY SCANLON(DEM),****
+Narberth 2,Election Day,ALFEIA GOODWIN(REP),****
+Narberth 2,Mail-in,MARY GAY SCANLON(DEM),****
+Narberth 2,Mail-in,ALFEIA GOODWIN(REP),****
+Narberth 2,Provisional,MARY GAY SCANLON(DEM),****
+Narberth 2,Provisional,ALFEIA GOODWIN(REP),****
+Narberth 2,Total,MARY GAY SCANLON(DEM),"1,281"
+Narberth 2,Total,ALFEIA GOODWIN(REP),236
+Lower Merion 5-3,Election Day,Unresolved Write-In,****
+Lower Merion 5-3,Mail-in,Unresolved Write-In,****
+Lower Merion 5-3,Provisional,Unresolved Write-In,****
+Lower Merion 5-3,Total,Unresolved Write-In,3
+Lower Merion 6-1,Election Day,Unresolved Write-In,****
+Lower Merion 6-1,Mail-in,Unresolved Write-In,****
+Lower Merion 6-1,Provisional,Unresolved Write-In,****
+Lower Merion 6-1,Total,Unresolved Write-In,4
+Lower Merion 6-2,Election Day,Unresolved Write-In,1
+Lower Merion 6-2,Mail-in,Unresolved Write-In,0
+Lower Merion 6-2,Provisional,Unresolved Write-In,0
+Lower Merion 6-2,Total,Unresolved Write-In,1
+Lower Merion 7-1,Election Day,Unresolved Write-In,****
+Lower Merion 7-1,Mail-in,Unresolved Write-In,****
+Lower Merion 7-1,Provisional,Unresolved Write-In,****
+Lower Merion 7-1,Total,Unresolved Write-In,2
+Lower Merion 7-2,Election Day,Unresolved Write-In,****
+Lower Merion 7-2,Mail-in,Unresolved Write-In,****
+Lower Merion 7-2,Provisional,Unresolved Write-In,****
+Lower Merion 7-2,Total,Unresolved Write-In,3
+Lower Merion 7-3,Election Day,Unresolved Write-In,****
+Lower Merion 7-3,Mail-in,Unresolved Write-In,****
+Lower Merion 7-3,Provisional,Unresolved Write-In,****
+Lower Merion 7-3,Total,Unresolved Write-In,1
+Lower Merion 8-1,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 8-1,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 8-1,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 8-1,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 8-1,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 8-1,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 8-1,Total,MARY GAY SCANLON(DEM),474
+Lower Merion 8-1,Total,ALFEIA GOODWIN(REP),114
+Lower Merion 8-2,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 8-2,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 8-2,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 8-2,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 8-2,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 8-2,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 8-2,Total,MARY GAY SCANLON(DEM),546
+Lower Merion 8-2,Total,ALFEIA GOODWIN(REP),133
+Lower Merion 8-3,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 8-3,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 8-3,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 8-3,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 8-3,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 8-3,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 8-3,Total,MARY GAY SCANLON(DEM),760
+Lower Merion 8-3,Total,ALFEIA GOODWIN(REP),150
+Lower Merion 8-4,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 8-4,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 8-4,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 8-4,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 8-4,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 8-4,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 8-4,Total,MARY GAY SCANLON(DEM),700
+Lower Merion 8-4,Total,ALFEIA GOODWIN(REP),138
+Lower Merion 10-1,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 10-1,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 10-1,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 10-1,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 10-1,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 10-1,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 10-1,Total,MARY GAY SCANLON(DEM),538
+Lower Merion 10-1,Total,ALFEIA GOODWIN(REP),240
+Lower Merion 10-2,Election Day,MARY GAY SCANLON(DEM),894
+Lower Merion 10-2,Election Day,ALFEIA GOODWIN(REP),209
+Lower Merion 10-2,Mail-in,MARY GAY SCANLON(DEM),425
+Lower Merion 10-2,Mail-in,ALFEIA GOODWIN(REP),81
+Lower Merion 10-2,Provisional,MARY GAY SCANLON(DEM),16
+Lower Merion 10-2,Provisional,ALFEIA GOODWIN(REP),3
+Lower Merion 10-2,Total,MARY GAY SCANLON(DEM),"1,335"
+Lower Merion 10-2,Total,ALFEIA GOODWIN(REP),293
+Lower Merion 8-1,Election Day,Unresolved Write-In,****
+Lower Merion 8-1,Mail-in,Unresolved Write-In,****
+Lower Merion 8-1,Provisional,Unresolved Write-In,****
+Lower Merion 8-1,Total,Unresolved Write-In,0
+Lower Merion 8-2,Election Day,Unresolved Write-In,****
+Lower Merion 8-2,Mail-in,Unresolved Write-In,****
+Lower Merion 8-2,Provisional,Unresolved Write-In,****
+Lower Merion 8-2,Total,Unresolved Write-In,1
+Lower Merion 8-3,Election Day,Unresolved Write-In,****
+Lower Merion 8-3,Mail-in,Unresolved Write-In,****
+Lower Merion 8-3,Provisional,Unresolved Write-In,****
+Lower Merion 8-3,Total,Unresolved Write-In,0
+Lower Merion 8-4,Election Day,Unresolved Write-In,****
+Lower Merion 8-4,Mail-in,Unresolved Write-In,****
+Lower Merion 8-4,Provisional,Unresolved Write-In,****
+Lower Merion 8-4,Total,Unresolved Write-In,1
+Lower Merion 10-1,Election Day,Unresolved Write-In,****
+Lower Merion 10-1,Mail-in,Unresolved Write-In,****
+Lower Merion 10-1,Provisional,Unresolved Write-In,****
+Lower Merion 10-1,Total,Unresolved Write-In,2
+Lower Merion 10-2,Election Day,Unresolved Write-In,3
+Lower Merion 10-2,Mail-in,Unresolved Write-In,2
+Lower Merion 10-2,Provisional,Unresolved Write-In,0
+Lower Merion 10-2,Total,Unresolved Write-In,5
+Lower Merion 10-3,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 10-3,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 10-3,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 10-3,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 10-3,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 10-3,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 10-3,Total,MARY GAY SCANLON(DEM),736
+Lower Merion 10-3,Total,ALFEIA GOODWIN(REP),257
+Lower Merion 11-1,Election Day,MARY GAY SCANLON(DEM),281
+Lower Merion 11-1,Election Day,ALFEIA GOODWIN(REP),175
+Lower Merion 11-1,Mail-in,MARY GAY SCANLON(DEM),291
+Lower Merion 11-1,Mail-in,ALFEIA GOODWIN(REP),91
+Lower Merion 11-1,Provisional,MARY GAY SCANLON(DEM),7
+Lower Merion 11-1,Provisional,ALFEIA GOODWIN(REP),4
+Lower Merion 11-1,Total,MARY GAY SCANLON(DEM),579
+Lower Merion 11-1,Total,ALFEIA GOODWIN(REP),270
+Lower Merion 11-2,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 11-2,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 11-2,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 11-2,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 11-2,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 11-2,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 11-2,Total,MARY GAY SCANLON(DEM),235
+Lower Merion 11-2,Total,ALFEIA GOODWIN(REP),70
+Lower Merion 11-3,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 11-3,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 11-3,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 11-3,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 11-3,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 11-3,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 11-3,Total,MARY GAY SCANLON(DEM),9
+Lower Merion 11-3,Total,ALFEIA GOODWIN(REP),6
+Lower Merion 12-1,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 12-1,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 12-1,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 12-1,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 12-1,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 12-1,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 12-1,Total,MARY GAY SCANLON(DEM),712
+Lower Merion 12-1,Total,ALFEIA GOODWIN(REP),113
+Lower Merion 12-2,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 12-2,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 12-2,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 12-2,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 12-2,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 12-2,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 12-2,Total,MARY GAY SCANLON(DEM),712
+Lower Merion 12-2,Total,ALFEIA GOODWIN(REP),153
+Lower Merion 10-3,Election Day,Unresolved Write-In,****
+Lower Merion 10-3,Mail-in,Unresolved Write-In,****
+Lower Merion 10-3,Provisional,Unresolved Write-In,****
+Lower Merion 10-3,Total,Unresolved Write-In,4
+Lower Merion 11-1,Election Day,Unresolved Write-In,1
+Lower Merion 11-1,Mail-in,Unresolved Write-In,0
+Lower Merion 11-1,Provisional,Unresolved Write-In,0
+Lower Merion 11-1,Total,Unresolved Write-In,1
+Lower Merion 11-2,Election Day,Unresolved Write-In,****
+Lower Merion 11-2,Mail-in,Unresolved Write-In,****
+Lower Merion 11-2,Provisional,Unresolved Write-In,****
+Lower Merion 11-2,Total,Unresolved Write-In,1
+Lower Merion 11-3,Election Day,Unresolved Write-In,****
+Lower Merion 11-3,Mail-in,Unresolved Write-In,****
+Lower Merion 11-3,Provisional,Unresolved Write-In,****
+Lower Merion 11-3,Total,Unresolved Write-In,0
+Lower Merion 12-1,Election Day,Unresolved Write-In,****
+Lower Merion 12-1,Mail-in,Unresolved Write-In,****
+Lower Merion 12-1,Provisional,Unresolved Write-In,****
+Lower Merion 12-1,Total,Unresolved Write-In,3
+Lower Merion 12-2,Election Day,Unresolved Write-In,****
+Lower Merion 12-2,Mail-in,Unresolved Write-In,****
+Lower Merion 12-2,Provisional,Unresolved Write-In,****
+Lower Merion 12-2,Total,Unresolved Write-In,3
+Lower Merion 12-3,Election Day,MARY GAY SCANLON(DEM),240
+Lower Merion 12-3,Election Day,ALFEIA GOODWIN(REP),173
+Lower Merion 12-3,Mail-in,MARY GAY SCANLON(DEM),231
+Lower Merion 12-3,Mail-in,ALFEIA GOODWIN(REP),133
+Lower Merion 12-3,Provisional,MARY GAY SCANLON(DEM),9
+Lower Merion 12-3,Provisional,ALFEIA GOODWIN(REP),4
+Lower Merion 12-3,Total,MARY GAY SCANLON(DEM),480
+Lower Merion 12-3,Total,ALFEIA GOODWIN(REP),310
+Lower Merion 14-1,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 14-1,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 14-1,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 14-1,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 14-1,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 14-1,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 14-1,Total,MARY GAY SCANLON(DEM),679
+Lower Merion 14-1,Total,ALFEIA GOODWIN(REP),155
+Lower Merion 14-2,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 14-2,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 14-2,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 14-2,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 14-2,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 14-2,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 14-2,Total,MARY GAY SCANLON(DEM),778
+Lower Merion 14-2,Total,ALFEIA GOODWIN(REP),149
+Lower Merion 14-3,Election Day,MARY GAY SCANLON(DEM),521
+Lower Merion 14-3,Election Day,ALFEIA GOODWIN(REP),123
+Lower Merion 14-3,Mail-in,MARY GAY SCANLON(DEM),335
+Lower Merion 14-3,Mail-in,ALFEIA GOODWIN(REP),55
+Lower Merion 14-3,Provisional,MARY GAY SCANLON(DEM),10
+Lower Merion 14-3,Provisional,ALFEIA GOODWIN(REP),3
+Lower Merion 14-3,Total,MARY GAY SCANLON(DEM),866
+Lower Merion 14-3,Total,ALFEIA GOODWIN(REP),181
+Upper Merion Belmont 1,Election Day,MARY GAY SCANLON(DEM),****
+Upper Merion Belmont 1,Election Day,ALFEIA GOODWIN(REP),****
+Upper Merion Belmont 1,Mail-in,MARY GAY SCANLON(DEM),****
+Upper Merion Belmont 1,Mail-in,ALFEIA GOODWIN(REP),****
+Upper Merion Belmont 1,Provisional,MARY GAY SCANLON(DEM),****
+Upper Merion Belmont 1,Provisional,ALFEIA GOODWIN(REP),****
+Upper Merion Belmont 1,Total,MARY GAY SCANLON(DEM),401
+Upper Merion Belmont 1,Total,ALFEIA GOODWIN(REP),277
+Upper Merion Belmont 2,Election Day,MARY GAY SCANLON(DEM),622
+Upper Merion Belmont 2,Election Day,ALFEIA GOODWIN(REP),451
+Upper Merion Belmont 2,Mail-in,MARY GAY SCANLON(DEM),420
+Upper Merion Belmont 2,Mail-in,ALFEIA GOODWIN(REP),125
+Upper Merion Belmont 2,Provisional,MARY GAY SCANLON(DEM),8
+Upper Merion Belmont 2,Provisional,ALFEIA GOODWIN(REP),4
+Upper Merion Belmont 2,Total,MARY GAY SCANLON(DEM),"1,050"
+Upper Merion Belmont 2,Total,ALFEIA GOODWIN(REP),580
+Lower Merion 12-3,Election Day,Unresolved Write-In,1
+Lower Merion 12-3,Mail-in,Unresolved Write-In,0
+Lower Merion 12-3,Provisional,Unresolved Write-In,0
+Lower Merion 12-3,Total,Unresolved Write-In,1
+Lower Merion 14-1,Election Day,Unresolved Write-In,****
+Lower Merion 14-1,Mail-in,Unresolved Write-In,****
+Lower Merion 14-1,Provisional,Unresolved Write-In,****
+Lower Merion 14-1,Total,Unresolved Write-In,2
+Lower Merion 14-2,Election Day,Unresolved Write-In,****
+Lower Merion 14-2,Mail-in,Unresolved Write-In,****
+Lower Merion 14-2,Provisional,Unresolved Write-In,****
+Lower Merion 14-2,Total,Unresolved Write-In,3
+Lower Merion 14-3,Election Day,Unresolved Write-In,0
+Lower Merion 14-3,Mail-in,Unresolved Write-In,1
+Lower Merion 14-3,Provisional,Unresolved Write-In,0
+Lower Merion 14-3,Total,Unresolved Write-In,1
+Upper Merion Belmont 1,Election Day,Unresolved Write-In,****
+Upper Merion Belmont 1,Mail-in,Unresolved Write-In,****
+Upper Merion Belmont 1,Provisional,Unresolved Write-In,****
+Upper Merion Belmont 1,Total,Unresolved Write-In,0
+Upper Merion Belmont 2,Election Day,Unresolved Write-In,5
+Upper Merion Belmont 2,Mail-in,Unresolved Write-In,1
+Upper Merion Belmont 2,Provisional,Unresolved Write-In,0
+Upper Merion Belmont 2,Total,Unresolved Write-In,6
+Upper Merion Belmont 3,Election Day,MARY GAY SCANLON(DEM),432
+Upper Merion Belmont 3,Election Day,ALFEIA GOODWIN(REP),304
+Upper Merion Belmont 3,Mail-in,MARY GAY SCANLON(DEM),238
+Upper Merion Belmont 3,Mail-in,ALFEIA GOODWIN(REP),90
+Upper Merion Belmont 3,Provisional,MARY GAY SCANLON(DEM),10
+Upper Merion Belmont 3,Provisional,ALFEIA GOODWIN(REP),3
+Upper Merion Belmont 3,Total,MARY GAY SCANLON(DEM),680
+Upper Merion Belmont 3,Total,ALFEIA GOODWIN(REP),397
+Upper Merion Belmont 4,Election Day,MARY GAY SCANLON(DEM),653
+Upper Merion Belmont 4,Election Day,ALFEIA GOODWIN(REP),501
+Upper Merion Belmont 4,Mail-in,MARY GAY SCANLON(DEM),499
+Upper Merion Belmont 4,Mail-in,ALFEIA GOODWIN(REP),174
+Upper Merion Belmont 4,Provisional,MARY GAY SCANLON(DEM),14
+Upper Merion Belmont 4,Provisional,ALFEIA GOODWIN(REP),7
+Upper Merion Belmont 4,Total,MARY GAY SCANLON(DEM),"1,166"
+Upper Merion Belmont 4,Total,ALFEIA GOODWIN(REP),682
+Upper Merion Candle 1,Election Day,MARY GAY SCANLON(DEM),****
+Upper Merion Candle 1,Election Day,ALFEIA GOODWIN(REP),****
+Upper Merion Candle 1,Mail-in,MARY GAY SCANLON(DEM),****
+Upper Merion Candle 1,Mail-in,ALFEIA GOODWIN(REP),****
+Upper Merion Candle 1,Provisional,MARY GAY SCANLON(DEM),****
+Upper Merion Candle 1,Provisional,ALFEIA GOODWIN(REP),****
+Upper Merion Candle 1,Total,MARY GAY SCANLON(DEM),655
+Upper Merion Candle 1,Total,ALFEIA GOODWIN(REP),311
+Upper Merion Candle 2,Election Day,MARY GAY SCANLON(DEM),580
+Upper Merion Candle 2,Election Day,ALFEIA GOODWIN(REP),414
+Upper Merion Candle 2,Mail-in,MARY GAY SCANLON(DEM),402
+Upper Merion Candle 2,Mail-in,ALFEIA GOODWIN(REP),101
+Upper Merion Candle 2,Provisional,MARY GAY SCANLON(DEM),8
+Upper Merion Candle 2,Provisional,ALFEIA GOODWIN(REP),6
+Upper Merion Candle 2,Total,MARY GAY SCANLON(DEM),990
+Upper Merion Candle 2,Total,ALFEIA GOODWIN(REP),521
+Upper Merion Gulph 1,Election Day,MARY GAY SCANLON(DEM),711
+Upper Merion Gulph 1,Election Day,ALFEIA GOODWIN(REP),529
+Upper Merion Gulph 1,Mail-in,MARY GAY SCANLON(DEM),449
+Upper Merion Gulph 1,Mail-in,ALFEIA GOODWIN(REP),150
+Upper Merion Gulph 1,Provisional,MARY GAY SCANLON(DEM),9
+Upper Merion Gulph 1,Provisional,ALFEIA GOODWIN(REP),6
+Upper Merion Gulph 1,Total,MARY GAY SCANLON(DEM),"1,169"
+Upper Merion Gulph 1,Total,ALFEIA GOODWIN(REP),685
+Upper Merion Gulph 2,Election Day,MARY GAY SCANLON(DEM),505
+Upper Merion Gulph 2,Election Day,ALFEIA GOODWIN(REP),385
+Upper Merion Gulph 2,Mail-in,MARY GAY SCANLON(DEM),545
+Upper Merion Gulph 2,Mail-in,ALFEIA GOODWIN(REP),194
+Upper Merion Gulph 2,Provisional,MARY GAY SCANLON(DEM),0
+Upper Merion Gulph 2,Provisional,ALFEIA GOODWIN(REP),0
+Upper Merion Gulph 2,Total,MARY GAY SCANLON(DEM),"1,050"
+Upper Merion Gulph 2,Total,ALFEIA GOODWIN(REP),579
+Upper Merion Belmont 3,Election Day,Unresolved Write-In,2
+Upper Merion Belmont 3,Mail-in,Unresolved Write-In,1
+Upper Merion Belmont 3,Provisional,Unresolved Write-In,0
+Upper Merion Belmont 3,Total,Unresolved Write-In,3
+Upper Merion Belmont 4,Election Day,Unresolved Write-In,1
+Upper Merion Belmont 4,Mail-in,Unresolved Write-In,3
+Upper Merion Belmont 4,Provisional,Unresolved Write-In,0
+Upper Merion Belmont 4,Total,Unresolved Write-In,4
+Upper Merion Candle 1,Election Day,Unresolved Write-In,****
+Upper Merion Candle 1,Mail-in,Unresolved Write-In,****
+Upper Merion Candle 1,Provisional,Unresolved Write-In,****
+Upper Merion Candle 1,Total,Unresolved Write-In,7
+Upper Merion Candle 2,Election Day,Unresolved Write-In,3
+Upper Merion Candle 2,Mail-in,Unresolved Write-In,0
+Upper Merion Candle 2,Provisional,Unresolved Write-In,0
+Upper Merion Candle 2,Total,Unresolved Write-In,3
+Upper Merion Gulph 1,Election Day,Unresolved Write-In,1
+Upper Merion Gulph 1,Mail-in,Unresolved Write-In,1
+Upper Merion Gulph 1,Provisional,Unresolved Write-In,1
+Upper Merion Gulph 1,Total,Unresolved Write-In,3
+Upper Merion Gulph 2,Election Day,Unresolved Write-In,3
+Upper Merion Gulph 2,Mail-in,Unresolved Write-In,1
+Upper Merion Gulph 2,Provisional,Unresolved Write-In,0
+Upper Merion Gulph 2,Total,Unresolved Write-In,4
+Upper Merion King 1,Election Day,MARY GAY SCANLON(DEM),264
+Upper Merion King 1,Election Day,ALFEIA GOODWIN(REP),173
+Upper Merion King 1,Mail-in,MARY GAY SCANLON(DEM),146
+Upper Merion King 1,Mail-in,ALFEIA GOODWIN(REP),55
+Upper Merion King 1,Provisional,MARY GAY SCANLON(DEM),8
+Upper Merion King 1,Provisional,ALFEIA GOODWIN(REP),3
+Upper Merion King 1,Total,MARY GAY SCANLON(DEM),418
+Upper Merion King 1,Total,ALFEIA GOODWIN(REP),231
+Upper Merion King 2,Election Day,MARY GAY SCANLON(DEM),491
+Upper Merion King 2,Election Day,ALFEIA GOODWIN(REP),243
+Upper Merion King 2,Mail-in,MARY GAY SCANLON(DEM),254
+Upper Merion King 2,Mail-in,ALFEIA GOODWIN(REP),39
+Upper Merion King 2,Provisional,MARY GAY SCANLON(DEM),12
+Upper Merion King 2,Provisional,ALFEIA GOODWIN(REP),4
+Upper Merion King 2,Total,MARY GAY SCANLON(DEM),757
+Upper Merion King 2,Total,ALFEIA GOODWIN(REP),286
+Upper Merion Roberts,Election Day,MARY GAY SCANLON(DEM),490
+Upper Merion Roberts,Election Day,ALFEIA GOODWIN(REP),472
+Upper Merion Roberts,Mail-in,MARY GAY SCANLON(DEM),552
+Upper Merion Roberts,Mail-in,ALFEIA GOODWIN(REP),233
+Upper Merion Roberts,Provisional,MARY GAY SCANLON(DEM),7
+Upper Merion Roberts,Provisional,ALFEIA GOODWIN(REP),4
+Upper Merion Roberts,Total,MARY GAY SCANLON(DEM),"1,049"
+Upper Merion Roberts,Total,ALFEIA GOODWIN(REP),709
+Upper Merion Swedeland,Election Day,MARY GAY SCANLON(DEM),****
+Upper Merion Swedeland,Election Day,ALFEIA GOODWIN(REP),****
+Upper Merion Swedeland,Mail-in,MARY GAY SCANLON(DEM),****
+Upper Merion Swedeland,Mail-in,ALFEIA GOODWIN(REP),****
+Upper Merion Swedeland,Provisional,MARY GAY SCANLON(DEM),****
+Upper Merion Swedeland,Provisional,ALFEIA GOODWIN(REP),****
+Upper Merion Swedeland,Total,MARY GAY SCANLON(DEM),275
+Upper Merion Swedeland,Total,ALFEIA GOODWIN(REP),180
+Upper Merion Swedesburg,Election Day,MARY GAY SCANLON(DEM),****
+Upper Merion Swedesburg,Election Day,ALFEIA GOODWIN(REP),****
+Upper Merion Swedesburg,Mail-in,MARY GAY SCANLON(DEM),****
+Upper Merion Swedesburg,Mail-in,ALFEIA GOODWIN(REP),****
+Upper Merion Swedesburg,Provisional,MARY GAY SCANLON(DEM),****
+Upper Merion Swedesburg,Provisional,ALFEIA GOODWIN(REP),****
+Upper Merion Swedesburg,Total,MARY GAY SCANLON(DEM),221
+Upper Merion Swedesburg,Total,ALFEIA GOODWIN(REP),242
+Upper Merion Town Center,Election Day,MARY GAY SCANLON(DEM),662
+Upper Merion Town Center,Election Day,ALFEIA GOODWIN(REP),467
+Upper Merion Town Center,Mail-in,MARY GAY SCANLON(DEM),612
+Upper Merion Town Center,Mail-in,ALFEIA GOODWIN(REP),195
+Upper Merion Town Center,Provisional,MARY GAY SCANLON(DEM),18
+Upper Merion Town Center,Provisional,ALFEIA GOODWIN(REP),8
+Upper Merion Town Center,Total,MARY GAY SCANLON(DEM),"1,292"
+Upper Merion Town Center,Total,ALFEIA GOODWIN(REP),670
+Bridgeport 1,Election Day,Unresolved Write-In,****
+Bridgeport 1,Mail-in,Unresolved Write-In,****
+Bridgeport 1,Provisional,Unresolved Write-In,****
+Bridgeport 1,Total,Unresolved Write-In,2
+Bridgeport 2,Election Day,Unresolved Write-In,****
+Bridgeport 2,Mail-in,Unresolved Write-In,****
+Bridgeport 2,Provisional,Unresolved Write-In,****
+Bridgeport 2,Total,Unresolved Write-In,1
+Bridgeport 3,Election Day,Unresolved Write-In,2
+Bridgeport 3,Mail-in,Unresolved Write-In,1
+Bridgeport 3,Provisional,Unresolved Write-In,1
+Bridgeport 3,Total,Unresolved Write-In,4
+Narberth 1,Election Day,Unresolved Write-In,****
+Narberth 1,Mail-in,Unresolved Write-In,****
+Narberth 1,Provisional,Unresolved Write-In,****
+Narberth 1,Total,Unresolved Write-In,0
+Narberth 2,Election Day,Unresolved Write-In,****
+Narberth 2,Mail-in,Unresolved Write-In,****
+Narberth 2,Provisional,Unresolved Write-In,****
+Narberth 2,Total,Unresolved Write-In,4
+Upper Merion King 1,Election Day,Unresolved Write-In,1
+Upper Merion King 1,Mail-in,Unresolved Write-In,6
+Upper Merion King 1,Provisional,Unresolved Write-In,0
+Upper Merion King 1,Total,Unresolved Write-In,7
+Upper Merion King 2,Election Day,Unresolved Write-In,0
+Upper Merion King 2,Mail-in,Unresolved Write-In,0
+Upper Merion King 2,Provisional,Unresolved Write-In,0
+Upper Merion King 2,Total,Unresolved Write-In,0
+Upper Merion Roberts,Election Day,Unresolved Write-In,4
+Upper Merion Roberts,Mail-in,Unresolved Write-In,0
+Upper Merion Roberts,Provisional,Unresolved Write-In,0
+Upper Merion Roberts,Total,Unresolved Write-In,4
+Upper Merion Swedeland,Election Day,Unresolved Write-In,****
+Upper Merion Swedeland,Mail-in,Unresolved Write-In,****
+Upper Merion Swedeland,Provisional,Unresolved Write-In,****
+Upper Merion Swedeland,Total,Unresolved Write-In,2
+Upper Merion Swedesburg,Election Day,Unresolved Write-In,****
+Upper Merion Swedesburg,Mail-in,Unresolved Write-In,****
+Upper Merion Swedesburg,Provisional,Unresolved Write-In,****
+Upper Merion Swedesburg,Total,Unresolved Write-In,1
+Upper Merion Town Center,Election Day,Unresolved Write-In,3
+Upper Merion Town Center,Mail-in,Unresolved Write-In,1
+Upper Merion Town Center,Provisional,Unresolved Write-In,0
+Upper Merion Town Center,Total,Unresolved Write-In,4
+Cumulative,Election Day,MARY GAY SCANLON(DEM),0
+Cumulative,Election Day,ALFEIA GOODWIN(REP),0
+Cumulative,Mail-in,MARY GAY SCANLON(DEM),0
+Cumulative,Mail-in,ALFEIA GOODWIN(REP),0
+Cumulative,Provisional,MARY GAY SCANLON(DEM),0
+Cumulative,Provisional,ALFEIA GOODWIN(REP),0
+Cumulative,Total,MARY GAY SCANLON(DEM),0
+Cumulative,Total,ALFEIA GOODWIN(REP),0
+Cumulative,Election Day,Unresolved Write-In,0
+Cumulative,Mail-in,Unresolved Write-In,0
+Cumulative,Provisional,Unresolved Write-In,0
+Cumulative,Total,Unresolved Write-In,0
+Narberth 3,Election Day,MARY GAY SCANLON(DEM),****
+Narberth 3,Election Day,ALFEIA GOODWIN(REP),****
+Narberth 3,Mail-in,MARY GAY SCANLON(DEM),****
+Narberth 3,Mail-in,ALFEIA GOODWIN(REP),****
+Narberth 3,Provisional,MARY GAY SCANLON(DEM),****
+Narberth 3,Provisional,ALFEIA GOODWIN(REP),****
+Narberth 3,Total,MARY GAY SCANLON(DEM),545
+Narberth 3,Total,ALFEIA GOODWIN(REP),73
+Norristown 1-1,Election Day,MARY GAY SCANLON(DEM),334
+Norristown 1-1,Election Day,ALFEIA GOODWIN(REP),96
+Norristown 1-1,Mail-in,MARY GAY SCANLON(DEM),169
+Norristown 1-1,Mail-in,ALFEIA GOODWIN(REP),24
+Norristown 1-1,Provisional,MARY GAY SCANLON(DEM),9
+Norristown 1-1,Provisional,ALFEIA GOODWIN(REP),4
+Norristown 1-1,Total,MARY GAY SCANLON(DEM),512
+Norristown 1-1,Total,ALFEIA GOODWIN(REP),124
+Norristown 1-2,Election Day,MARY GAY SCANLON(DEM),420
+Norristown 1-2,Election Day,ALFEIA GOODWIN(REP),138
+Norristown 1-2,Mail-in,MARY GAY SCANLON(DEM),192
+Norristown 1-2,Mail-in,ALFEIA GOODWIN(REP),28
+Norristown 1-2,Provisional,MARY GAY SCANLON(DEM),10
+Norristown 1-2,Provisional,ALFEIA GOODWIN(REP),4
+Norristown 1-2,Total,MARY GAY SCANLON(DEM),622
+Norristown 1-2,Total,ALFEIA GOODWIN(REP),170
+Norristown 1-3,Election Day,MARY GAY SCANLON(DEM),451
+Norristown 1-3,Election Day,ALFEIA GOODWIN(REP),176
+Norristown 1-3,Mail-in,MARY GAY SCANLON(DEM),180
+Norristown 1-3,Mail-in,ALFEIA GOODWIN(REP),42
+Norristown 1-3,Provisional,MARY GAY SCANLON(DEM),10
+Norristown 1-3,Provisional,ALFEIA GOODWIN(REP),2
+Norristown 1-3,Total,MARY GAY SCANLON(DEM),641
+Norristown 1-3,Total,ALFEIA GOODWIN(REP),220
+Norristown 2-1,Election Day,MARY GAY SCANLON(DEM),****
+Norristown 2-1,Election Day,ALFEIA GOODWIN(REP),****
+Norristown 2-1,Mail-in,MARY GAY SCANLON(DEM),****
+Norristown 2-1,Mail-in,ALFEIA GOODWIN(REP),****
+Norristown 2-1,Provisional,MARY GAY SCANLON(DEM),****
+Norristown 2-1,Provisional,ALFEIA GOODWIN(REP),****
+Norristown 2-1,Total,MARY GAY SCANLON(DEM),552
+Norristown 2-1,Total,ALFEIA GOODWIN(REP),123
+Norristown 2-2,Election Day,MARY GAY SCANLON(DEM),****
+Norristown 2-2,Election Day,ALFEIA GOODWIN(REP),****
+Norristown 2-2,Mail-in,MARY GAY SCANLON(DEM),****
+Norristown 2-2,Mail-in,ALFEIA GOODWIN(REP),****
+Norristown 2-2,Provisional,MARY GAY SCANLON(DEM),****
+Norristown 2-2,Provisional,ALFEIA GOODWIN(REP),****
+Norristown 2-2,Total,MARY GAY SCANLON(DEM),380
+Norristown 2-2,Total,ALFEIA GOODWIN(REP),78
+Narberth 3,Election Day,Unresolved Write-In,****
+Narberth 3,Mail-in,Unresolved Write-In,****
+Narberth 3,Provisional,Unresolved Write-In,****
+Narberth 3,Total,Unresolved Write-In,0
+Norristown 1-1,Election Day,Unresolved Write-In,0
+Norristown 1-1,Mail-in,Unresolved Write-In,0
+Norristown 1-1,Provisional,Unresolved Write-In,0
+Norristown 1-1,Total,Unresolved Write-In,0
+Norristown 1-2,Election Day,Unresolved Write-In,2
+Norristown 1-2,Mail-in,Unresolved Write-In,1
+Norristown 1-2,Provisional,Unresolved Write-In,0
+Norristown 1-2,Total,Unresolved Write-In,3
+Norristown 1-3,Election Day,Unresolved Write-In,6
+Norristown 1-3,Mail-in,Unresolved Write-In,0
+Norristown 1-3,Provisional,Unresolved Write-In,0
+Norristown 1-3,Total,Unresolved Write-In,6
+Norristown 2-1,Election Day,Unresolved Write-In,****
+Norristown 2-1,Mail-in,Unresolved Write-In,****
+Norristown 2-1,Provisional,Unresolved Write-In,****
+Norristown 2-1,Total,Unresolved Write-In,5
+Norristown 2-2,Election Day,Unresolved Write-In,****
+Norristown 2-2,Mail-in,Unresolved Write-In,****
+Norristown 2-2,Provisional,Unresolved Write-In,****
+Norristown 2-2,Total,Unresolved Write-In,1
+Norristown 2-3,Election Day,MARY GAY SCANLON(DEM),380
+Norristown 2-3,Election Day,ALFEIA GOODWIN(REP),56
+Norristown 2-3,Mail-in,MARY GAY SCANLON(DEM),100
+Norristown 2-3,Mail-in,ALFEIA GOODWIN(REP),17
+Norristown 2-3,Provisional,MARY GAY SCANLON(DEM),10
+Norristown 2-3,Provisional,ALFEIA GOODWIN(REP),3
+Norristown 2-3,Total,MARY GAY SCANLON(DEM),490
+Norristown 2-3,Total,ALFEIA GOODWIN(REP),76
+Norristown 3-1,Election Day,MARY GAY SCANLON(DEM),669
+Norristown 3-1,Election Day,ALFEIA GOODWIN(REP),219
+Norristown 3-1,Mail-in,MARY GAY SCANLON(DEM),289
+Norristown 3-1,Mail-in,ALFEIA GOODWIN(REP),62
+Norristown 3-1,Provisional,MARY GAY SCANLON(DEM),20
+Norristown 3-1,Provisional,ALFEIA GOODWIN(REP),6
+Norristown 3-1,Total,MARY GAY SCANLON(DEM),978
+Norristown 3-1,Total,ALFEIA GOODWIN(REP),287
+Norristown 3-2,Election Day,MARY GAY SCANLON(DEM),402
+Norristown 3-2,Election Day,ALFEIA GOODWIN(REP),56
+Norristown 3-2,Mail-in,MARY GAY SCANLON(DEM),138
+Norristown 3-2,Mail-in,ALFEIA GOODWIN(REP),18
+Norristown 3-2,Provisional,MARY GAY SCANLON(DEM),0
+Norristown 3-2,Provisional,ALFEIA GOODWIN(REP),0
+Norristown 3-2,Total,MARY GAY SCANLON(DEM),540
+Norristown 3-2,Total,ALFEIA GOODWIN(REP),74
+Norristown 3-3,Election Day,MARY GAY SCANLON(DEM),****
+Norristown 3-3,Election Day,ALFEIA GOODWIN(REP),****
+Norristown 3-3,Mail-in,MARY GAY SCANLON(DEM),****
+Norristown 3-3,Mail-in,ALFEIA GOODWIN(REP),****
+Norristown 3-3,Provisional,MARY GAY SCANLON(DEM),****
+Norristown 3-3,Provisional,ALFEIA GOODWIN(REP),****
+Norristown 3-3,Total,MARY GAY SCANLON(DEM),931
+Norristown 3-3,Total,ALFEIA GOODWIN(REP),253
+Norristown 4-1,Election Day,MARY GAY SCANLON(DEM),564
+Norristown 4-1,Election Day,ALFEIA GOODWIN(REP),141
+Norristown 4-1,Mail-in,MARY GAY SCANLON(DEM),211
+Norristown 4-1,Mail-in,ALFEIA GOODWIN(REP),57
+Norristown 4-1,Provisional,MARY GAY SCANLON(DEM),16
+Norristown 4-1,Provisional,ALFEIA GOODWIN(REP),4
+Norristown 4-1,Total,MARY GAY SCANLON(DEM),791
+Norristown 4-1,Total,ALFEIA GOODWIN(REP),202
+Norristown 4-2,Election Day,MARY GAY SCANLON(DEM),630
+Norristown 4-2,Election Day,ALFEIA GOODWIN(REP),130
+Norristown 4-2,Mail-in,MARY GAY SCANLON(DEM),312
+Norristown 4-2,Mail-in,ALFEIA GOODWIN(REP),51
+Norristown 4-2,Provisional,MARY GAY SCANLON(DEM),12
+Norristown 4-2,Provisional,ALFEIA GOODWIN(REP),2
+Norristown 4-2,Total,MARY GAY SCANLON(DEM),954
+Norristown 4-2,Total,ALFEIA GOODWIN(REP),183
+Norristown 2-3,Election Day,Unresolved Write-In,2
+Norristown 2-3,Mail-in,Unresolved Write-In,0
+Norristown 2-3,Provisional,Unresolved Write-In,0
+Norristown 2-3,Total,Unresolved Write-In,2
+Norristown 3-1,Election Day,Unresolved Write-In,1
+Norristown 3-1,Mail-in,Unresolved Write-In,0
+Norristown 3-1,Provisional,Unresolved Write-In,0
+Norristown 3-1,Total,Unresolved Write-In,1
+Norristown 3-2,Election Day,Unresolved Write-In,3
+Norristown 3-2,Mail-in,Unresolved Write-In,0
+Norristown 3-2,Provisional,Unresolved Write-In,0
+Norristown 3-2,Total,Unresolved Write-In,3
+Norristown 3-3,Election Day,Unresolved Write-In,****
+Norristown 3-3,Mail-in,Unresolved Write-In,****
+Norristown 3-3,Provisional,Unresolved Write-In,****
+Norristown 3-3,Total,Unresolved Write-In,0
+Norristown 4-1,Election Day,Unresolved Write-In,4
+Norristown 4-1,Mail-in,Unresolved Write-In,0
+Norristown 4-1,Provisional,Unresolved Write-In,0
+Norristown 4-1,Total,Unresolved Write-In,4
+Norristown 4-2,Election Day,Unresolved Write-In,0
+Norristown 4-2,Mail-in,Unresolved Write-In,1
+Norristown 4-2,Provisional,Unresolved Write-In,0
+Norristown 4-2,Total,Unresolved Write-In,1
+Norristown 4-3,Election Day,MARY GAY SCANLON(DEM),563
+Norristown 4-3,Election Day,ALFEIA GOODWIN(REP),239
+Norristown 4-3,Mail-in,MARY GAY SCANLON(DEM),304
+Norristown 4-3,Mail-in,ALFEIA GOODWIN(REP),54
+Norristown 4-3,Provisional,MARY GAY SCANLON(DEM),0
+Norristown 4-3,Provisional,ALFEIA GOODWIN(REP),0
+Norristown 4-3,Total,MARY GAY SCANLON(DEM),867
+Norristown 4-3,Total,ALFEIA GOODWIN(REP),293
+Lower Merion 4-1,Election Day,MARY GAY SCANLON(DEM),385
+Lower Merion 4-1,Election Day,ALFEIA GOODWIN(REP),65
+Lower Merion 4-1,Mail-in,MARY GAY SCANLON(DEM),210
+Lower Merion 4-1,Mail-in,ALFEIA GOODWIN(REP),27
+Lower Merion 4-1,Provisional,MARY GAY SCANLON(DEM),0
+Lower Merion 4-1,Provisional,ALFEIA GOODWIN(REP),0
+Lower Merion 4-1,Total,MARY GAY SCANLON(DEM),595
+Lower Merion 4-1,Total,ALFEIA GOODWIN(REP),92
+Lower Merion 4-2,Election Day,MARY GAY SCANLON(DEM),584
+Lower Merion 4-2,Election Day,ALFEIA GOODWIN(REP),163
+Lower Merion 4-2,Mail-in,MARY GAY SCANLON(DEM),396
+Lower Merion 4-2,Mail-in,ALFEIA GOODWIN(REP),59
+Lower Merion 4-2,Provisional,MARY GAY SCANLON(DEM),9
+Lower Merion 4-2,Provisional,ALFEIA GOODWIN(REP),3
+Lower Merion 4-2,Total,MARY GAY SCANLON(DEM),989
+Lower Merion 4-2,Total,ALFEIA GOODWIN(REP),225
+Lower Merion 4-3,Election Day,MARY GAY SCANLON(DEM),403
+Lower Merion 4-3,Election Day,ALFEIA GOODWIN(REP),143
+Lower Merion 4-3,Mail-in,MARY GAY SCANLON(DEM),319
+Lower Merion 4-3,Mail-in,ALFEIA GOODWIN(REP),69
+Lower Merion 4-3,Provisional,MARY GAY SCANLON(DEM),0
+Lower Merion 4-3,Provisional,ALFEIA GOODWIN(REP),0
+Lower Merion 4-3,Total,MARY GAY SCANLON(DEM),722
+Lower Merion 4-3,Total,ALFEIA GOODWIN(REP),212
+Lower Merion 5-1,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 5-1,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 5-1,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 5-1,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 5-1,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 5-1,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 5-1,Total,MARY GAY SCANLON(DEM),589
+Lower Merion 5-1,Total,ALFEIA GOODWIN(REP),96
+Lower Merion 5-2,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 5-2,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 5-2,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 5-2,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 5-2,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 5-2,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 5-2,Total,MARY GAY SCANLON(DEM),754
+Lower Merion 5-2,Total,ALFEIA GOODWIN(REP),189
+Norristown 4-3,Election Day,Unresolved Write-In,2
+Norristown 4-3,Mail-in,Unresolved Write-In,1
+Norristown 4-3,Provisional,Unresolved Write-In,0
+Norristown 4-3,Total,Unresolved Write-In,3
+Lower Merion 4-1,Election Day,Unresolved Write-In,0
+Lower Merion 4-1,Mail-in,Unresolved Write-In,0
+Lower Merion 4-1,Provisional,Unresolved Write-In,0
+Lower Merion 4-1,Total,Unresolved Write-In,0
+Lower Merion 4-2,Election Day,Unresolved Write-In,1
+Lower Merion 4-2,Mail-in,Unresolved Write-In,2
+Lower Merion 4-2,Provisional,Unresolved Write-In,0
+Lower Merion 4-2,Total,Unresolved Write-In,3
+Lower Merion 4-3,Election Day,Unresolved Write-In,1
+Lower Merion 4-3,Mail-in,Unresolved Write-In,0
+Lower Merion 4-3,Provisional,Unresolved Write-In,0
+Lower Merion 4-3,Total,Unresolved Write-In,1
+Lower Merion 5-1,Election Day,Unresolved Write-In,****
+Lower Merion 5-1,Mail-in,Unresolved Write-In,****
+Lower Merion 5-1,Provisional,Unresolved Write-In,****
+Lower Merion 5-1,Total,Unresolved Write-In,1
+Lower Merion 5-2,Election Day,Unresolved Write-In,****
+Lower Merion 5-2,Mail-in,Unresolved Write-In,****
+Lower Merion 5-2,Provisional,Unresolved Write-In,****
+Lower Merion 5-2,Total,Unresolved Write-In,1
+Lower Merion 5-3,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 5-3,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 5-3,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 5-3,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 5-3,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 5-3,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 5-3,Total,MARY GAY SCANLON(DEM),"1,014"
+Lower Merion 5-3,Total,ALFEIA GOODWIN(REP),289
+Lower Merion 6-1,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 6-1,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 6-1,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 6-1,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 6-1,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 6-1,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 6-1,Total,MARY GAY SCANLON(DEM),610
+Lower Merion 6-1,Total,ALFEIA GOODWIN(REP),277
+Lower Merion 6-2,Election Day,MARY GAY SCANLON(DEM),389
+Lower Merion 6-2,Election Day,ALFEIA GOODWIN(REP),204
+Lower Merion 6-2,Mail-in,MARY GAY SCANLON(DEM),308
+Lower Merion 6-2,Mail-in,ALFEIA GOODWIN(REP),108
+Lower Merion 6-2,Provisional,MARY GAY SCANLON(DEM),9
+Lower Merion 6-2,Provisional,ALFEIA GOODWIN(REP),3
+Lower Merion 6-2,Total,MARY GAY SCANLON(DEM),706
+Lower Merion 6-2,Total,ALFEIA GOODWIN(REP),315
+Lower Merion 7-1,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 7-1,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 7-1,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 7-1,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 7-1,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 7-1,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 7-1,Total,MARY GAY SCANLON(DEM),821
+Lower Merion 7-1,Total,ALFEIA GOODWIN(REP),169
+Lower Merion 7-2,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 7-2,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 7-2,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 7-2,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 7-2,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 7-2,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 7-2,Total,MARY GAY SCANLON(DEM),825
+Lower Merion 7-2,Total,ALFEIA GOODWIN(REP),156
+Lower Merion 7-3,Election Day,MARY GAY SCANLON(DEM),****
+Lower Merion 7-3,Election Day,ALFEIA GOODWIN(REP),****
+Lower Merion 7-3,Mail-in,MARY GAY SCANLON(DEM),****
+Lower Merion 7-3,Mail-in,ALFEIA GOODWIN(REP),****
+Lower Merion 7-3,Provisional,MARY GAY SCANLON(DEM),****
+Lower Merion 7-3,Provisional,ALFEIA GOODWIN(REP),****
+Lower Merion 7-3,Total,MARY GAY SCANLON(DEM),975
+Lower Merion 7-3,Total,ALFEIA GOODWIN(REP),235

@@ -1,0 +1,121 @@
+precinct,method,candidate,votes
+Skippack 2,Election Day,ROBERT COWBURN(LIB),18
+Skippack 2,Election Day,RICHARD L WEISS(GRE),7
+Skippack 2,Election Day,JUSTIN L MAGILL(CON),2
+Skippack 2,Election Day,ERIC L SETTLE(FOR),3
+Skippack 2,Election Day,UnresolvedWrite-In,0
+Skippack 2,Mail-in,ROBERT COWBURN(LIB),4
+Skippack 2,Mail-in,RICHARD L WEISS(GRE),6
+Skippack 2,Mail-in,JUSTIN L MAGILL(CON),0
+Skippack 2,Mail-in,ERIC L SETTLE(FOR),3
+Skippack 2,Mail-in,UnresolvedWrite-In,1
+Skippack 2,Provisional,ROBERT COWBURN(LIB),0
+Skippack 2,Provisional,RICHARD L WEISS(GRE),0
+Skippack 2,Provisional,JUSTIN L MAGILL(CON),0
+Skippack 2,Provisional,ERIC L SETTLE(FOR),0
+Skippack 2,Provisional,UnresolvedWrite-In,0
+Skippack 2,Total,ROBERT COWBURN(LIB),22
+Skippack 2,Total,RICHARD L WEISS(GRE),13
+Skippack 2,Total,JUSTIN L MAGILL(CON),2
+Skippack 2,Total,ERIC L SETTLE(FOR),6
+Skippack 2,Total,UnresolvedWrite-In,1
+Skippack 3,Election Day,ROBERT COWBURN(LIB),19
+Skippack 3,Election Day,RICHARD L WEISS(GRE),10
+Skippack 3,Election Day,JUSTIN L MAGILL(CON),8
+Skippack 3,Election Day,ERIC L SETTLE(FOR),2
+Skippack 3,Election Day,UnresolvedWrite-In,0
+Skippack 3,Mail-in,ROBERT COWBURN(LIB),6
+Skippack 3,Mail-in,RICHARD L WEISS(GRE),6
+Skippack 3,Mail-in,JUSTIN L MAGILL(CON),2
+Skippack 3,Mail-in,ERIC L SETTLE(FOR),2
+Skippack 3,Mail-in,UnresolvedWrite-In,2
+Skippack 3,Provisional,ROBERT COWBURN(LIB),0
+Skippack 3,Provisional,RICHARD L WEISS(GRE),1
+Skippack 3,Provisional,JUSTIN L MAGILL(CON),0
+Skippack 3,Provisional,ERIC L SETTLE(FOR),0
+Skippack 3,Provisional,UnresolvedWrite-In,0
+Skippack 3,Total,ROBERT COWBURN(LIB),25
+Skippack 3,Total,RICHARD L WEISS(GRE),17
+Skippack 3,Total,JUSTIN L MAGILL(CON),10
+Skippack 3,Total,ERIC L SETTLE(FOR),4
+Skippack 3,Total,UnresolvedWrite-In,2
+Springfield 1-1,Election Day,ROBERT COWBURN(LIB),****
+Springfield 1-1,Election Day,RICHARD L WEISS(GRE),****
+Springfield 1-1,Election Day,JUSTIN L MAGILL(CON),****
+Springfield 1-1,Election Day,ERIC L SETTLE(FOR),****
+Springfield 1-1,Election Day,UnresolvedWrite-In,****
+Springfield 1-1,Mail-in,ROBERT COWBURN(LIB),****
+Springfield 1-1,Mail-in,RICHARD L WEISS(GRE),****
+Springfield 1-1,Mail-in,JUSTIN L MAGILL(CON),****
+Springfield 1-1,Mail-in,ERIC L SETTLE(FOR),****
+Springfield 1-1,Mail-in,UnresolvedWrite-In,****
+Springfield 1-1,Provisional,ROBERT COWBURN(LIB),****
+Springfield 1-1,Provisional,RICHARD L WEISS(GRE),****
+Springfield 1-1,Provisional,JUSTIN L MAGILL(CON),****
+Springfield 1-1,Provisional,ERIC L SETTLE(FOR),****
+Springfield 1-1,Provisional,UnresolvedWrite-In,****
+Springfield 1-1,Total,ROBERT COWBURN(LIB),11
+Springfield 1-1,Total,RICHARD L WEISS(GRE),15
+Springfield 1-1,Total,JUSTIN L MAGILL(CON),3
+Springfield 1-1,Total,ERIC L SETTLE(FOR),12
+Springfield 1-1,Total,UnresolvedWrite-In,1
+Springfield 1-2,Election Day,ROBERT COWBURN(LIB),11
+Springfield 1-2,Election Day,RICHARD L WEISS(GRE),7
+Springfield 1-2,Election Day,JUSTIN L MAGILL(CON),4
+Springfield 1-2,Election Day,ERIC L SETTLE(FOR),2
+Springfield 1-2,Election Day,UnresolvedWrite-In,0
+Springfield 1-2,Mail-in,ROBERT COWBURN(LIB),0
+Springfield 1-2,Mail-in,RICHARD L WEISS(GRE),4
+Springfield 1-2,Mail-in,JUSTIN L MAGILL(CON),0
+Springfield 1-2,Mail-in,ERIC L SETTLE(FOR),0
+Springfield 1-2,Mail-in,UnresolvedWrite-In,1
+Springfield 1-2,Provisional,ROBERT COWBURN(LIB),2
+Springfield 1-2,Provisional,RICHARD L WEISS(GRE),0
+Springfield 1-2,Provisional,JUSTIN L MAGILL(CON),0
+Springfield 1-2,Provisional,ERIC L SETTLE(FOR),0
+Springfield 1-2,Provisional,UnresolvedWrite-In,0
+Springfield 1-2,Total,ROBERT COWBURN(LIB),13
+Springfield 1-2,Total,RICHARD L WEISS(GRE),11
+Springfield 1-2,Total,JUSTIN L MAGILL(CON),4
+Springfield 1-2,Total,ERIC L SETTLE(FOR),2
+Springfield 1-2,Total,UnresolvedWrite-In,1
+Springfield 2-1,Election Day,ROBERT COWBURN(LIB),4
+Springfield 2-1,Election Day,RICHARD L WEISS(GRE),1
+Springfield 2-1,Election Day,JUSTIN L MAGILL(CON),2
+Springfield 2-1,Election Day,ERIC L SETTLE(FOR),2
+Springfield 2-1,Election Day,UnresolvedWrite-In,1
+Springfield 2-1,Mail-in,ROBERT COWBURN(LIB),3
+Springfield 2-1,Mail-in,RICHARD L WEISS(GRE),0
+Springfield 2-1,Mail-in,JUSTIN L MAGILL(CON),2
+Springfield 2-1,Mail-in,ERIC L SETTLE(FOR),2
+Springfield 2-1,Mail-in,UnresolvedWrite-In,0
+Springfield 2-1,Provisional,ROBERT COWBURN(LIB),0
+Springfield 2-1,Provisional,RICHARD L WEISS(GRE),0
+Springfield 2-1,Provisional,JUSTIN L MAGILL(CON),0
+Springfield 2-1,Provisional,ERIC L SETTLE(FOR),0
+Springfield 2-1,Provisional,UnresolvedWrite-In,0
+Springfield 2-1,Total,ROBERT COWBURN(LIB),7
+Springfield 2-1,Total,RICHARD L WEISS(GRE),1
+Springfield 2-1,Total,JUSTIN L MAGILL(CON),4
+Springfield 2-1,Total,ERIC L SETTLE(FOR),4
+Springfield 2-1,Total,UnresolvedWrite-In,1
+Springfield 2-2,Election Day,ROBERT COWBURN(LIB),****
+Springfield 2-2,Election Day,RICHARD L WEISS(GRE),****
+Springfield 2-2,Election Day,JUSTIN L MAGILL(CON),****
+Springfield 2-2,Election Day,ERIC L SETTLE(FOR),****
+Springfield 2-2,Election Day,UnresolvedWrite-In,****
+Springfield 2-2,Mail-in,ROBERT COWBURN(LIB),****
+Springfield 2-2,Mail-in,RICHARD L WEISS(GRE),****
+Springfield 2-2,Mail-in,JUSTIN L MAGILL(CON),****
+Springfield 2-2,Mail-in,ERIC L SETTLE(FOR),****
+Springfield 2-2,Mail-in,UnresolvedWrite-In,****
+Springfield 2-2,Provisional,ROBERT COWBURN(LIB),****
+Springfield 2-2,Provisional,RICHARD L WEISS(GRE),****
+Springfield 2-2,Provisional,JUSTIN L MAGILL(CON),****
+Springfield 2-2,Provisional,ERIC L SETTLE(FOR),****
+Springfield 2-2,Provisional,UnresolvedWrite-In,****
+Springfield 2-2,Total,ROBERT COWBURN(LIB),8
+Springfield 2-2,Total,RICHARD L WEISS(GRE),12
+Springfield 2-2,Total,JUSTIN L MAGILL(CON),3
+Springfield 2-2,Total,ERIC L SETTLE(FOR),3
+Springfield 2-2,Total,UnresolvedWrite-In,2

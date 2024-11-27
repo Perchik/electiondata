@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+North Wales 2,Election Day,KAMALA D HARRIS(DEM),286
+North Wales 2,Election Day,DONALD J TRUMP(REP),180
+North Wales 2,Mail-in,KAMALA D HARRIS(DEM),109
+North Wales 2,Mail-in,DONALD J TRUMP(REP),41
+North Wales 2,Provisional,KAMALA D HARRIS(DEM),11
+North Wales 2,Provisional,DONALD J TRUMP(REP),2
+North Wales 2,Total,KAMALA D HARRIS(DEM),406
+North Wales 2,Total,DONALD J TRUMP(REP),223
+North Wales 3,Election Day,KAMALA D HARRIS(DEM),****
+North Wales 3,Election Day,DONALD J TRUMP(REP),****
+North Wales 3,Mail-in,KAMALA D HARRIS(DEM),****
+North Wales 3,Mail-in,DONALD J TRUMP(REP),****
+North Wales 3,Provisional,KAMALA D HARRIS(DEM),****
+North Wales 3,Provisional,DONALD J TRUMP(REP),****
+North Wales 3,Total,KAMALA D HARRIS(DEM),490
+North Wales 3,Total,DONALD J TRUMP(REP),279
+Pennsburg,Election Day,KAMALA D HARRIS(DEM),****
+Pennsburg,Election Day,DONALD J TRUMP(REP),****
+Pennsburg,Mail-in,KAMALA D HARRIS(DEM),****
+Pennsburg,Mail-in,DONALD J TRUMP(REP),****
+Pennsburg,Provisional,KAMALA D HARRIS(DEM),****
+Pennsburg,Provisional,DONALD J TRUMP(REP),****
+Pennsburg,Total,KAMALA D HARRIS(DEM),846
+Pennsburg,Total,DONALD J TRUMP(REP),"1,059"
+Pottstown 1-1,Election Day,KAMALA D HARRIS(DEM),346
+Pottstown 1-1,Election Day,DONALD J TRUMP(REP),179
+Pottstown 1-1,Mail-in,KAMALA D HARRIS(DEM),111
+Pottstown 1-1,Mail-in,DONALD J TRUMP(REP),31
+Pottstown 1-1,Provisional,KAMALA D HARRIS(DEM),11
+Pottstown 1-1,Provisional,DONALD J TRUMP(REP),2
+Pottstown 1-1,Total,KAMALA D HARRIS(DEM),468
+Pottstown 1-1,Total,DONALD J TRUMP(REP),212
+Pottstown 1-2,Election Day,KAMALA D HARRIS(DEM),220
+Pottstown 1-2,Election Day,DONALD J TRUMP(REP),106
+Pottstown 1-2,Mail-in,KAMALA D HARRIS(DEM),105
+Pottstown 1-2,Mail-in,DONALD J TRUMP(REP),14
+Pottstown 1-2,Provisional,KAMALA D HARRIS(DEM),8
+Pottstown 1-2,Provisional,DONALD J TRUMP(REP),3
+Pottstown 1-2,Total,KAMALA D HARRIS(DEM),333
+Pottstown 1-2,Total,DONALD J TRUMP(REP),123
+Pottstown 2-1,Election Day,KAMALA D HARRIS(DEM),373
+Pottstown 2-1,Election Day,DONALD J TRUMP(REP),178
+Pottstown 2-1,Mail-in,KAMALA D HARRIS(DEM),132
+Pottstown 2-1,Mail-in,DONALD J TRUMP(REP),32
+Pottstown 2-1,Provisional,KAMALA D HARRIS(DEM),10
+Pottstown 2-1,Provisional,DONALD J TRUMP(REP),1
+Pottstown 2-1,Total,KAMALA D HARRIS(DEM),515
+Pottstown 2-1,Total,DONALD J TRUMP(REP),211

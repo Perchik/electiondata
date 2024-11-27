@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Norristown 3-2,Election Day,JOHN C THOMAS(LIB),10
+Norristown 3-2,Election Day,LEILA HAZOU(GRE),7
+Norristown 3-2,Election Day,MARTY SELKER(CON),3
+Norristown 3-2,Election Day,UnresolvedWrite-In,1
+Norristown 3-2,Mail-in,JOHN C THOMAS(LIB),1
+Norristown 3-2,Mail-in,LEILA HAZOU(GRE),2
+Norristown 3-2,Mail-in,MARTY SELKER(CON),0
+Norristown 3-2,Mail-in,UnresolvedWrite-In,0
+Norristown 3-2,Provisional,JOHN C THOMAS(LIB),0
+Norristown 3-2,Provisional,LEILA HAZOU(GRE),0
+Norristown 3-2,Provisional,MARTY SELKER(CON),0
+Norristown 3-2,Provisional,UnresolvedWrite-In,0
+Norristown 3-2,Total,JOHN C THOMAS(LIB),11
+Norristown 3-2,Total,LEILA HAZOU(GRE),9
+Norristown 3-2,Total,MARTY SELKER(CON),3
+Norristown 3-2,Total,UnresolvedWrite-In,1
+Norristown 3-3,Election Day,JOHN C THOMAS(LIB),****
+Norristown 3-3,Election Day,LEILA HAZOU(GRE),****
+Norristown 3-3,Election Day,MARTY SELKER(CON),****
+Norristown 3-3,Election Day,UnresolvedWrite-In,****
+Norristown 3-3,Mail-in,JOHN C THOMAS(LIB),****
+Norristown 3-3,Mail-in,LEILA HAZOU(GRE),****
+Norristown 3-3,Mail-in,MARTY SELKER(CON),****
+Norristown 3-3,Mail-in,UnresolvedWrite-In,****
+Norristown 3-3,Provisional,JOHN C THOMAS(LIB),****
+Norristown 3-3,Provisional,LEILA HAZOU(GRE),****
+Norristown 3-3,Provisional,MARTY SELKER(CON),****
+Norristown 3-3,Provisional,UnresolvedWrite-In,****
+Norristown 3-3,Total,JOHN C THOMAS(LIB),21
+Norristown 3-3,Total,LEILA HAZOU(GRE),19
+Norristown 3-3,Total,MARTY SELKER(CON),5
+Norristown 3-3,Total,UnresolvedWrite-In,2
+Norristown 4-1,Election Day,JOHN C THOMAS(LIB),4
+Norristown 4-1,Election Day,LEILA HAZOU(GRE),6
+Norristown 4-1,Election Day,MARTY SELKER(CON),5
+Norristown 4-1,Election Day,UnresolvedWrite-In,0
+Norristown 4-1,Mail-in,JOHN C THOMAS(LIB),2
+Norristown 4-1,Mail-in,LEILA HAZOU(GRE),1
+Norristown 4-1,Mail-in,MARTY SELKER(CON),0
+Norristown 4-1,Mail-in,UnresolvedWrite-In,0
+Norristown 4-1,Provisional,JOHN C THOMAS(LIB),0
+Norristown 4-1,Provisional,LEILA HAZOU(GRE),0
+Norristown 4-1,Provisional,MARTY SELKER(CON),0
+Norristown 4-1,Provisional,UnresolvedWrite-In,0
+Norristown 4-1,Total,JOHN C THOMAS(LIB),6
+Norristown 4-1,Total,LEILA HAZOU(GRE),7
+Norristown 4-1,Total,MARTY SELKER(CON),5
+Norristown 4-1,Total,UnresolvedWrite-In,0
+Norristown 4-2,Election Day,JOHN C THOMAS(LIB),7
+Norristown 4-2,Election Day,LEILA HAZOU(GRE),6
+Norristown 4-2,Election Day,MARTY SELKER(CON),0
+Norristown 4-2,Election Day,UnresolvedWrite-In,2
+Norristown 4-2,Mail-in,JOHN C THOMAS(LIB),4
+Norristown 4-2,Mail-in,LEILA HAZOU(GRE),9
+Norristown 4-2,Mail-in,MARTY SELKER(CON),1
+Norristown 4-2,Mail-in,UnresolvedWrite-In,0
+Norristown 4-2,Provisional,JOHN C THOMAS(LIB),0
+Norristown 4-2,Provisional,LEILA HAZOU(GRE),1
+Norristown 4-2,Provisional,MARTY SELKER(CON),0
+Norristown 4-2,Provisional,UnresolvedWrite-In,0
+Norristown 4-2,Total,JOHN C THOMAS(LIB),11
+Norristown 4-2,Total,LEILA HAZOU(GRE),16
+Norristown 4-2,Total,MARTY SELKER(CON),1
+Norristown 4-2,Total,UnresolvedWrite-In,2
+Norristown 4-3,Election Day,JOHN C THOMAS(LIB),11
+Norristown 4-3,Election Day,LEILA HAZOU(GRE),12
+Norristown 4-3,Election Day,MARTY SELKER(CON),1
+Norristown 4-3,Election Day,UnresolvedWrite-In,1
+Norristown 4-3,Mail-in,JOHN C THOMAS(LIB),5
+Norristown 4-3,Mail-in,LEILA HAZOU(GRE),7
+Norristown 4-3,Mail-in,MARTY SELKER(CON),0
+Norristown 4-3,Mail-in,UnresolvedWrite-In,0
+Norristown 4-3,Provisional,JOHN C THOMAS(LIB),0
+Norristown 4-3,Provisional,LEILA HAZOU(GRE),0
+Norristown 4-3,Provisional,MARTY SELKER(CON),0
+Norristown 4-3,Provisional,UnresolvedWrite-In,0
+Norristown 4-3,Total,JOHN C THOMAS(LIB),16
+Norristown 4-3,Total,LEILA HAZOU(GRE),19
+Norristown 4-3,Total,MARTY SELKER(CON),1
+Norristown 4-3,Total,UnresolvedWrite-In,1
+North Wales 1,Election Day,JOHN C THOMAS(LIB),****
+North Wales 1,Election Day,LEILA HAZOU(GRE),****
+North Wales 1,Election Day,MARTY SELKER(CON),****
+North Wales 1,Election Day,UnresolvedWrite-In,****
+North Wales 1,Mail-in,JOHN C THOMAS(LIB),****
+North Wales 1,Mail-in,LEILA HAZOU(GRE),****
+North Wales 1,Mail-in,MARTY SELKER(CON),****
+North Wales 1,Mail-in,UnresolvedWrite-In,****
+North Wales 1,Provisional,JOHN C THOMAS(LIB),****
+North Wales 1,Provisional,LEILA HAZOU(GRE),****
+North Wales 1,Provisional,MARTY SELKER(CON),****
+North Wales 1,Provisional,UnresolvedWrite-In,****
+North Wales 1,Total,JOHN C THOMAS(LIB),19
+North Wales 1,Total,LEILA HAZOU(GRE),5
+North Wales 1,Total,MARTY SELKER(CON),7
+North Wales 1,Total,UnresolvedWrite-In,0

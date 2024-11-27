@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+North Wales 2,Election Day,EUGENE DEPASQUALE(DEM),246
+North Wales 2,Election Day,DAVE SUNDAY(REP),200
+North Wales 2,Mail-in,EUGENE DEPASQUALE(DEM),102
+North Wales 2,Mail-in,DAVE SUNDAY(REP),42
+North Wales 2,Provisional,EUGENE DEPASQUALE(DEM),10
+North Wales 2,Provisional,DAVE SUNDAY(REP),3
+North Wales 2,Total,EUGENE DEPASQUALE(DEM),358
+North Wales 2,Total,DAVE SUNDAY(REP),245
+North Wales 3,Election Day,EUGENE DEPASQUALE(DEM),****
+North Wales 3,Election Day,DAVE SUNDAY(REP),****
+North Wales 3,Mail-in,EUGENE DEPASQUALE(DEM),****
+North Wales 3,Mail-in,DAVE SUNDAY(REP),****
+North Wales 3,Provisional,EUGENE DEPASQUALE(DEM),****
+North Wales 3,Provisional,DAVE SUNDAY(REP),****
+North Wales 3,Total,EUGENE DEPASQUALE(DEM),455
+North Wales 3,Total,DAVE SUNDAY(REP),294
+Pennsburg,Election Day,EUGENE DEPASQUALE(DEM),****
+Pennsburg,Election Day,DAVE SUNDAY(REP),****
+Pennsburg,Mail-in,EUGENE DEPASQUALE(DEM),****
+Pennsburg,Mail-in,DAVE SUNDAY(REP),****
+Pennsburg,Provisional,EUGENE DEPASQUALE(DEM),****
+Pennsburg,Provisional,DAVE SUNDAY(REP),****
+Pennsburg,Total,EUGENE DEPASQUALE(DEM),763
+Pennsburg,Total,DAVE SUNDAY(REP),"1,053"
+Pottstown 1-1,Election Day,EUGENE DEPASQUALE(DEM),329
+Pottstown 1-1,Election Day,DAVE SUNDAY(REP),167
+Pottstown 1-1,Mail-in,EUGENE DEPASQUALE(DEM),109
+Pottstown 1-1,Mail-in,DAVE SUNDAY(REP),32
+Pottstown 1-1,Provisional,EUGENE DEPASQUALE(DEM),9
+Pottstown 1-1,Provisional,DAVE SUNDAY(REP),2
+Pottstown 1-1,Total,EUGENE DEPASQUALE(DEM),447
+Pottstown 1-1,Total,DAVE SUNDAY(REP),201
+Pottstown 1-2,Election Day,EUGENE DEPASQUALE(DEM),206
+Pottstown 1-2,Election Day,DAVE SUNDAY(REP),87
+Pottstown 1-2,Mail-in,EUGENE DEPASQUALE(DEM),100
+Pottstown 1-2,Mail-in,DAVE SUNDAY(REP),16
+Pottstown 1-2,Provisional,EUGENE DEPASQUALE(DEM),7
+Pottstown 1-2,Provisional,DAVE SUNDAY(REP),3
+Pottstown 1-2,Total,EUGENE DEPASQUALE(DEM),313
+Pottstown 1-2,Total,DAVE SUNDAY(REP),106
+Pottstown 2-1,Election Day,EUGENE DEPASQUALE(DEM),354
+Pottstown 2-1,Election Day,DAVE SUNDAY(REP),153
+Pottstown 2-1,Mail-in,EUGENE DEPASQUALE(DEM),126
+Pottstown 2-1,Mail-in,DAVE SUNDAY(REP),29
+Pottstown 2-1,Provisional,EUGENE DEPASQUALE(DEM),10
+Pottstown 2-1,Provisional,DAVE SUNDAY(REP),0
+Pottstown 2-1,Total,EUGENE DEPASQUALE(DEM),490
+Pottstown 2-1,Total,DAVE SUNDAY(REP),182

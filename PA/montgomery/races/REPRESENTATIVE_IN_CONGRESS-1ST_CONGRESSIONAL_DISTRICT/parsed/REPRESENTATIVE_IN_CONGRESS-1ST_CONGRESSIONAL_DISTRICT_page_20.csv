@@ -1,0 +1,13 @@
+precinct,method,candidate,votes
+Upper Hanover 2,Election Day,UnresolvedWrite-In,****
+Upper Hanover 2,Mail-in,UnresolvedWrite-In,****
+Upper Hanover 2,Provisional,UnresolvedWrite-In,****
+Upper Hanover 2,Total,UnresolvedWrite-In,2
+Upper Hanover 3,Election Day,UnresolvedWrite-In,****
+Upper Hanover 3,Mail-in,UnresolvedWrite-In,****
+Upper Hanover 3,Provisional,UnresolvedWrite-In,****
+Upper Hanover 3,Total,UnresolvedWrite-In,5
+Cumulative,Election Day,UnresolvedWrite-In,0
+Cumulative,Mail-in,UnresolvedWrite-In,0
+Cumulative,Provisional,UnresolvedWrite-In,0
+Cumulative,Total,UnresolvedWrite-In,0

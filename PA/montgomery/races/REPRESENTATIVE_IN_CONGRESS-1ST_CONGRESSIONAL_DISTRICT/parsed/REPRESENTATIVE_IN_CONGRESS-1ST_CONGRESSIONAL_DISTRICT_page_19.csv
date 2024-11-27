@@ -1,0 +1,25 @@
+precinct,method,candidate,votes
+Upper Hanover 2,Election Day,ASHLEY EHASZ(DEM),****
+Upper Hanover 2,Election Day,BRIAN FITZPATRICK(REP),****
+Upper Hanover 2,Mail-in,ASHLEY EHASZ(DEM),****
+Upper Hanover 2,Mail-in,BRIAN FITZPATRICK(REP),****
+Upper Hanover 2,Provisional,ASHLEY EHASZ(DEM),****
+Upper Hanover 2,Provisional,BRIAN FITZPATRICK(REP),****
+Upper Hanover 2,Total,ASHLEY EHASZ(DEM),337
+Upper Hanover 2,Total,BRIAN FITZPATRICK(REP),636
+Upper Hanover 3,Election Day,ASHLEY EHASZ(DEM),****
+Upper Hanover 3,Election Day,BRIAN FITZPATRICK(REP),****
+Upper Hanover 3,Mail-in,ASHLEY EHASZ(DEM),****
+Upper Hanover 3,Mail-in,BRIAN FITZPATRICK(REP),****
+Upper Hanover 3,Provisional,ASHLEY EHASZ(DEM),****
+Upper Hanover 3,Provisional,BRIAN FITZPATRICK(REP),****
+Upper Hanover 3,Total,ASHLEY EHASZ(DEM),346
+Upper Hanover 3,Total,BRIAN FITZPATRICK(REP),796
+Cumulative,Election Day,ASHLEY EHASZ(DEM),0
+Cumulative,Election Day,BRIAN FITZPATRICK(REP),0
+Cumulative,Mail-in,ASHLEY EHASZ(DEM),0
+Cumulative,Mail-in,BRIAN FITZPATRICK(REP),0
+Cumulative,Provisional,ASHLEY EHASZ(DEM),0
+Cumulative,Provisional,BRIAN FITZPATRICK(REP),0
+Cumulative,Total,ASHLEY EHASZ(DEM),0
+Cumulative,Total,BRIAN FITZPATRICK(REP),0

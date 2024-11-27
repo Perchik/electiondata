@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Hatfield 4-1,Election Day,ROBERT P CASEY JR(DEM),325
+Hatfield 4-1,Election Day,DAVE MCCORMICK(REP),321
+Hatfield 4-1,Mail-in,ROBERT P CASEY JR(DEM),165
+Hatfield 4-1,Mail-in,DAVE MCCORMICK(REP),65
+Hatfield 4-1,Provisional,ROBERT P CASEY JR(DEM),6
+Hatfield 4-1,Provisional,DAVE MCCORMICK(REP),2
+Hatfield 4-1,Total,ROBERT P CASEY JR(DEM),496
+Hatfield 4-1,Total,DAVE MCCORMICK(REP),388
+Hatfield 4-2,Election Day,ROBERT P CASEY JR(DEM),****
+Hatfield 4-2,Election Day,DAVE MCCORMICK(REP),****
+Hatfield 4-2,Mail-in,ROBERT P CASEY JR(DEM),****
+Hatfield 4-2,Mail-in,DAVE MCCORMICK(REP),****
+Hatfield 4-2,Provisional,ROBERT P CASEY JR(DEM),****
+Hatfield 4-2,Provisional,DAVE MCCORMICK(REP),****
+Hatfield 4-2,Total,ROBERT P CASEY JR(DEM),801
+Hatfield 4-2,Total,DAVE MCCORMICK(REP),678
+Hatfield 5-1,Election Day,ROBERT P CASEY JR(DEM),****
+Hatfield 5-1,Election Day,DAVE MCCORMICK(REP),****
+Hatfield 5-1,Mail-in,ROBERT P CASEY JR(DEM),****
+Hatfield 5-1,Mail-in,DAVE MCCORMICK(REP),****
+Hatfield 5-1,Provisional,ROBERT P CASEY JR(DEM),****
+Hatfield 5-1,Provisional,DAVE MCCORMICK(REP),****
+Hatfield 5-1,Total,ROBERT P CASEY JR(DEM),474
+Hatfield 5-1,Total,DAVE MCCORMICK(REP),442
+Hatfield 5-2,Election Day,ROBERT P CASEY JR(DEM),376
+Hatfield 5-2,Election Day,DAVE MCCORMICK(REP),321
+Hatfield 5-2,Mail-in,ROBERT P CASEY JR(DEM),240
+Hatfield 5-2,Mail-in,DAVE MCCORMICK(REP),73
+Hatfield 5-2,Provisional,ROBERT P CASEY JR(DEM),11
+Hatfield 5-2,Provisional,DAVE MCCORMICK(REP),4
+Hatfield 5-2,Total,ROBERT P CASEY JR(DEM),627
+Hatfield 5-2,Total,DAVE MCCORMICK(REP),398
+Horsham 1-1,Election Day,ROBERT P CASEY JR(DEM),236
+Horsham 1-1,Election Day,DAVE MCCORMICK(REP),221
+Horsham 1-1,Mail-in,ROBERT P CASEY JR(DEM),78
+Horsham 1-1,Mail-in,DAVE MCCORMICK(REP),20
+Horsham 1-1,Provisional,ROBERT P CASEY JR(DEM),0
+Horsham 1-1,Provisional,DAVE MCCORMICK(REP),0
+Horsham 1-1,Total,ROBERT P CASEY JR(DEM),314
+Horsham 1-1,Total,DAVE MCCORMICK(REP),241
+Horsham 1-2,Election Day,ROBERT P CASEY JR(DEM),308
+Horsham 1-2,Election Day,DAVE MCCORMICK(REP),375
+Horsham 1-2,Mail-in,ROBERT P CASEY JR(DEM),153
+Horsham 1-2,Mail-in,DAVE MCCORMICK(REP),86
+Horsham 1-2,Provisional,ROBERT P CASEY JR(DEM),0
+Horsham 1-2,Provisional,DAVE MCCORMICK(REP),0
+Horsham 1-2,Total,ROBERT P CASEY JR(DEM),461
+Horsham 1-2,Total,DAVE MCCORMICK(REP),461

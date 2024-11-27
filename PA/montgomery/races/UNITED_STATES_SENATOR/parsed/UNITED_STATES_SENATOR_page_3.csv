@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Bridgeport 3,Election Day,ROBERT P CASEY JR(DEM),410
+Bridgeport 3,Election Day,DAVE MCCORMICK(REP),223
+Bridgeport 3,Mail-in,ROBERT P CASEY JR(DEM),99
+Bridgeport 3,Mail-in,DAVE MCCORMICK(REP),34
+Bridgeport 3,Provisional,ROBERT P CASEY JR(DEM),13
+Bridgeport 3,Provisional,DAVE MCCORMICK(REP),5
+Bridgeport 3,Total,ROBERT P CASEY JR(DEM),522
+Bridgeport 3,Total,DAVE MCCORMICK(REP),262
+Bryn Athyn,Election Day,ROBERT P CASEY JR(DEM),****
+Bryn Athyn,Election Day,DAVE MCCORMICK(REP),****
+Bryn Athyn,Mail-in,ROBERT P CASEY JR(DEM),****
+Bryn Athyn,Mail-in,DAVE MCCORMICK(REP),****
+Bryn Athyn,Provisional,ROBERT P CASEY JR(DEM),****
+Bryn Athyn,Provisional,DAVE MCCORMICK(REP),****
+Bryn Athyn,Total,ROBERT P CASEY JR(DEM),430
+Bryn Athyn,Total,DAVE MCCORMICK(REP),341
+Collegeville 1,Election Day,ROBERT P CASEY JR(DEM),425
+Collegeville 1,Election Day,DAVE MCCORMICK(REP),418
+Collegeville 1,Mail-in,ROBERT P CASEY JR(DEM),292
+Collegeville 1,Mail-in,DAVE MCCORMICK(REP),137
+Collegeville 1,Provisional,ROBERT P CASEY JR(DEM),10
+Collegeville 1,Provisional,DAVE MCCORMICK(REP),4
+Collegeville 1,Total,ROBERT P CASEY JR(DEM),727
+Collegeville 1,Total,DAVE MCCORMICK(REP),559
+Collegeville 2,Election Day,ROBERT P CASEY JR(DEM),436
+Collegeville 2,Election Day,DAVE MCCORMICK(REP),281
+Collegeville 2,Mail-in,ROBERT P CASEY JR(DEM),120
+Collegeville 2,Mail-in,DAVE MCCORMICK(REP),44
+Collegeville 2,Provisional,ROBERT P CASEY JR(DEM),7
+Collegeville 2,Provisional,DAVE MCCORMICK(REP),6
+Collegeville 2,Total,ROBERT P CASEY JR(DEM),563
+Collegeville 2,Total,DAVE MCCORMICK(REP),331
+Collegeville 3,Election Day,ROBERT P CASEY JR(DEM),259
+Collegeville 3,Election Day,DAVE MCCORMICK(REP),233
+Collegeville 3,Mail-in,ROBERT P CASEY JR(DEM),174
+Collegeville 3,Mail-in,DAVE MCCORMICK(REP),58
+Collegeville 3,Provisional,ROBERT P CASEY JR(DEM),0
+Collegeville 3,Provisional,DAVE MCCORMICK(REP),0
+Collegeville 3,Total,ROBERT P CASEY JR(DEM),433
+Collegeville 3,Total,DAVE MCCORMICK(REP),291
+Conshohocken 1,Election Day,ROBERT P CASEY JR(DEM),558
+Conshohocken 1,Election Day,DAVE MCCORMICK(REP),426
+Conshohocken 1,Mail-in,ROBERT P CASEY JR(DEM),337
+Conshohocken 1,Mail-in,DAVE MCCORMICK(REP),125
+Conshohocken 1,Provisional,ROBERT P CASEY JR(DEM),12
+Conshohocken 1,Provisional,DAVE MCCORMICK(REP),7
+Conshohocken 1,Total,ROBERT P CASEY JR(DEM),907
+Conshohocken 1,Total,DAVE MCCORMICK(REP),558

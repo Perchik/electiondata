@@ -1,0 +1,81 @@
+precinct,method,candidate,votes
+Ambler 1,Election Day,JOHN C THOMAS(LIB),****
+Ambler 1,Election Day,LEILA HAZOU(GRE),****
+Ambler 1,Election Day,MARTY SELKER(CON),****
+Ambler 1,Election Day,UnresolvedWrite-In,****
+Ambler 1,Mail-in,JOHN C THOMAS(LIB),****
+Ambler 1,Mail-in,LEILA HAZOU(GRE),****
+Ambler 1,Mail-in,MARTY SELKER(CON),****
+Ambler 1,Mail-in,UnresolvedWrite-In,****
+Ambler 1,Provisional,JOHN C THOMAS(LIB),****
+Ambler 1,Provisional,LEILA HAZOU(GRE),****
+Ambler 1,Provisional,MARTY SELKER(CON),****
+Ambler 1,Provisional,UnresolvedWrite-In,****
+Ambler 1,Total,JOHN C THOMAS(LIB),15
+Ambler 1,Total,LEILA HAZOU(GRE),9
+Ambler 1,Total,MARTY SELKER(CON),2
+Ambler 1,Total,UnresolvedWrite-In,1
+Ambler 2,Election Day,JOHN C THOMAS(LIB),15
+Ambler 2,Election Day,LEILA HAZOU(GRE),12
+Ambler 2,Election Day,MARTY SELKER(CON),3
+Ambler 2,Election Day,UnresolvedWrite-In,0
+Ambler 2,Mail-in,JOHN C THOMAS(LIB),3
+Ambler 2,Mail-in,LEILA HAZOU(GRE),3
+Ambler 2,Mail-in,MARTY SELKER(CON),0
+Ambler 2,Mail-in,UnresolvedWrite-In,0
+Ambler 2,Provisional,JOHN C THOMAS(LIB),0
+Ambler 2,Provisional,LEILA HAZOU(GRE),0
+Ambler 2,Provisional,MARTY SELKER(CON),0
+Ambler 2,Provisional,UnresolvedWrite-In,0
+Ambler 2,Total,JOHN C THOMAS(LIB),18
+Ambler 2,Total,LEILA HAZOU(GRE),15
+Ambler 2,Total,MARTY SELKER(CON),3
+Ambler 2,Total,UnresolvedWrite-In,0
+Ambler 3,Election Day,JOHN C THOMAS(LIB),****
+Ambler 3,Election Day,LEILA HAZOU(GRE),****
+Ambler 3,Election Day,MARTY SELKER(CON),****
+Ambler 3,Election Day,UnresolvedWrite-In,****
+Ambler 3,Mail-in,JOHN C THOMAS(LIB),****
+Ambler 3,Mail-in,LEILA HAZOU(GRE),****
+Ambler 3,Mail-in,MARTY SELKER(CON),****
+Ambler 3,Mail-in,UnresolvedWrite-In,****
+Ambler 3,Provisional,JOHN C THOMAS(LIB),****
+Ambler 3,Provisional,LEILA HAZOU(GRE),****
+Ambler 3,Provisional,MARTY SELKER(CON),****
+Ambler 3,Provisional,UnresolvedWrite-In,****
+Ambler 3,Total,JOHN C THOMAS(LIB),17
+Ambler 3,Total,LEILA HAZOU(GRE),15
+Ambler 3,Total,MARTY SELKER(CON),1
+Ambler 3,Total,UnresolvedWrite-In,1
+Bridgeport 1,Election Day,JOHN C THOMAS(LIB),****
+Bridgeport 1,Election Day,LEILA HAZOU(GRE),****
+Bridgeport 1,Election Day,MARTY SELKER(CON),****
+Bridgeport 1,Election Day,UnresolvedWrite-In,****
+Bridgeport 1,Mail-in,JOHN C THOMAS(LIB),****
+Bridgeport 1,Mail-in,LEILA HAZOU(GRE),****
+Bridgeport 1,Mail-in,MARTY SELKER(CON),****
+Bridgeport 1,Mail-in,UnresolvedWrite-In,****
+Bridgeport 1,Provisional,JOHN C THOMAS(LIB),****
+Bridgeport 1,Provisional,LEILA HAZOU(GRE),****
+Bridgeport 1,Provisional,MARTY SELKER(CON),****
+Bridgeport 1,Provisional,UnresolvedWrite-In,****
+Bridgeport 1,Total,JOHN C THOMAS(LIB),11
+Bridgeport 1,Total,LEILA HAZOU(GRE),12
+Bridgeport 1,Total,MARTY SELKER(CON),3
+Bridgeport 1,Total,UnresolvedWrite-In,1
+Bridgeport 2,Election Day,JOHN C THOMAS(LIB),****
+Bridgeport 2,Election Day,LEILA HAZOU(GRE),****
+Bridgeport 2,Election Day,MARTY SELKER(CON),****
+Bridgeport 2,Election Day,UnresolvedWrite-In,****
+Bridgeport 2,Mail-in,JOHN C THOMAS(LIB),****
+Bridgeport 2,Mail-in,LEILA HAZOU(GRE),****
+Bridgeport 2,Mail-in,MARTY SELKER(CON),****
+Bridgeport 2,Mail-in,UnresolvedWrite-In,****
+Bridgeport 2,Provisional,JOHN C THOMAS(LIB),****
+Bridgeport 2,Provisional,LEILA HAZOU(GRE),****
+Bridgeport 2,Provisional,MARTY SELKER(CON),****
+Bridgeport 2,Provisional,UnresolvedWrite-In,****
+Bridgeport 2,Total,JOHN C THOMAS(LIB),14
+Bridgeport 2,Total,LEILA HAZOU(GRE),8
+Bridgeport 2,Total,MARTY SELKER(CON),2
+Bridgeport 2,Total,UnresolvedWrite-In,2

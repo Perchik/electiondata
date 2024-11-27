@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Horsham 4-1,Election Day,KAMALA D HARRIS(DEM),****
+Horsham 4-1,Election Day,DONALD J TRUMP(REP),****
+Horsham 4-1,Mail-in,KAMALA D HARRIS(DEM),****
+Horsham 4-1,Mail-in,DONALD J TRUMP(REP),****
+Horsham 4-1,Provisional,KAMALA D HARRIS(DEM),****
+Horsham 4-1,Provisional,DONALD J TRUMP(REP),****
+Horsham 4-1,Total,KAMALA D HARRIS(DEM),534
+Horsham 4-1,Total,DONALD J TRUMP(REP),444
+Horsham 4-2,Election Day,KAMALA D HARRIS(DEM),****
+Horsham 4-2,Election Day,DONALD J TRUMP(REP),****
+Horsham 4-2,Mail-in,KAMALA D HARRIS(DEM),****
+Horsham 4-2,Mail-in,DONALD J TRUMP(REP),****
+Horsham 4-2,Provisional,KAMALA D HARRIS(DEM),****
+Horsham 4-2,Provisional,DONALD J TRUMP(REP),****
+Horsham 4-2,Total,KAMALA D HARRIS(DEM),466
+Horsham 4-2,Total,DONALD J TRUMP(REP),370
+Horsham 4-3,Election Day,KAMALA D HARRIS(DEM),****
+Horsham 4-3,Election Day,DONALD J TRUMP(REP),****
+Horsham 4-3,Mail-in,KAMALA D HARRIS(DEM),****
+Horsham 4-3,Mail-in,DONALD J TRUMP(REP),****
+Horsham 4-3,Provisional,KAMALA D HARRIS(DEM),****
+Horsham 4-3,Provisional,DONALD J TRUMP(REP),****
+Horsham 4-3,Total,KAMALA D HARRIS(DEM),279
+Horsham 4-3,Total,DONALD J TRUMP(REP),225
+Horsham 4-4,Election Day,KAMALA D HARRIS(DEM),****
+Horsham 4-4,Election Day,DONALD J TRUMP(REP),****
+Horsham 4-4,Mail-in,KAMALA D HARRIS(DEM),****
+Horsham 4-4,Mail-in,DONALD J TRUMP(REP),****
+Horsham 4-4,Provisional,KAMALA D HARRIS(DEM),****
+Horsham 4-4,Provisional,DONALD J TRUMP(REP),****
+Horsham 4-4,Total,KAMALA D HARRIS(DEM),567
+Horsham 4-4,Total,DONALD J TRUMP(REP),338
+Limerick 1,Election Day,KAMALA D HARRIS(DEM),796
+Limerick 1,Election Day,DONALD J TRUMP(REP),"1,023"
+Limerick 1,Mail-in,KAMALA D HARRIS(DEM),643
+Limerick 1,Mail-in,DONALD J TRUMP(REP),398
+Limerick 1,Provisional,KAMALA D HARRIS(DEM),0
+Limerick 1,Provisional,DONALD J TRUMP(REP),0
+Limerick 1,Total,KAMALA D HARRIS(DEM),"1,439"
+Limerick 1,Total,DONALD J TRUMP(REP),"1,421"
+Limerick 2,Election Day,KAMALA D HARRIS(DEM),592
+Limerick 2,Election Day,DONALD J TRUMP(REP),718
+Limerick 2,Mail-in,KAMALA D HARRIS(DEM),448
+Limerick 2,Mail-in,DONALD J TRUMP(REP),221
+Limerick 2,Provisional,KAMALA D HARRIS(DEM),7
+Limerick 2,Provisional,DONALD J TRUMP(REP),8
+Limerick 2,Total,KAMALA D HARRIS(DEM),"1,047"
+Limerick 2,Total,DONALD J TRUMP(REP),947

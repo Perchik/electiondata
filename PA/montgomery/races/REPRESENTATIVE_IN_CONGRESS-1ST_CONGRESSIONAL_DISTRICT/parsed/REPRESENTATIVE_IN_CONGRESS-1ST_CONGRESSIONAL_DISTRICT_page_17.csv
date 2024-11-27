@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Montgomery 4,Election Day,ASHLEY EHASZ(DEM),****
+Montgomery 4,Election Day,BRIAN FITZPATRICK(REP),****
+Montgomery 4,Mail-in,ASHLEY EHASZ(DEM),****
+Montgomery 4,Mail-in,BRIAN FITZPATRICK(REP),****
+Montgomery 4,Provisional,ASHLEY EHASZ(DEM),****
+Montgomery 4,Provisional,BRIAN FITZPATRICK(REP),****
+Montgomery 4,Total,ASHLEY EHASZ(DEM),454
+Montgomery 4,Total,BRIAN FITZPATRICK(REP),542
+Montgomery 5,Election Day,ASHLEY EHASZ(DEM),433
+Montgomery 5,Election Day,BRIAN FITZPATRICK(REP),577
+Montgomery 5,Mail-in,ASHLEY EHASZ(DEM),365
+Montgomery 5,Mail-in,BRIAN FITZPATRICK(REP),230
+Montgomery 5,Provisional,ASHLEY EHASZ(DEM),11
+Montgomery 5,Provisional,BRIAN FITZPATRICK(REP),5
+Montgomery 5,Total,ASHLEY EHASZ(DEM),809
+Montgomery 5,Total,BRIAN FITZPATRICK(REP),812
+Montgomery 6,Election Day,ASHLEY EHASZ(DEM),472
+Montgomery 6,Election Day,BRIAN FITZPATRICK(REP),582
+Montgomery 6,Mail-in,ASHLEY EHASZ(DEM),360
+Montgomery 6,Mail-in,BRIAN FITZPATRICK(REP),255
+Montgomery 6,Provisional,ASHLEY EHASZ(DEM),10
+Montgomery 6,Provisional,BRIAN FITZPATRICK(REP),13
+Montgomery 6,Total,ASHLEY EHASZ(DEM),842
+Montgomery 6,Total,BRIAN FITZPATRICK(REP),850
+Montgomery 7,Election Day,ASHLEY EHASZ(DEM),592
+Montgomery 7,Election Day,BRIAN FITZPATRICK(REP),894
+Montgomery 7,Mail-in,ASHLEY EHASZ(DEM),819
+Montgomery 7,Mail-in,BRIAN FITZPATRICK(REP),642
+Montgomery 7,Provisional,ASHLEY EHASZ(DEM),17
+Montgomery 7,Provisional,BRIAN FITZPATRICK(REP),6
+Montgomery 7,Total,ASHLEY EHASZ(DEM),"1,428"
+Montgomery 7,Total,BRIAN FITZPATRICK(REP),"1,542"
+Montgomery 8,Election Day,ASHLEY EHASZ(DEM),724
+Montgomery 8,Election Day,BRIAN FITZPATRICK(REP),879
+Montgomery 8,Mail-in,ASHLEY EHASZ(DEM),996
+Montgomery 8,Mail-in,BRIAN FITZPATRICK(REP),596
+Montgomery 8,Provisional,ASHLEY EHASZ(DEM),23
+Montgomery 8,Provisional,BRIAN FITZPATRICK(REP),13
+Montgomery 8,Total,ASHLEY EHASZ(DEM),"1,743"
+Montgomery 8,Total,BRIAN FITZPATRICK(REP),"1,488"
+Upper Hanover 1,Election Day,ASHLEY EHASZ(DEM),644
+Upper Hanover 1,Election Day,BRIAN FITZPATRICK(REP),"1,377"
+Upper Hanover 1,Mail-in,ASHLEY EHASZ(DEM),611
+Upper Hanover 1,Mail-in,BRIAN FITZPATRICK(REP),483
+Upper Hanover 1,Provisional,ASHLEY EHASZ(DEM),5
+Upper Hanover 1,Provisional,BRIAN FITZPATRICK(REP),19
+Upper Hanover 1,Total,ASHLEY EHASZ(DEM),"1,260"
+Upper Hanover 1,Total,BRIAN FITZPATRICK(REP),"1,879"

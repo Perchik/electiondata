@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Lower Salford 2,Election Day,ROBERT P CASEY JR(DEM),****
+Lower Salford 2,Election Day,DAVE MCCORMICK(REP),****
+Lower Salford 2,Mail-in,ROBERT P CASEY JR(DEM),****
+Lower Salford 2,Mail-in,DAVE MCCORMICK(REP),****
+Lower Salford 2,Provisional,ROBERT P CASEY JR(DEM),****
+Lower Salford 2,Provisional,DAVE MCCORMICK(REP),****
+Lower Salford 2,Total,ROBERT P CASEY JR(DEM),813
+Lower Salford 2,Total,DAVE MCCORMICK(REP),739
+Lower Salford 3,Election Day,ROBERT P CASEY JR(DEM),479
+Lower Salford 3,Election Day,DAVE MCCORMICK(REP),583
+Lower Salford 3,Mail-in,ROBERT P CASEY JR(DEM),280
+Lower Salford 3,Mail-in,DAVE MCCORMICK(REP),173
+Lower Salford 3,Provisional,ROBERT P CASEY JR(DEM),6
+Lower Salford 3,Provisional,DAVE MCCORMICK(REP),9
+Lower Salford 3,Total,ROBERT P CASEY JR(DEM),765
+Lower Salford 3,Total,DAVE MCCORMICK(REP),765
+Lower Salford 4,Election Day,ROBERT P CASEY JR(DEM),****
+Lower Salford 4,Election Day,DAVE MCCORMICK(REP),****
+Lower Salford 4,Mail-in,ROBERT P CASEY JR(DEM),****
+Lower Salford 4,Mail-in,DAVE MCCORMICK(REP),****
+Lower Salford 4,Provisional,ROBERT P CASEY JR(DEM),****
+Lower Salford 4,Provisional,DAVE MCCORMICK(REP),****
+Lower Salford 4,Total,ROBERT P CASEY JR(DEM),806
+Lower Salford 4,Total,DAVE MCCORMICK(REP),734
+Lower Salford 5,Election Day,ROBERT P CASEY JR(DEM),456
+Lower Salford 5,Election Day,DAVE MCCORMICK(REP),837
+Lower Salford 5,Mail-in,ROBERT P CASEY JR(DEM),426
+Lower Salford 5,Mail-in,DAVE MCCORMICK(REP),289
+Lower Salford 5,Provisional,ROBERT P CASEY JR(DEM),8
+Lower Salford 5,Provisional,DAVE MCCORMICK(REP),7
+Lower Salford 5,Total,ROBERT P CASEY JR(DEM),890
+Lower Salford 5,Total,DAVE MCCORMICK(REP),"1,133"
+Lower Salford 6,Election Day,ROBERT P CASEY JR(DEM),468
+Lower Salford 6,Election Day,DAVE MCCORMICK(REP),597
+Lower Salford 6,Mail-in,ROBERT P CASEY JR(DEM),439
+Lower Salford 6,Mail-in,DAVE MCCORMICK(REP),245
+Lower Salford 6,Provisional,ROBERT P CASEY JR(DEM),6
+Lower Salford 6,Provisional,DAVE MCCORMICK(REP),8
+Lower Salford 6,Total,ROBERT P CASEY JR(DEM),913
+Lower Salford 6,Total,DAVE MCCORMICK(REP),850
+Skippack 1,Election Day,ROBERT P CASEY JR(DEM),814
+Skippack 1,Election Day,DAVE MCCORMICK(REP),862
+Skippack 1,Mail-in,ROBERT P CASEY JR(DEM),527
+Skippack 1,Mail-in,DAVE MCCORMICK(REP),254
+Skippack 1,Provisional,ROBERT P CASEY JR(DEM),9
+Skippack 1,Provisional,DAVE MCCORMICK(REP),9
+Skippack 1,Total,ROBERT P CASEY JR(DEM),"1,350"
+Skippack 1,Total,DAVE MCCORMICK(REP),"1,125"

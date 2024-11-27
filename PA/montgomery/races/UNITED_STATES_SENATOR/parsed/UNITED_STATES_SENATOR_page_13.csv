@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Lansdale 3-2,Election Day,ROBERT P CASEY JR(DEM),****
+Lansdale 3-2,Election Day,DAVE MCCORMICK(REP),****
+Lansdale 3-2,Mail-in,ROBERT P CASEY JR(DEM),****
+Lansdale 3-2,Mail-in,DAVE MCCORMICK(REP),****
+Lansdale 3-2,Provisional,ROBERT P CASEY JR(DEM),****
+Lansdale 3-2,Provisional,DAVE MCCORMICK(REP),****
+Lansdale 3-2,Total,ROBERT P CASEY JR(DEM),678
+Lansdale 3-2,Total,DAVE MCCORMICK(REP),450
+Lansdale 3-3,Election Day,ROBERT P CASEY JR(DEM),****
+Lansdale 3-3,Election Day,DAVE MCCORMICK(REP),****
+Lansdale 3-3,Mail-in,ROBERT P CASEY JR(DEM),****
+Lansdale 3-3,Mail-in,DAVE MCCORMICK(REP),****
+Lansdale 3-3,Provisional,ROBERT P CASEY JR(DEM),****
+Lansdale 3-3,Provisional,DAVE MCCORMICK(REP),****
+Lansdale 3-3,Total,ROBERT P CASEY JR(DEM),852
+Lansdale 3-3,Total,DAVE MCCORMICK(REP),445
+Narberth 1,Election Day,ROBERT P CASEY JR(DEM),****
+Narberth 1,Election Day,DAVE MCCORMICK(REP),****
+Narberth 1,Mail-in,ROBERT P CASEY JR(DEM),****
+Narberth 1,Mail-in,DAVE MCCORMICK(REP),****
+Narberth 1,Provisional,ROBERT P CASEY JR(DEM),****
+Narberth 1,Provisional,DAVE MCCORMICK(REP),****
+Narberth 1,Total,ROBERT P CASEY JR(DEM),747
+Narberth 1,Total,DAVE MCCORMICK(REP),151
+Narberth 2,Election Day,ROBERT P CASEY JR(DEM),****
+Narberth 2,Election Day,DAVE MCCORMICK(REP),****
+Narberth 2,Mail-in,ROBERT P CASEY JR(DEM),****
+Narberth 2,Mail-in,DAVE MCCORMICK(REP),****
+Narberth 2,Provisional,ROBERT P CASEY JR(DEM),****
+Narberth 2,Provisional,DAVE MCCORMICK(REP),****
+Narberth 2,Total,ROBERT P CASEY JR(DEM),"1,265"
+Narberth 2,Total,DAVE MCCORMICK(REP),256
+Narberth 3,Election Day,ROBERT P CASEY JR(DEM),****
+Narberth 3,Election Day,DAVE MCCORMICK(REP),****
+Narberth 3,Mail-in,ROBERT P CASEY JR(DEM),****
+Narberth 3,Mail-in,DAVE MCCORMICK(REP),****
+Narberth 3,Provisional,ROBERT P CASEY JR(DEM),****
+Narberth 3,Provisional,DAVE MCCORMICK(REP),****
+Narberth 3,Total,ROBERT P CASEY JR(DEM),538
+Narberth 3,Total,DAVE MCCORMICK(REP),77
+Norristown 1-1,Election Day,ROBERT P CASEY JR(DEM),356
+Norristown 1-1,Election Day,DAVE MCCORMICK(REP),97
+Norristown 1-1,Mail-in,ROBERT P CASEY JR(DEM),165
+Norristown 1-1,Mail-in,DAVE MCCORMICK(REP),25
+Norristown 1-1,Provisional,ROBERT P CASEY JR(DEM),11
+Norristown 1-1,Provisional,DAVE MCCORMICK(REP),4
+Norristown 1-1,Total,ROBERT P CASEY JR(DEM),532
+Norristown 1-1,Total,DAVE MCCORMICK(REP),126

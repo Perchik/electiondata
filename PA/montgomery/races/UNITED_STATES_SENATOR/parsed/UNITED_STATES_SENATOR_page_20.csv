@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+North Wales 2,Election Day,JOHN C THOMAS(LIB),11
+North Wales 2,Election Day,LEILA HAZOU(GRE),8
+North Wales 2,Election Day,MARTY SELKER(CON),4
+North Wales 2,Election Day,UnresolvedWrite-In,0
+North Wales 2,Mail-in,JOHN C THOMAS(LIB),1
+North Wales 2,Mail-in,LEILA HAZOU(GRE),2
+North Wales 2,Mail-in,MARTY SELKER(CON),0
+North Wales 2,Mail-in,UnresolvedWrite-In,0
+North Wales 2,Provisional,JOHN C THOMAS(LIB),0
+North Wales 2,Provisional,LEILA HAZOU(GRE),0
+North Wales 2,Provisional,MARTY SELKER(CON),0
+North Wales 2,Provisional,UnresolvedWrite-In,0
+North Wales 2,Total,JOHN C THOMAS(LIB),12
+North Wales 2,Total,LEILA HAZOU(GRE),10
+North Wales 2,Total,MARTY SELKER(CON),4
+North Wales 2,Total,UnresolvedWrite-In,0
+North Wales 3,Election Day,JOHN C THOMAS(LIB),****
+North Wales 3,Election Day,LEILA HAZOU(GRE),****
+North Wales 3,Election Day,MARTY SELKER(CON),****
+North Wales 3,Election Day,UnresolvedWrite-In,****
+North Wales 3,Mail-in,JOHN C THOMAS(LIB),****
+North Wales 3,Mail-in,LEILA HAZOU(GRE),****
+North Wales 3,Mail-in,MARTY SELKER(CON),****
+North Wales 3,Mail-in,UnresolvedWrite-In,****
+North Wales 3,Provisional,JOHN C THOMAS(LIB),****
+North Wales 3,Provisional,LEILA HAZOU(GRE),****
+North Wales 3,Provisional,MARTY SELKER(CON),****
+North Wales 3,Provisional,UnresolvedWrite-In,****
+North Wales 3,Total,JOHN C THOMAS(LIB),12
+North Wales 3,Total,LEILA HAZOU(GRE),8
+North Wales 3,Total,MARTY SELKER(CON),3
+North Wales 3,Total,UnresolvedWrite-In,0
+Pennsburg,Election Day,JOHN C THOMAS(LIB),****
+Pennsburg,Election Day,LEILA HAZOU(GRE),****
+Pennsburg,Election Day,MARTY SELKER(CON),****
+Pennsburg,Election Day,UnresolvedWrite-In,****
+Pennsburg,Mail-in,JOHN C THOMAS(LIB),****
+Pennsburg,Mail-in,LEILA HAZOU(GRE),****
+Pennsburg,Mail-in,MARTY SELKER(CON),****
+Pennsburg,Mail-in,UnresolvedWrite-In,****
+Pennsburg,Provisional,JOHN C THOMAS(LIB),****
+Pennsburg,Provisional,LEILA HAZOU(GRE),****
+Pennsburg,Provisional,MARTY SELKER(CON),****
+Pennsburg,Provisional,UnresolvedWrite-In,****
+Pennsburg,Total,JOHN C THOMAS(LIB),32
+Pennsburg,Total,LEILA HAZOU(GRE),23
+Pennsburg,Total,MARTY SELKER(CON),5
+Pennsburg,Total,UnresolvedWrite-In,2
+Pottstown 1-1,Election Day,JOHN C THOMAS(LIB),10
+Pottstown 1-1,Election Day,LEILA HAZOU(GRE),6
+Pottstown 1-1,Election Day,MARTY SELKER(CON),4
+Pottstown 1-1,Election Day,UnresolvedWrite-In,4
+Pottstown 1-1,Mail-in,JOHN C THOMAS(LIB),1
+Pottstown 1-1,Mail-in,LEILA HAZOU(GRE),6
+Pottstown 1-1,Mail-in,MARTY SELKER(CON),0
+Pottstown 1-1,Mail-in,UnresolvedWrite-In,0
+Pottstown 1-1,Provisional,JOHN C THOMAS(LIB),1
+Pottstown 1-1,Provisional,LEILA HAZOU(GRE),0
+Pottstown 1-1,Provisional,MARTY SELKER(CON),0
+Pottstown 1-1,Provisional,UnresolvedWrite-In,0
+Pottstown 1-1,Total,JOHN C THOMAS(LIB),12
+Pottstown 1-1,Total,LEILA HAZOU(GRE),12
+Pottstown 1-1,Total,MARTY SELKER(CON),4
+Pottstown 1-1,Total,UnresolvedWrite-In,4
+Pottstown 1-2,Election Day,JOHN C THOMAS(LIB),5
+Pottstown 1-2,Election Day,LEILA HAZOU(GRE),4
+Pottstown 1-2,Election Day,MARTY SELKER(CON),1
+Pottstown 1-2,Election Day,UnresolvedWrite-In,0
+Pottstown 1-2,Mail-in,JOHN C THOMAS(LIB),1
+Pottstown 1-2,Mail-in,LEILA HAZOU(GRE),5
+Pottstown 1-2,Mail-in,MARTY SELKER(CON),0
+Pottstown 1-2,Mail-in,UnresolvedWrite-In,1
+Pottstown 1-2,Provisional,JOHN C THOMAS(LIB),0
+Pottstown 1-2,Provisional,LEILA HAZOU(GRE),1
+Pottstown 1-2,Provisional,MARTY SELKER(CON),0
+Pottstown 1-2,Provisional,UnresolvedWrite-In,0
+Pottstown 1-2,Total,JOHN C THOMAS(LIB),6
+Pottstown 1-2,Total,LEILA HAZOU(GRE),10
+Pottstown 1-2,Total,MARTY SELKER(CON),1
+Pottstown 1-2,Total,UnresolvedWrite-In,1
+Pottstown 2-1,Election Day,JOHN C THOMAS(LIB),13
+Pottstown 2-1,Election Day,LEILA HAZOU(GRE),13
+Pottstown 2-1,Election Day,MARTY SELKER(CON),5
+Pottstown 2-1,Election Day,UnresolvedWrite-In,1
+Pottstown 2-1,Mail-in,JOHN C THOMAS(LIB),4
+Pottstown 2-1,Mail-in,LEILA HAZOU(GRE),2
+Pottstown 2-1,Mail-in,MARTY SELKER(CON),0
+Pottstown 2-1,Mail-in,UnresolvedWrite-In,0
+Pottstown 2-1,Provisional,JOHN C THOMAS(LIB),1
+Pottstown 2-1,Provisional,LEILA HAZOU(GRE),0
+Pottstown 2-1,Provisional,MARTY SELKER(CON),0
+Pottstown 2-1,Provisional,UnresolvedWrite-In,0
+Pottstown 2-1,Total,JOHN C THOMAS(LIB),18
+Pottstown 2-1,Total,LEILA HAZOU(GRE),15
+Pottstown 2-1,Total,MARTY SELKER(CON),5
+Pottstown 2-1,Total,UnresolvedWrite-In,1

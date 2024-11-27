@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Douglass 3,Election Day,JOHN C THOMAS(LIB),15
+Douglass 3,Election Day,LEILA HAZOU(GRE),12
+Douglass 3,Election Day,MARTY SELKER(CON),3
+Douglass 3,Election Day,UnresolvedWrite-In,0
+Douglass 3,Mail-in,JOHN C THOMAS(LIB),5
+Douglass 3,Mail-in,LEILA HAZOU(GRE),6
+Douglass 3,Mail-in,MARTY SELKER(CON),1
+Douglass 3,Mail-in,UnresolvedWrite-In,0
+Douglass 3,Provisional,JOHN C THOMAS(LIB),0
+Douglass 3,Provisional,LEILA HAZOU(GRE),0
+Douglass 3,Provisional,MARTY SELKER(CON),0
+Douglass 3,Provisional,UnresolvedWrite-In,0
+Douglass 3,Total,JOHN C THOMAS(LIB),20
+Douglass 3,Total,LEILA HAZOU(GRE),18
+Douglass 3,Total,MARTY SELKER(CON),4
+Douglass 3,Total,UnresolvedWrite-In,0
+Douglass 4,Election Day,JOHN C THOMAS(LIB),21
+Douglass 4,Election Day,LEILA HAZOU(GRE),9
+Douglass 4,Election Day,MARTY SELKER(CON),3
+Douglass 4,Election Day,UnresolvedWrite-In,2
+Douglass 4,Mail-in,JOHN C THOMAS(LIB),8
+Douglass 4,Mail-in,LEILA HAZOU(GRE),2
+Douglass 4,Mail-in,MARTY SELKER(CON),3
+Douglass 4,Mail-in,UnresolvedWrite-In,1
+Douglass 4,Provisional,JOHN C THOMAS(LIB),0
+Douglass 4,Provisional,LEILA HAZOU(GRE),0
+Douglass 4,Provisional,MARTY SELKER(CON),0
+Douglass 4,Provisional,UnresolvedWrite-In,0
+Douglass 4,Total,JOHN C THOMAS(LIB),29
+Douglass 4,Total,LEILA HAZOU(GRE),11
+Douglass 4,Total,MARTY SELKER(CON),6
+Douglass 4,Total,UnresolvedWrite-In,3
+East Norriton 1-1,Election Day,JOHN C THOMAS(LIB),11
+East Norriton 1-1,Election Day,LEILA HAZOU(GRE),7
+East Norriton 1-1,Election Day,MARTY SELKER(CON),3
+East Norriton 1-1,Election Day,UnresolvedWrite-In,2
+East Norriton 1-1,Mail-in,JOHN C THOMAS(LIB),1
+East Norriton 1-1,Mail-in,LEILA HAZOU(GRE),5
+East Norriton 1-1,Mail-in,MARTY SELKER(CON),0
+East Norriton 1-1,Mail-in,UnresolvedWrite-In,0
+East Norriton 1-1,Provisional,JOHN C THOMAS(LIB),0
+East Norriton 1-1,Provisional,LEILA HAZOU(GRE),0
+East Norriton 1-1,Provisional,MARTY SELKER(CON),0
+East Norriton 1-1,Provisional,UnresolvedWrite-In,0
+East Norriton 1-1,Total,JOHN C THOMAS(LIB),12
+East Norriton 1-1,Total,LEILA HAZOU(GRE),12
+East Norriton 1-1,Total,MARTY SELKER(CON),3
+East Norriton 1-1,Total,UnresolvedWrite-In,2
+East Norriton 1-2,Election Day,JOHN C THOMAS(LIB),****
+East Norriton 1-2,Election Day,LEILA HAZOU(GRE),****
+East Norriton 1-2,Election Day,MARTY SELKER(CON),****
+East Norriton 1-2,Election Day,UnresolvedWrite-In,****
+East Norriton 1-2,Mail-in,JOHN C THOMAS(LIB),****
+East Norriton 1-2,Mail-in,LEILA HAZOU(GRE),****
+East Norriton 1-2,Mail-in,MARTY SELKER(CON),****
+East Norriton 1-2,Mail-in,UnresolvedWrite-In,****
+East Norriton 1-2,Provisional,JOHN C THOMAS(LIB),****
+East Norriton 1-2,Provisional,LEILA HAZOU(GRE),****
+East Norriton 1-2,Provisional,MARTY SELKER(CON),****
+East Norriton 1-2,Provisional,UnresolvedWrite-In,****
+East Norriton 1-2,Total,JOHN C THOMAS(LIB),17
+East Norriton 1-2,Total,LEILA HAZOU(GRE),13
+East Norriton 1-2,Total,MARTY SELKER(CON),4
+East Norriton 1-2,Total,UnresolvedWrite-In,1
+East Norriton 1-3,Election Day,JOHN C THOMAS(LIB),7
+East Norriton 1-3,Election Day,LEILA HAZOU(GRE),17
+East Norriton 1-3,Election Day,MARTY SELKER(CON),2
+East Norriton 1-3,Election Day,UnresolvedWrite-In,0
+East Norriton 1-3,Mail-in,JOHN C THOMAS(LIB),3
+East Norriton 1-3,Mail-in,LEILA HAZOU(GRE),1
+East Norriton 1-3,Mail-in,MARTY SELKER(CON),1
+East Norriton 1-3,Mail-in,UnresolvedWrite-In,0
+East Norriton 1-3,Provisional,JOHN C THOMAS(LIB),0
+East Norriton 1-3,Provisional,LEILA HAZOU(GRE),0
+East Norriton 1-3,Provisional,MARTY SELKER(CON),0
+East Norriton 1-3,Provisional,UnresolvedWrite-In,0
+East Norriton 1-3,Total,JOHN C THOMAS(LIB),10
+East Norriton 1-3,Total,LEILA HAZOU(GRE),18
+East Norriton 1-3,Total,MARTY SELKER(CON),3
+East Norriton 1-3,Total,UnresolvedWrite-In,0
+East Norriton 1-4,Election Day,JOHN C THOMAS(LIB),****
+East Norriton 1-4,Election Day,LEILA HAZOU(GRE),****
+East Norriton 1-4,Election Day,MARTY SELKER(CON),****
+East Norriton 1-4,Election Day,UnresolvedWrite-In,****
+East Norriton 1-4,Mail-in,JOHN C THOMAS(LIB),****
+East Norriton 1-4,Mail-in,LEILA HAZOU(GRE),****
+East Norriton 1-4,Mail-in,MARTY SELKER(CON),****
+East Norriton 1-4,Mail-in,UnresolvedWrite-In,****
+East Norriton 1-4,Provisional,JOHN C THOMAS(LIB),****
+East Norriton 1-4,Provisional,LEILA HAZOU(GRE),****
+East Norriton 1-4,Provisional,MARTY SELKER(CON),****
+East Norriton 1-4,Provisional,UnresolvedWrite-In,****
+East Norriton 1-4,Total,JOHN C THOMAS(LIB),9
+East Norriton 1-4,Total,LEILA HAZOU(GRE),12
+East Norriton 1-4,Total,MARTY SELKER(CON),2
+East Norriton 1-4,Total,UnresolvedWrite-In,1

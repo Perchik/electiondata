@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+New Hanover 3,Election Day,MADELEINE DEAN(DEM),714
+New Hanover 3,Election Day,DAVID WINKLER(REP),"1,200"
+New Hanover 3,Mail-in,MADELEINE DEAN(DEM),629
+New Hanover 3,Mail-in,DAVID WINKLER(REP),289
+New Hanover 3,Provisional,MADELEINE DEAN(DEM),12
+New Hanover 3,Provisional,DAVID WINKLER(REP),3
+New Hanover 3,Total,MADELEINE DEAN(DEM),"1,355"
+New Hanover 3,Total,DAVID WINKLER(REP),"1,492"
+Perkiomen 1,Election Day,MADELEINE DEAN(DEM),751
+Perkiomen 1,Election Day,DAVID WINKLER(REP),840
+Perkiomen 1,Mail-in,MADELEINE DEAN(DEM),772
+Perkiomen 1,Mail-in,DAVID WINKLER(REP),323
+Perkiomen 1,Provisional,MADELEINE DEAN(DEM),6
+Perkiomen 1,Provisional,DAVID WINKLER(REP),7
+Perkiomen 1,Total,MADELEINE DEAN(DEM),"1,529"
+Perkiomen 1,Total,DAVID WINKLER(REP),"1,170"
+Perkiomen 2,Election Day,MADELEINE DEAN(DEM),818
+Perkiomen 2,Election Day,DAVID WINKLER(REP),938
+Perkiomen 2,Mail-in,MADELEINE DEAN(DEM),733
+Perkiomen 2,Mail-in,DAVID WINKLER(REP),338
+Perkiomen 2,Provisional,MADELEINE DEAN(DEM),15
+Perkiomen 2,Provisional,DAVID WINKLER(REP),7
+Perkiomen 2,Total,MADELEINE DEAN(DEM),"1,566"
+Perkiomen 2,Total,DAVID WINKLER(REP),"1,283"
+Plymouth 1-1,Election Day,MADELEINE DEAN(DEM),437
+Plymouth 1-1,Election Day,DAVID WINKLER(REP),390
+Plymouth 1-1,Mail-in,MADELEINE DEAN(DEM),269
+Plymouth 1-1,Mail-in,DAVID WINKLER(REP),108
+Plymouth 1-1,Provisional,MADELEINE DEAN(DEM),12
+Plymouth 1-1,Provisional,DAVID WINKLER(REP),5
+Plymouth 1-1,Total,MADELEINE DEAN(DEM),718
+Plymouth 1-1,Total,DAVID WINKLER(REP),503
+Plymouth 1-2,Election Day,MADELEINE DEAN(DEM),****
+Plymouth 1-2,Election Day,DAVID WINKLER(REP),****
+Plymouth 1-2,Mail-in,MADELEINE DEAN(DEM),****
+Plymouth 1-2,Mail-in,DAVID WINKLER(REP),****
+Plymouth 1-2,Provisional,MADELEINE DEAN(DEM),****
+Plymouth 1-2,Provisional,DAVID WINKLER(REP),****
+Plymouth 1-2,Total,MADELEINE DEAN(DEM),882
+Plymouth 1-2,Total,DAVID WINKLER(REP),497
+Plymouth 2-1,Election Day,MADELEINE DEAN(DEM),236
+Plymouth 2-1,Election Day,DAVID WINKLER(REP),223
+Plymouth 2-1,Mail-in,MADELEINE DEAN(DEM),112
+Plymouth 2-1,Mail-in,DAVID WINKLER(REP),59
+Plymouth 2-1,Provisional,MADELEINE DEAN(DEM),0
+Plymouth 2-1,Provisional,DAVID WINKLER(REP),0
+Plymouth 2-1,Total,MADELEINE DEAN(DEM),348
+Plymouth 2-1,Total,DAVID WINKLER(REP),282

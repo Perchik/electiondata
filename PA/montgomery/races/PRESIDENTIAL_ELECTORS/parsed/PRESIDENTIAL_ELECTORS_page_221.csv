@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Lower Providence 3-1,Election Day,KAMALA D HARRIS(DEM),292
+Lower Providence 3-1,Election Day,DONALD J TRUMP(REP),238
+Lower Providence 3-1,Mail-in,KAMALA D HARRIS(DEM),203
+Lower Providence 3-1,Mail-in,DONALD J TRUMP(REP),65
+Lower Providence 3-1,Provisional,KAMALA D HARRIS(DEM),10
+Lower Providence 3-1,Provisional,DONALD J TRUMP(REP),8
+Lower Providence 3-1,Total,KAMALA D HARRIS(DEM),505
+Lower Providence 3-1,Total,DONALD J TRUMP(REP),311
+Lower Providence 3-2,Election Day,KAMALA D HARRIS(DEM),****
+Lower Providence 3-2,Election Day,DONALD J TRUMP(REP),****
+Lower Providence 3-2,Mail-in,KAMALA D HARRIS(DEM),****
+Lower Providence 3-2,Mail-in,DONALD J TRUMP(REP),****
+Lower Providence 3-2,Provisional,KAMALA D HARRIS(DEM),****
+Lower Providence 3-2,Provisional,DONALD J TRUMP(REP),****
+Lower Providence 3-2,Total,KAMALA D HARRIS(DEM),550
+Lower Providence 3-2,Total,DONALD J TRUMP(REP),453
+Lower Providence 3-3,Election Day,KAMALA D HARRIS(DEM),738
+Lower Providence 3-3,Election Day,DONALD J TRUMP(REP),606
+Lower Providence 3-3,Mail-in,KAMALA D HARRIS(DEM),629
+Lower Providence 3-3,Mail-in,DONALD J TRUMP(REP),226
+Lower Providence 3-3,Provisional,KAMALA D HARRIS(DEM),4
+Lower Providence 3-3,Provisional,DONALD J TRUMP(REP),8
+Lower Providence 3-3,Total,KAMALA D HARRIS(DEM),"1,371"
+Lower Providence 3-3,Total,DONALD J TRUMP(REP),840
+Lower Providence 3-4,Election Day,KAMALA D HARRIS(DEM),214
+Lower Providence 3-4,Election Day,DONALD J TRUMP(REP),232
+Lower Providence 3-4,Mail-in,KAMALA D HARRIS(DEM),880
+Lower Providence 3-4,Mail-in,DONALD J TRUMP(REP),365
+Lower Providence 3-4,Provisional,KAMALA D HARRIS(DEM),10
+Lower Providence 3-4,Provisional,DONALD J TRUMP(REP),8
+Lower Providence 3-4,Total,KAMALA D HARRIS(DEM),"1,104"
+Lower Providence 3-4,Total,DONALD J TRUMP(REP),605
+Salford,Election Day,KAMALA D HARRIS(DEM),482
+Salford,Election Day,DONALD J TRUMP(REP),"1,061"
+Salford,Mail-in,KAMALA D HARRIS(DEM),254
+Salford,Mail-in,DONALD J TRUMP(REP),194
+Salford,Provisional,KAMALA D HARRIS(DEM),3
+Salford,Provisional,DONALD J TRUMP(REP),10
+Salford,Total,KAMALA D HARRIS(DEM),739
+Salford,Total,DONALD J TRUMP(REP),"1,265"
+Marlborough,Election Day,KAMALA D HARRIS(DEM),429
+Marlborough,Election Day,DONALD J TRUMP(REP),"1,161"
+Marlborough,Mail-in,KAMALA D HARRIS(DEM),440
+Marlborough,Mail-in,DONALD J TRUMP(REP),270
+Marlborough,Provisional,KAMALA D HARRIS(DEM),12
+Marlborough,Provisional,DONALD J TRUMP(REP),9
+Marlborough,Total,KAMALA D HARRIS(DEM),881
+Marlborough,Total,DONALD J TRUMP(REP),"1,440"

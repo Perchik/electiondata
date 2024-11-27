@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Whitemarsh East 2,Election Day,JOHN C THOMAS(LIB),****
+Whitemarsh East 2,Election Day,LEILA HAZOU(GRE),****
+Whitemarsh East 2,Election Day,MARTY SELKER(CON),****
+Whitemarsh East 2,Election Day,UnresolvedWrite-In,****
+Whitemarsh East 2,Mail-in,JOHN C THOMAS(LIB),****
+Whitemarsh East 2,Mail-in,LEILA HAZOU(GRE),****
+Whitemarsh East 2,Mail-in,MARTY SELKER(CON),****
+Whitemarsh East 2,Mail-in,UnresolvedWrite-In,****
+Whitemarsh East 2,Provisional,JOHN C THOMAS(LIB),****
+Whitemarsh East 2,Provisional,LEILA HAZOU(GRE),****
+Whitemarsh East 2,Provisional,MARTY SELKER(CON),****
+Whitemarsh East 2,Provisional,UnresolvedWrite-In,****
+Whitemarsh East 2,Total,JOHN C THOMAS(LIB),13
+Whitemarsh East 2,Total,LEILA HAZOU(GRE),7
+Whitemarsh East 2,Total,MARTY SELKER(CON),0
+Whitemarsh East 2,Total,UnresolvedWrite-In,1
+Whitemarsh Middle 1,Election Day,JOHN C THOMAS(LIB),13
+Whitemarsh Middle 1,Election Day,LEILA HAZOU(GRE),8
+Whitemarsh Middle 1,Election Day,MARTY SELKER(CON),1
+Whitemarsh Middle 1,Election Day,UnresolvedWrite-In,0
+Whitemarsh Middle 1,Mail-in,JOHN C THOMAS(LIB),2
+Whitemarsh Middle 1,Mail-in,LEILA HAZOU(GRE),5
+Whitemarsh Middle 1,Mail-in,MARTY SELKER(CON),0
+Whitemarsh Middle 1,Mail-in,UnresolvedWrite-In,0
+Whitemarsh Middle 1,Provisional,JOHN C THOMAS(LIB),0
+Whitemarsh Middle 1,Provisional,LEILA HAZOU(GRE),1
+Whitemarsh Middle 1,Provisional,MARTY SELKER(CON),0
+Whitemarsh Middle 1,Provisional,UnresolvedWrite-In,0
+Whitemarsh Middle 1,Total,JOHN C THOMAS(LIB),15
+Whitemarsh Middle 1,Total,LEILA HAZOU(GRE),14
+Whitemarsh Middle 1,Total,MARTY SELKER(CON),1
+Whitemarsh Middle 1,Total,UnresolvedWrite-In,0
+Whitemarsh Middle 2,Election Day,JOHN C THOMAS(LIB),4
+Whitemarsh Middle 2,Election Day,LEILA HAZOU(GRE),2
+Whitemarsh Middle 2,Election Day,MARTY SELKER(CON),0
+Whitemarsh Middle 2,Election Day,UnresolvedWrite-In,0
+Whitemarsh Middle 2,Mail-in,JOHN C THOMAS(LIB),0
+Whitemarsh Middle 2,Mail-in,LEILA HAZOU(GRE),6
+Whitemarsh Middle 2,Mail-in,MARTY SELKER(CON),0
+Whitemarsh Middle 2,Mail-in,UnresolvedWrite-In,0
+Whitemarsh Middle 2,Provisional,JOHN C THOMAS(LIB),0
+Whitemarsh Middle 2,Provisional,LEILA HAZOU(GRE),0
+Whitemarsh Middle 2,Provisional,MARTY SELKER(CON),0
+Whitemarsh Middle 2,Provisional,UnresolvedWrite-In,0
+Whitemarsh Middle 2,Total,JOHN C THOMAS(LIB),4
+Whitemarsh Middle 2,Total,LEILA HAZOU(GRE),8
+Whitemarsh Middle 2,Total,MARTY SELKER(CON),0
+Whitemarsh Middle 2,Total,UnresolvedWrite-In,0
+Whitemarsh Middle 3,Election Day,JOHN C THOMAS(LIB),****
+Whitemarsh Middle 3,Election Day,LEILA HAZOU(GRE),****
+Whitemarsh Middle 3,Election Day,MARTY SELKER(CON),****
+Whitemarsh Middle 3,Election Day,UnresolvedWrite-In,****
+Whitemarsh Middle 3,Mail-in,JOHN C THOMAS(LIB),****
+Whitemarsh Middle 3,Mail-in,LEILA HAZOU(GRE),****
+Whitemarsh Middle 3,Mail-in,MARTY SELKER(CON),****
+Whitemarsh Middle 3,Mail-in,UnresolvedWrite-In,****
+Whitemarsh Middle 3,Provisional,JOHN C THOMAS(LIB),****
+Whitemarsh Middle 3,Provisional,LEILA HAZOU(GRE),****
+Whitemarsh Middle 3,Provisional,MARTY SELKER(CON),****
+Whitemarsh Middle 3,Provisional,UnresolvedWrite-In,****
+Whitemarsh Middle 3,Total,JOHN C THOMAS(LIB),9
+Whitemarsh Middle 3,Total,LEILA HAZOU(GRE),6
+Whitemarsh Middle 3,Total,MARTY SELKER(CON),2
+Whitemarsh Middle 3,Total,UnresolvedWrite-In,1
+Whitemarsh Middle 4,Election Day,JOHN C THOMAS(LIB),****
+Whitemarsh Middle 4,Election Day,LEILA HAZOU(GRE),****
+Whitemarsh Middle 4,Election Day,MARTY SELKER(CON),****
+Whitemarsh Middle 4,Election Day,UnresolvedWrite-In,****
+Whitemarsh Middle 4,Mail-in,JOHN C THOMAS(LIB),****
+Whitemarsh Middle 4,Mail-in,LEILA HAZOU(GRE),****
+Whitemarsh Middle 4,Mail-in,MARTY SELKER(CON),****
+Whitemarsh Middle 4,Mail-in,UnresolvedWrite-In,****
+Whitemarsh Middle 4,Provisional,JOHN C THOMAS(LIB),****
+Whitemarsh Middle 4,Provisional,LEILA HAZOU(GRE),****
+Whitemarsh Middle 4,Provisional,MARTY SELKER(CON),****
+Whitemarsh Middle 4,Provisional,UnresolvedWrite-In,****
+Whitemarsh Middle 4,Total,JOHN C THOMAS(LIB),16
+Whitemarsh Middle 4,Total,LEILA HAZOU(GRE),12
+Whitemarsh Middle 4,Total,MARTY SELKER(CON),3
+Whitemarsh Middle 4,Total,UnresolvedWrite-In,0
+Whitemarsh Middle 5,Election Day,JOHN C THOMAS(LIB),****
+Whitemarsh Middle 5,Election Day,LEILA HAZOU(GRE),****
+Whitemarsh Middle 5,Election Day,MARTY SELKER(CON),****
+Whitemarsh Middle 5,Election Day,UnresolvedWrite-In,****
+Whitemarsh Middle 5,Mail-in,JOHN C THOMAS(LIB),****
+Whitemarsh Middle 5,Mail-in,LEILA HAZOU(GRE),****
+Whitemarsh Middle 5,Mail-in,MARTY SELKER(CON),****
+Whitemarsh Middle 5,Mail-in,UnresolvedWrite-In,****
+Whitemarsh Middle 5,Provisional,JOHN C THOMAS(LIB),****
+Whitemarsh Middle 5,Provisional,LEILA HAZOU(GRE),****
+Whitemarsh Middle 5,Provisional,MARTY SELKER(CON),****
+Whitemarsh Middle 5,Provisional,UnresolvedWrite-In,****
+Whitemarsh Middle 5,Total,JOHN C THOMAS(LIB),11
+Whitemarsh Middle 5,Total,LEILA HAZOU(GRE),4
+Whitemarsh Middle 5,Total,MARTY SELKER(CON),0
+Whitemarsh Middle 5,Total,UnresolvedWrite-In,2

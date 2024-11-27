@@ -1,0 +1,41 @@
+precinct,method,candidate,votes
+Ambler 1,Election Day,MADELEINE DEAN(DEM),****
+Ambler 1,Election Day,DAVID WINKLER(REP),****
+Ambler 1,Mail-in,MADELEINE DEAN(DEM),****
+Ambler 1,Mail-in,DAVID WINKLER(REP),****
+Ambler 1,Provisional,MADELEINE DEAN(DEM),****
+Ambler 1,Provisional,DAVID WINKLER(REP),****
+Ambler 1,Total,MADELEINE DEAN(DEM),905
+Ambler 1,Total,DAVID WINKLER(REP),361
+Ambler 2,Election Day,MADELEINE DEAN(DEM),649
+Ambler 2,Election Day,DAVID WINKLER(REP),297
+Ambler 2,Mail-in,MADELEINE DEAN(DEM),293
+Ambler 2,Mail-in,DAVID WINKLER(REP),62
+Ambler 2,Provisional,MADELEINE DEAN(DEM),9
+Ambler 2,Provisional,DAVID WINKLER(REP),2
+Ambler 2,Total,MADELEINE DEAN(DEM),951
+Ambler 2,Total,DAVID WINKLER(REP),361
+Ambler 3,Election Day,MADELEINE DEAN(DEM),****
+Ambler 3,Election Day,DAVID WINKLER(REP),****
+Ambler 3,Mail-in,MADELEINE DEAN(DEM),****
+Ambler 3,Mail-in,DAVID WINKLER(REP),****
+Ambler 3,Provisional,MADELEINE DEAN(DEM),****
+Ambler 3,Provisional,DAVID WINKLER(REP),****
+Ambler 3,Total,MADELEINE DEAN(DEM),805
+Ambler 3,Total,DAVID WINKLER(REP),308
+Bryn Athyn,Election Day,MADELEINE DEAN(DEM),****
+Bryn Athyn,Election Day,DAVID WINKLER(REP),****
+Bryn Athyn,Mail-in,MADELEINE DEAN(DEM),****
+Bryn Athyn,Mail-in,DAVID WINKLER(REP),****
+Bryn Athyn,Provisional,MADELEINE DEAN(DEM),****
+Bryn Athyn,Provisional,DAVID WINKLER(REP),****
+Bryn Athyn,Total,MADELEINE DEAN(DEM),441
+Bryn Athyn,Total,DAVID WINKLER(REP),329
+Collegeville 1,Election Day,MADELEINE DEAN(DEM),416
+Collegeville 1,Election Day,DAVID WINKLER(REP),410
+Collegeville 1,Mail-in,MADELEINE DEAN(DEM),291
+Collegeville 1,Mail-in,DAVID WINKLER(REP),137
+Collegeville 1,Provisional,MADELEINE DEAN(DEM),12
+Collegeville 1,Provisional,DAVID WINKLER(REP),3
+Collegeville 1,Total,MADELEINE DEAN(DEM),719
+Collegeville 1,Total,DAVID WINKLER(REP),550

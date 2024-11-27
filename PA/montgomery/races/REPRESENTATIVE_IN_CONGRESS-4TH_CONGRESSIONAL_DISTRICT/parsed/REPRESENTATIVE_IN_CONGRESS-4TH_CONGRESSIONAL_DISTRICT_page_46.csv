@@ -1,0 +1,25 @@
+precinct,method,candidate,votes
+Limerick 2,Election Day,UnresolvedWrite-In,2
+Limerick 2,Mail-in,UnresolvedWrite-In,2
+Limerick 2,Provisional,UnresolvedWrite-In,0
+Limerick 2,Total,UnresolvedWrite-In,4
+Limerick 3,Election Day,UnresolvedWrite-In,3
+Limerick 3,Mail-in,UnresolvedWrite-In,1
+Limerick 3,Provisional,UnresolvedWrite-In,0
+Limerick 3,Total,UnresolvedWrite-In,4
+Limerick 4,Election Day,UnresolvedWrite-In,0
+Limerick 4,Mail-in,UnresolvedWrite-In,1
+Limerick 4,Provisional,UnresolvedWrite-In,0
+Limerick 4,Total,UnresolvedWrite-In,1
+Limerick 5,Election Day,UnresolvedWrite-In,4
+Limerick 5,Mail-in,UnresolvedWrite-In,0
+Limerick 5,Provisional,UnresolvedWrite-In,0
+Limerick 5,Total,UnresolvedWrite-In,4
+Limerick 6,Election Day,UnresolvedWrite-In,2
+Limerick 6,Mail-in,UnresolvedWrite-In,0
+Limerick 6,Provisional,UnresolvedWrite-In,0
+Limerick 6,Total,UnresolvedWrite-In,2
+Lower Frederick 1,Election Day,UnresolvedWrite-In,****
+Lower Frederick 1,Mail-in,UnresolvedWrite-In,****
+Lower Frederick 1,Provisional,UnresolvedWrite-In,****
+Lower Frederick 1,Total,UnresolvedWrite-In,2

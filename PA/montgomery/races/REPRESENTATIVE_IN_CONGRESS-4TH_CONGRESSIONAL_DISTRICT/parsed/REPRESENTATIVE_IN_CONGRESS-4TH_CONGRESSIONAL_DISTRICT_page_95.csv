@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+West Norriton 1-2,Election Day,MADELEINE DEAN(DEM),321
+West Norriton 1-2,Election Day,DAVID WINKLER(REP),270
+West Norriton 1-2,Mail-in,MADELEINE DEAN(DEM),209
+West Norriton 1-2,Mail-in,DAVID WINKLER(REP),60
+West Norriton 1-2,Provisional,MADELEINE DEAN(DEM),0
+West Norriton 1-2,Provisional,DAVID WINKLER(REP),0
+West Norriton 1-2,Total,MADELEINE DEAN(DEM),530
+West Norriton 1-2,Total,DAVID WINKLER(REP),330
+West Norriton 2-1,Election Day,MADELEINE DEAN(DEM),432
+West Norriton 2-1,Election Day,DAVID WINKLER(REP),355
+West Norriton 2-1,Mail-in,MADELEINE DEAN(DEM),281
+West Norriton 2-1,Mail-in,DAVID WINKLER(REP),82
+West Norriton 2-1,Provisional,MADELEINE DEAN(DEM),5
+West Norriton 2-1,Provisional,DAVID WINKLER(REP),4
+West Norriton 2-1,Total,MADELEINE DEAN(DEM),718
+West Norriton 2-1,Total,DAVID WINKLER(REP),441
+West Norriton 2-2,Election Day,MADELEINE DEAN(DEM),****
+West Norriton 2-2,Election Day,DAVID WINKLER(REP),****
+West Norriton 2-2,Mail-in,MADELEINE DEAN(DEM),****
+West Norriton 2-2,Mail-in,DAVID WINKLER(REP),****
+West Norriton 2-2,Provisional,MADELEINE DEAN(DEM),****
+West Norriton 2-2,Provisional,DAVID WINKLER(REP),****
+West Norriton 2-2,Total,MADELEINE DEAN(DEM),568
+West Norriton 2-2,Total,DAVID WINKLER(REP),271
+West Norriton 3-1,Election Day,MADELEINE DEAN(DEM),729
+West Norriton 3-1,Election Day,DAVID WINKLER(REP),431
+West Norriton 3-1,Mail-in,MADELEINE DEAN(DEM),550
+West Norriton 3-1,Mail-in,DAVID WINKLER(REP),175
+West Norriton 3-1,Provisional,MADELEINE DEAN(DEM),17
+West Norriton 3-1,Provisional,DAVID WINKLER(REP),3
+West Norriton 3-1,Total,MADELEINE DEAN(DEM),"1,296"
+West Norriton 3-1,Total,DAVID WINKLER(REP),609
+West Norriton 3-2,Election Day,MADELEINE DEAN(DEM),****
+West Norriton 3-2,Election Day,DAVID WINKLER(REP),****
+West Norriton 3-2,Mail-in,MADELEINE DEAN(DEM),****
+West Norriton 3-2,Mail-in,DAVID WINKLER(REP),****
+West Norriton 3-2,Provisional,MADELEINE DEAN(DEM),****
+West Norriton 3-2,Provisional,DAVID WINKLER(REP),****
+West Norriton 3-2,Total,MADELEINE DEAN(DEM),623
+West Norriton 3-2,Total,DAVID WINKLER(REP),374
+West Norriton 4-1,Election Day,MADELEINE DEAN(DEM),****
+West Norriton 4-1,Election Day,DAVID WINKLER(REP),****
+West Norriton 4-1,Mail-in,MADELEINE DEAN(DEM),****
+West Norriton 4-1,Mail-in,DAVID WINKLER(REP),****
+West Norriton 4-1,Provisional,MADELEINE DEAN(DEM),****
+West Norriton 4-1,Provisional,DAVID WINKLER(REP),****
+West Norriton 4-1,Total,MADELEINE DEAN(DEM),784
+West Norriton 4-1,Total,DAVID WINKLER(REP),444

@@ -1,0 +1,121 @@
+precinct,method,candidate,votes
+North Wales 2,Election Day,ROBERT COWBURN(LIB),12
+North Wales 2,Election Day,RICHARD L WEISS(GRE),8
+North Wales 2,Election Day,JUSTIN L MAGILL(CON),3
+North Wales 2,Election Day,ERIC L SETTLE(FOR),0
+North Wales 2,Election Day,UnresolvedWrite-In,0
+North Wales 2,Mail-in,ROBERT COWBURN(LIB),2
+North Wales 2,Mail-in,RICHARD L WEISS(GRE),1
+North Wales 2,Mail-in,JUSTIN L MAGILL(CON),1
+North Wales 2,Mail-in,ERIC L SETTLE(FOR),1
+North Wales 2,Mail-in,UnresolvedWrite-In,0
+North Wales 2,Provisional,ROBERT COWBURN(LIB),0
+North Wales 2,Provisional,RICHARD L WEISS(GRE),0
+North Wales 2,Provisional,JUSTIN L MAGILL(CON),0
+North Wales 2,Provisional,ERIC L SETTLE(FOR),0
+North Wales 2,Provisional,UnresolvedWrite-In,0
+North Wales 2,Total,ROBERT COWBURN(LIB),14
+North Wales 2,Total,RICHARD L WEISS(GRE),9
+North Wales 2,Total,JUSTIN L MAGILL(CON),4
+North Wales 2,Total,ERIC L SETTLE(FOR),1
+North Wales 2,Total,UnresolvedWrite-In,0
+North Wales 3,Election Day,ROBERT COWBURN(LIB),****
+North Wales 3,Election Day,RICHARD L WEISS(GRE),****
+North Wales 3,Election Day,JUSTIN L MAGILL(CON),****
+North Wales 3,Election Day,ERIC L SETTLE(FOR),****
+North Wales 3,Election Day,UnresolvedWrite-In,****
+North Wales 3,Mail-in,ROBERT COWBURN(LIB),****
+North Wales 3,Mail-in,RICHARD L WEISS(GRE),****
+North Wales 3,Mail-in,JUSTIN L MAGILL(CON),****
+North Wales 3,Mail-in,ERIC L SETTLE(FOR),****
+North Wales 3,Mail-in,UnresolvedWrite-In,****
+North Wales 3,Provisional,ROBERT COWBURN(LIB),****
+North Wales 3,Provisional,RICHARD L WEISS(GRE),****
+North Wales 3,Provisional,JUSTIN L MAGILL(CON),****
+North Wales 3,Provisional,ERIC L SETTLE(FOR),****
+North Wales 3,Provisional,UnresolvedWrite-In,****
+North Wales 3,Total,ROBERT COWBURN(LIB),15
+North Wales 3,Total,RICHARD L WEISS(GRE),6
+North Wales 3,Total,JUSTIN L MAGILL(CON),4
+North Wales 3,Total,ERIC L SETTLE(FOR),2
+North Wales 3,Total,UnresolvedWrite-In,0
+Pennsburg,Election Day,ROBERT COWBURN(LIB),****
+Pennsburg,Election Day,RICHARD L WEISS(GRE),****
+Pennsburg,Election Day,JUSTIN L MAGILL(CON),****
+Pennsburg,Election Day,ERIC L SETTLE(FOR),****
+Pennsburg,Election Day,UnresolvedWrite-In,****
+Pennsburg,Mail-in,ROBERT COWBURN(LIB),****
+Pennsburg,Mail-in,RICHARD L WEISS(GRE),****
+Pennsburg,Mail-in,JUSTIN L MAGILL(CON),****
+Pennsburg,Mail-in,ERIC L SETTLE(FOR),****
+Pennsburg,Mail-in,UnresolvedWrite-In,****
+Pennsburg,Provisional,ROBERT COWBURN(LIB),****
+Pennsburg,Provisional,RICHARD L WEISS(GRE),****
+Pennsburg,Provisional,JUSTIN L MAGILL(CON),****
+Pennsburg,Provisional,ERIC L SETTLE(FOR),****
+Pennsburg,Provisional,UnresolvedWrite-In,****
+Pennsburg,Total,ROBERT COWBURN(LIB),37
+Pennsburg,Total,RICHARD L WEISS(GRE),22
+Pennsburg,Total,JUSTIN L MAGILL(CON),12
+Pennsburg,Total,ERIC L SETTLE(FOR),5
+Pennsburg,Total,UnresolvedWrite-In,1
+Pottstown 1-1,Election Day,ROBERT COWBURN(LIB),8
+Pottstown 1-1,Election Day,RICHARD L WEISS(GRE),9
+Pottstown 1-1,Election Day,JUSTIN L MAGILL(CON),5
+Pottstown 1-1,Election Day,ERIC L SETTLE(FOR),5
+Pottstown 1-1,Election Day,UnresolvedWrite-In,3
+Pottstown 1-1,Mail-in,ROBERT COWBURN(LIB),2
+Pottstown 1-1,Mail-in,RICHARD L WEISS(GRE),4
+Pottstown 1-1,Mail-in,JUSTIN L MAGILL(CON),0
+Pottstown 1-1,Mail-in,ERIC L SETTLE(FOR),0
+Pottstown 1-1,Mail-in,UnresolvedWrite-In,0
+Pottstown 1-1,Provisional,ROBERT COWBURN(LIB),0
+Pottstown 1-1,Provisional,RICHARD L WEISS(GRE),1
+Pottstown 1-1,Provisional,JUSTIN L MAGILL(CON),0
+Pottstown 1-1,Provisional,ERIC L SETTLE(FOR),1
+Pottstown 1-1,Provisional,UnresolvedWrite-In,0
+Pottstown 1-1,Total,ROBERT COWBURN(LIB),10
+Pottstown 1-1,Total,RICHARD L WEISS(GRE),14
+Pottstown 1-1,Total,JUSTIN L MAGILL(CON),5
+Pottstown 1-1,Total,ERIC L SETTLE(FOR),6
+Pottstown 1-1,Total,UnresolvedWrite-In,3
+Pottstown 1-2,Election Day,ROBERT COWBURN(LIB),5
+Pottstown 1-2,Election Day,RICHARD L WEISS(GRE),5
+Pottstown 1-2,Election Day,JUSTIN L MAGILL(CON),5
+Pottstown 1-2,Election Day,ERIC L SETTLE(FOR),1
+Pottstown 1-2,Election Day,UnresolvedWrite-In,0
+Pottstown 1-2,Mail-in,ROBERT COWBURN(LIB),1
+Pottstown 1-2,Mail-in,RICHARD L WEISS(GRE),2
+Pottstown 1-2,Mail-in,JUSTIN L MAGILL(CON),0
+Pottstown 1-2,Mail-in,ERIC L SETTLE(FOR),1
+Pottstown 1-2,Mail-in,UnresolvedWrite-In,1
+Pottstown 1-2,Provisional,ROBERT COWBURN(LIB),0
+Pottstown 1-2,Provisional,RICHARD L WEISS(GRE),1
+Pottstown 1-2,Provisional,JUSTIN L MAGILL(CON),0
+Pottstown 1-2,Provisional,ERIC L SETTLE(FOR),0
+Pottstown 1-2,Provisional,UnresolvedWrite-In,0
+Pottstown 1-2,Total,ROBERT COWBURN(LIB),6
+Pottstown 1-2,Total,RICHARD L WEISS(GRE),8
+Pottstown 1-2,Total,JUSTIN L MAGILL(CON),5
+Pottstown 1-2,Total,ERIC L SETTLE(FOR),2
+Pottstown 1-2,Total,UnresolvedWrite-In,1
+Pottstown 2-1,Election Day,ROBERT COWBURN(LIB),13
+Pottstown 2-1,Election Day,RICHARD L WEISS(GRE),16
+Pottstown 2-1,Election Day,JUSTIN L MAGILL(CON),4
+Pottstown 2-1,Election Day,ERIC L SETTLE(FOR),6
+Pottstown 2-1,Election Day,UnresolvedWrite-In,1
+Pottstown 2-1,Mail-in,ROBERT COWBURN(LIB),4
+Pottstown 2-1,Mail-in,RICHARD L WEISS(GRE),3
+Pottstown 2-1,Mail-in,JUSTIN L MAGILL(CON),1
+Pottstown 2-1,Mail-in,ERIC L SETTLE(FOR),0
+Pottstown 2-1,Mail-in,UnresolvedWrite-In,0
+Pottstown 2-1,Provisional,ROBERT COWBURN(LIB),1
+Pottstown 2-1,Provisional,RICHARD L WEISS(GRE),0
+Pottstown 2-1,Provisional,JUSTIN L MAGILL(CON),0
+Pottstown 2-1,Provisional,ERIC L SETTLE(FOR),0
+Pottstown 2-1,Provisional,UnresolvedWrite-In,0
+Pottstown 2-1,Total,ROBERT COWBURN(LIB),18
+Pottstown 2-1,Total,RICHARD L WEISS(GRE),19
+Pottstown 2-1,Total,JUSTIN L MAGILL(CON),5
+Pottstown 2-1,Total,ERIC L SETTLE(FOR),6
+Pottstown 2-1,Total,UnresolvedWrite-In,1

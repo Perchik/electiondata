@@ -1,0 +1,21 @@
+precinct,method,candidate,votes
+Ambler 1,Election Day,UnresolvedWrite-In,****
+Ambler 1,Mail-in,UnresolvedWrite-In,****
+Ambler 1,Provisional,UnresolvedWrite-In,****
+Ambler 1,Total,UnresolvedWrite-In,2
+Ambler 2,Election Day,UnresolvedWrite-In,1
+Ambler 2,Mail-in,UnresolvedWrite-In,0
+Ambler 2,Provisional,UnresolvedWrite-In,0
+Ambler 2,Total,UnresolvedWrite-In,1
+Ambler 3,Election Day,UnresolvedWrite-In,****
+Ambler 3,Mail-in,UnresolvedWrite-In,****
+Ambler 3,Provisional,UnresolvedWrite-In,****
+Ambler 3,Total,UnresolvedWrite-In,3
+Bryn Athyn,Election Day,UnresolvedWrite-In,****
+Bryn Athyn,Mail-in,UnresolvedWrite-In,****
+Bryn Athyn,Provisional,UnresolvedWrite-In,****
+Bryn Athyn,Total,UnresolvedWrite-In,2
+Collegeville 1,Election Day,UnresolvedWrite-In,0
+Collegeville 1,Mail-in,UnresolvedWrite-In,0
+Collegeville 1,Provisional,UnresolvedWrite-In,0
+Collegeville 1,Total,UnresolvedWrite-In,0

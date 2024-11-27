@@ -1,0 +1,25 @@
+precinct,method,candidate,votes
+Hatfield 4-2,Election Day,UnresolvedWrite-In,****
+Hatfield 4-2,Mail-in,UnresolvedWrite-In,****
+Hatfield 4-2,Provisional,UnresolvedWrite-In,****
+Hatfield 4-2,Total,UnresolvedWrite-In,1
+Hatfield 5-1,Election Day,UnresolvedWrite-In,****
+Hatfield 5-1,Mail-in,UnresolvedWrite-In,****
+Hatfield 5-1,Provisional,UnresolvedWrite-In,****
+Hatfield 5-1,Total,UnresolvedWrite-In,1
+Hatfield 5-2,Election Day,UnresolvedWrite-In,3
+Hatfield 5-2,Mail-in,UnresolvedWrite-In,1
+Hatfield 5-2,Provisional,UnresolvedWrite-In,0
+Hatfield 5-2,Total,UnresolvedWrite-In,4
+Horsham 1-1,Election Day,UnresolvedWrite-In,1
+Horsham 1-1,Mail-in,UnresolvedWrite-In,0
+Horsham 1-1,Provisional,UnresolvedWrite-In,0
+Horsham 1-1,Total,UnresolvedWrite-In,1
+Horsham 1-2,Election Day,UnresolvedWrite-In,1
+Horsham 1-2,Mail-in,UnresolvedWrite-In,1
+Horsham 1-2,Provisional,UnresolvedWrite-In,0
+Horsham 1-2,Total,UnresolvedWrite-In,2
+Horsham 1-3,Election Day,UnresolvedWrite-In,****
+Horsham 1-3,Mail-in,UnresolvedWrite-In,****
+Horsham 1-3,Provisional,UnresolvedWrite-In,****
+Horsham 1-3,Total,UnresolvedWrite-In,1

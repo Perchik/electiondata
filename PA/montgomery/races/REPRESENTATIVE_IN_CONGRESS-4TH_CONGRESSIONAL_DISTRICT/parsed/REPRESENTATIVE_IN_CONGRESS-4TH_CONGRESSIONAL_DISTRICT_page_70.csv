@@ -1,0 +1,25 @@
+precinct,method,candidate,votes
+Lower Salford 6,Election Day,UnresolvedWrite-In,4
+Lower Salford 6,Mail-in,UnresolvedWrite-In,0
+Lower Salford 6,Provisional,UnresolvedWrite-In,0
+Lower Salford 6,Total,UnresolvedWrite-In,4
+Skippack 1,Election Day,UnresolvedWrite-In,1
+Skippack 1,Mail-in,UnresolvedWrite-In,0
+Skippack 1,Provisional,UnresolvedWrite-In,0
+Skippack 1,Total,UnresolvedWrite-In,1
+Skippack 2,Election Day,UnresolvedWrite-In,0
+Skippack 2,Mail-in,UnresolvedWrite-In,2
+Skippack 2,Provisional,UnresolvedWrite-In,0
+Skippack 2,Total,UnresolvedWrite-In,2
+Skippack 3,Election Day,UnresolvedWrite-In,2
+Skippack 3,Mail-in,UnresolvedWrite-In,1
+Skippack 3,Provisional,UnresolvedWrite-In,1
+Skippack 3,Total,UnresolvedWrite-In,4
+Springfield 1-1,Election Day,UnresolvedWrite-In,****
+Springfield 1-1,Mail-in,UnresolvedWrite-In,****
+Springfield 1-1,Provisional,UnresolvedWrite-In,****
+Springfield 1-1,Total,UnresolvedWrite-In,3
+Springfield 1-2,Election Day,UnresolvedWrite-In,1
+Springfield 1-2,Mail-in,UnresolvedWrite-In,0
+Springfield 1-2,Provisional,UnresolvedWrite-In,0
+Springfield 1-2,Total,UnresolvedWrite-In,1

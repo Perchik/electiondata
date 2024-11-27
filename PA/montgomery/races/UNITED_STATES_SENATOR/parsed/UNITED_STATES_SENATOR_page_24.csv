@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Pottstown 7-2,Election Day,JOHN C THOMAS(LIB),****
+Pottstown 7-2,Election Day,LEILA HAZOU(GRE),****
+Pottstown 7-2,Election Day,MARTY SELKER(CON),****
+Pottstown 7-2,Election Day,UnresolvedWrite-In,****
+Pottstown 7-2,Mail-in,JOHN C THOMAS(LIB),****
+Pottstown 7-2,Mail-in,LEILA HAZOU(GRE),****
+Pottstown 7-2,Mail-in,MARTY SELKER(CON),****
+Pottstown 7-2,Mail-in,UnresolvedWrite-In,****
+Pottstown 7-2,Provisional,JOHN C THOMAS(LIB),****
+Pottstown 7-2,Provisional,LEILA HAZOU(GRE),****
+Pottstown 7-2,Provisional,MARTY SELKER(CON),****
+Pottstown 7-2,Provisional,UnresolvedWrite-In,****
+Pottstown 7-2,Total,JOHN C THOMAS(LIB),10
+Pottstown 7-2,Total,LEILA HAZOU(GRE),5
+Pottstown 7-2,Total,MARTY SELKER(CON),4
+Pottstown 7-2,Total,UnresolvedWrite-In,2
+Red Hill,Election Day,JOHN C THOMAS(LIB),23
+Red Hill,Election Day,LEILA HAZOU(GRE),13
+Red Hill,Election Day,MARTY SELKER(CON),7
+Red Hill,Election Day,UnresolvedWrite-In,1
+Red Hill,Mail-in,JOHN C THOMAS(LIB),4
+Red Hill,Mail-in,LEILA HAZOU(GRE),5
+Red Hill,Mail-in,MARTY SELKER(CON),2
+Red Hill,Mail-in,UnresolvedWrite-In,0
+Red Hill,Provisional,JOHN C THOMAS(LIB),0
+Red Hill,Provisional,LEILA HAZOU(GRE),0
+Red Hill,Provisional,MARTY SELKER(CON),0
+Red Hill,Provisional,UnresolvedWrite-In,0
+Red Hill,Total,JOHN C THOMAS(LIB),27
+Red Hill,Total,LEILA HAZOU(GRE),18
+Red Hill,Total,MARTY SELKER(CON),9
+Red Hill,Total,UnresolvedWrite-In,1
+Rockledge,Election Day,JOHN C THOMAS(LIB),****
+Rockledge,Election Day,LEILA HAZOU(GRE),****
+Rockledge,Election Day,MARTY SELKER(CON),****
+Rockledge,Election Day,UnresolvedWrite-In,****
+Rockledge,Mail-in,JOHN C THOMAS(LIB),****
+Rockledge,Mail-in,LEILA HAZOU(GRE),****
+Rockledge,Mail-in,MARTY SELKER(CON),****
+Rockledge,Mail-in,UnresolvedWrite-In,****
+Rockledge,Provisional,JOHN C THOMAS(LIB),****
+Rockledge,Provisional,LEILA HAZOU(GRE),****
+Rockledge,Provisional,MARTY SELKER(CON),****
+Rockledge,Provisional,UnresolvedWrite-In,****
+Rockledge,Total,JOHN C THOMAS(LIB),25
+Rockledge,Total,LEILA HAZOU(GRE),16
+Rockledge,Total,MARTY SELKER(CON),9
+Rockledge,Total,UnresolvedWrite-In,1
+Royersford 1,Election Day,JOHN C THOMAS(LIB),****
+Royersford 1,Election Day,LEILA HAZOU(GRE),****
+Royersford 1,Election Day,MARTY SELKER(CON),****
+Royersford 1,Election Day,UnresolvedWrite-In,****
+Royersford 1,Mail-in,JOHN C THOMAS(LIB),****
+Royersford 1,Mail-in,LEILA HAZOU(GRE),****
+Royersford 1,Mail-in,MARTY SELKER(CON),****
+Royersford 1,Mail-in,UnresolvedWrite-In,****
+Royersford 1,Provisional,JOHN C THOMAS(LIB),****
+Royersford 1,Provisional,LEILA HAZOU(GRE),****
+Royersford 1,Provisional,MARTY SELKER(CON),****
+Royersford 1,Provisional,UnresolvedWrite-In,****
+Royersford 1,Total,JOHN C THOMAS(LIB),23
+Royersford 1,Total,LEILA HAZOU(GRE),25
+Royersford 1,Total,MARTY SELKER(CON),8
+Royersford 1,Total,UnresolvedWrite-In,1
+Royersford 2,Election Day,JOHN C THOMAS(LIB),****
+Royersford 2,Election Day,LEILA HAZOU(GRE),****
+Royersford 2,Election Day,MARTY SELKER(CON),****
+Royersford 2,Election Day,UnresolvedWrite-In,****
+Royersford 2,Mail-in,JOHN C THOMAS(LIB),****
+Royersford 2,Mail-in,LEILA HAZOU(GRE),****
+Royersford 2,Mail-in,MARTY SELKER(CON),****
+Royersford 2,Mail-in,UnresolvedWrite-In,****
+Royersford 2,Provisional,JOHN C THOMAS(LIB),****
+Royersford 2,Provisional,LEILA HAZOU(GRE),****
+Royersford 2,Provisional,MARTY SELKER(CON),****
+Royersford 2,Provisional,UnresolvedWrite-In,****
+Royersford 2,Total,JOHN C THOMAS(LIB),25
+Royersford 2,Total,LEILA HAZOU(GRE),18
+Royersford 2,Total,MARTY SELKER(CON),4
+Royersford 2,Total,UnresolvedWrite-In,1
+Schwenksville,Election Day,JOHN C THOMAS(LIB),****
+Schwenksville,Election Day,LEILA HAZOU(GRE),****
+Schwenksville,Election Day,MARTY SELKER(CON),****
+Schwenksville,Election Day,UnresolvedWrite-In,****
+Schwenksville,Mail-in,JOHN C THOMAS(LIB),****
+Schwenksville,Mail-in,LEILA HAZOU(GRE),****
+Schwenksville,Mail-in,MARTY SELKER(CON),****
+Schwenksville,Mail-in,UnresolvedWrite-In,****
+Schwenksville,Provisional,JOHN C THOMAS(LIB),****
+Schwenksville,Provisional,LEILA HAZOU(GRE),****
+Schwenksville,Provisional,MARTY SELKER(CON),****
+Schwenksville,Provisional,UnresolvedWrite-In,****
+Schwenksville,Total,JOHN C THOMAS(LIB),12
+Schwenksville,Total,LEILA HAZOU(GRE),8
+Schwenksville,Total,MARTY SELKER(CON),1
+Schwenksville,Total,UnresolvedWrite-In,0

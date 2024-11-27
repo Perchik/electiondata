@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Lower Providence 3-1,Election Day,ROBERT P CASEY JR(DEM),300
+Lower Providence 3-1,Election Day,DAVE MCCORMICK(REP),218
+Lower Providence 3-1,Mail-in,ROBERT P CASEY JR(DEM),197
+Lower Providence 3-1,Mail-in,DAVE MCCORMICK(REP),60
+Lower Providence 3-1,Provisional,ROBERT P CASEY JR(DEM),9
+Lower Providence 3-1,Provisional,DAVE MCCORMICK(REP),7
+Lower Providence 3-1,Total,ROBERT P CASEY JR(DEM),506
+Lower Providence 3-1,Total,DAVE MCCORMICK(REP),285
+Lower Providence 3-2,Election Day,ROBERT P CASEY JR(DEM),****
+Lower Providence 3-2,Election Day,DAVE MCCORMICK(REP),****
+Lower Providence 3-2,Mail-in,ROBERT P CASEY JR(DEM),****
+Lower Providence 3-2,Mail-in,DAVE MCCORMICK(REP),****
+Lower Providence 3-2,Provisional,ROBERT P CASEY JR(DEM),****
+Lower Providence 3-2,Provisional,DAVE MCCORMICK(REP),****
+Lower Providence 3-2,Total,ROBERT P CASEY JR(DEM),536
+Lower Providence 3-2,Total,DAVE MCCORMICK(REP),444
+Lower Providence 3-3,Election Day,ROBERT P CASEY JR(DEM),718
+Lower Providence 3-3,Election Day,DAVE MCCORMICK(REP),623
+Lower Providence 3-3,Mail-in,ROBERT P CASEY JR(DEM),622
+Lower Providence 3-3,Mail-in,DAVE MCCORMICK(REP),233
+Lower Providence 3-3,Provisional,ROBERT P CASEY JR(DEM),5
+Lower Providence 3-3,Provisional,DAVE MCCORMICK(REP),7
+Lower Providence 3-3,Total,ROBERT P CASEY JR(DEM),"1,345"
+Lower Providence 3-3,Total,DAVE MCCORMICK(REP),863
+Lower Providence 3-4,Election Day,ROBERT P CASEY JR(DEM),201
+Lower Providence 3-4,Election Day,DAVE MCCORMICK(REP),240
+Lower Providence 3-4,Mail-in,ROBERT P CASEY JR(DEM),854
+Lower Providence 3-4,Mail-in,DAVE MCCORMICK(REP),389
+Lower Providence 3-4,Provisional,ROBERT P CASEY JR(DEM),7
+Lower Providence 3-4,Provisional,DAVE MCCORMICK(REP),10
+Lower Providence 3-4,Total,ROBERT P CASEY JR(DEM),"1,062"
+Lower Providence 3-4,Total,DAVE MCCORMICK(REP),639
+Salford,Election Day,ROBERT P CASEY JR(DEM),472
+Salford,Election Day,DAVE MCCORMICK(REP),"1,048"
+Salford,Mail-in,ROBERT P CASEY JR(DEM),248
+Salford,Mail-in,DAVE MCCORMICK(REP),195
+Salford,Provisional,ROBERT P CASEY JR(DEM),3
+Salford,Provisional,DAVE MCCORMICK(REP),10
+Salford,Total,ROBERT P CASEY JR(DEM),723
+Salford,Total,DAVE MCCORMICK(REP),"1,253"
+Marlborough,Election Day,ROBERT P CASEY JR(DEM),438
+Marlborough,Election Day,DAVE MCCORMICK(REP),"1,131"
+Marlborough,Mail-in,ROBERT P CASEY JR(DEM),433
+Marlborough,Mail-in,DAVE MCCORMICK(REP),274
+Marlborough,Provisional,ROBERT P CASEY JR(DEM),13
+Marlborough,Provisional,DAVE MCCORMICK(REP),8
+Marlborough,Total,ROBERT P CASEY JR(DEM),884
+Marlborough,Total,DAVE MCCORMICK(REP),"1,413"

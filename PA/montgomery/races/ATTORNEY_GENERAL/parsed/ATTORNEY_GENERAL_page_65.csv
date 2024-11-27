@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Limerick 3,Election Day,EUGENE DEPASQUALE(DEM),587
+Limerick 3,Election Day,DAVE SUNDAY(REP),909
+Limerick 3,Mail-in,EUGENE DEPASQUALE(DEM),464
+Limerick 3,Mail-in,DAVE SUNDAY(REP),304
+Limerick 3,Provisional,EUGENE DEPASQUALE(DEM),6
+Limerick 3,Provisional,DAVE SUNDAY(REP),5
+Limerick 3,Total,EUGENE DEPASQUALE(DEM),"1,057"
+Limerick 3,Total,DAVE SUNDAY(REP),"1,218"
+Limerick 4,Election Day,EUGENE DEPASQUALE(DEM),579
+Limerick 4,Election Day,DAVE SUNDAY(REP),703
+Limerick 4,Mail-in,EUGENE DEPASQUALE(DEM),426
+Limerick 4,Mail-in,DAVE SUNDAY(REP),182
+Limerick 4,Provisional,EUGENE DEPASQUALE(DEM),12
+Limerick 4,Provisional,DAVE SUNDAY(REP),5
+Limerick 4,Total,EUGENE DEPASQUALE(DEM),"1,017"
+Limerick 4,Total,DAVE SUNDAY(REP),890
+Limerick 5,Election Day,EUGENE DEPASQUALE(DEM),469
+Limerick 5,Election Day,DAVE SUNDAY(REP),997
+Limerick 5,Mail-in,EUGENE DEPASQUALE(DEM),322
+Limerick 5,Mail-in,DAVE SUNDAY(REP),248
+Limerick 5,Provisional,EUGENE DEPASQUALE(DEM),10
+Limerick 5,Provisional,DAVE SUNDAY(REP),6
+Limerick 5,Total,EUGENE DEPASQUALE(DEM),801
+Limerick 5,Total,DAVE SUNDAY(REP),"1,251"
+Limerick 6,Election Day,EUGENE DEPASQUALE(DEM),546
+Limerick 6,Election Day,DAVE SUNDAY(REP),760
+Limerick 6,Mail-in,EUGENE DEPASQUALE(DEM),320
+Limerick 6,Mail-in,DAVE SUNDAY(REP),184
+Limerick 6,Provisional,EUGENE DEPASQUALE(DEM),8
+Limerick 6,Provisional,DAVE SUNDAY(REP),3
+Limerick 6,Total,EUGENE DEPASQUALE(DEM),874
+Limerick 6,Total,DAVE SUNDAY(REP),947
+Lower Frederick 1,Election Day,EUGENE DEPASQUALE(DEM),****
+Lower Frederick 1,Election Day,DAVE SUNDAY(REP),****
+Lower Frederick 1,Mail-in,EUGENE DEPASQUALE(DEM),****
+Lower Frederick 1,Mail-in,DAVE SUNDAY(REP),****
+Lower Frederick 1,Provisional,EUGENE DEPASQUALE(DEM),****
+Lower Frederick 1,Provisional,DAVE SUNDAY(REP),****
+Lower Frederick 1,Total,EUGENE DEPASQUALE(DEM),620
+Lower Frederick 1,Total,DAVE SUNDAY(REP),531
+Lower Frederick 2,Election Day,EUGENE DEPASQUALE(DEM),443
+Lower Frederick 2,Election Day,DAVE SUNDAY(REP),893
+Lower Frederick 2,Mail-in,EUGENE DEPASQUALE(DEM),300
+Lower Frederick 2,Mail-in,DAVE SUNDAY(REP),170
+Lower Frederick 2,Provisional,EUGENE DEPASQUALE(DEM),0
+Lower Frederick 2,Provisional,DAVE SUNDAY(REP),0
+Lower Frederick 2,Total,EUGENE DEPASQUALE(DEM),743
+Lower Frederick 2,Total,DAVE SUNDAY(REP),"1,063"

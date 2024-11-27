@@ -1,0 +1,41 @@
+precinct,method,candidate,votes
+Bridgeport 1,Election Day,MARY GAY SCANLON(DEM),****
+Bridgeport 1,Election Day,ALFEIA GOODWIN(REP),****
+Bridgeport 1,Mail-in,MARY GAY SCANLON(DEM),****
+Bridgeport 1,Mail-in,ALFEIA GOODWIN(REP),****
+Bridgeport 1,Provisional,MARY GAY SCANLON(DEM),****
+Bridgeport 1,Provisional,ALFEIA GOODWIN(REP),****
+Bridgeport 1,Total,MARY GAY SCANLON(DEM),420
+Bridgeport 1,Total,ALFEIA GOODWIN(REP),198
+Bridgeport 2,Election Day,MARY GAY SCANLON(DEM),****
+Bridgeport 2,Election Day,ALFEIA GOODWIN(REP),****
+Bridgeport 2,Mail-in,MARY GAY SCANLON(DEM),****
+Bridgeport 2,Mail-in,ALFEIA GOODWIN(REP),****
+Bridgeport 2,Provisional,MARY GAY SCANLON(DEM),****
+Bridgeport 2,Provisional,ALFEIA GOODWIN(REP),****
+Bridgeport 2,Total,MARY GAY SCANLON(DEM),491
+Bridgeport 2,Total,ALFEIA GOODWIN(REP),354
+Bridgeport 3,Election Day,MARY GAY SCANLON(DEM),406
+Bridgeport 3,Election Day,ALFEIA GOODWIN(REP),225
+Bridgeport 3,Mail-in,MARY GAY SCANLON(DEM),103
+Bridgeport 3,Mail-in,ALFEIA GOODWIN(REP),35
+Bridgeport 3,Provisional,MARY GAY SCANLON(DEM),11
+Bridgeport 3,Provisional,ALFEIA GOODWIN(REP),6
+Bridgeport 3,Total,MARY GAY SCANLON(DEM),520
+Bridgeport 3,Total,ALFEIA GOODWIN(REP),266
+Narberth 1,Election Day,MARY GAY SCANLON(DEM),****
+Narberth 1,Election Day,ALFEIA GOODWIN(REP),****
+Narberth 1,Mail-in,MARY GAY SCANLON(DEM),****
+Narberth 1,Mail-in,ALFEIA GOODWIN(REP),****
+Narberth 1,Provisional,MARY GAY SCANLON(DEM),****
+Narberth 1,Provisional,ALFEIA GOODWIN(REP),****
+Narberth 1,Total,MARY GAY SCANLON(DEM),751
+Narberth 1,Total,ALFEIA GOODWIN(REP),145
+Narberth 2,Election Day,MARY GAY SCANLON(DEM),****
+Narberth 2,Election Day,ALFEIA GOODWIN(REP),****
+Narberth 2,Mail-in,MARY GAY SCANLON(DEM),****
+Narberth 2,Mail-in,ALFEIA GOODWIN(REP),****
+Narberth 2,Provisional,MARY GAY SCANLON(DEM),****
+Narberth 2,Provisional,ALFEIA GOODWIN(REP),****
+Narberth 2,Total,MARY GAY SCANLON(DEM),"1,281"
+Narberth 2,Total,ALFEIA GOODWIN(REP),236

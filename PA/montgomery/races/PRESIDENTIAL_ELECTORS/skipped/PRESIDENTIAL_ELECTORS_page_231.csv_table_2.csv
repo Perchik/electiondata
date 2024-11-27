@@ -1,0 +1,33 @@
+0,1,2
+Precinct,Times Cast,"Registered 
+Voters"
+Montgomery 7,,
+Election Day,"1,590","3,643"
+Mail-in,"1,487","3,643"
+Provisional,26,"3,643"
+Total,"3,103","3,643"
+Montgomery 8,,
+Election Day,"1,675","4,024"
+Mail-in,"1,623","4,024"
+Provisional,40,"4,024"
+Total,"3,338","4,024"
+New Hanover 1,,
+Election Day,"1,807","3,321"
+Mail-in,987,"3,321"
+Provisional,13,"3,321"
+Total,"2,807","3,321"
+New Hanover 2,,
+Election Day,"1,509","2,732"
+Mail-in,870,"2,732"
+Provisional,15,"2,732"
+Total,"2,394","2,732"
+New Hanover 3,,
+Election Day,"2,075","3,540"
+Mail-in,933,"3,540"
+Provisional,15,"3,540"
+Total,"3,023","3,540"
+Perkiomen 1,,
+Election Day,"1,632","3,228"
+Mail-in,"1,110","3,228"
+Provisional,15,"3,228"
+Total,"2,757","3,228"

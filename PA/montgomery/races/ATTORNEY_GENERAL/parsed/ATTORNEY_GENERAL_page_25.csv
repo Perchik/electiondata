@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Souderton 1,Election Day,EUGENE DEPASQUALE(DEM),****
+Souderton 1,Election Day,DAVE SUNDAY(REP),****
+Souderton 1,Mail-in,EUGENE DEPASQUALE(DEM),****
+Souderton 1,Mail-in,DAVE SUNDAY(REP),****
+Souderton 1,Provisional,EUGENE DEPASQUALE(DEM),****
+Souderton 1,Provisional,DAVE SUNDAY(REP),****
+Souderton 1,Total,EUGENE DEPASQUALE(DEM),589
+Souderton 1,Total,DAVE SUNDAY(REP),696
+Souderton 2,Election Day,EUGENE DEPASQUALE(DEM),372
+Souderton 2,Election Day,DAVE SUNDAY(REP),564
+Souderton 2,Mail-in,EUGENE DEPASQUALE(DEM),152
+Souderton 2,Mail-in,DAVE SUNDAY(REP),110
+Souderton 2,Provisional,EUGENE DEPASQUALE(DEM),7
+Souderton 2,Provisional,DAVE SUNDAY(REP),4
+Souderton 2,Total,EUGENE DEPASQUALE(DEM),531
+Souderton 2,Total,DAVE SUNDAY(REP),678
+Souderton 3,Election Day,EUGENE DEPASQUALE(DEM),****
+Souderton 3,Election Day,DAVE SUNDAY(REP),****
+Souderton 3,Mail-in,EUGENE DEPASQUALE(DEM),****
+Souderton 3,Mail-in,DAVE SUNDAY(REP),****
+Souderton 3,Provisional,EUGENE DEPASQUALE(DEM),****
+Souderton 3,Provisional,DAVE SUNDAY(REP),****
+Souderton 3,Total,EUGENE DEPASQUALE(DEM),465
+Souderton 3,Total,DAVE SUNDAY(REP),525
+Telford,Election Day,EUGENE DEPASQUALE(DEM),402
+Telford,Election Day,DAVE SUNDAY(REP),601
+Telford,Mail-in,EUGENE DEPASQUALE(DEM),207
+Telford,Mail-in,DAVE SUNDAY(REP),104
+Telford,Provisional,EUGENE DEPASQUALE(DEM),9
+Telford,Provisional,DAVE SUNDAY(REP),6
+Telford,Total,EUGENE DEPASQUALE(DEM),618
+Telford,Total,DAVE SUNDAY(REP),711
+Trappe Boro,Election Day,EUGENE DEPASQUALE(DEM),710
+Trappe Boro,Election Day,DAVE SUNDAY(REP),861
+Trappe Boro,Mail-in,EUGENE DEPASQUALE(DEM),553
+Trappe Boro,Mail-in,DAVE SUNDAY(REP),316
+Trappe Boro,Provisional,EUGENE DEPASQUALE(DEM),14
+Trappe Boro,Provisional,DAVE SUNDAY(REP),7
+Trappe Boro,Total,EUGENE DEPASQUALE(DEM),"1,277"
+Trappe Boro,Total,DAVE SUNDAY(REP),"1,184"
+West Conshohocken,Election Day,EUGENE DEPASQUALE(DEM),****
+West Conshohocken,Election Day,DAVE SUNDAY(REP),****
+West Conshohocken,Mail-in,EUGENE DEPASQUALE(DEM),****
+West Conshohocken,Mail-in,DAVE SUNDAY(REP),****
+West Conshohocken,Provisional,EUGENE DEPASQUALE(DEM),****
+West Conshohocken,Provisional,DAVE SUNDAY(REP),****
+West Conshohocken,Total,EUGENE DEPASQUALE(DEM),545
+West Conshohocken,Total,DAVE SUNDAY(REP),403

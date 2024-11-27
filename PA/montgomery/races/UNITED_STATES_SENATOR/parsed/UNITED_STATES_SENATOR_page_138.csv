@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Whitemarsh West 1,Election Day,JOHN C THOMAS(LIB),11
+Whitemarsh West 1,Election Day,LEILA HAZOU(GRE),5
+Whitemarsh West 1,Election Day,MARTY SELKER(CON),1
+Whitemarsh West 1,Election Day,UnresolvedWrite-In,1
+Whitemarsh West 1,Mail-in,JOHN C THOMAS(LIB),0
+Whitemarsh West 1,Mail-in,LEILA HAZOU(GRE),10
+Whitemarsh West 1,Mail-in,MARTY SELKER(CON),1
+Whitemarsh West 1,Mail-in,UnresolvedWrite-In,0
+Whitemarsh West 1,Provisional,JOHN C THOMAS(LIB),0
+Whitemarsh West 1,Provisional,LEILA HAZOU(GRE),0
+Whitemarsh West 1,Provisional,MARTY SELKER(CON),0
+Whitemarsh West 1,Provisional,UnresolvedWrite-In,0
+Whitemarsh West 1,Total,JOHN C THOMAS(LIB),11
+Whitemarsh West 1,Total,LEILA HAZOU(GRE),15
+Whitemarsh West 1,Total,MARTY SELKER(CON),2
+Whitemarsh West 1,Total,UnresolvedWrite-In,1
+Whitemarsh West 2,Election Day,JOHN C THOMAS(LIB),17
+Whitemarsh West 2,Election Day,LEILA HAZOU(GRE),10
+Whitemarsh West 2,Election Day,MARTY SELKER(CON),2
+Whitemarsh West 2,Election Day,UnresolvedWrite-In,3
+Whitemarsh West 2,Mail-in,JOHN C THOMAS(LIB),1
+Whitemarsh West 2,Mail-in,LEILA HAZOU(GRE),3
+Whitemarsh West 2,Mail-in,MARTY SELKER(CON),0
+Whitemarsh West 2,Mail-in,UnresolvedWrite-In,1
+Whitemarsh West 2,Provisional,JOHN C THOMAS(LIB),0
+Whitemarsh West 2,Provisional,LEILA HAZOU(GRE),1
+Whitemarsh West 2,Provisional,MARTY SELKER(CON),0
+Whitemarsh West 2,Provisional,UnresolvedWrite-In,0
+Whitemarsh West 2,Total,JOHN C THOMAS(LIB),18
+Whitemarsh West 2,Total,LEILA HAZOU(GRE),14
+Whitemarsh West 2,Total,MARTY SELKER(CON),2
+Whitemarsh West 2,Total,UnresolvedWrite-In,4
+Whitemarsh West 3,Election Day,JOHN C THOMAS(LIB),4
+Whitemarsh West 3,Election Day,LEILA HAZOU(GRE),3
+Whitemarsh West 3,Election Day,MARTY SELKER(CON),2
+Whitemarsh West 3,Election Day,UnresolvedWrite-In,1
+Whitemarsh West 3,Mail-in,JOHN C THOMAS(LIB),2
+Whitemarsh West 3,Mail-in,LEILA HAZOU(GRE),2
+Whitemarsh West 3,Mail-in,MARTY SELKER(CON),0
+Whitemarsh West 3,Mail-in,UnresolvedWrite-In,0
+Whitemarsh West 3,Provisional,JOHN C THOMAS(LIB),0
+Whitemarsh West 3,Provisional,LEILA HAZOU(GRE),0
+Whitemarsh West 3,Provisional,MARTY SELKER(CON),0
+Whitemarsh West 3,Provisional,UnresolvedWrite-In,0
+Whitemarsh West 3,Total,JOHN C THOMAS(LIB),6
+Whitemarsh West 3,Total,LEILA HAZOU(GRE),5
+Whitemarsh West 3,Total,MARTY SELKER(CON),2
+Whitemarsh West 3,Total,UnresolvedWrite-In,1
+Whitpain 1,Election Day,JOHN C THOMAS(LIB),9
+Whitpain 1,Election Day,LEILA HAZOU(GRE),4
+Whitpain 1,Election Day,MARTY SELKER(CON),1
+Whitpain 1,Election Day,UnresolvedWrite-In,0
+Whitpain 1,Mail-in,JOHN C THOMAS(LIB),2
+Whitpain 1,Mail-in,LEILA HAZOU(GRE),9
+Whitpain 1,Mail-in,MARTY SELKER(CON),1
+Whitpain 1,Mail-in,UnresolvedWrite-In,0
+Whitpain 1,Provisional,JOHN C THOMAS(LIB),0
+Whitpain 1,Provisional,LEILA HAZOU(GRE),0
+Whitpain 1,Provisional,MARTY SELKER(CON),0
+Whitpain 1,Provisional,UnresolvedWrite-In,0
+Whitpain 1,Total,JOHN C THOMAS(LIB),11
+Whitpain 1,Total,LEILA HAZOU(GRE),13
+Whitpain 1,Total,MARTY SELKER(CON),2
+Whitpain 1,Total,UnresolvedWrite-In,0
+Whitpain 2,Election Day,JOHN C THOMAS(LIB),2
+Whitpain 2,Election Day,LEILA HAZOU(GRE),3
+Whitpain 2,Election Day,MARTY SELKER(CON),0
+Whitpain 2,Election Day,UnresolvedWrite-In,0
+Whitpain 2,Mail-in,JOHN C THOMAS(LIB),2
+Whitpain 2,Mail-in,LEILA HAZOU(GRE),2
+Whitpain 2,Mail-in,MARTY SELKER(CON),0
+Whitpain 2,Mail-in,UnresolvedWrite-In,0
+Whitpain 2,Provisional,JOHN C THOMAS(LIB),0
+Whitpain 2,Provisional,LEILA HAZOU(GRE),0
+Whitpain 2,Provisional,MARTY SELKER(CON),0
+Whitpain 2,Provisional,UnresolvedWrite-In,0
+Whitpain 2,Total,JOHN C THOMAS(LIB),4
+Whitpain 2,Total,LEILA HAZOU(GRE),5
+Whitpain 2,Total,MARTY SELKER(CON),0
+Whitpain 2,Total,UnresolvedWrite-In,0
+Whitpain 3,Election Day,JOHN C THOMAS(LIB),****
+Whitpain 3,Election Day,LEILA HAZOU(GRE),****
+Whitpain 3,Election Day,MARTY SELKER(CON),****
+Whitpain 3,Election Day,UnresolvedWrite-In,****
+Whitpain 3,Mail-in,JOHN C THOMAS(LIB),****
+Whitpain 3,Mail-in,LEILA HAZOU(GRE),****
+Whitpain 3,Mail-in,MARTY SELKER(CON),****
+Whitpain 3,Mail-in,UnresolvedWrite-In,****
+Whitpain 3,Provisional,JOHN C THOMAS(LIB),****
+Whitpain 3,Provisional,LEILA HAZOU(GRE),****
+Whitpain 3,Provisional,MARTY SELKER(CON),****
+Whitpain 3,Provisional,UnresolvedWrite-In,****
+Whitpain 3,Total,JOHN C THOMAS(LIB),3
+Whitpain 3,Total,LEILA HAZOU(GRE),3
+Whitpain 3,Total,MARTY SELKER(CON),1
+Whitpain 3,Total,UnresolvedWrite-In,0

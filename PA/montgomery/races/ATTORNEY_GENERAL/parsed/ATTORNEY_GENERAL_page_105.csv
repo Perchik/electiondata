@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Springfield 5-2,Election Day,EUGENE DEPASQUALE(DEM),****
+Springfield 5-2,Election Day,DAVE SUNDAY(REP),****
+Springfield 5-2,Mail-in,EUGENE DEPASQUALE(DEM),****
+Springfield 5-2,Mail-in,DAVE SUNDAY(REP),****
+Springfield 5-2,Provisional,EUGENE DEPASQUALE(DEM),****
+Springfield 5-2,Provisional,DAVE SUNDAY(REP),****
+Springfield 5-2,Total,EUGENE DEPASQUALE(DEM),413
+Springfield 5-2,Total,DAVE SUNDAY(REP),148
+Springfield 6-1,Election Day,EUGENE DEPASQUALE(DEM),****
+Springfield 6-1,Election Day,DAVE SUNDAY(REP),****
+Springfield 6-1,Mail-in,EUGENE DEPASQUALE(DEM),****
+Springfield 6-1,Mail-in,DAVE SUNDAY(REP),****
+Springfield 6-1,Provisional,EUGENE DEPASQUALE(DEM),****
+Springfield 6-1,Provisional,DAVE SUNDAY(REP),****
+Springfield 6-1,Total,EUGENE DEPASQUALE(DEM),407
+Springfield 6-1,Total,DAVE SUNDAY(REP),349
+Springfield 6-2,Election Day,EUGENE DEPASQUALE(DEM),****
+Springfield 6-2,Election Day,DAVE SUNDAY(REP),****
+Springfield 6-2,Mail-in,EUGENE DEPASQUALE(DEM),****
+Springfield 6-2,Mail-in,DAVE SUNDAY(REP),****
+Springfield 6-2,Provisional,EUGENE DEPASQUALE(DEM),****
+Springfield 6-2,Provisional,DAVE SUNDAY(REP),****
+Springfield 6-2,Total,EUGENE DEPASQUALE(DEM),499
+Springfield 6-2,Total,DAVE SUNDAY(REP),408
+Springfield 7-1,Election Day,EUGENE DEPASQUALE(DEM),****
+Springfield 7-1,Election Day,DAVE SUNDAY(REP),****
+Springfield 7-1,Mail-in,EUGENE DEPASQUALE(DEM),****
+Springfield 7-1,Mail-in,DAVE SUNDAY(REP),****
+Springfield 7-1,Provisional,EUGENE DEPASQUALE(DEM),****
+Springfield 7-1,Provisional,DAVE SUNDAY(REP),****
+Springfield 7-1,Total,EUGENE DEPASQUALE(DEM),555
+Springfield 7-1,Total,DAVE SUNDAY(REP),138
+Springfield 7-2,Election Day,EUGENE DEPASQUALE(DEM),****
+Springfield 7-2,Election Day,DAVE SUNDAY(REP),****
+Springfield 7-2,Mail-in,EUGENE DEPASQUALE(DEM),****
+Springfield 7-2,Mail-in,DAVE SUNDAY(REP),****
+Springfield 7-2,Provisional,EUGENE DEPASQUALE(DEM),****
+Springfield 7-2,Provisional,DAVE SUNDAY(REP),****
+Springfield 7-2,Total,EUGENE DEPASQUALE(DEM),547
+Springfield 7-2,Total,DAVE SUNDAY(REP),392
+Towamencin 1-1,Election Day,EUGENE DEPASQUALE(DEM),414
+Towamencin 1-1,Election Day,DAVE SUNDAY(REP),438
+Towamencin 1-1,Mail-in,EUGENE DEPASQUALE(DEM),310
+Towamencin 1-1,Mail-in,DAVE SUNDAY(REP),153
+Towamencin 1-1,Provisional,EUGENE DEPASQUALE(DEM),9
+Towamencin 1-1,Provisional,DAVE SUNDAY(REP),2
+Towamencin 1-1,Total,EUGENE DEPASQUALE(DEM),733
+Towamencin 1-1,Total,DAVE SUNDAY(REP),593

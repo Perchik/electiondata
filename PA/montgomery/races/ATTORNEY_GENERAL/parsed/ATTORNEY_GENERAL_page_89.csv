@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Lower Providence 3-1,Election Day,EUGENE DEPASQUALE(DEM),272
+Lower Providence 3-1,Election Day,DAVE SUNDAY(REP),238
+Lower Providence 3-1,Mail-in,EUGENE DEPASQUALE(DEM),183
+Lower Providence 3-1,Mail-in,DAVE SUNDAY(REP),70
+Lower Providence 3-1,Provisional,EUGENE DEPASQUALE(DEM),9
+Lower Providence 3-1,Provisional,DAVE SUNDAY(REP),7
+Lower Providence 3-1,Total,EUGENE DEPASQUALE(DEM),464
+Lower Providence 3-1,Total,DAVE SUNDAY(REP),315
+Lower Providence 3-2,Election Day,EUGENE DEPASQUALE(DEM),****
+Lower Providence 3-2,Election Day,DAVE SUNDAY(REP),****
+Lower Providence 3-2,Mail-in,EUGENE DEPASQUALE(DEM),****
+Lower Providence 3-2,Mail-in,DAVE SUNDAY(REP),****
+Lower Providence 3-2,Provisional,EUGENE DEPASQUALE(DEM),****
+Lower Providence 3-2,Provisional,DAVE SUNDAY(REP),****
+Lower Providence 3-2,Total,EUGENE DEPASQUALE(DEM),477
+Lower Providence 3-2,Total,DAVE SUNDAY(REP),484
+Lower Providence 3-3,Election Day,EUGENE DEPASQUALE(DEM),685
+Lower Providence 3-3,Election Day,DAVE SUNDAY(REP),649
+Lower Providence 3-3,Mail-in,EUGENE DEPASQUALE(DEM),573
+Lower Providence 3-3,Mail-in,DAVE SUNDAY(REP),257
+Lower Providence 3-3,Provisional,EUGENE DEPASQUALE(DEM),5
+Lower Providence 3-3,Provisional,DAVE SUNDAY(REP),7
+Lower Providence 3-3,Total,EUGENE DEPASQUALE(DEM),"1,263"
+Lower Providence 3-3,Total,DAVE SUNDAY(REP),913
+Lower Providence 3-4,Election Day,EUGENE DEPASQUALE(DEM),178
+Lower Providence 3-4,Election Day,DAVE SUNDAY(REP),257
+Lower Providence 3-4,Mail-in,EUGENE DEPASQUALE(DEM),779
+Lower Providence 3-4,Mail-in,DAVE SUNDAY(REP),453
+Lower Providence 3-4,Provisional,EUGENE DEPASQUALE(DEM),6
+Lower Providence 3-4,Provisional,DAVE SUNDAY(REP),10
+Lower Providence 3-4,Total,EUGENE DEPASQUALE(DEM),963
+Lower Providence 3-4,Total,DAVE SUNDAY(REP),720
+Salford,Election Day,EUGENE DEPASQUALE(DEM),418
+Salford,Election Day,DAVE SUNDAY(REP),"1,085"
+Salford,Mail-in,EUGENE DEPASQUALE(DEM),228
+Salford,Mail-in,DAVE SUNDAY(REP),216
+Salford,Provisional,EUGENE DEPASQUALE(DEM),3
+Salford,Provisional,DAVE SUNDAY(REP),10
+Salford,Total,EUGENE DEPASQUALE(DEM),649
+Salford,Total,DAVE SUNDAY(REP),"1,311"
+Marlborough,Election Day,EUGENE DEPASQUALE(DEM),376
+Marlborough,Election Day,DAVE SUNDAY(REP),"1,151"
+Marlborough,Mail-in,EUGENE DEPASQUALE(DEM),391
+Marlborough,Mail-in,DAVE SUNDAY(REP),307
+Marlborough,Provisional,EUGENE DEPASQUALE(DEM),10
+Marlborough,Provisional,DAVE SUNDAY(REP),9
+Marlborough,Total,EUGENE DEPASQUALE(DEM),777
+Marlborough,Total,DAVE SUNDAY(REP),"1,467"

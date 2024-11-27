@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Whitemarsh West 1,Election Day,ROBERT P CASEY JR(DEM),572
+Whitemarsh West 1,Election Day,DAVE MCCORMICK(REP),407
+Whitemarsh West 1,Mail-in,ROBERT P CASEY JR(DEM),279
+Whitemarsh West 1,Mail-in,DAVE MCCORMICK(REP),75
+Whitemarsh West 1,Provisional,ROBERT P CASEY JR(DEM),11
+Whitemarsh West 1,Provisional,DAVE MCCORMICK(REP),6
+Whitemarsh West 1,Total,ROBERT P CASEY JR(DEM),862
+Whitemarsh West 1,Total,DAVE MCCORMICK(REP),488
+Whitemarsh West 2,Election Day,ROBERT P CASEY JR(DEM),836
+Whitemarsh West 2,Election Day,DAVE MCCORMICK(REP),409
+Whitemarsh West 2,Mail-in,ROBERT P CASEY JR(DEM),551
+Whitemarsh West 2,Mail-in,DAVE MCCORMICK(REP),130
+Whitemarsh West 2,Provisional,ROBERT P CASEY JR(DEM),20
+Whitemarsh West 2,Provisional,DAVE MCCORMICK(REP),5
+Whitemarsh West 2,Total,ROBERT P CASEY JR(DEM),"1,407"
+Whitemarsh West 2,Total,DAVE MCCORMICK(REP),544
+Whitemarsh West 3,Election Day,ROBERT P CASEY JR(DEM),566
+Whitemarsh West 3,Election Day,DAVE MCCORMICK(REP),301
+Whitemarsh West 3,Mail-in,ROBERT P CASEY JR(DEM),444
+Whitemarsh West 3,Mail-in,DAVE MCCORMICK(REP),126
+Whitemarsh West 3,Provisional,ROBERT P CASEY JR(DEM),18
+Whitemarsh West 3,Provisional,DAVE MCCORMICK(REP),12
+Whitemarsh West 3,Total,ROBERT P CASEY JR(DEM),"1,028"
+Whitemarsh West 3,Total,DAVE MCCORMICK(REP),439
+Whitpain 1,Election Day,ROBERT P CASEY JR(DEM),683
+Whitpain 1,Election Day,DAVE MCCORMICK(REP),506
+Whitpain 1,Mail-in,ROBERT P CASEY JR(DEM),652
+Whitpain 1,Mail-in,DAVE MCCORMICK(REP),290
+Whitpain 1,Provisional,ROBERT P CASEY JR(DEM),11
+Whitpain 1,Provisional,DAVE MCCORMICK(REP),9
+Whitpain 1,Total,ROBERT P CASEY JR(DEM),"1,346"
+Whitpain 1,Total,DAVE MCCORMICK(REP),805
+Whitpain 2,Election Day,ROBERT P CASEY JR(DEM),371
+Whitpain 2,Election Day,DAVE MCCORMICK(REP),346
+Whitpain 2,Mail-in,ROBERT P CASEY JR(DEM),329
+Whitpain 2,Mail-in,DAVE MCCORMICK(REP),147
+Whitpain 2,Provisional,ROBERT P CASEY JR(DEM),8
+Whitpain 2,Provisional,DAVE MCCORMICK(REP),3
+Whitpain 2,Total,ROBERT P CASEY JR(DEM),708
+Whitpain 2,Total,DAVE MCCORMICK(REP),496
+Whitpain 3,Election Day,ROBERT P CASEY JR(DEM),****
+Whitpain 3,Election Day,DAVE MCCORMICK(REP),****
+Whitpain 3,Mail-in,ROBERT P CASEY JR(DEM),****
+Whitpain 3,Mail-in,DAVE MCCORMICK(REP),****
+Whitpain 3,Provisional,ROBERT P CASEY JR(DEM),****
+Whitpain 3,Provisional,DAVE MCCORMICK(REP),****
+Whitpain 3,Total,ROBERT P CASEY JR(DEM),580
+Whitpain 3,Total,DAVE MCCORMICK(REP),349

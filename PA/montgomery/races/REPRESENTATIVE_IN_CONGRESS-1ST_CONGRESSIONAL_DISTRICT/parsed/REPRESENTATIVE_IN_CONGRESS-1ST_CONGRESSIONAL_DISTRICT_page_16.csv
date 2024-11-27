@@ -1,0 +1,25 @@
+precinct,method,candidate,votes
+Horsham 4-4,Election Day,UnresolvedWrite-In,****
+Horsham 4-4,Mail-in,UnresolvedWrite-In,****
+Horsham 4-4,Provisional,UnresolvedWrite-In,****
+Horsham 4-4,Total,UnresolvedWrite-In,3
+Salford,Election Day,UnresolvedWrite-In,3
+Salford,Mail-in,UnresolvedWrite-In,1
+Salford,Provisional,UnresolvedWrite-In,0
+Salford,Total,UnresolvedWrite-In,4
+Marlborough,Election Day,UnresolvedWrite-In,11
+Marlborough,Mail-in,UnresolvedWrite-In,1
+Marlborough,Provisional,UnresolvedWrite-In,0
+Marlborough,Total,UnresolvedWrite-In,12
+Montgomery 1,Election Day,UnresolvedWrite-In,****
+Montgomery 1,Mail-in,UnresolvedWrite-In,****
+Montgomery 1,Provisional,UnresolvedWrite-In,****
+Montgomery 1,Total,UnresolvedWrite-In,5
+Montgomery 2,Election Day,UnresolvedWrite-In,3
+Montgomery 2,Mail-in,UnresolvedWrite-In,3
+Montgomery 2,Provisional,UnresolvedWrite-In,0
+Montgomery 2,Total,UnresolvedWrite-In,6
+Montgomery 3,Election Day,UnresolvedWrite-In,8
+Montgomery 3,Mail-in,UnresolvedWrite-In,3
+Montgomery 3,Provisional,UnresolvedWrite-In,0
+Montgomery 3,Total,UnresolvedWrite-In,11

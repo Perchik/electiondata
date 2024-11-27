@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+East Greenville,Election Day,ROBERT P CASEY JR(DEM),471
+East Greenville,Election Day,DAVE MCCORMICK(REP),707
+East Greenville,Mail-in,ROBERT P CASEY JR(DEM),240
+East Greenville,Mail-in,DAVE MCCORMICK(REP),83
+East Greenville,Provisional,ROBERT P CASEY JR(DEM),9
+East Greenville,Provisional,DAVE MCCORMICK(REP),7
+East Greenville,Total,ROBERT P CASEY JR(DEM),720
+East Greenville,Total,DAVE MCCORMICK(REP),797
+Green Lane,Election Day,ROBERT P CASEY JR(DEM),****
+Green Lane,Election Day,DAVE MCCORMICK(REP),****
+Green Lane,Mail-in,ROBERT P CASEY JR(DEM),****
+Green Lane,Mail-in,DAVE MCCORMICK(REP),****
+Green Lane,Provisional,ROBERT P CASEY JR(DEM),****
+Green Lane,Provisional,DAVE MCCORMICK(REP),****
+Green Lane,Total,ROBERT P CASEY JR(DEM),123
+Green Lane,Total,DAVE MCCORMICK(REP),145
+Hatboro North 1,Election Day,ROBERT P CASEY JR(DEM),****
+Hatboro North 1,Election Day,DAVE MCCORMICK(REP),****
+Hatboro North 1,Mail-in,ROBERT P CASEY JR(DEM),****
+Hatboro North 1,Mail-in,DAVE MCCORMICK(REP),****
+Hatboro North 1,Provisional,ROBERT P CASEY JR(DEM),****
+Hatboro North 1,Provisional,DAVE MCCORMICK(REP),****
+Hatboro North 1,Total,ROBERT P CASEY JR(DEM),413
+Hatboro North 1,Total,DAVE MCCORMICK(REP),386
+Hatboro North 2,Election Day,ROBERT P CASEY JR(DEM),689
+Hatboro North 2,Election Day,DAVE MCCORMICK(REP),631
+Hatboro North 2,Mail-in,ROBERT P CASEY JR(DEM),343
+Hatboro North 2,Mail-in,DAVE MCCORMICK(REP),141
+Hatboro North 2,Provisional,ROBERT P CASEY JR(DEM),10
+Hatboro North 2,Provisional,DAVE MCCORMICK(REP),6
+Hatboro North 2,Total,ROBERT P CASEY JR(DEM),"1,042"
+Hatboro North 2,Total,DAVE MCCORMICK(REP),778
+Hatboro South 1,Election Day,ROBERT P CASEY JR(DEM),****
+Hatboro South 1,Election Day,DAVE MCCORMICK(REP),****
+Hatboro South 1,Mail-in,ROBERT P CASEY JR(DEM),****
+Hatboro South 1,Mail-in,DAVE MCCORMICK(REP),****
+Hatboro South 1,Provisional,ROBERT P CASEY JR(DEM),****
+Hatboro South 1,Provisional,DAVE MCCORMICK(REP),****
+Hatboro South 1,Total,ROBERT P CASEY JR(DEM),741
+Hatboro South 1,Total,DAVE MCCORMICK(REP),482
+Hatboro South 2,Election Day,ROBERT P CASEY JR(DEM),****
+Hatboro South 2,Election Day,DAVE MCCORMICK(REP),****
+Hatboro South 2,Mail-in,ROBERT P CASEY JR(DEM),****
+Hatboro South 2,Mail-in,DAVE MCCORMICK(REP),****
+Hatboro South 2,Provisional,ROBERT P CASEY JR(DEM),****
+Hatboro South 2,Provisional,DAVE MCCORMICK(REP),****
+Hatboro South 2,Total,ROBERT P CASEY JR(DEM),570
+Hatboro South 2,Total,DAVE MCCORMICK(REP),356

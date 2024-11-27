@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Horsham 4-1,Election Day,EUGENE DEPASQUALE(DEM),****
+Horsham 4-1,Election Day,DAVE SUNDAY(REP),****
+Horsham 4-1,Mail-in,EUGENE DEPASQUALE(DEM),****
+Horsham 4-1,Mail-in,DAVE SUNDAY(REP),****
+Horsham 4-1,Provisional,EUGENE DEPASQUALE(DEM),****
+Horsham 4-1,Provisional,DAVE SUNDAY(REP),****
+Horsham 4-1,Total,EUGENE DEPASQUALE(DEM),467
+Horsham 4-1,Total,DAVE SUNDAY(REP),493
+Horsham 4-2,Election Day,EUGENE DEPASQUALE(DEM),****
+Horsham 4-2,Election Day,DAVE SUNDAY(REP),****
+Horsham 4-2,Mail-in,EUGENE DEPASQUALE(DEM),****
+Horsham 4-2,Mail-in,DAVE SUNDAY(REP),****
+Horsham 4-2,Provisional,EUGENE DEPASQUALE(DEM),****
+Horsham 4-2,Provisional,DAVE SUNDAY(REP),****
+Horsham 4-2,Total,EUGENE DEPASQUALE(DEM),431
+Horsham 4-2,Total,DAVE SUNDAY(REP),394
+Horsham 4-3,Election Day,EUGENE DEPASQUALE(DEM),****
+Horsham 4-3,Election Day,DAVE SUNDAY(REP),****
+Horsham 4-3,Mail-in,EUGENE DEPASQUALE(DEM),****
+Horsham 4-3,Mail-in,DAVE SUNDAY(REP),****
+Horsham 4-3,Provisional,EUGENE DEPASQUALE(DEM),****
+Horsham 4-3,Provisional,DAVE SUNDAY(REP),****
+Horsham 4-3,Total,EUGENE DEPASQUALE(DEM),262
+Horsham 4-3,Total,DAVE SUNDAY(REP),241
+Horsham 4-4,Election Day,EUGENE DEPASQUALE(DEM),****
+Horsham 4-4,Election Day,DAVE SUNDAY(REP),****
+Horsham 4-4,Mail-in,EUGENE DEPASQUALE(DEM),****
+Horsham 4-4,Mail-in,DAVE SUNDAY(REP),****
+Horsham 4-4,Provisional,EUGENE DEPASQUALE(DEM),****
+Horsham 4-4,Provisional,DAVE SUNDAY(REP),****
+Horsham 4-4,Total,EUGENE DEPASQUALE(DEM),511
+Horsham 4-4,Total,DAVE SUNDAY(REP),365
+Limerick 1,Election Day,EUGENE DEPASQUALE(DEM),718
+Limerick 1,Election Day,DAVE SUNDAY(REP),"1,073"
+Limerick 1,Mail-in,EUGENE DEPASQUALE(DEM),590
+Limerick 1,Mail-in,DAVE SUNDAY(REP),424
+Limerick 1,Provisional,EUGENE DEPASQUALE(DEM),0
+Limerick 1,Provisional,DAVE SUNDAY(REP),0
+Limerick 1,Total,EUGENE DEPASQUALE(DEM),"1,308"
+Limerick 1,Total,DAVE SUNDAY(REP),"1,497"
+Limerick 2,Election Day,EUGENE DEPASQUALE(DEM),524
+Limerick 2,Election Day,DAVE SUNDAY(REP),762
+Limerick 2,Mail-in,EUGENE DEPASQUALE(DEM),408
+Limerick 2,Mail-in,DAVE SUNDAY(REP),258
+Limerick 2,Provisional,EUGENE DEPASQUALE(DEM),6
+Limerick 2,Provisional,DAVE SUNDAY(REP),7
+Limerick 2,Total,EUGENE DEPASQUALE(DEM),938
+Limerick 2,Total,DAVE SUNDAY(REP),"1,027"

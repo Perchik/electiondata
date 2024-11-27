@@ -1,0 +1,17 @@
+precinct,method,candidate,votes
+Worcester West,Election Day,ROBERT P CASEY JR(DEM),538
+Worcester West,Election Day,DAVE MCCORMICK(REP),819
+Worcester West,Mail-in,ROBERT P CASEY JR(DEM),389
+Worcester West,Mail-in,DAVE MCCORMICK(REP),203
+Worcester West,Provisional,ROBERT P CASEY JR(DEM),5
+Worcester West,Provisional,DAVE MCCORMICK(REP),6
+Worcester West,Total,ROBERT P CASEY JR(DEM),932
+Worcester West,Total,DAVE MCCORMICK(REP),"1,028"
+Cumulative,Election Day,ROBERT P CASEY JR(DEM),0
+Cumulative,Election Day,DAVE MCCORMICK(REP),0
+Cumulative,Mail-in,ROBERT P CASEY JR(DEM),0
+Cumulative,Mail-in,DAVE MCCORMICK(REP),0
+Cumulative,Provisional,ROBERT P CASEY JR(DEM),0
+Cumulative,Provisional,DAVE MCCORMICK(REP),0
+Cumulative,Total,ROBERT P CASEY JR(DEM),0
+Cumulative,Total,DAVE MCCORMICK(REP),0

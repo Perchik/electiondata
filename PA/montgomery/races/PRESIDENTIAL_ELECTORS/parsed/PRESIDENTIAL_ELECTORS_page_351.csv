@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Whitpain 10,Election Day,KAMALA D HARRIS(DEM),439
+Whitpain 10,Election Day,DONALD J TRUMP(REP),296
+Whitpain 10,Mail-in,KAMALA D HARRIS(DEM),251
+Whitpain 10,Mail-in,DONALD J TRUMP(REP),72
+Whitpain 10,Provisional,KAMALA D HARRIS(DEM),10
+Whitpain 10,Provisional,DONALD J TRUMP(REP),4
+Whitpain 10,Total,KAMALA D HARRIS(DEM),700
+Whitpain 10,Total,DONALD J TRUMP(REP),372
+Whitpain 11,Election Day,KAMALA D HARRIS(DEM),463
+Whitpain 11,Election Day,DONALD J TRUMP(REP),313
+Whitpain 11,Mail-in,KAMALA D HARRIS(DEM),268
+Whitpain 11,Mail-in,DONALD J TRUMP(REP),108
+Whitpain 11,Provisional,KAMALA D HARRIS(DEM),9
+Whitpain 11,Provisional,DONALD J TRUMP(REP),3
+Whitpain 11,Total,KAMALA D HARRIS(DEM),740
+Whitpain 11,Total,DONALD J TRUMP(REP),424
+Whitpain 12,Election Day,KAMALA D HARRIS(DEM),****
+Whitpain 12,Election Day,DONALD J TRUMP(REP),****
+Whitpain 12,Mail-in,KAMALA D HARRIS(DEM),****
+Whitpain 12,Mail-in,DONALD J TRUMP(REP),****
+Whitpain 12,Provisional,KAMALA D HARRIS(DEM),****
+Whitpain 12,Provisional,DONALD J TRUMP(REP),****
+Whitpain 12,Total,KAMALA D HARRIS(DEM),637
+Whitpain 12,Total,DONALD J TRUMP(REP),338
+Worcester East 1,Election Day,KAMALA D HARRIS(DEM),****
+Worcester East 1,Election Day,DONALD J TRUMP(REP),****
+Worcester East 1,Mail-in,KAMALA D HARRIS(DEM),****
+Worcester East 1,Mail-in,DONALD J TRUMP(REP),****
+Worcester East 1,Provisional,KAMALA D HARRIS(DEM),****
+Worcester East 1,Provisional,DONALD J TRUMP(REP),****
+Worcester East 1,Total,KAMALA D HARRIS(DEM),868
+Worcester East 1,Total,DONALD J TRUMP(REP),665
+Worcester East 2,Election Day,KAMALA D HARRIS(DEM),678
+Worcester East 2,Election Day,DONALD J TRUMP(REP),733
+Worcester East 2,Mail-in,KAMALA D HARRIS(DEM),690
+Worcester East 2,Mail-in,DONALD J TRUMP(REP),367
+Worcester East 2,Provisional,KAMALA D HARRIS(DEM),12
+Worcester East 2,Provisional,DONALD J TRUMP(REP),11
+Worcester East 2,Total,KAMALA D HARRIS(DEM),"1,380"
+Worcester East 2,Total,DONALD J TRUMP(REP),"1,111"
+Worcester East 3,Election Day,KAMALA D HARRIS(DEM),****
+Worcester East 3,Election Day,DONALD J TRUMP(REP),****
+Worcester East 3,Mail-in,KAMALA D HARRIS(DEM),****
+Worcester East 3,Mail-in,DONALD J TRUMP(REP),****
+Worcester East 3,Provisional,KAMALA D HARRIS(DEM),****
+Worcester East 3,Provisional,DONALD J TRUMP(REP),****
+Worcester East 3,Total,KAMALA D HARRIS(DEM),667
+Worcester East 3,Total,DONALD J TRUMP(REP),695

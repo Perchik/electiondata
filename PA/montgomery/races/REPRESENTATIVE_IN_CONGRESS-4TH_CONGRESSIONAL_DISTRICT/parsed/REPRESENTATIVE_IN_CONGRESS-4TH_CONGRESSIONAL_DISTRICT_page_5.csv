@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Conshohocken 5,Election Day,MADELEINE DEAN(DEM),****
+Conshohocken 5,Election Day,DAVID WINKLER(REP),****
+Conshohocken 5,Mail-in,MADELEINE DEAN(DEM),****
+Conshohocken 5,Mail-in,DAVID WINKLER(REP),****
+Conshohocken 5,Provisional,MADELEINE DEAN(DEM),****
+Conshohocken 5,Provisional,DAVID WINKLER(REP),****
+Conshohocken 5,Total,MADELEINE DEAN(DEM),483
+Conshohocken 5,Total,DAVID WINKLER(REP),247
+Conshohocken 6,Election Day,MADELEINE DEAN(DEM),****
+Conshohocken 6,Election Day,DAVID WINKLER(REP),****
+Conshohocken 6,Mail-in,MADELEINE DEAN(DEM),****
+Conshohocken 6,Mail-in,DAVID WINKLER(REP),****
+Conshohocken 6,Provisional,MADELEINE DEAN(DEM),****
+Conshohocken 6,Provisional,DAVID WINKLER(REP),****
+Conshohocken 6,Total,MADELEINE DEAN(DEM),435
+Conshohocken 6,Total,DAVID WINKLER(REP),260
+Conshohocken 7,Election Day,MADELEINE DEAN(DEM),****
+Conshohocken 7,Election Day,DAVID WINKLER(REP),****
+Conshohocken 7,Mail-in,MADELEINE DEAN(DEM),****
+Conshohocken 7,Mail-in,DAVID WINKLER(REP),****
+Conshohocken 7,Provisional,MADELEINE DEAN(DEM),****
+Conshohocken 7,Provisional,DAVID WINKLER(REP),****
+Conshohocken 7,Total,MADELEINE DEAN(DEM),410
+Conshohocken 7,Total,DAVID WINKLER(REP),221
+Green Lane,Election Day,MADELEINE DEAN(DEM),****
+Green Lane,Election Day,DAVID WINKLER(REP),****
+Green Lane,Mail-in,MADELEINE DEAN(DEM),****
+Green Lane,Mail-in,DAVID WINKLER(REP),****
+Green Lane,Provisional,MADELEINE DEAN(DEM),****
+Green Lane,Provisional,DAVID WINKLER(REP),****
+Green Lane,Total,MADELEINE DEAN(DEM),122
+Green Lane,Total,DAVID WINKLER(REP),151
+Hatboro North 1,Election Day,MADELEINE DEAN(DEM),****
+Hatboro North 1,Election Day,DAVID WINKLER(REP),****
+Hatboro North 1,Mail-in,MADELEINE DEAN(DEM),****
+Hatboro North 1,Mail-in,DAVID WINKLER(REP),****
+Hatboro North 1,Provisional,MADELEINE DEAN(DEM),****
+Hatboro North 1,Provisional,DAVID WINKLER(REP),****
+Hatboro North 1,Total,MADELEINE DEAN(DEM),427
+Hatboro North 1,Total,DAVID WINKLER(REP),346
+Hatboro North 2,Election Day,MADELEINE DEAN(DEM),716
+Hatboro North 2,Election Day,DAVID WINKLER(REP),601
+Hatboro North 2,Mail-in,MADELEINE DEAN(DEM),375
+Hatboro North 2,Mail-in,DAVID WINKLER(REP),124
+Hatboro North 2,Provisional,MADELEINE DEAN(DEM),10
+Hatboro North 2,Provisional,DAVID WINKLER(REP),7
+Hatboro North 2,Total,MADELEINE DEAN(DEM),"1,101"
+Hatboro North 2,Total,DAVID WINKLER(REP),732

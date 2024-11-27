@@ -1,0 +1,57 @@
+precinct,method,candidate,votes
+Upper Providence Mingo 2,Election Day,MADELEINE DEAN(DEM),802
+Upper Providence Mingo 2,Election Day,DAVID WINKLER(REP),902
+Upper Providence Mingo 2,Mail-in,MADELEINE DEAN(DEM),786
+Upper Providence Mingo 2,Mail-in,DAVID WINKLER(REP),361
+Upper Providence Mingo 2,Provisional,MADELEINE DEAN(DEM),14
+Upper Providence Mingo 2,Provisional,DAVID WINKLER(REP),7
+Upper Providence Mingo 2,Total,MADELEINE DEAN(DEM),"1,602"
+Upper Providence Mingo 2,Total,DAVID WINKLER(REP),"1,270"
+"Upper Providence Mont 
+Clare",Election Day,MADELEINE DEAN(DEM),888
+"Upper Providence Mont 
+Clare",Election Day,DAVID WINKLER(REP),811
+"Upper Providence Mont 
+Clare",Mail-in,MADELEINE DEAN(DEM),"1,007"
+"Upper Providence Mont 
+Clare",Mail-in,DAVID WINKLER(REP),471
+"Upper Providence Mont 
+Clare",Provisional,MADELEINE DEAN(DEM),15
+"Upper Providence Mont 
+Clare",Provisional,DAVID WINKLER(REP),13
+"Upper Providence Mont 
+Clare",Total,MADELEINE DEAN(DEM),"1,910"
+"Upper Providence Mont 
+Clare",Total,DAVID WINKLER(REP),"1,295"
+Upper Providence Oaks,Election Day,MADELEINE DEAN(DEM),862
+Upper Providence Oaks,Election Day,DAVID WINKLER(REP),866
+Upper Providence Oaks,Mail-in,MADELEINE DEAN(DEM),"1,166"
+Upper Providence Oaks,Mail-in,DAVID WINKLER(REP),535
+Upper Providence Oaks,Provisional,MADELEINE DEAN(DEM),9
+Upper Providence Oaks,Provisional,DAVID WINKLER(REP),14
+Upper Providence Oaks,Total,MADELEINE DEAN(DEM),"2,037"
+Upper Providence Oaks,Total,DAVID WINKLER(REP),"1,415"
+Upper Providence Trappe,Election Day,MADELEINE DEAN(DEM),904
+Upper Providence Trappe,Election Day,DAVID WINKLER(REP),"1,145"
+Upper Providence Trappe,Mail-in,MADELEINE DEAN(DEM),"1,024"
+Upper Providence Trappe,Mail-in,DAVID WINKLER(REP),659
+Upper Providence Trappe,Provisional,MADELEINE DEAN(DEM),13
+Upper Providence Trappe,Provisional,DAVID WINKLER(REP),5
+Upper Providence Trappe,Total,MADELEINE DEAN(DEM),"1,941"
+Upper Providence Trappe,Total,DAVID WINKLER(REP),"1,809"
+Upper Salford,Election Day,MADELEINE DEAN(DEM),497
+Upper Salford,Election Day,DAVID WINKLER(REP),906
+Upper Salford,Mail-in,MADELEINE DEAN(DEM),357
+Upper Salford,Mail-in,DAVID WINKLER(REP),271
+Upper Salford,Provisional,MADELEINE DEAN(DEM),6
+Upper Salford,Provisional,DAVID WINKLER(REP),9
+Upper Salford,Total,MADELEINE DEAN(DEM),860
+Upper Salford,Total,DAVID WINKLER(REP),"1,186"
+West Norriton 1-1,Election Day,MADELEINE DEAN(DEM),587
+West Norriton 1-1,Election Day,DAVID WINKLER(REP),568
+West Norriton 1-1,Mail-in,MADELEINE DEAN(DEM),416
+West Norriton 1-1,Mail-in,DAVID WINKLER(REP),167
+West Norriton 1-1,Provisional,MADELEINE DEAN(DEM),10
+West Norriton 1-1,Provisional,DAVID WINKLER(REP),11
+West Norriton 1-1,Total,MADELEINE DEAN(DEM),"1,013"
+West Norriton 1-1,Total,DAVID WINKLER(REP),746

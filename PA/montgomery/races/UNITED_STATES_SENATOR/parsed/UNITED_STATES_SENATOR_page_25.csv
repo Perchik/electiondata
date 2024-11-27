@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Souderton 1,Election Day,ROBERT P CASEY JR(DEM),****
+Souderton 1,Election Day,DAVE MCCORMICK(REP),****
+Souderton 1,Mail-in,ROBERT P CASEY JR(DEM),****
+Souderton 1,Mail-in,DAVE MCCORMICK(REP),****
+Souderton 1,Provisional,ROBERT P CASEY JR(DEM),****
+Souderton 1,Provisional,DAVE MCCORMICK(REP),****
+Souderton 1,Total,ROBERT P CASEY JR(DEM),649
+Souderton 1,Total,DAVE MCCORMICK(REP),658
+Souderton 2,Election Day,ROBERT P CASEY JR(DEM),423
+Souderton 2,Election Day,DAVE MCCORMICK(REP),542
+Souderton 2,Mail-in,ROBERT P CASEY JR(DEM),172
+Souderton 2,Mail-in,DAVE MCCORMICK(REP),92
+Souderton 2,Provisional,ROBERT P CASEY JR(DEM),8
+Souderton 2,Provisional,DAVE MCCORMICK(REP),4
+Souderton 2,Total,ROBERT P CASEY JR(DEM),603
+Souderton 2,Total,DAVE MCCORMICK(REP),638
+Souderton 3,Election Day,ROBERT P CASEY JR(DEM),****
+Souderton 3,Election Day,DAVE MCCORMICK(REP),****
+Souderton 3,Mail-in,ROBERT P CASEY JR(DEM),****
+Souderton 3,Mail-in,DAVE MCCORMICK(REP),****
+Souderton 3,Provisional,ROBERT P CASEY JR(DEM),****
+Souderton 3,Provisional,DAVE MCCORMICK(REP),****
+Souderton 3,Total,ROBERT P CASEY JR(DEM),491
+Souderton 3,Total,DAVE MCCORMICK(REP),507
+Telford,Election Day,ROBERT P CASEY JR(DEM),434
+Telford,Election Day,DAVE MCCORMICK(REP),592
+Telford,Mail-in,ROBERT P CASEY JR(DEM),226
+Telford,Mail-in,DAVE MCCORMICK(REP),84
+Telford,Provisional,ROBERT P CASEY JR(DEM),9
+Telford,Provisional,DAVE MCCORMICK(REP),6
+Telford,Total,ROBERT P CASEY JR(DEM),669
+Telford,Total,DAVE MCCORMICK(REP),682
+Trappe Boro,Election Day,ROBERT P CASEY JR(DEM),772
+Trappe Boro,Election Day,DAVE MCCORMICK(REP),818
+Trappe Boro,Mail-in,ROBERT P CASEY JR(DEM),597
+Trappe Boro,Mail-in,DAVE MCCORMICK(REP),278
+Trappe Boro,Provisional,ROBERT P CASEY JR(DEM),13
+Trappe Boro,Provisional,DAVE MCCORMICK(REP),9
+Trappe Boro,Total,ROBERT P CASEY JR(DEM),"1,382"
+Trappe Boro,Total,DAVE MCCORMICK(REP),"1,105"
+West Conshohocken,Election Day,ROBERT P CASEY JR(DEM),****
+West Conshohocken,Election Day,DAVE MCCORMICK(REP),****
+West Conshohocken,Mail-in,ROBERT P CASEY JR(DEM),****
+West Conshohocken,Mail-in,DAVE MCCORMICK(REP),****
+West Conshohocken,Provisional,ROBERT P CASEY JR(DEM),****
+West Conshohocken,Provisional,DAVE MCCORMICK(REP),****
+West Conshohocken,Total,ROBERT P CASEY JR(DEM),579
+West Conshohocken,Total,DAVE MCCORMICK(REP),382

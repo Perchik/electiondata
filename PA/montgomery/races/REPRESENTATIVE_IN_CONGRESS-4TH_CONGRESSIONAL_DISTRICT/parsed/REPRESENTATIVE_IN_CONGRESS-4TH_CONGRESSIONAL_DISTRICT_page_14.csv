@@ -1,0 +1,25 @@
+precinct,method,candidate,votes
+Pottstown 1-1,Election Day,UnresolvedWrite-In,3
+Pottstown 1-1,Mail-in,UnresolvedWrite-In,1
+Pottstown 1-1,Provisional,UnresolvedWrite-In,0
+Pottstown 1-1,Total,UnresolvedWrite-In,4
+Pottstown 1-2,Election Day,UnresolvedWrite-In,1
+Pottstown 1-2,Mail-in,UnresolvedWrite-In,0
+Pottstown 1-2,Provisional,UnresolvedWrite-In,0
+Pottstown 1-2,Total,UnresolvedWrite-In,1
+Pottstown 2-1,Election Day,UnresolvedWrite-In,0
+Pottstown 2-1,Mail-in,UnresolvedWrite-In,0
+Pottstown 2-1,Provisional,UnresolvedWrite-In,0
+Pottstown 2-1,Total,UnresolvedWrite-In,0
+Pottstown 2-2,Election Day,UnresolvedWrite-In,****
+Pottstown 2-2,Mail-in,UnresolvedWrite-In,****
+Pottstown 2-2,Provisional,UnresolvedWrite-In,****
+Pottstown 2-2,Total,UnresolvedWrite-In,3
+Pottstown 3,Election Day,UnresolvedWrite-In,2
+Pottstown 3,Mail-in,UnresolvedWrite-In,1
+Pottstown 3,Provisional,UnresolvedWrite-In,0
+Pottstown 3,Total,UnresolvedWrite-In,3
+Pottstown 4,Election Day,UnresolvedWrite-In,3
+Pottstown 4,Mail-in,UnresolvedWrite-In,0
+Pottstown 4,Provisional,UnresolvedWrite-In,0
+Pottstown 4,Total,UnresolvedWrite-In,3

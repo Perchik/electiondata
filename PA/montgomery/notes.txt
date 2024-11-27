@@ -8,6 +8,12 @@ Downloaded full pdf, found the pages that were for the following races:
 63-423 president
 423-566 senate
 567-711 atty general
-999-1147 congress
+999-1147 congress reps
 
-I'm going to ignore the rest of the races and ballot measures because the file is huge
+wrote python script to find "Vote for" and split the pdf at that point.
+
+this created the split_sections/ pdfs, one for each race
+
+parsepdf.py handles each of those files and generates individual csvs for each page, then joins all those together.
+
+generate_final_csv.py takes the merged csvs and reformats them to the same structure as other counties.

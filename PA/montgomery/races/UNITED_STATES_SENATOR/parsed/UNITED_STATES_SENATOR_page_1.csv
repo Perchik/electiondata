@@ -1,0 +1,41 @@
+precinct,method,candidate,votes
+Ambler 1,Election Day,ROBERT P CASEY JR(DEM),****
+Ambler 1,Election Day,DAVE MCCORMICK(REP),****
+Ambler 1,Mail-in,ROBERT P CASEY JR(DEM),****
+Ambler 1,Mail-in,DAVE MCCORMICK(REP),****
+Ambler 1,Provisional,ROBERT P CASEY JR(DEM),****
+Ambler 1,Provisional,DAVE MCCORMICK(REP),****
+Ambler 1,Total,ROBERT P CASEY JR(DEM),903
+Ambler 1,Total,DAVE MCCORMICK(REP),371
+Ambler 2,Election Day,ROBERT P CASEY JR(DEM),634
+Ambler 2,Election Day,DAVE MCCORMICK(REP),305
+Ambler 2,Mail-in,ROBERT P CASEY JR(DEM),287
+Ambler 2,Mail-in,DAVE MCCORMICK(REP),62
+Ambler 2,Provisional,ROBERT P CASEY JR(DEM),9
+Ambler 2,Provisional,DAVE MCCORMICK(REP),3
+Ambler 2,Total,ROBERT P CASEY JR(DEM),930
+Ambler 2,Total,DAVE MCCORMICK(REP),370
+Ambler 3,Election Day,ROBERT P CASEY JR(DEM),****
+Ambler 3,Election Day,DAVE MCCORMICK(REP),****
+Ambler 3,Mail-in,ROBERT P CASEY JR(DEM),****
+Ambler 3,Mail-in,DAVE MCCORMICK(REP),****
+Ambler 3,Provisional,ROBERT P CASEY JR(DEM),****
+Ambler 3,Provisional,DAVE MCCORMICK(REP),****
+Ambler 3,Total,ROBERT P CASEY JR(DEM),794
+Ambler 3,Total,DAVE MCCORMICK(REP),322
+Bridgeport 1,Election Day,ROBERT P CASEY JR(DEM),****
+Bridgeport 1,Election Day,DAVE MCCORMICK(REP),****
+Bridgeport 1,Mail-in,ROBERT P CASEY JR(DEM),****
+Bridgeport 1,Mail-in,DAVE MCCORMICK(REP),****
+Bridgeport 1,Provisional,ROBERT P CASEY JR(DEM),****
+Bridgeport 1,Provisional,DAVE MCCORMICK(REP),****
+Bridgeport 1,Total,ROBERT P CASEY JR(DEM),417
+Bridgeport 1,Total,DAVE MCCORMICK(REP),197
+Bridgeport 2,Election Day,ROBERT P CASEY JR(DEM),****
+Bridgeport 2,Election Day,DAVE MCCORMICK(REP),****
+Bridgeport 2,Mail-in,ROBERT P CASEY JR(DEM),****
+Bridgeport 2,Mail-in,DAVE MCCORMICK(REP),****
+Bridgeport 2,Provisional,ROBERT P CASEY JR(DEM),****
+Bridgeport 2,Provisional,DAVE MCCORMICK(REP),****
+Bridgeport 2,Total,ROBERT P CASEY JR(DEM),487
+Bridgeport 2,Total,DAVE MCCORMICK(REP),356

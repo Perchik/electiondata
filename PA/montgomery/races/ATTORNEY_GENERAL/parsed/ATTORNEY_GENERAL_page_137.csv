@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Whitemarsh West 1,Election Day,EUGENE DEPASQUALE(DEM),546
+Whitemarsh West 1,Election Day,DAVE SUNDAY(REP),413
+Whitemarsh West 1,Mail-in,EUGENE DEPASQUALE(DEM),255
+Whitemarsh West 1,Mail-in,DAVE SUNDAY(REP),89
+Whitemarsh West 1,Provisional,EUGENE DEPASQUALE(DEM),11
+Whitemarsh West 1,Provisional,DAVE SUNDAY(REP),5
+Whitemarsh West 1,Total,EUGENE DEPASQUALE(DEM),812
+Whitemarsh West 1,Total,DAVE SUNDAY(REP),507
+Whitemarsh West 2,Election Day,EUGENE DEPASQUALE(DEM),777
+Whitemarsh West 2,Election Day,DAVE SUNDAY(REP),455
+Whitemarsh West 2,Mail-in,EUGENE DEPASQUALE(DEM),504
+Whitemarsh West 2,Mail-in,DAVE SUNDAY(REP),162
+Whitemarsh West 2,Provisional,EUGENE DEPASQUALE(DEM),21
+Whitemarsh West 2,Provisional,DAVE SUNDAY(REP),4
+Whitemarsh West 2,Total,EUGENE DEPASQUALE(DEM),"1,302"
+Whitemarsh West 2,Total,DAVE SUNDAY(REP),621
+Whitemarsh West 3,Election Day,EUGENE DEPASQUALE(DEM),500
+Whitemarsh West 3,Election Day,DAVE SUNDAY(REP),339
+Whitemarsh West 3,Mail-in,EUGENE DEPASQUALE(DEM),416
+Whitemarsh West 3,Mail-in,DAVE SUNDAY(REP),143
+Whitemarsh West 3,Provisional,EUGENE DEPASQUALE(DEM),18
+Whitemarsh West 3,Provisional,DAVE SUNDAY(REP),12
+Whitemarsh West 3,Total,EUGENE DEPASQUALE(DEM),934
+Whitemarsh West 3,Total,DAVE SUNDAY(REP),494
+Whitpain 1,Election Day,EUGENE DEPASQUALE(DEM),640
+Whitpain 1,Election Day,DAVE SUNDAY(REP),539
+Whitpain 1,Mail-in,EUGENE DEPASQUALE(DEM),612
+Whitpain 1,Mail-in,DAVE SUNDAY(REP),314
+Whitpain 1,Provisional,EUGENE DEPASQUALE(DEM),11
+Whitpain 1,Provisional,DAVE SUNDAY(REP),9
+Whitpain 1,Total,EUGENE DEPASQUALE(DEM),"1,263"
+Whitpain 1,Total,DAVE SUNDAY(REP),862
+Whitpain 2,Election Day,EUGENE DEPASQUALE(DEM),321
+Whitpain 2,Election Day,DAVE SUNDAY(REP),374
+Whitpain 2,Mail-in,EUGENE DEPASQUALE(DEM),311
+Whitpain 2,Mail-in,DAVE SUNDAY(REP),160
+Whitpain 2,Provisional,EUGENE DEPASQUALE(DEM),7
+Whitpain 2,Provisional,DAVE SUNDAY(REP),4
+Whitpain 2,Total,EUGENE DEPASQUALE(DEM),639
+Whitpain 2,Total,DAVE SUNDAY(REP),538
+Whitpain 3,Election Day,EUGENE DEPASQUALE(DEM),****
+Whitpain 3,Election Day,DAVE SUNDAY(REP),****
+Whitpain 3,Mail-in,EUGENE DEPASQUALE(DEM),****
+Whitpain 3,Mail-in,DAVE SUNDAY(REP),****
+Whitpain 3,Provisional,EUGENE DEPASQUALE(DEM),****
+Whitpain 3,Provisional,DAVE SUNDAY(REP),****
+Whitpain 3,Total,EUGENE DEPASQUALE(DEM),546
+Whitpain 3,Total,DAVE SUNDAY(REP),367

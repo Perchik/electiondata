@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Royersford 2,Election Day,MADELEINE DEAN(DEM),****
+Royersford 2,Election Day,DAVID WINKLER(REP),****
+Royersford 2,Mail-in,MADELEINE DEAN(DEM),****
+Royersford 2,Mail-in,DAVID WINKLER(REP),****
+Royersford 2,Provisional,MADELEINE DEAN(DEM),****
+Royersford 2,Provisional,DAVID WINKLER(REP),****
+Royersford 2,Total,MADELEINE DEAN(DEM),882
+Royersford 2,Total,DAVID WINKLER(REP),567
+Schwenksville,Election Day,MADELEINE DEAN(DEM),****
+Schwenksville,Election Day,DAVID WINKLER(REP),****
+Schwenksville,Mail-in,MADELEINE DEAN(DEM),****
+Schwenksville,Mail-in,DAVID WINKLER(REP),****
+Schwenksville,Provisional,MADELEINE DEAN(DEM),****
+Schwenksville,Provisional,DAVID WINKLER(REP),****
+Schwenksville,Total,MADELEINE DEAN(DEM),362
+Schwenksville,Total,DAVID WINKLER(REP),297
+Trappe Boro,Election Day,MADELEINE DEAN(DEM),785
+Trappe Boro,Election Day,DAVID WINKLER(REP),786
+Trappe Boro,Mail-in,MADELEINE DEAN(DEM),610
+Trappe Boro,Mail-in,DAVID WINKLER(REP),279
+Trappe Boro,Provisional,MADELEINE DEAN(DEM),15
+Trappe Boro,Provisional,DAVID WINKLER(REP),7
+Trappe Boro,Total,MADELEINE DEAN(DEM),"1,410"
+Trappe Boro,Total,DAVID WINKLER(REP),"1,072"
+West Conshohocken,Election Day,MADELEINE DEAN(DEM),****
+West Conshohocken,Election Day,DAVID WINKLER(REP),****
+West Conshohocken,Mail-in,MADELEINE DEAN(DEM),****
+West Conshohocken,Mail-in,DAVID WINKLER(REP),****
+West Conshohocken,Provisional,MADELEINE DEAN(DEM),****
+West Conshohocken,Provisional,DAVID WINKLER(REP),****
+West Conshohocken,Total,MADELEINE DEAN(DEM),586
+West Conshohocken,Total,DAVID WINKLER(REP),364
+Abington 1-1,Election Day,MADELEINE DEAN(DEM),****
+Abington 1-1,Election Day,DAVID WINKLER(REP),****
+Abington 1-1,Mail-in,MADELEINE DEAN(DEM),****
+Abington 1-1,Mail-in,DAVID WINKLER(REP),****
+Abington 1-1,Provisional,MADELEINE DEAN(DEM),****
+Abington 1-1,Provisional,DAVID WINKLER(REP),****
+Abington 1-1,Total,MADELEINE DEAN(DEM),733
+Abington 1-1,Total,DAVID WINKLER(REP),423
+Abington 1-2,Election Day,MADELEINE DEAN(DEM),326
+Abington 1-2,Election Day,DAVID WINKLER(REP),157
+Abington 1-2,Mail-in,MADELEINE DEAN(DEM),250
+Abington 1-2,Mail-in,DAVID WINKLER(REP),78
+Abington 1-2,Provisional,MADELEINE DEAN(DEM),8
+Abington 1-2,Provisional,DAVID WINKLER(REP),4
+Abington 1-2,Total,MADELEINE DEAN(DEM),584
+Abington 1-2,Total,DAVID WINKLER(REP),239

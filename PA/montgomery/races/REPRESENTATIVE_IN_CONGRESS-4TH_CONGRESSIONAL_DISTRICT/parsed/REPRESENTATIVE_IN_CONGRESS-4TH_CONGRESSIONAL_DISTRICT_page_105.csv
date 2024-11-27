@@ -1,0 +1,41 @@
+precinct,method,candidate,votes
+Worcester East 1,Election Day,MADELEINE DEAN(DEM),****
+Worcester East 1,Election Day,DAVID WINKLER(REP),****
+Worcester East 1,Mail-in,MADELEINE DEAN(DEM),****
+Worcester East 1,Mail-in,DAVID WINKLER(REP),****
+Worcester East 1,Provisional,MADELEINE DEAN(DEM),****
+Worcester East 1,Provisional,DAVID WINKLER(REP),****
+Worcester East 1,Total,MADELEINE DEAN(DEM),872
+Worcester East 1,Total,DAVID WINKLER(REP),649
+Worcester East 2,Election Day,MADELEINE DEAN(DEM),658
+Worcester East 2,Election Day,DAVID WINKLER(REP),740
+Worcester East 2,Mail-in,MADELEINE DEAN(DEM),689
+Worcester East 2,Mail-in,DAVID WINKLER(REP),360
+Worcester East 2,Provisional,MADELEINE DEAN(DEM),15
+Worcester East 2,Provisional,DAVID WINKLER(REP),8
+Worcester East 2,Total,MADELEINE DEAN(DEM),"1,362"
+Worcester East 2,Total,DAVID WINKLER(REP),"1,108"
+Worcester East 3,Election Day,MADELEINE DEAN(DEM),****
+Worcester East 3,Election Day,DAVID WINKLER(REP),****
+Worcester East 3,Mail-in,MADELEINE DEAN(DEM),****
+Worcester East 3,Mail-in,DAVID WINKLER(REP),****
+Worcester East 3,Provisional,MADELEINE DEAN(DEM),****
+Worcester East 3,Provisional,DAVID WINKLER(REP),****
+Worcester East 3,Total,MADELEINE DEAN(DEM),651
+Worcester East 3,Total,DAVID WINKLER(REP),675
+Worcester West,Election Day,MADELEINE DEAN(DEM),539
+Worcester West,Election Day,DAVID WINKLER(REP),747
+Worcester West,Mail-in,MADELEINE DEAN(DEM),390
+Worcester West,Mail-in,DAVID WINKLER(REP),206
+Worcester West,Provisional,MADELEINE DEAN(DEM),7
+Worcester West,Provisional,DAVID WINKLER(REP),5
+Worcester West,Total,MADELEINE DEAN(DEM),936
+Worcester West,Total,DAVID WINKLER(REP),958
+Cumulative,Election Day,MADELEINE DEAN(DEM),0
+Cumulative,Election Day,DAVID WINKLER(REP),0
+Cumulative,Mail-in,MADELEINE DEAN(DEM),0
+Cumulative,Mail-in,DAVID WINKLER(REP),0
+Cumulative,Provisional,MADELEINE DEAN(DEM),0
+Cumulative,Provisional,DAVID WINKLER(REP),0
+Cumulative,Total,MADELEINE DEAN(DEM),0
+Cumulative,Total,DAVID WINKLER(REP),0

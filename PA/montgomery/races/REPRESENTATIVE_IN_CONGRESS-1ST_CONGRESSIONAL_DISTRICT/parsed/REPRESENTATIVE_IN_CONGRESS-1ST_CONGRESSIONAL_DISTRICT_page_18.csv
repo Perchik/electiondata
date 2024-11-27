@@ -1,0 +1,25 @@
+precinct,method,candidate,votes
+Montgomery 4,Election Day,UnresolvedWrite-In,****
+Montgomery 4,Mail-in,UnresolvedWrite-In,****
+Montgomery 4,Provisional,UnresolvedWrite-In,****
+Montgomery 4,Total,UnresolvedWrite-In,3
+Montgomery 5,Election Day,UnresolvedWrite-In,4
+Montgomery 5,Mail-in,UnresolvedWrite-In,0
+Montgomery 5,Provisional,UnresolvedWrite-In,0
+Montgomery 5,Total,UnresolvedWrite-In,4
+Montgomery 6,Election Day,UnresolvedWrite-In,2
+Montgomery 6,Mail-in,UnresolvedWrite-In,1
+Montgomery 6,Provisional,UnresolvedWrite-In,0
+Montgomery 6,Total,UnresolvedWrite-In,3
+Montgomery 7,Election Day,UnresolvedWrite-In,2
+Montgomery 7,Mail-in,UnresolvedWrite-In,3
+Montgomery 7,Provisional,UnresolvedWrite-In,1
+Montgomery 7,Total,UnresolvedWrite-In,6
+Montgomery 8,Election Day,UnresolvedWrite-In,4
+Montgomery 8,Mail-in,UnresolvedWrite-In,0
+Montgomery 8,Provisional,UnresolvedWrite-In,0
+Montgomery 8,Total,UnresolvedWrite-In,4
+Upper Hanover 1,Election Day,UnresolvedWrite-In,10
+Upper Hanover 1,Mail-in,UnresolvedWrite-In,6
+Upper Hanover 1,Provisional,UnresolvedWrite-In,0
+Upper Hanover 1,Total,UnresolvedWrite-In,16

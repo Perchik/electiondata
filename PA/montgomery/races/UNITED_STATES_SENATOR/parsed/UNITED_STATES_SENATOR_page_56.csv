@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Hatfield 1-1,Election Day,JOHN C THOMAS(LIB),10
+Hatfield 1-1,Election Day,LEILA HAZOU(GRE),4
+Hatfield 1-1,Election Day,MARTY SELKER(CON),3
+Hatfield 1-1,Election Day,UnresolvedWrite-In,1
+Hatfield 1-1,Mail-in,JOHN C THOMAS(LIB),2
+Hatfield 1-1,Mail-in,LEILA HAZOU(GRE),3
+Hatfield 1-1,Mail-in,MARTY SELKER(CON),2
+Hatfield 1-1,Mail-in,UnresolvedWrite-In,0
+Hatfield 1-1,Provisional,JOHN C THOMAS(LIB),0
+Hatfield 1-1,Provisional,LEILA HAZOU(GRE),0
+Hatfield 1-1,Provisional,MARTY SELKER(CON),0
+Hatfield 1-1,Provisional,UnresolvedWrite-In,0
+Hatfield 1-1,Total,JOHN C THOMAS(LIB),12
+Hatfield 1-1,Total,LEILA HAZOU(GRE),7
+Hatfield 1-1,Total,MARTY SELKER(CON),5
+Hatfield 1-1,Total,UnresolvedWrite-In,1
+Hatfield 1-2,Election Day,JOHN C THOMAS(LIB),8
+Hatfield 1-2,Election Day,LEILA HAZOU(GRE),14
+Hatfield 1-2,Election Day,MARTY SELKER(CON),4
+Hatfield 1-2,Election Day,UnresolvedWrite-In,0
+Hatfield 1-2,Mail-in,JOHN C THOMAS(LIB),2
+Hatfield 1-2,Mail-in,LEILA HAZOU(GRE),2
+Hatfield 1-2,Mail-in,MARTY SELKER(CON),3
+Hatfield 1-2,Mail-in,UnresolvedWrite-In,1
+Hatfield 1-2,Provisional,JOHN C THOMAS(LIB),1
+Hatfield 1-2,Provisional,LEILA HAZOU(GRE),0
+Hatfield 1-2,Provisional,MARTY SELKER(CON),0
+Hatfield 1-2,Provisional,UnresolvedWrite-In,0
+Hatfield 1-2,Total,JOHN C THOMAS(LIB),11
+Hatfield 1-2,Total,LEILA HAZOU(GRE),16
+Hatfield 1-2,Total,MARTY SELKER(CON),7
+Hatfield 1-2,Total,UnresolvedWrite-In,1
+Hatfield 2-1,Election Day,JOHN C THOMAS(LIB),12
+Hatfield 2-1,Election Day,LEILA HAZOU(GRE),7
+Hatfield 2-1,Election Day,MARTY SELKER(CON),0
+Hatfield 2-1,Election Day,UnresolvedWrite-In,0
+Hatfield 2-1,Mail-in,JOHN C THOMAS(LIB),0
+Hatfield 2-1,Mail-in,LEILA HAZOU(GRE),0
+Hatfield 2-1,Mail-in,MARTY SELKER(CON),0
+Hatfield 2-1,Mail-in,UnresolvedWrite-In,0
+Hatfield 2-1,Provisional,JOHN C THOMAS(LIB),0
+Hatfield 2-1,Provisional,LEILA HAZOU(GRE),1
+Hatfield 2-1,Provisional,MARTY SELKER(CON),0
+Hatfield 2-1,Provisional,UnresolvedWrite-In,0
+Hatfield 2-1,Total,JOHN C THOMAS(LIB),12
+Hatfield 2-1,Total,LEILA HAZOU(GRE),8
+Hatfield 2-1,Total,MARTY SELKER(CON),0
+Hatfield 2-1,Total,UnresolvedWrite-In,0
+Hatfield 2-2,Election Day,JOHN C THOMAS(LIB),****
+Hatfield 2-2,Election Day,LEILA HAZOU(GRE),****
+Hatfield 2-2,Election Day,MARTY SELKER(CON),****
+Hatfield 2-2,Election Day,UnresolvedWrite-In,****
+Hatfield 2-2,Mail-in,JOHN C THOMAS(LIB),****
+Hatfield 2-2,Mail-in,LEILA HAZOU(GRE),****
+Hatfield 2-2,Mail-in,MARTY SELKER(CON),****
+Hatfield 2-2,Mail-in,UnresolvedWrite-In,****
+Hatfield 2-2,Provisional,JOHN C THOMAS(LIB),****
+Hatfield 2-2,Provisional,LEILA HAZOU(GRE),****
+Hatfield 2-2,Provisional,MARTY SELKER(CON),****
+Hatfield 2-2,Provisional,UnresolvedWrite-In,****
+Hatfield 2-2,Total,JOHN C THOMAS(LIB),3
+Hatfield 2-2,Total,LEILA HAZOU(GRE),4
+Hatfield 2-2,Total,MARTY SELKER(CON),2
+Hatfield 2-2,Total,UnresolvedWrite-In,0
+Hatfield 3-1,Election Day,JOHN C THOMAS(LIB),14
+Hatfield 3-1,Election Day,LEILA HAZOU(GRE),15
+Hatfield 3-1,Election Day,MARTY SELKER(CON),3
+Hatfield 3-1,Election Day,UnresolvedWrite-In,1
+Hatfield 3-1,Mail-in,JOHN C THOMAS(LIB),3
+Hatfield 3-1,Mail-in,LEILA HAZOU(GRE),3
+Hatfield 3-1,Mail-in,MARTY SELKER(CON),3
+Hatfield 3-1,Mail-in,UnresolvedWrite-In,0
+Hatfield 3-1,Provisional,JOHN C THOMAS(LIB),1
+Hatfield 3-1,Provisional,LEILA HAZOU(GRE),0
+Hatfield 3-1,Provisional,MARTY SELKER(CON),0
+Hatfield 3-1,Provisional,UnresolvedWrite-In,0
+Hatfield 3-1,Total,JOHN C THOMAS(LIB),18
+Hatfield 3-1,Total,LEILA HAZOU(GRE),18
+Hatfield 3-1,Total,MARTY SELKER(CON),6
+Hatfield 3-1,Total,UnresolvedWrite-In,1
+Hatfield 3-2,Election Day,JOHN C THOMAS(LIB),10
+Hatfield 3-2,Election Day,LEILA HAZOU(GRE),6
+Hatfield 3-2,Election Day,MARTY SELKER(CON),0
+Hatfield 3-2,Election Day,UnresolvedWrite-In,2
+Hatfield 3-2,Mail-in,JOHN C THOMAS(LIB),2
+Hatfield 3-2,Mail-in,LEILA HAZOU(GRE),2
+Hatfield 3-2,Mail-in,MARTY SELKER(CON),0
+Hatfield 3-2,Mail-in,UnresolvedWrite-In,2
+Hatfield 3-2,Provisional,JOHN C THOMAS(LIB),1
+Hatfield 3-2,Provisional,LEILA HAZOU(GRE),0
+Hatfield 3-2,Provisional,MARTY SELKER(CON),0
+Hatfield 3-2,Provisional,UnresolvedWrite-In,0
+Hatfield 3-2,Total,JOHN C THOMAS(LIB),13
+Hatfield 3-2,Total,LEILA HAZOU(GRE),8
+Hatfield 3-2,Total,MARTY SELKER(CON),0
+Hatfield 3-2,Total,UnresolvedWrite-In,4

@@ -1,0 +1,17 @@
+precinct,method,candidate,votes
+Worcester West,Election Day,KAMALA D HARRIS(DEM),552
+Worcester West,Election Day,DONALD J TRUMP(REP),813
+Worcester West,Mail-in,KAMALA D HARRIS(DEM),397
+Worcester West,Mail-in,DONALD J TRUMP(REP),196
+Worcester West,Provisional,KAMALA D HARRIS(DEM),7
+Worcester West,Provisional,DONALD J TRUMP(REP),5
+Worcester West,Total,KAMALA D HARRIS(DEM),956
+Worcester West,Total,DONALD J TRUMP(REP),"1,014"
+Cumulative,Election Day,KAMALA D HARRIS(DEM),0
+Cumulative,Election Day,DONALD J TRUMP(REP),0
+Cumulative,Mail-in,KAMALA D HARRIS(DEM),0
+Cumulative,Mail-in,DONALD J TRUMP(REP),0
+Cumulative,Provisional,KAMALA D HARRIS(DEM),0
+Cumulative,Provisional,DONALD J TRUMP(REP),0
+Cumulative,Total,KAMALA D HARRIS(DEM),0
+Cumulative,Total,DONALD J TRUMP(REP),0

@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+North Wales 2,Election Day,ROBERT P CASEY JR(DEM),270
+North Wales 2,Election Day,DAVE MCCORMICK(REP),180
+North Wales 2,Mail-in,ROBERT P CASEY JR(DEM),107
+North Wales 2,Mail-in,DAVE MCCORMICK(REP),40
+North Wales 2,Provisional,ROBERT P CASEY JR(DEM),10
+North Wales 2,Provisional,DAVE MCCORMICK(REP),3
+North Wales 2,Total,ROBERT P CASEY JR(DEM),387
+North Wales 2,Total,DAVE MCCORMICK(REP),223
+North Wales 3,Election Day,ROBERT P CASEY JR(DEM),****
+North Wales 3,Election Day,DAVE MCCORMICK(REP),****
+North Wales 3,Mail-in,ROBERT P CASEY JR(DEM),****
+North Wales 3,Mail-in,DAVE MCCORMICK(REP),****
+North Wales 3,Provisional,ROBERT P CASEY JR(DEM),****
+North Wales 3,Provisional,DAVE MCCORMICK(REP),****
+North Wales 3,Total,ROBERT P CASEY JR(DEM),487
+North Wales 3,Total,DAVE MCCORMICK(REP),273
+Pennsburg,Election Day,ROBERT P CASEY JR(DEM),****
+Pennsburg,Election Day,DAVE MCCORMICK(REP),****
+Pennsburg,Mail-in,ROBERT P CASEY JR(DEM),****
+Pennsburg,Mail-in,DAVE MCCORMICK(REP),****
+Pennsburg,Provisional,ROBERT P CASEY JR(DEM),****
+Pennsburg,Provisional,DAVE MCCORMICK(REP),****
+Pennsburg,Total,ROBERT P CASEY JR(DEM),835
+Pennsburg,Total,DAVE MCCORMICK(REP),"1,011"
+Pottstown 1-1,Election Day,ROBERT P CASEY JR(DEM),328
+Pottstown 1-1,Election Day,DAVE MCCORMICK(REP),175
+Pottstown 1-1,Mail-in,ROBERT P CASEY JR(DEM),112
+Pottstown 1-1,Mail-in,DAVE MCCORMICK(REP),29
+Pottstown 1-1,Provisional,ROBERT P CASEY JR(DEM),10
+Pottstown 1-1,Provisional,DAVE MCCORMICK(REP),2
+Pottstown 1-1,Total,ROBERT P CASEY JR(DEM),450
+Pottstown 1-1,Total,DAVE MCCORMICK(REP),206
+Pottstown 1-2,Election Day,ROBERT P CASEY JR(DEM),219
+Pottstown 1-2,Election Day,DAVE MCCORMICK(REP),89
+Pottstown 1-2,Mail-in,ROBERT P CASEY JR(DEM),100
+Pottstown 1-2,Mail-in,DAVE MCCORMICK(REP),14
+Pottstown 1-2,Provisional,ROBERT P CASEY JR(DEM),8
+Pottstown 1-2,Provisional,DAVE MCCORMICK(REP),2
+Pottstown 1-2,Total,ROBERT P CASEY JR(DEM),327
+Pottstown 1-2,Total,DAVE MCCORMICK(REP),105
+Pottstown 2-1,Election Day,ROBERT P CASEY JR(DEM),363
+Pottstown 2-1,Election Day,DAVE MCCORMICK(REP),154
+Pottstown 2-1,Mail-in,ROBERT P CASEY JR(DEM),131
+Pottstown 2-1,Mail-in,DAVE MCCORMICK(REP),29
+Pottstown 2-1,Provisional,ROBERT P CASEY JR(DEM),10
+Pottstown 2-1,Provisional,DAVE MCCORMICK(REP),0
+Pottstown 2-1,Total,ROBERT P CASEY JR(DEM),504
+Pottstown 2-1,Total,DAVE MCCORMICK(REP),183

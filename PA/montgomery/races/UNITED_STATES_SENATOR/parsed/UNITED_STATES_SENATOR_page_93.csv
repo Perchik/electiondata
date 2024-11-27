@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Montgomery 7,Election Day,ROBERT P CASEY JR(DEM),758
+Montgomery 7,Election Day,DAVE MCCORMICK(REP),795
+Montgomery 7,Mail-in,ROBERT P CASEY JR(DEM),977
+Montgomery 7,Mail-in,DAVE MCCORMICK(REP),478
+Montgomery 7,Provisional,ROBERT P CASEY JR(DEM),18
+Montgomery 7,Provisional,DAVE MCCORMICK(REP),7
+Montgomery 7,Total,ROBERT P CASEY JR(DEM),"1,753"
+Montgomery 7,Total,DAVE MCCORMICK(REP),"1,280"
+Montgomery 8,Election Day,ROBERT P CASEY JR(DEM),862
+Montgomery 8,Election Day,DAVE MCCORMICK(REP),750
+Montgomery 8,Mail-in,ROBERT P CASEY JR(DEM),"1,136"
+Montgomery 8,Mail-in,DAVE MCCORMICK(REP),447
+Montgomery 8,Provisional,ROBERT P CASEY JR(DEM),25
+Montgomery 8,Provisional,DAVE MCCORMICK(REP),11
+Montgomery 8,Total,ROBERT P CASEY JR(DEM),"2,023"
+Montgomery 8,Total,DAVE MCCORMICK(REP),"1,208"
+New Hanover 1,Election Day,ROBERT P CASEY JR(DEM),540
+New Hanover 1,Election Day,DAVE MCCORMICK(REP),"1,210"
+New Hanover 1,Mail-in,ROBERT P CASEY JR(DEM),556
+New Hanover 1,Mail-in,DAVE MCCORMICK(REP),406
+New Hanover 1,Provisional,ROBERT P CASEY JR(DEM),8
+New Hanover 1,Provisional,DAVE MCCORMICK(REP),4
+New Hanover 1,Total,ROBERT P CASEY JR(DEM),"1,104"
+New Hanover 1,Total,DAVE MCCORMICK(REP),"1,620"
+New Hanover 2,Election Day,ROBERT P CASEY JR(DEM),464
+New Hanover 2,Election Day,DAVE MCCORMICK(REP),"1,002"
+New Hanover 2,Mail-in,ROBERT P CASEY JR(DEM),501
+New Hanover 2,Mail-in,DAVE MCCORMICK(REP),344
+New Hanover 2,Provisional,ROBERT P CASEY JR(DEM),7
+New Hanover 2,Provisional,DAVE MCCORMICK(REP),8
+New Hanover 2,Total,ROBERT P CASEY JR(DEM),972
+New Hanover 2,Total,DAVE MCCORMICK(REP),"1,354"
+New Hanover 3,Election Day,ROBERT P CASEY JR(DEM),739
+New Hanover 3,Election Day,DAVE MCCORMICK(REP),"1,280"
+New Hanover 3,Mail-in,ROBERT P CASEY JR(DEM),609
+New Hanover 3,Mail-in,DAVE MCCORMICK(REP),292
+New Hanover 3,Provisional,ROBERT P CASEY JR(DEM),11
+New Hanover 3,Provisional,DAVE MCCORMICK(REP),3
+New Hanover 3,Total,ROBERT P CASEY JR(DEM),"1,359"
+New Hanover 3,Total,DAVE MCCORMICK(REP),"1,575"
+Perkiomen 1,Election Day,ROBERT P CASEY JR(DEM),715
+Perkiomen 1,Election Day,DAVE MCCORMICK(REP),863
+Perkiomen 1,Mail-in,ROBERT P CASEY JR(DEM),762
+Perkiomen 1,Mail-in,DAVE MCCORMICK(REP),327
+Perkiomen 1,Provisional,ROBERT P CASEY JR(DEM),7
+Perkiomen 1,Provisional,DAVE MCCORMICK(REP),5
+Perkiomen 1,Total,ROBERT P CASEY JR(DEM),"1,484"
+Perkiomen 1,Total,DAVE MCCORMICK(REP),"1,195"

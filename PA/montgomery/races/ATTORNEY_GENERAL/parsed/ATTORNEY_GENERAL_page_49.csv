@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Douglass 3,Election Day,EUGENE DEPASQUALE(DEM),441
+Douglass 3,Election Day,DAVE SUNDAY(REP),"1,108"
+Douglass 3,Mail-in,EUGENE DEPASQUALE(DEM),331
+Douglass 3,Mail-in,DAVE SUNDAY(REP),302
+Douglass 3,Provisional,EUGENE DEPASQUALE(DEM),3
+Douglass 3,Provisional,DAVE SUNDAY(REP),8
+Douglass 3,Total,EUGENE DEPASQUALE(DEM),775
+Douglass 3,Total,DAVE SUNDAY(REP),"1,418"
+Douglass 4,Election Day,EUGENE DEPASQUALE(DEM),314
+Douglass 4,Election Day,DAVE SUNDAY(REP),674
+Douglass 4,Mail-in,EUGENE DEPASQUALE(DEM),216
+Douglass 4,Mail-in,DAVE SUNDAY(REP),195
+Douglass 4,Provisional,EUGENE DEPASQUALE(DEM),4
+Douglass 4,Provisional,DAVE SUNDAY(REP),6
+Douglass 4,Total,EUGENE DEPASQUALE(DEM),534
+Douglass 4,Total,DAVE SUNDAY(REP),875
+East Norriton 1-1,Election Day,EUGENE DEPASQUALE(DEM),305
+East Norriton 1-1,Election Day,DAVE SUNDAY(REP),379
+East Norriton 1-1,Mail-in,EUGENE DEPASQUALE(DEM),151
+East Norriton 1-1,Mail-in,DAVE SUNDAY(REP),91
+East Norriton 1-1,Provisional,EUGENE DEPASQUALE(DEM),0
+East Norriton 1-1,Provisional,DAVE SUNDAY(REP),0
+East Norriton 1-1,Total,EUGENE DEPASQUALE(DEM),456
+East Norriton 1-1,Total,DAVE SUNDAY(REP),470
+East Norriton 1-2,Election Day,EUGENE DEPASQUALE(DEM),****
+East Norriton 1-2,Election Day,DAVE SUNDAY(REP),****
+East Norriton 1-2,Mail-in,EUGENE DEPASQUALE(DEM),****
+East Norriton 1-2,Mail-in,DAVE SUNDAY(REP),****
+East Norriton 1-2,Provisional,EUGENE DEPASQUALE(DEM),****
+East Norriton 1-2,Provisional,DAVE SUNDAY(REP),****
+East Norriton 1-2,Total,EUGENE DEPASQUALE(DEM),648
+East Norriton 1-2,Total,DAVE SUNDAY(REP),405
+East Norriton 1-3,Election Day,EUGENE DEPASQUALE(DEM),450
+East Norriton 1-3,Election Day,DAVE SUNDAY(REP),589
+East Norriton 1-3,Mail-in,EUGENE DEPASQUALE(DEM),262
+East Norriton 1-3,Mail-in,DAVE SUNDAY(REP),139
+East Norriton 1-3,Provisional,EUGENE DEPASQUALE(DEM),6
+East Norriton 1-3,Provisional,DAVE SUNDAY(REP),6
+East Norriton 1-3,Total,EUGENE DEPASQUALE(DEM),718
+East Norriton 1-3,Total,DAVE SUNDAY(REP),734
+East Norriton 1-4,Election Day,EUGENE DEPASQUALE(DEM),****
+East Norriton 1-4,Election Day,DAVE SUNDAY(REP),****
+East Norriton 1-4,Mail-in,EUGENE DEPASQUALE(DEM),****
+East Norriton 1-4,Mail-in,DAVE SUNDAY(REP),****
+East Norriton 1-4,Provisional,EUGENE DEPASQUALE(DEM),****
+East Norriton 1-4,Provisional,DAVE SUNDAY(REP),****
+East Norriton 1-4,Total,EUGENE DEPASQUALE(DEM),509
+East Norriton 1-4,Total,DAVE SUNDAY(REP),511

@@ -1,0 +1,121 @@
+precinct,method,candidate,votes
+Lower Providence 3-1,Election Day,ROBERT COWBURN(LIB),22
+Lower Providence 3-1,Election Day,RICHARD L WEISS(GRE),8
+Lower Providence 3-1,Election Day,JUSTIN L MAGILL(CON),1
+Lower Providence 3-1,Election Day,ERIC L SETTLE(FOR),2
+Lower Providence 3-1,Election Day,UnresolvedWrite-In,0
+Lower Providence 3-1,Mail-in,ROBERT COWBURN(LIB),3
+Lower Providence 3-1,Mail-in,RICHARD L WEISS(GRE),4
+Lower Providence 3-1,Mail-in,JUSTIN L MAGILL(CON),0
+Lower Providence 3-1,Mail-in,ERIC L SETTLE(FOR),0
+Lower Providence 3-1,Mail-in,UnresolvedWrite-In,1
+Lower Providence 3-1,Provisional,ROBERT COWBURN(LIB),1
+Lower Providence 3-1,Provisional,RICHARD L WEISS(GRE),0
+Lower Providence 3-1,Provisional,JUSTIN L MAGILL(CON),0
+Lower Providence 3-1,Provisional,ERIC L SETTLE(FOR),0
+Lower Providence 3-1,Provisional,UnresolvedWrite-In,0
+Lower Providence 3-1,Total,ROBERT COWBURN(LIB),26
+Lower Providence 3-1,Total,RICHARD L WEISS(GRE),12
+Lower Providence 3-1,Total,JUSTIN L MAGILL(CON),1
+Lower Providence 3-1,Total,ERIC L SETTLE(FOR),2
+Lower Providence 3-1,Total,UnresolvedWrite-In,1
+Lower Providence 3-2,Election Day,ROBERT COWBURN(LIB),****
+Lower Providence 3-2,Election Day,RICHARD L WEISS(GRE),****
+Lower Providence 3-2,Election Day,JUSTIN L MAGILL(CON),****
+Lower Providence 3-2,Election Day,ERIC L SETTLE(FOR),****
+Lower Providence 3-2,Election Day,UnresolvedWrite-In,****
+Lower Providence 3-2,Mail-in,ROBERT COWBURN(LIB),****
+Lower Providence 3-2,Mail-in,RICHARD L WEISS(GRE),****
+Lower Providence 3-2,Mail-in,JUSTIN L MAGILL(CON),****
+Lower Providence 3-2,Mail-in,ERIC L SETTLE(FOR),****
+Lower Providence 3-2,Mail-in,UnresolvedWrite-In,****
+Lower Providence 3-2,Provisional,ROBERT COWBURN(LIB),****
+Lower Providence 3-2,Provisional,RICHARD L WEISS(GRE),****
+Lower Providence 3-2,Provisional,JUSTIN L MAGILL(CON),****
+Lower Providence 3-2,Provisional,ERIC L SETTLE(FOR),****
+Lower Providence 3-2,Provisional,UnresolvedWrite-In,****
+Lower Providence 3-2,Total,ROBERT COWBURN(LIB),16
+Lower Providence 3-2,Total,RICHARD L WEISS(GRE),12
+Lower Providence 3-2,Total,JUSTIN L MAGILL(CON),3
+Lower Providence 3-2,Total,ERIC L SETTLE(FOR),6
+Lower Providence 3-2,Total,UnresolvedWrite-In,0
+Lower Providence 3-3,Election Day,ROBERT COWBURN(LIB),11
+Lower Providence 3-3,Election Day,RICHARD L WEISS(GRE),13
+Lower Providence 3-3,Election Day,JUSTIN L MAGILL(CON),4
+Lower Providence 3-3,Election Day,ERIC L SETTLE(FOR),3
+Lower Providence 3-3,Election Day,UnresolvedWrite-In,0
+Lower Providence 3-3,Mail-in,ROBERT COWBURN(LIB),5
+Lower Providence 3-3,Mail-in,RICHARD L WEISS(GRE),5
+Lower Providence 3-3,Mail-in,JUSTIN L MAGILL(CON),1
+Lower Providence 3-3,Mail-in,ERIC L SETTLE(FOR),3
+Lower Providence 3-3,Mail-in,UnresolvedWrite-In,0
+Lower Providence 3-3,Provisional,ROBERT COWBURN(LIB),0
+Lower Providence 3-3,Provisional,RICHARD L WEISS(GRE),0
+Lower Providence 3-3,Provisional,JUSTIN L MAGILL(CON),0
+Lower Providence 3-3,Provisional,ERIC L SETTLE(FOR),0
+Lower Providence 3-3,Provisional,UnresolvedWrite-In,0
+Lower Providence 3-3,Total,ROBERT COWBURN(LIB),16
+Lower Providence 3-3,Total,RICHARD L WEISS(GRE),18
+Lower Providence 3-3,Total,JUSTIN L MAGILL(CON),5
+Lower Providence 3-3,Total,ERIC L SETTLE(FOR),6
+Lower Providence 3-3,Total,UnresolvedWrite-In,0
+Lower Providence 3-4,Election Day,ROBERT COWBURN(LIB),4
+Lower Providence 3-4,Election Day,RICHARD L WEISS(GRE),2
+Lower Providence 3-4,Election Day,JUSTIN L MAGILL(CON),1
+Lower Providence 3-4,Election Day,ERIC L SETTLE(FOR),1
+Lower Providence 3-4,Election Day,UnresolvedWrite-In,0
+Lower Providence 3-4,Mail-in,ROBERT COWBURN(LIB),3
+Lower Providence 3-4,Mail-in,RICHARD L WEISS(GRE),2
+Lower Providence 3-4,Mail-in,JUSTIN L MAGILL(CON),2
+Lower Providence 3-4,Mail-in,ERIC L SETTLE(FOR),2
+Lower Providence 3-4,Mail-in,UnresolvedWrite-In,1
+Lower Providence 3-4,Provisional,ROBERT COWBURN(LIB),1
+Lower Providence 3-4,Provisional,RICHARD L WEISS(GRE),0
+Lower Providence 3-4,Provisional,JUSTIN L MAGILL(CON),0
+Lower Providence 3-4,Provisional,ERIC L SETTLE(FOR),0
+Lower Providence 3-4,Provisional,UnresolvedWrite-In,0
+Lower Providence 3-4,Total,ROBERT COWBURN(LIB),8
+Lower Providence 3-4,Total,RICHARD L WEISS(GRE),4
+Lower Providence 3-4,Total,JUSTIN L MAGILL(CON),3
+Lower Providence 3-4,Total,ERIC L SETTLE(FOR),3
+Lower Providence 3-4,Total,UnresolvedWrite-In,1
+Salford,Election Day,ROBERT COWBURN(LIB),23
+Salford,Election Day,RICHARD L WEISS(GRE),18
+Salford,Election Day,JUSTIN L MAGILL(CON),5
+Salford,Election Day,ERIC L SETTLE(FOR),2
+Salford,Election Day,UnresolvedWrite-In,0
+Salford,Mail-in,ROBERT COWBURN(LIB),5
+Salford,Mail-in,RICHARD L WEISS(GRE),2
+Salford,Mail-in,JUSTIN L MAGILL(CON),0
+Salford,Mail-in,ERIC L SETTLE(FOR),1
+Salford,Mail-in,UnresolvedWrite-In,0
+Salford,Provisional,ROBERT COWBURN(LIB),0
+Salford,Provisional,RICHARD L WEISS(GRE),0
+Salford,Provisional,JUSTIN L MAGILL(CON),0
+Salford,Provisional,ERIC L SETTLE(FOR),0
+Salford,Provisional,UnresolvedWrite-In,0
+Salford,Total,ROBERT COWBURN(LIB),28
+Salford,Total,RICHARD L WEISS(GRE),20
+Salford,Total,JUSTIN L MAGILL(CON),5
+Salford,Total,ERIC L SETTLE(FOR),3
+Salford,Total,UnresolvedWrite-In,0
+Marlborough,Election Day,ROBERT COWBURN(LIB),26
+Marlborough,Election Day,RICHARD L WEISS(GRE),14
+Marlborough,Election Day,JUSTIN L MAGILL(CON),10
+Marlborough,Election Day,ERIC L SETTLE(FOR),4
+Marlborough,Election Day,UnresolvedWrite-In,0
+Marlborough,Mail-in,ROBERT COWBURN(LIB),5
+Marlborough,Mail-in,RICHARD L WEISS(GRE),6
+Marlborough,Mail-in,JUSTIN L MAGILL(CON),2
+Marlborough,Mail-in,ERIC L SETTLE(FOR),0
+Marlborough,Mail-in,UnresolvedWrite-In,0
+Marlborough,Provisional,ROBERT COWBURN(LIB),1
+Marlborough,Provisional,RICHARD L WEISS(GRE),1
+Marlborough,Provisional,JUSTIN L MAGILL(CON),0
+Marlborough,Provisional,ERIC L SETTLE(FOR),0
+Marlborough,Provisional,UnresolvedWrite-In,0
+Marlborough,Total,ROBERT COWBURN(LIB),32
+Marlborough,Total,RICHARD L WEISS(GRE),21
+Marlborough,Total,JUSTIN L MAGILL(CON),12
+Marlborough,Total,ERIC L SETTLE(FOR),4
+Marlborough,Total,UnresolvedWrite-In,0

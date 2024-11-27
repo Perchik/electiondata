@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Whitpain 10,Election Day,EUGENE DEPASQUALE(DEM),415
+Whitpain 10,Election Day,DAVE SUNDAY(REP),316
+Whitpain 10,Mail-in,EUGENE DEPASQUALE(DEM),232
+Whitpain 10,Mail-in,DAVE SUNDAY(REP),83
+Whitpain 10,Provisional,EUGENE DEPASQUALE(DEM),9
+Whitpain 10,Provisional,DAVE SUNDAY(REP),6
+Whitpain 10,Total,EUGENE DEPASQUALE(DEM),656
+Whitpain 10,Total,DAVE SUNDAY(REP),405
+Whitpain 11,Election Day,EUGENE DEPASQUALE(DEM),431
+Whitpain 11,Election Day,DAVE SUNDAY(REP),334
+Whitpain 11,Mail-in,EUGENE DEPASQUALE(DEM),244
+Whitpain 11,Mail-in,DAVE SUNDAY(REP),120
+Whitpain 11,Provisional,EUGENE DEPASQUALE(DEM),8
+Whitpain 11,Provisional,DAVE SUNDAY(REP),3
+Whitpain 11,Total,EUGENE DEPASQUALE(DEM),683
+Whitpain 11,Total,DAVE SUNDAY(REP),457
+Whitpain 12,Election Day,EUGENE DEPASQUALE(DEM),****
+Whitpain 12,Election Day,DAVE SUNDAY(REP),****
+Whitpain 12,Mail-in,EUGENE DEPASQUALE(DEM),****
+Whitpain 12,Mail-in,DAVE SUNDAY(REP),****
+Whitpain 12,Provisional,EUGENE DEPASQUALE(DEM),****
+Whitpain 12,Provisional,DAVE SUNDAY(REP),****
+Whitpain 12,Total,EUGENE DEPASQUALE(DEM),539
+Whitpain 12,Total,DAVE SUNDAY(REP),422
+Worcester East 1,Election Day,EUGENE DEPASQUALE(DEM),****
+Worcester East 1,Election Day,DAVE SUNDAY(REP),****
+Worcester East 1,Mail-in,EUGENE DEPASQUALE(DEM),****
+Worcester East 1,Mail-in,DAVE SUNDAY(REP),****
+Worcester East 1,Provisional,EUGENE DEPASQUALE(DEM),****
+Worcester East 1,Provisional,DAVE SUNDAY(REP),****
+Worcester East 1,Total,EUGENE DEPASQUALE(DEM),785
+Worcester East 1,Total,DAVE SUNDAY(REP),707
+Worcester East 2,Election Day,EUGENE DEPASQUALE(DEM),594
+Worcester East 2,Election Day,DAVE SUNDAY(REP),785
+Worcester East 2,Mail-in,EUGENE DEPASQUALE(DEM),628
+Worcester East 2,Mail-in,DAVE SUNDAY(REP),408
+Worcester East 2,Provisional,EUGENE DEPASQUALE(DEM),12
+Worcester East 2,Provisional,DAVE SUNDAY(REP),12
+Worcester East 2,Total,EUGENE DEPASQUALE(DEM),"1,234"
+Worcester East 2,Total,DAVE SUNDAY(REP),"1,205"
+Worcester East 3,Election Day,EUGENE DEPASQUALE(DEM),****
+Worcester East 3,Election Day,DAVE SUNDAY(REP),****
+Worcester East 3,Mail-in,EUGENE DEPASQUALE(DEM),****
+Worcester East 3,Mail-in,DAVE SUNDAY(REP),****
+Worcester East 3,Provisional,EUGENE DEPASQUALE(DEM),****
+Worcester East 3,Provisional,DAVE SUNDAY(REP),****
+Worcester East 3,Total,EUGENE DEPASQUALE(DEM),577
+Worcester East 3,Total,DAVE SUNDAY(REP),765

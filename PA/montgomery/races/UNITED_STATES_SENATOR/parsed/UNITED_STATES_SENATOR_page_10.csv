@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Hatfield Borough,Election Day,JOHN C THOMAS(LIB),****
+Hatfield Borough,Election Day,LEILA HAZOU(GRE),****
+Hatfield Borough,Election Day,MARTY SELKER(CON),****
+Hatfield Borough,Election Day,UnresolvedWrite-In,****
+Hatfield Borough,Mail-in,JOHN C THOMAS(LIB),****
+Hatfield Borough,Mail-in,LEILA HAZOU(GRE),****
+Hatfield Borough,Mail-in,MARTY SELKER(CON),****
+Hatfield Borough,Mail-in,UnresolvedWrite-In,****
+Hatfield Borough,Provisional,JOHN C THOMAS(LIB),****
+Hatfield Borough,Provisional,LEILA HAZOU(GRE),****
+Hatfield Borough,Provisional,MARTY SELKER(CON),****
+Hatfield Borough,Provisional,UnresolvedWrite-In,****
+Hatfield Borough,Total,JOHN C THOMAS(LIB),31
+Hatfield Borough,Total,LEILA HAZOU(GRE),32
+Hatfield Borough,Total,MARTY SELKER(CON),6
+Hatfield Borough,Total,UnresolvedWrite-In,1
+Jenkintown 1,Election Day,JOHN C THOMAS(LIB),****
+Jenkintown 1,Election Day,LEILA HAZOU(GRE),****
+Jenkintown 1,Election Day,MARTY SELKER(CON),****
+Jenkintown 1,Election Day,UnresolvedWrite-In,****
+Jenkintown 1,Mail-in,JOHN C THOMAS(LIB),****
+Jenkintown 1,Mail-in,LEILA HAZOU(GRE),****
+Jenkintown 1,Mail-in,MARTY SELKER(CON),****
+Jenkintown 1,Mail-in,UnresolvedWrite-In,****
+Jenkintown 1,Provisional,JOHN C THOMAS(LIB),****
+Jenkintown 1,Provisional,LEILA HAZOU(GRE),****
+Jenkintown 1,Provisional,MARTY SELKER(CON),****
+Jenkintown 1,Provisional,UnresolvedWrite-In,****
+Jenkintown 1,Total,JOHN C THOMAS(LIB),12
+Jenkintown 1,Total,LEILA HAZOU(GRE),11
+Jenkintown 1,Total,MARTY SELKER(CON),4
+Jenkintown 1,Total,UnresolvedWrite-In,1
+Jenkintown 2,Election Day,JOHN C THOMAS(LIB),****
+Jenkintown 2,Election Day,LEILA HAZOU(GRE),****
+Jenkintown 2,Election Day,MARTY SELKER(CON),****
+Jenkintown 2,Election Day,UnresolvedWrite-In,****
+Jenkintown 2,Mail-in,JOHN C THOMAS(LIB),****
+Jenkintown 2,Mail-in,LEILA HAZOU(GRE),****
+Jenkintown 2,Mail-in,MARTY SELKER(CON),****
+Jenkintown 2,Mail-in,UnresolvedWrite-In,****
+Jenkintown 2,Provisional,JOHN C THOMAS(LIB),****
+Jenkintown 2,Provisional,LEILA HAZOU(GRE),****
+Jenkintown 2,Provisional,MARTY SELKER(CON),****
+Jenkintown 2,Provisional,UnresolvedWrite-In,****
+Jenkintown 2,Total,JOHN C THOMAS(LIB),3
+Jenkintown 2,Total,LEILA HAZOU(GRE),6
+Jenkintown 2,Total,MARTY SELKER(CON),3
+Jenkintown 2,Total,UnresolvedWrite-In,1
+Jenkintown 3,Election Day,JOHN C THOMAS(LIB),****
+Jenkintown 3,Election Day,LEILA HAZOU(GRE),****
+Jenkintown 3,Election Day,MARTY SELKER(CON),****
+Jenkintown 3,Election Day,UnresolvedWrite-In,****
+Jenkintown 3,Mail-in,JOHN C THOMAS(LIB),****
+Jenkintown 3,Mail-in,LEILA HAZOU(GRE),****
+Jenkintown 3,Mail-in,MARTY SELKER(CON),****
+Jenkintown 3,Mail-in,UnresolvedWrite-In,****
+Jenkintown 3,Provisional,JOHN C THOMAS(LIB),****
+Jenkintown 3,Provisional,LEILA HAZOU(GRE),****
+Jenkintown 3,Provisional,MARTY SELKER(CON),****
+Jenkintown 3,Provisional,UnresolvedWrite-In,****
+Jenkintown 3,Total,JOHN C THOMAS(LIB),4
+Jenkintown 3,Total,LEILA HAZOU(GRE),9
+Jenkintown 3,Total,MARTY SELKER(CON),0
+Jenkintown 3,Total,UnresolvedWrite-In,1
+Jenkintown 4,Election Day,JOHN C THOMAS(LIB),7
+Jenkintown 4,Election Day,LEILA HAZOU(GRE),8
+Jenkintown 4,Election Day,MARTY SELKER(CON),1
+Jenkintown 4,Election Day,UnresolvedWrite-In,0
+Jenkintown 4,Mail-in,JOHN C THOMAS(LIB),0
+Jenkintown 4,Mail-in,LEILA HAZOU(GRE),2
+Jenkintown 4,Mail-in,MARTY SELKER(CON),0
+Jenkintown 4,Mail-in,UnresolvedWrite-In,0
+Jenkintown 4,Provisional,JOHN C THOMAS(LIB),0
+Jenkintown 4,Provisional,LEILA HAZOU(GRE),0
+Jenkintown 4,Provisional,MARTY SELKER(CON),0
+Jenkintown 4,Provisional,UnresolvedWrite-In,0
+Jenkintown 4,Total,JOHN C THOMAS(LIB),7
+Jenkintown 4,Total,LEILA HAZOU(GRE),10
+Jenkintown 4,Total,MARTY SELKER(CON),1
+Jenkintown 4,Total,UnresolvedWrite-In,0
+Lansdale 1-1,Election Day,JOHN C THOMAS(LIB),18
+Lansdale 1-1,Election Day,LEILA HAZOU(GRE),22
+Lansdale 1-1,Election Day,MARTY SELKER(CON),5
+Lansdale 1-1,Election Day,UnresolvedWrite-In,1
+Lansdale 1-1,Mail-in,JOHN C THOMAS(LIB),5
+Lansdale 1-1,Mail-in,LEILA HAZOU(GRE),5
+Lansdale 1-1,Mail-in,MARTY SELKER(CON),2
+Lansdale 1-1,Mail-in,UnresolvedWrite-In,1
+Lansdale 1-1,Provisional,JOHN C THOMAS(LIB),0
+Lansdale 1-1,Provisional,LEILA HAZOU(GRE),1
+Lansdale 1-1,Provisional,MARTY SELKER(CON),0
+Lansdale 1-1,Provisional,UnresolvedWrite-In,0
+Lansdale 1-1,Total,JOHN C THOMAS(LIB),23
+Lansdale 1-1,Total,LEILA HAZOU(GRE),28
+Lansdale 1-1,Total,MARTY SELKER(CON),7
+Lansdale 1-1,Total,UnresolvedWrite-In,2

@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Skippack 2,Election Day,ROBERT P CASEY JR(DEM),626
+Skippack 2,Election Day,DAVE MCCORMICK(REP),815
+Skippack 2,Mail-in,ROBERT P CASEY JR(DEM),624
+Skippack 2,Mail-in,DAVE MCCORMICK(REP),369
+Skippack 2,Provisional,ROBERT P CASEY JR(DEM),12
+Skippack 2,Provisional,DAVE MCCORMICK(REP),10
+Skippack 2,Total,ROBERT P CASEY JR(DEM),"1,262"
+Skippack 2,Total,DAVE MCCORMICK(REP),"1,194"
+Skippack 3,Election Day,ROBERT P CASEY JR(DEM),577
+Skippack 3,Election Day,DAVE MCCORMICK(REP),815
+Skippack 3,Mail-in,ROBERT P CASEY JR(DEM),674
+Skippack 3,Mail-in,DAVE MCCORMICK(REP),452
+Skippack 3,Provisional,ROBERT P CASEY JR(DEM),6
+Skippack 3,Provisional,DAVE MCCORMICK(REP),5
+Skippack 3,Total,ROBERT P CASEY JR(DEM),"1,257"
+Skippack 3,Total,DAVE MCCORMICK(REP),"1,272"
+Springfield 1-1,Election Day,ROBERT P CASEY JR(DEM),****
+Springfield 1-1,Election Day,DAVE MCCORMICK(REP),****
+Springfield 1-1,Mail-in,ROBERT P CASEY JR(DEM),****
+Springfield 1-1,Mail-in,DAVE MCCORMICK(REP),****
+Springfield 1-1,Provisional,ROBERT P CASEY JR(DEM),****
+Springfield 1-1,Provisional,DAVE MCCORMICK(REP),****
+Springfield 1-1,Total,ROBERT P CASEY JR(DEM),890
+Springfield 1-1,Total,DAVE MCCORMICK(REP),264
+Springfield 1-2,Election Day,ROBERT P CASEY JR(DEM),573
+Springfield 1-2,Election Day,DAVE MCCORMICK(REP),377
+Springfield 1-2,Mail-in,ROBERT P CASEY JR(DEM),322
+Springfield 1-2,Mail-in,DAVE MCCORMICK(REP),107
+Springfield 1-2,Provisional,ROBERT P CASEY JR(DEM),6
+Springfield 1-2,Provisional,DAVE MCCORMICK(REP),4
+Springfield 1-2,Total,ROBERT P CASEY JR(DEM),901
+Springfield 1-2,Total,DAVE MCCORMICK(REP),488
+Springfield 2-1,Election Day,ROBERT P CASEY JR(DEM),422
+Springfield 2-1,Election Day,DAVE MCCORMICK(REP),149
+Springfield 2-1,Mail-in,ROBERT P CASEY JR(DEM),252
+Springfield 2-1,Mail-in,DAVE MCCORMICK(REP),24
+Springfield 2-1,Provisional,ROBERT P CASEY JR(DEM),10
+Springfield 2-1,Provisional,DAVE MCCORMICK(REP),5
+Springfield 2-1,Total,ROBERT P CASEY JR(DEM),684
+Springfield 2-1,Total,DAVE MCCORMICK(REP),178
+Springfield 2-2,Election Day,ROBERT P CASEY JR(DEM),****
+Springfield 2-2,Election Day,DAVE MCCORMICK(REP),****
+Springfield 2-2,Mail-in,ROBERT P CASEY JR(DEM),****
+Springfield 2-2,Mail-in,DAVE MCCORMICK(REP),****
+Springfield 2-2,Provisional,ROBERT P CASEY JR(DEM),****
+Springfield 2-2,Provisional,DAVE MCCORMICK(REP),****
+Springfield 2-2,Total,ROBERT P CASEY JR(DEM),628
+Springfield 2-2,Total,DAVE MCCORMICK(REP),150

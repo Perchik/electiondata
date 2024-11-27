@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Lower Salford 2,Election Day,EUGENE DEPASQUALE(DEM),****
+Lower Salford 2,Election Day,DAVE SUNDAY(REP),****
+Lower Salford 2,Mail-in,EUGENE DEPASQUALE(DEM),****
+Lower Salford 2,Mail-in,DAVE SUNDAY(REP),****
+Lower Salford 2,Provisional,EUGENE DEPASQUALE(DEM),****
+Lower Salford 2,Provisional,DAVE SUNDAY(REP),****
+Lower Salford 2,Total,EUGENE DEPASQUALE(DEM),726
+Lower Salford 2,Total,DAVE SUNDAY(REP),804
+Lower Salford 3,Election Day,EUGENE DEPASQUALE(DEM),438
+Lower Salford 3,Election Day,DAVE SUNDAY(REP),627
+Lower Salford 3,Mail-in,EUGENE DEPASQUALE(DEM),258
+Lower Salford 3,Mail-in,DAVE SUNDAY(REP),190
+Lower Salford 3,Provisional,EUGENE DEPASQUALE(DEM),8
+Lower Salford 3,Provisional,DAVE SUNDAY(REP),7
+Lower Salford 3,Total,EUGENE DEPASQUALE(DEM),704
+Lower Salford 3,Total,DAVE SUNDAY(REP),824
+Lower Salford 4,Election Day,EUGENE DEPASQUALE(DEM),****
+Lower Salford 4,Election Day,DAVE SUNDAY(REP),****
+Lower Salford 4,Mail-in,EUGENE DEPASQUALE(DEM),****
+Lower Salford 4,Mail-in,DAVE SUNDAY(REP),****
+Lower Salford 4,Provisional,EUGENE DEPASQUALE(DEM),****
+Lower Salford 4,Provisional,DAVE SUNDAY(REP),****
+Lower Salford 4,Total,EUGENE DEPASQUALE(DEM),728
+Lower Salford 4,Total,DAVE SUNDAY(REP),796
+Lower Salford 5,Election Day,EUGENE DEPASQUALE(DEM),420
+Lower Salford 5,Election Day,DAVE SUNDAY(REP),864
+Lower Salford 5,Mail-in,EUGENE DEPASQUALE(DEM),398
+Lower Salford 5,Mail-in,DAVE SUNDAY(REP),310
+Lower Salford 5,Provisional,EUGENE DEPASQUALE(DEM),8
+Lower Salford 5,Provisional,DAVE SUNDAY(REP),7
+Lower Salford 5,Total,EUGENE DEPASQUALE(DEM),826
+Lower Salford 5,Total,DAVE SUNDAY(REP),"1,181"
+Lower Salford 6,Election Day,EUGENE DEPASQUALE(DEM),436
+Lower Salford 6,Election Day,DAVE SUNDAY(REP),614
+Lower Salford 6,Mail-in,EUGENE DEPASQUALE(DEM),412
+Lower Salford 6,Mail-in,DAVE SUNDAY(REP),267
+Lower Salford 6,Provisional,EUGENE DEPASQUALE(DEM),6
+Lower Salford 6,Provisional,DAVE SUNDAY(REP),8
+Lower Salford 6,Total,EUGENE DEPASQUALE(DEM),854
+Lower Salford 6,Total,DAVE SUNDAY(REP),889
+Skippack 1,Election Day,EUGENE DEPASQUALE(DEM),724
+Skippack 1,Election Day,DAVE SUNDAY(REP),927
+Skippack 1,Mail-in,EUGENE DEPASQUALE(DEM),505
+Skippack 1,Mail-in,DAVE SUNDAY(REP),265
+Skippack 1,Provisional,EUGENE DEPASQUALE(DEM),8
+Skippack 1,Provisional,DAVE SUNDAY(REP),9
+Skippack 1,Total,EUGENE DEPASQUALE(DEM),"1,237"
+Skippack 1,Total,DAVE SUNDAY(REP),"1,201"

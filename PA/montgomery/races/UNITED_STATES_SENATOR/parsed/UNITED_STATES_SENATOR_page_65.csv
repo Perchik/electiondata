@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Limerick 3,Election Day,ROBERT P CASEY JR(DEM),653
+Limerick 3,Election Day,DAVE MCCORMICK(REP),874
+Limerick 3,Mail-in,ROBERT P CASEY JR(DEM),494
+Limerick 3,Mail-in,DAVE MCCORMICK(REP),278
+Limerick 3,Provisional,ROBERT P CASEY JR(DEM),6
+Limerick 3,Provisional,DAVE MCCORMICK(REP),5
+Limerick 3,Total,ROBERT P CASEY JR(DEM),"1,153"
+Limerick 3,Total,DAVE MCCORMICK(REP),"1,157"
+Limerick 4,Election Day,ROBERT P CASEY JR(DEM),622
+Limerick 4,Election Day,DAVE MCCORMICK(REP),669
+Limerick 4,Mail-in,ROBERT P CASEY JR(DEM),456
+Limerick 4,Mail-in,DAVE MCCORMICK(REP),157
+Limerick 4,Provisional,ROBERT P CASEY JR(DEM),15
+Limerick 4,Provisional,DAVE MCCORMICK(REP),6
+Limerick 4,Total,ROBERT P CASEY JR(DEM),"1,093"
+Limerick 4,Total,DAVE MCCORMICK(REP),832
+Limerick 5,Election Day,ROBERT P CASEY JR(DEM),531
+Limerick 5,Election Day,DAVE MCCORMICK(REP),958
+Limerick 5,Mail-in,ROBERT P CASEY JR(DEM),347
+Limerick 5,Mail-in,DAVE MCCORMICK(REP),233
+Limerick 5,Provisional,ROBERT P CASEY JR(DEM),10
+Limerick 5,Provisional,DAVE MCCORMICK(REP),6
+Limerick 5,Total,ROBERT P CASEY JR(DEM),888
+Limerick 5,Total,DAVE MCCORMICK(REP),"1,197"
+Limerick 6,Election Day,ROBERT P CASEY JR(DEM),618
+Limerick 6,Election Day,DAVE MCCORMICK(REP),701
+Limerick 6,Mail-in,ROBERT P CASEY JR(DEM),355
+Limerick 6,Mail-in,DAVE MCCORMICK(REP),154
+Limerick 6,Provisional,ROBERT P CASEY JR(DEM),8
+Limerick 6,Provisional,DAVE MCCORMICK(REP),3
+Limerick 6,Total,ROBERT P CASEY JR(DEM),981
+Limerick 6,Total,DAVE MCCORMICK(REP),858
+Lower Frederick 1,Election Day,ROBERT P CASEY JR(DEM),****
+Lower Frederick 1,Election Day,DAVE MCCORMICK(REP),****
+Lower Frederick 1,Mail-in,ROBERT P CASEY JR(DEM),****
+Lower Frederick 1,Mail-in,DAVE MCCORMICK(REP),****
+Lower Frederick 1,Provisional,ROBERT P CASEY JR(DEM),****
+Lower Frederick 1,Provisional,DAVE MCCORMICK(REP),****
+Lower Frederick 1,Total,ROBERT P CASEY JR(DEM),672
+Lower Frederick 1,Total,DAVE MCCORMICK(REP),497
+Lower Frederick 2,Election Day,ROBERT P CASEY JR(DEM),512
+Lower Frederick 2,Election Day,DAVE MCCORMICK(REP),857
+Lower Frederick 2,Mail-in,ROBERT P CASEY JR(DEM),322
+Lower Frederick 2,Mail-in,DAVE MCCORMICK(REP),156
+Lower Frederick 2,Provisional,ROBERT P CASEY JR(DEM),0
+Lower Frederick 2,Provisional,DAVE MCCORMICK(REP),0
+Lower Frederick 2,Total,ROBERT P CASEY JR(DEM),834
+Lower Frederick 2,Total,DAVE MCCORMICK(REP),"1,013"

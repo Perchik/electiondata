@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Abington 3-1,Election Day,JOHN C THOMAS(LIB),****
+Abington 3-1,Election Day,LEILA HAZOU(GRE),****
+Abington 3-1,Election Day,MARTY SELKER(CON),****
+Abington 3-1,Election Day,UnresolvedWrite-In,****
+Abington 3-1,Mail-in,JOHN C THOMAS(LIB),****
+Abington 3-1,Mail-in,LEILA HAZOU(GRE),****
+Abington 3-1,Mail-in,MARTY SELKER(CON),****
+Abington 3-1,Mail-in,UnresolvedWrite-In,****
+Abington 3-1,Provisional,JOHN C THOMAS(LIB),****
+Abington 3-1,Provisional,LEILA HAZOU(GRE),****
+Abington 3-1,Provisional,MARTY SELKER(CON),****
+Abington 3-1,Provisional,UnresolvedWrite-In,****
+Abington 3-1,Total,JOHN C THOMAS(LIB),8
+Abington 3-1,Total,LEILA HAZOU(GRE),2
+Abington 3-1,Total,MARTY SELKER(CON),0
+Abington 3-1,Total,UnresolvedWrite-In,1
+Abington 3-2,Election Day,JOHN C THOMAS(LIB),****
+Abington 3-2,Election Day,LEILA HAZOU(GRE),****
+Abington 3-2,Election Day,MARTY SELKER(CON),****
+Abington 3-2,Election Day,UnresolvedWrite-In,****
+Abington 3-2,Mail-in,JOHN C THOMAS(LIB),****
+Abington 3-2,Mail-in,LEILA HAZOU(GRE),****
+Abington 3-2,Mail-in,MARTY SELKER(CON),****
+Abington 3-2,Mail-in,UnresolvedWrite-In,****
+Abington 3-2,Provisional,JOHN C THOMAS(LIB),****
+Abington 3-2,Provisional,LEILA HAZOU(GRE),****
+Abington 3-2,Provisional,MARTY SELKER(CON),****
+Abington 3-2,Provisional,UnresolvedWrite-In,****
+Abington 3-2,Total,JOHN C THOMAS(LIB),9
+Abington 3-2,Total,LEILA HAZOU(GRE),10
+Abington 3-2,Total,MARTY SELKER(CON),5
+Abington 3-2,Total,UnresolvedWrite-In,0
+Abington 3-3,Election Day,JOHN C THOMAS(LIB),****
+Abington 3-3,Election Day,LEILA HAZOU(GRE),****
+Abington 3-3,Election Day,MARTY SELKER(CON),****
+Abington 3-3,Election Day,UnresolvedWrite-In,****
+Abington 3-3,Mail-in,JOHN C THOMAS(LIB),****
+Abington 3-3,Mail-in,LEILA HAZOU(GRE),****
+Abington 3-3,Mail-in,MARTY SELKER(CON),****
+Abington 3-3,Mail-in,UnresolvedWrite-In,****
+Abington 3-3,Provisional,JOHN C THOMAS(LIB),****
+Abington 3-3,Provisional,LEILA HAZOU(GRE),****
+Abington 3-3,Provisional,MARTY SELKER(CON),****
+Abington 3-3,Provisional,UnresolvedWrite-In,****
+Abington 3-3,Total,JOHN C THOMAS(LIB),9
+Abington 3-3,Total,LEILA HAZOU(GRE),14
+Abington 3-3,Total,MARTY SELKER(CON),2
+Abington 3-3,Total,UnresolvedWrite-In,1
+Abington 4-1,Election Day,JOHN C THOMAS(LIB),13
+Abington 4-1,Election Day,LEILA HAZOU(GRE),10
+Abington 4-1,Election Day,MARTY SELKER(CON),5
+Abington 4-1,Election Day,UnresolvedWrite-In,1
+Abington 4-1,Mail-in,JOHN C THOMAS(LIB),5
+Abington 4-1,Mail-in,LEILA HAZOU(GRE),5
+Abington 4-1,Mail-in,MARTY SELKER(CON),3
+Abington 4-1,Mail-in,UnresolvedWrite-In,0
+Abington 4-1,Provisional,JOHN C THOMAS(LIB),0
+Abington 4-1,Provisional,LEILA HAZOU(GRE),1
+Abington 4-1,Provisional,MARTY SELKER(CON),0
+Abington 4-1,Provisional,UnresolvedWrite-In,0
+Abington 4-1,Total,JOHN C THOMAS(LIB),18
+Abington 4-1,Total,LEILA HAZOU(GRE),16
+Abington 4-1,Total,MARTY SELKER(CON),8
+Abington 4-1,Total,UnresolvedWrite-In,1
+Abington 4-2,Election Day,JOHN C THOMAS(LIB),****
+Abington 4-2,Election Day,LEILA HAZOU(GRE),****
+Abington 4-2,Election Day,MARTY SELKER(CON),****
+Abington 4-2,Election Day,UnresolvedWrite-In,****
+Abington 4-2,Mail-in,JOHN C THOMAS(LIB),****
+Abington 4-2,Mail-in,LEILA HAZOU(GRE),****
+Abington 4-2,Mail-in,MARTY SELKER(CON),****
+Abington 4-2,Mail-in,UnresolvedWrite-In,****
+Abington 4-2,Provisional,JOHN C THOMAS(LIB),****
+Abington 4-2,Provisional,LEILA HAZOU(GRE),****
+Abington 4-2,Provisional,MARTY SELKER(CON),****
+Abington 4-2,Provisional,UnresolvedWrite-In,****
+Abington 4-2,Total,JOHN C THOMAS(LIB),13
+Abington 4-2,Total,LEILA HAZOU(GRE),15
+Abington 4-2,Total,MARTY SELKER(CON),1
+Abington 4-2,Total,UnresolvedWrite-In,1
+Abington 5-1,Election Day,JOHN C THOMAS(LIB),11
+Abington 5-1,Election Day,LEILA HAZOU(GRE),8
+Abington 5-1,Election Day,MARTY SELKER(CON),0
+Abington 5-1,Election Day,UnresolvedWrite-In,2
+Abington 5-1,Mail-in,JOHN C THOMAS(LIB),3
+Abington 5-1,Mail-in,LEILA HAZOU(GRE),0
+Abington 5-1,Mail-in,MARTY SELKER(CON),0
+Abington 5-1,Mail-in,UnresolvedWrite-In,0
+Abington 5-1,Provisional,JOHN C THOMAS(LIB),0
+Abington 5-1,Provisional,LEILA HAZOU(GRE),1
+Abington 5-1,Provisional,MARTY SELKER(CON),0
+Abington 5-1,Provisional,UnresolvedWrite-In,0
+Abington 5-1,Total,JOHN C THOMAS(LIB),14
+Abington 5-1,Total,LEILA HAZOU(GRE),9
+Abington 5-1,Total,MARTY SELKER(CON),0
+Abington 5-1,Total,UnresolvedWrite-In,2

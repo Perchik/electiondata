@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Cheltenham 7-2,Election Day,MADELEINE DEAN(DEM),****
+Cheltenham 7-2,Election Day,DAVID WINKLER(REP),****
+Cheltenham 7-2,Mail-in,MADELEINE DEAN(DEM),****
+Cheltenham 7-2,Mail-in,DAVID WINKLER(REP),****
+Cheltenham 7-2,Provisional,MADELEINE DEAN(DEM),****
+Cheltenham 7-2,Provisional,DAVID WINKLER(REP),****
+Cheltenham 7-2,Total,MADELEINE DEAN(DEM),745
+Cheltenham 7-2,Total,DAVID WINKLER(REP),149
+Cheltenham 7-3,Election Day,MADELEINE DEAN(DEM),680
+Cheltenham 7-3,Election Day,DAVID WINKLER(REP),117
+Cheltenham 7-3,Mail-in,MADELEINE DEAN(DEM),365
+Cheltenham 7-3,Mail-in,DAVID WINKLER(REP),38
+Cheltenham 7-3,Provisional,MADELEINE DEAN(DEM),15
+Cheltenham 7-3,Provisional,DAVID WINKLER(REP),4
+Cheltenham 7-3,Total,MADELEINE DEAN(DEM),"1,060"
+Cheltenham 7-3,Total,DAVID WINKLER(REP),159
+Douglass 1,Election Day,MADELEINE DEAN(DEM),309
+Douglass 1,Election Day,DAVID WINKLER(REP),794
+Douglass 1,Mail-in,MADELEINE DEAN(DEM),180
+Douglass 1,Mail-in,DAVID WINKLER(REP),115
+Douglass 1,Provisional,MADELEINE DEAN(DEM),6
+Douglass 1,Provisional,DAVID WINKLER(REP),7
+Douglass 1,Total,MADELEINE DEAN(DEM),495
+Douglass 1,Total,DAVID WINKLER(REP),916
+Douglass 2,Election Day,MADELEINE DEAN(DEM),423
+Douglass 2,Election Day,DAVID WINKLER(REP),683
+Douglass 2,Mail-in,MADELEINE DEAN(DEM),219
+Douglass 2,Mail-in,DAVID WINKLER(REP),101
+Douglass 2,Provisional,MADELEINE DEAN(DEM),7
+Douglass 2,Provisional,DAVID WINKLER(REP),9
+Douglass 2,Total,MADELEINE DEAN(DEM),649
+Douglass 2,Total,DAVID WINKLER(REP),793
+Douglass 3,Election Day,MADELEINE DEAN(DEM),521
+Douglass 3,Election Day,DAVID WINKLER(REP),"1,043"
+Douglass 3,Mail-in,MADELEINE DEAN(DEM),361
+Douglass 3,Mail-in,DAVID WINKLER(REP),282
+Douglass 3,Provisional,MADELEINE DEAN(DEM),4
+Douglass 3,Provisional,DAVID WINKLER(REP),7
+Douglass 3,Total,MADELEINE DEAN(DEM),886
+Douglass 3,Total,DAVID WINKLER(REP),"1,332"
+Douglass 4,Election Day,MADELEINE DEAN(DEM),345
+Douglass 4,Election Day,DAVID WINKLER(REP),654
+Douglass 4,Mail-in,MADELEINE DEAN(DEM),251
+Douglass 4,Mail-in,DAVID WINKLER(REP),167
+Douglass 4,Provisional,MADELEINE DEAN(DEM),4
+Douglass 4,Provisional,DAVID WINKLER(REP),6
+Douglass 4,Total,MADELEINE DEAN(DEM),600
+Douglass 4,Total,DAVID WINKLER(REP),827

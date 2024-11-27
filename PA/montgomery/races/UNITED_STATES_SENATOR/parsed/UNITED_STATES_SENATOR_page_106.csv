@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Springfield 5-2,Election Day,JOHN C THOMAS(LIB),****
+Springfield 5-2,Election Day,LEILA HAZOU(GRE),****
+Springfield 5-2,Election Day,MARTY SELKER(CON),****
+Springfield 5-2,Election Day,UnresolvedWrite-In,****
+Springfield 5-2,Mail-in,JOHN C THOMAS(LIB),****
+Springfield 5-2,Mail-in,LEILA HAZOU(GRE),****
+Springfield 5-2,Mail-in,MARTY SELKER(CON),****
+Springfield 5-2,Mail-in,UnresolvedWrite-In,****
+Springfield 5-2,Provisional,JOHN C THOMAS(LIB),****
+Springfield 5-2,Provisional,LEILA HAZOU(GRE),****
+Springfield 5-2,Provisional,MARTY SELKER(CON),****
+Springfield 5-2,Provisional,UnresolvedWrite-In,****
+Springfield 5-2,Total,JOHN C THOMAS(LIB),4
+Springfield 5-2,Total,LEILA HAZOU(GRE),2
+Springfield 5-2,Total,MARTY SELKER(CON),2
+Springfield 5-2,Total,UnresolvedWrite-In,1
+Springfield 6-1,Election Day,JOHN C THOMAS(LIB),****
+Springfield 6-1,Election Day,LEILA HAZOU(GRE),****
+Springfield 6-1,Election Day,MARTY SELKER(CON),****
+Springfield 6-1,Election Day,UnresolvedWrite-In,****
+Springfield 6-1,Mail-in,JOHN C THOMAS(LIB),****
+Springfield 6-1,Mail-in,LEILA HAZOU(GRE),****
+Springfield 6-1,Mail-in,MARTY SELKER(CON),****
+Springfield 6-1,Mail-in,UnresolvedWrite-In,****
+Springfield 6-1,Provisional,JOHN C THOMAS(LIB),****
+Springfield 6-1,Provisional,LEILA HAZOU(GRE),****
+Springfield 6-1,Provisional,MARTY SELKER(CON),****
+Springfield 6-1,Provisional,UnresolvedWrite-In,****
+Springfield 6-1,Total,JOHN C THOMAS(LIB),4
+Springfield 6-1,Total,LEILA HAZOU(GRE),5
+Springfield 6-1,Total,MARTY SELKER(CON),0
+Springfield 6-1,Total,UnresolvedWrite-In,2
+Springfield 6-2,Election Day,JOHN C THOMAS(LIB),****
+Springfield 6-2,Election Day,LEILA HAZOU(GRE),****
+Springfield 6-2,Election Day,MARTY SELKER(CON),****
+Springfield 6-2,Election Day,UnresolvedWrite-In,****
+Springfield 6-2,Mail-in,JOHN C THOMAS(LIB),****
+Springfield 6-2,Mail-in,LEILA HAZOU(GRE),****
+Springfield 6-2,Mail-in,MARTY SELKER(CON),****
+Springfield 6-2,Mail-in,UnresolvedWrite-In,****
+Springfield 6-2,Provisional,JOHN C THOMAS(LIB),****
+Springfield 6-2,Provisional,LEILA HAZOU(GRE),****
+Springfield 6-2,Provisional,MARTY SELKER(CON),****
+Springfield 6-2,Provisional,UnresolvedWrite-In,****
+Springfield 6-2,Total,JOHN C THOMAS(LIB),12
+Springfield 6-2,Total,LEILA HAZOU(GRE),5
+Springfield 6-2,Total,MARTY SELKER(CON),1
+Springfield 6-2,Total,UnresolvedWrite-In,0
+Springfield 7-1,Election Day,JOHN C THOMAS(LIB),****
+Springfield 7-1,Election Day,LEILA HAZOU(GRE),****
+Springfield 7-1,Election Day,MARTY SELKER(CON),****
+Springfield 7-1,Election Day,UnresolvedWrite-In,****
+Springfield 7-1,Mail-in,JOHN C THOMAS(LIB),****
+Springfield 7-1,Mail-in,LEILA HAZOU(GRE),****
+Springfield 7-1,Mail-in,MARTY SELKER(CON),****
+Springfield 7-1,Mail-in,UnresolvedWrite-In,****
+Springfield 7-1,Provisional,JOHN C THOMAS(LIB),****
+Springfield 7-1,Provisional,LEILA HAZOU(GRE),****
+Springfield 7-1,Provisional,MARTY SELKER(CON),****
+Springfield 7-1,Provisional,UnresolvedWrite-In,****
+Springfield 7-1,Total,JOHN C THOMAS(LIB),6
+Springfield 7-1,Total,LEILA HAZOU(GRE),9
+Springfield 7-1,Total,MARTY SELKER(CON),0
+Springfield 7-1,Total,UnresolvedWrite-In,0
+Springfield 7-2,Election Day,JOHN C THOMAS(LIB),****
+Springfield 7-2,Election Day,LEILA HAZOU(GRE),****
+Springfield 7-2,Election Day,MARTY SELKER(CON),****
+Springfield 7-2,Election Day,UnresolvedWrite-In,****
+Springfield 7-2,Mail-in,JOHN C THOMAS(LIB),****
+Springfield 7-2,Mail-in,LEILA HAZOU(GRE),****
+Springfield 7-2,Mail-in,MARTY SELKER(CON),****
+Springfield 7-2,Mail-in,UnresolvedWrite-In,****
+Springfield 7-2,Provisional,JOHN C THOMAS(LIB),****
+Springfield 7-2,Provisional,LEILA HAZOU(GRE),****
+Springfield 7-2,Provisional,MARTY SELKER(CON),****
+Springfield 7-2,Provisional,UnresolvedWrite-In,****
+Springfield 7-2,Total,JOHN C THOMAS(LIB),8
+Springfield 7-2,Total,LEILA HAZOU(GRE),11
+Springfield 7-2,Total,MARTY SELKER(CON),2
+Springfield 7-2,Total,UnresolvedWrite-In,1
+Towamencin 1-1,Election Day,JOHN C THOMAS(LIB),10
+Towamencin 1-1,Election Day,LEILA HAZOU(GRE),8
+Towamencin 1-1,Election Day,MARTY SELKER(CON),3
+Towamencin 1-1,Election Day,UnresolvedWrite-In,1
+Towamencin 1-1,Mail-in,JOHN C THOMAS(LIB),7
+Towamencin 1-1,Mail-in,LEILA HAZOU(GRE),1
+Towamencin 1-1,Mail-in,MARTY SELKER(CON),2
+Towamencin 1-1,Mail-in,UnresolvedWrite-In,0
+Towamencin 1-1,Provisional,JOHN C THOMAS(LIB),0
+Towamencin 1-1,Provisional,LEILA HAZOU(GRE),0
+Towamencin 1-1,Provisional,MARTY SELKER(CON),0
+Towamencin 1-1,Provisional,UnresolvedWrite-In,0
+Towamencin 1-1,Total,JOHN C THOMAS(LIB),17
+Towamencin 1-1,Total,LEILA HAZOU(GRE),9
+Towamencin 1-1,Total,MARTY SELKER(CON),5
+Towamencin 1-1,Total,UnresolvedWrite-In,1

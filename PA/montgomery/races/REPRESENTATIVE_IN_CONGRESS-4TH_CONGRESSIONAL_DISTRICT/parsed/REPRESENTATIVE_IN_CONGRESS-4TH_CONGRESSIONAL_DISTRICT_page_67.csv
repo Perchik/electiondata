@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Plymouth 4-2,Election Day,MADELEINE DEAN(DEM),617
+Plymouth 4-2,Election Day,DAVID WINKLER(REP),446
+Plymouth 4-2,Mail-in,MADELEINE DEAN(DEM),272
+Plymouth 4-2,Mail-in,DAVID WINKLER(REP),112
+Plymouth 4-2,Provisional,MADELEINE DEAN(DEM),10
+Plymouth 4-2,Provisional,DAVID WINKLER(REP),1
+Plymouth 4-2,Total,MADELEINE DEAN(DEM),899
+Plymouth 4-2,Total,DAVID WINKLER(REP),559
+Lower Salford 1,Election Day,MADELEINE DEAN(DEM),****
+Lower Salford 1,Election Day,DAVID WINKLER(REP),****
+Lower Salford 1,Mail-in,MADELEINE DEAN(DEM),****
+Lower Salford 1,Mail-in,DAVID WINKLER(REP),****
+Lower Salford 1,Provisional,MADELEINE DEAN(DEM),****
+Lower Salford 1,Provisional,DAVID WINKLER(REP),****
+Lower Salford 1,Total,MADELEINE DEAN(DEM),891
+Lower Salford 1,Total,DAVID WINKLER(REP),954
+Lower Salford 2,Election Day,MADELEINE DEAN(DEM),****
+Lower Salford 2,Election Day,DAVID WINKLER(REP),****
+Lower Salford 2,Mail-in,MADELEINE DEAN(DEM),****
+Lower Salford 2,Mail-in,DAVID WINKLER(REP),****
+Lower Salford 2,Provisional,MADELEINE DEAN(DEM),****
+Lower Salford 2,Provisional,DAVID WINKLER(REP),****
+Lower Salford 2,Total,MADELEINE DEAN(DEM),831
+Lower Salford 2,Total,DAVID WINKLER(REP),724
+Lower Salford 3,Election Day,MADELEINE DEAN(DEM),499
+Lower Salford 3,Election Day,DAVID WINKLER(REP),557
+Lower Salford 3,Mail-in,MADELEINE DEAN(DEM),284
+Lower Salford 3,Mail-in,DAVID WINKLER(REP),170
+Lower Salford 3,Provisional,MADELEINE DEAN(DEM),7
+Lower Salford 3,Provisional,DAVID WINKLER(REP),8
+Lower Salford 3,Total,MADELEINE DEAN(DEM),790
+Lower Salford 3,Total,DAVID WINKLER(REP),735
+Lower Salford 4,Election Day,MADELEINE DEAN(DEM),****
+Lower Salford 4,Election Day,DAVID WINKLER(REP),****
+Lower Salford 4,Mail-in,MADELEINE DEAN(DEM),****
+Lower Salford 4,Mail-in,DAVID WINKLER(REP),****
+Lower Salford 4,Provisional,MADELEINE DEAN(DEM),****
+Lower Salford 4,Provisional,DAVID WINKLER(REP),****
+Lower Salford 4,Total,MADELEINE DEAN(DEM),813
+Lower Salford 4,Total,DAVID WINKLER(REP),709
+Lower Salford 5,Election Day,MADELEINE DEAN(DEM),479
+Lower Salford 5,Election Day,DAVID WINKLER(REP),820
+Lower Salford 5,Mail-in,MADELEINE DEAN(DEM),432
+Lower Salford 5,Mail-in,DAVID WINKLER(REP),285
+Lower Salford 5,Provisional,MADELEINE DEAN(DEM),6
+Lower Salford 5,Provisional,DAVID WINKLER(REP),6
+Lower Salford 5,Total,MADELEINE DEAN(DEM),917
+Lower Salford 5,Total,DAVID WINKLER(REP),"1,111"

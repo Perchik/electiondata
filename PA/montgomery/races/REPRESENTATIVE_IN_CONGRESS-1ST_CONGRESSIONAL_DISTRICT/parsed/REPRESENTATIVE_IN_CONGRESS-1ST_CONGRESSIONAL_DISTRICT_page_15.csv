@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Horsham 4-4,Election Day,ASHLEY EHASZ(DEM),****
+Horsham 4-4,Election Day,BRIAN FITZPATRICK(REP),****
+Horsham 4-4,Mail-in,ASHLEY EHASZ(DEM),****
+Horsham 4-4,Mail-in,BRIAN FITZPATRICK(REP),****
+Horsham 4-4,Provisional,ASHLEY EHASZ(DEM),****
+Horsham 4-4,Provisional,BRIAN FITZPATRICK(REP),****
+Horsham 4-4,Total,ASHLEY EHASZ(DEM),505
+Horsham 4-4,Total,BRIAN FITZPATRICK(REP),394
+Salford,Election Day,ASHLEY EHASZ(DEM),377
+Salford,Election Day,BRIAN FITZPATRICK(REP),"1,094"
+Salford,Mail-in,ASHLEY EHASZ(DEM),228
+Salford,Mail-in,BRIAN FITZPATRICK(REP),218
+Salford,Provisional,ASHLEY EHASZ(DEM),3
+Salford,Provisional,BRIAN FITZPATRICK(REP),10
+Salford,Total,ASHLEY EHASZ(DEM),608
+Salford,Total,BRIAN FITZPATRICK(REP),"1,322"
+Marlborough,Election Day,ASHLEY EHASZ(DEM),385
+Marlborough,Election Day,BRIAN FITZPATRICK(REP),"1,172"
+Marlborough,Mail-in,ASHLEY EHASZ(DEM),394
+Marlborough,Mail-in,BRIAN FITZPATRICK(REP),314
+Marlborough,Provisional,ASHLEY EHASZ(DEM),12
+Marlborough,Provisional,BRIAN FITZPATRICK(REP),7
+Marlborough,Total,ASHLEY EHASZ(DEM),791
+Marlborough,Total,BRIAN FITZPATRICK(REP),"1,493"
+Montgomery 1,Election Day,ASHLEY EHASZ(DEM),****
+Montgomery 1,Election Day,BRIAN FITZPATRICK(REP),****
+Montgomery 1,Mail-in,ASHLEY EHASZ(DEM),****
+Montgomery 1,Mail-in,BRIAN FITZPATRICK(REP),****
+Montgomery 1,Provisional,ASHLEY EHASZ(DEM),****
+Montgomery 1,Provisional,BRIAN FITZPATRICK(REP),****
+Montgomery 1,Total,ASHLEY EHASZ(DEM),611
+Montgomery 1,Total,BRIAN FITZPATRICK(REP),552
+Montgomery 2,Election Day,ASHLEY EHASZ(DEM),429
+Montgomery 2,Election Day,BRIAN FITZPATRICK(REP),580
+Montgomery 2,Mail-in,ASHLEY EHASZ(DEM),529
+Montgomery 2,Mail-in,BRIAN FITZPATRICK(REP),324
+Montgomery 2,Provisional,ASHLEY EHASZ(DEM),8
+Montgomery 2,Provisional,BRIAN FITZPATRICK(REP),7
+Montgomery 2,Total,ASHLEY EHASZ(DEM),966
+Montgomery 2,Total,BRIAN FITZPATRICK(REP),911
+Montgomery 3,Election Day,ASHLEY EHASZ(DEM),650
+Montgomery 3,Election Day,BRIAN FITZPATRICK(REP),882
+Montgomery 3,Mail-in,ASHLEY EHASZ(DEM),730
+Montgomery 3,Mail-in,BRIAN FITZPATRICK(REP),406
+Montgomery 3,Provisional,ASHLEY EHASZ(DEM),13
+Montgomery 3,Provisional,BRIAN FITZPATRICK(REP),10
+Montgomery 3,Total,ASHLEY EHASZ(DEM),"1,393"
+Montgomery 3,Total,BRIAN FITZPATRICK(REP),"1,298"

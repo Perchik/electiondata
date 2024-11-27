@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Lower Providence 3-1,Election Day,MADELEINE DEAN(DEM),309
+Lower Providence 3-1,Election Day,DAVID WINKLER(REP),221
+Lower Providence 3-1,Mail-in,MADELEINE DEAN(DEM),198
+Lower Providence 3-1,Mail-in,DAVID WINKLER(REP),67
+Lower Providence 3-1,Provisional,MADELEINE DEAN(DEM),9
+Lower Providence 3-1,Provisional,DAVID WINKLER(REP),8
+Lower Providence 3-1,Total,MADELEINE DEAN(DEM),516
+Lower Providence 3-1,Total,DAVID WINKLER(REP),296
+Lower Providence 3-2,Election Day,MADELEINE DEAN(DEM),****
+Lower Providence 3-2,Election Day,DAVID WINKLER(REP),****
+Lower Providence 3-2,Mail-in,MADELEINE DEAN(DEM),****
+Lower Providence 3-2,Mail-in,DAVID WINKLER(REP),****
+Lower Providence 3-2,Provisional,MADELEINE DEAN(DEM),****
+Lower Providence 3-2,Provisional,DAVID WINKLER(REP),****
+Lower Providence 3-2,Total,MADELEINE DEAN(DEM),551
+Lower Providence 3-2,Total,DAVID WINKLER(REP),424
+Lower Providence 3-3,Election Day,MADELEINE DEAN(DEM),718
+Lower Providence 3-3,Election Day,DAVID WINKLER(REP),583
+Lower Providence 3-3,Mail-in,MADELEINE DEAN(DEM),621
+Lower Providence 3-3,Mail-in,DAVID WINKLER(REP),232
+Lower Providence 3-3,Provisional,MADELEINE DEAN(DEM),5
+Lower Providence 3-3,Provisional,DAVID WINKLER(REP),7
+Lower Providence 3-3,Total,MADELEINE DEAN(DEM),"1,344"
+Lower Providence 3-3,Total,DAVID WINKLER(REP),822
+Lower Providence 3-4,Election Day,MADELEINE DEAN(DEM),203
+Lower Providence 3-4,Election Day,DAVID WINKLER(REP),213
+Lower Providence 3-4,Mail-in,MADELEINE DEAN(DEM),854
+Lower Providence 3-4,Mail-in,DAVID WINKLER(REP),396
+Lower Providence 3-4,Provisional,MADELEINE DEAN(DEM),9
+Lower Providence 3-4,Provisional,DAVID WINKLER(REP),8
+Lower Providence 3-4,Total,MADELEINE DEAN(DEM),"1,066"
+Lower Providence 3-4,Total,DAVID WINKLER(REP),617
+New Hanover 1,Election Day,MADELEINE DEAN(DEM),547
+New Hanover 1,Election Day,DAVID WINKLER(REP),"1,175"
+New Hanover 1,Mail-in,MADELEINE DEAN(DEM),574
+New Hanover 1,Mail-in,DAVID WINKLER(REP),401
+New Hanover 1,Provisional,MADELEINE DEAN(DEM),9
+New Hanover 1,Provisional,DAVID WINKLER(REP),4
+New Hanover 1,Total,MADELEINE DEAN(DEM),"1,130"
+New Hanover 1,Total,DAVID WINKLER(REP),"1,580"
+New Hanover 2,Election Day,MADELEINE DEAN(DEM),493
+New Hanover 2,Election Day,DAVID WINKLER(REP),963
+New Hanover 2,Mail-in,MADELEINE DEAN(DEM),510
+New Hanover 2,Mail-in,DAVID WINKLER(REP),345
+New Hanover 2,Provisional,MADELEINE DEAN(DEM),7
+New Hanover 2,Provisional,DAVID WINKLER(REP),7
+New Hanover 2,Total,MADELEINE DEAN(DEM),"1,010"
+New Hanover 2,Total,DAVID WINKLER(REP),"1,315"

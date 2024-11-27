@@ -1,0 +1,25 @@
+precinct,method,candidate,votes
+Whitpain 1,Election Day,UnresolvedWrite-In,0
+Whitpain 1,Mail-in,UnresolvedWrite-In,1
+Whitpain 1,Provisional,UnresolvedWrite-In,0
+Whitpain 1,Total,UnresolvedWrite-In,1
+Whitpain 2,Election Day,UnresolvedWrite-In,0
+Whitpain 2,Mail-in,UnresolvedWrite-In,0
+Whitpain 2,Provisional,UnresolvedWrite-In,0
+Whitpain 2,Total,UnresolvedWrite-In,0
+Whitpain 3,Election Day,UnresolvedWrite-In,****
+Whitpain 3,Mail-in,UnresolvedWrite-In,****
+Whitpain 3,Provisional,UnresolvedWrite-In,****
+Whitpain 3,Total,UnresolvedWrite-In,2
+Whitpain 4,Election Day,UnresolvedWrite-In,****
+Whitpain 4,Mail-in,UnresolvedWrite-In,****
+Whitpain 4,Provisional,UnresolvedWrite-In,****
+Whitpain 4,Total,UnresolvedWrite-In,1
+Whitpain 5,Election Day,UnresolvedWrite-In,****
+Whitpain 5,Mail-in,UnresolvedWrite-In,****
+Whitpain 5,Provisional,UnresolvedWrite-In,****
+Whitpain 5,Total,UnresolvedWrite-In,0
+Whitpain 6,Election Day,UnresolvedWrite-In,****
+Whitpain 6,Mail-in,UnresolvedWrite-In,****
+Whitpain 6,Provisional,UnresolvedWrite-In,****
+Whitpain 6,Total,UnresolvedWrite-In,1

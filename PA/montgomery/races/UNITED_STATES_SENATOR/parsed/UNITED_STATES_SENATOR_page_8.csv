@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+East Greenville,Election Day,JOHN C THOMAS(LIB),34
+East Greenville,Election Day,LEILA HAZOU(GRE),8
+East Greenville,Election Day,MARTY SELKER(CON),10
+East Greenville,Election Day,UnresolvedWrite-In,0
+East Greenville,Mail-in,JOHN C THOMAS(LIB),4
+East Greenville,Mail-in,LEILA HAZOU(GRE),7
+East Greenville,Mail-in,MARTY SELKER(CON),5
+East Greenville,Mail-in,UnresolvedWrite-In,0
+East Greenville,Provisional,JOHN C THOMAS(LIB),1
+East Greenville,Provisional,LEILA HAZOU(GRE),1
+East Greenville,Provisional,MARTY SELKER(CON),0
+East Greenville,Provisional,UnresolvedWrite-In,0
+East Greenville,Total,JOHN C THOMAS(LIB),39
+East Greenville,Total,LEILA HAZOU(GRE),16
+East Greenville,Total,MARTY SELKER(CON),15
+East Greenville,Total,UnresolvedWrite-In,0
+Green Lane,Election Day,JOHN C THOMAS(LIB),****
+Green Lane,Election Day,LEILA HAZOU(GRE),****
+Green Lane,Election Day,MARTY SELKER(CON),****
+Green Lane,Election Day,UnresolvedWrite-In,****
+Green Lane,Mail-in,JOHN C THOMAS(LIB),****
+Green Lane,Mail-in,LEILA HAZOU(GRE),****
+Green Lane,Mail-in,MARTY SELKER(CON),****
+Green Lane,Mail-in,UnresolvedWrite-In,****
+Green Lane,Provisional,JOHN C THOMAS(LIB),****
+Green Lane,Provisional,LEILA HAZOU(GRE),****
+Green Lane,Provisional,MARTY SELKER(CON),****
+Green Lane,Provisional,UnresolvedWrite-In,****
+Green Lane,Total,JOHN C THOMAS(LIB),5
+Green Lane,Total,LEILA HAZOU(GRE),2
+Green Lane,Total,MARTY SELKER(CON),1
+Green Lane,Total,UnresolvedWrite-In,1
+Hatboro North 1,Election Day,JOHN C THOMAS(LIB),****
+Hatboro North 1,Election Day,LEILA HAZOU(GRE),****
+Hatboro North 1,Election Day,MARTY SELKER(CON),****
+Hatboro North 1,Election Day,UnresolvedWrite-In,****
+Hatboro North 1,Mail-in,JOHN C THOMAS(LIB),****
+Hatboro North 1,Mail-in,LEILA HAZOU(GRE),****
+Hatboro North 1,Mail-in,MARTY SELKER(CON),****
+Hatboro North 1,Mail-in,UnresolvedWrite-In,****
+Hatboro North 1,Provisional,JOHN C THOMAS(LIB),****
+Hatboro North 1,Provisional,LEILA HAZOU(GRE),****
+Hatboro North 1,Provisional,MARTY SELKER(CON),****
+Hatboro North 1,Provisional,UnresolvedWrite-In,****
+Hatboro North 1,Total,JOHN C THOMAS(LIB),13
+Hatboro North 1,Total,LEILA HAZOU(GRE),6
+Hatboro North 1,Total,MARTY SELKER(CON),3
+Hatboro North 1,Total,UnresolvedWrite-In,0
+Hatboro North 2,Election Day,JOHN C THOMAS(LIB),20
+Hatboro North 2,Election Day,LEILA HAZOU(GRE),15
+Hatboro North 2,Election Day,MARTY SELKER(CON),2
+Hatboro North 2,Election Day,UnresolvedWrite-In,1
+Hatboro North 2,Mail-in,JOHN C THOMAS(LIB),4
+Hatboro North 2,Mail-in,LEILA HAZOU(GRE),7
+Hatboro North 2,Mail-in,MARTY SELKER(CON),2
+Hatboro North 2,Mail-in,UnresolvedWrite-In,2
+Hatboro North 2,Provisional,JOHN C THOMAS(LIB),1
+Hatboro North 2,Provisional,LEILA HAZOU(GRE),0
+Hatboro North 2,Provisional,MARTY SELKER(CON),0
+Hatboro North 2,Provisional,UnresolvedWrite-In,0
+Hatboro North 2,Total,JOHN C THOMAS(LIB),25
+Hatboro North 2,Total,LEILA HAZOU(GRE),22
+Hatboro North 2,Total,MARTY SELKER(CON),4
+Hatboro North 2,Total,UnresolvedWrite-In,3
+Hatboro South 1,Election Day,JOHN C THOMAS(LIB),****
+Hatboro South 1,Election Day,LEILA HAZOU(GRE),****
+Hatboro South 1,Election Day,MARTY SELKER(CON),****
+Hatboro South 1,Election Day,UnresolvedWrite-In,****
+Hatboro South 1,Mail-in,JOHN C THOMAS(LIB),****
+Hatboro South 1,Mail-in,LEILA HAZOU(GRE),****
+Hatboro South 1,Mail-in,MARTY SELKER(CON),****
+Hatboro South 1,Mail-in,UnresolvedWrite-In,****
+Hatboro South 1,Provisional,JOHN C THOMAS(LIB),****
+Hatboro South 1,Provisional,LEILA HAZOU(GRE),****
+Hatboro South 1,Provisional,MARTY SELKER(CON),****
+Hatboro South 1,Provisional,UnresolvedWrite-In,****
+Hatboro South 1,Total,JOHN C THOMAS(LIB),12
+Hatboro South 1,Total,LEILA HAZOU(GRE),10
+Hatboro South 1,Total,MARTY SELKER(CON),3
+Hatboro South 1,Total,UnresolvedWrite-In,3
+Hatboro South 2,Election Day,JOHN C THOMAS(LIB),****
+Hatboro South 2,Election Day,LEILA HAZOU(GRE),****
+Hatboro South 2,Election Day,MARTY SELKER(CON),****
+Hatboro South 2,Election Day,UnresolvedWrite-In,****
+Hatboro South 2,Mail-in,JOHN C THOMAS(LIB),****
+Hatboro South 2,Mail-in,LEILA HAZOU(GRE),****
+Hatboro South 2,Mail-in,MARTY SELKER(CON),****
+Hatboro South 2,Mail-in,UnresolvedWrite-In,****
+Hatboro South 2,Provisional,JOHN C THOMAS(LIB),****
+Hatboro South 2,Provisional,LEILA HAZOU(GRE),****
+Hatboro South 2,Provisional,MARTY SELKER(CON),****
+Hatboro South 2,Provisional,UnresolvedWrite-In,****
+Hatboro South 2,Total,JOHN C THOMAS(LIB),11
+Hatboro South 2,Total,LEILA HAZOU(GRE),11
+Hatboro South 2,Total,MARTY SELKER(CON),3
+Hatboro South 2,Total,UnresolvedWrite-In,0

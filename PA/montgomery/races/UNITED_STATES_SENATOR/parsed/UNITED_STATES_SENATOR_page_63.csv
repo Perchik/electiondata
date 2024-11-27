@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Horsham 4-1,Election Day,ROBERT P CASEY JR(DEM),****
+Horsham 4-1,Election Day,DAVE MCCORMICK(REP),****
+Horsham 4-1,Mail-in,ROBERT P CASEY JR(DEM),****
+Horsham 4-1,Mail-in,DAVE MCCORMICK(REP),****
+Horsham 4-1,Provisional,ROBERT P CASEY JR(DEM),****
+Horsham 4-1,Provisional,DAVE MCCORMICK(REP),****
+Horsham 4-1,Total,ROBERT P CASEY JR(DEM),514
+Horsham 4-1,Total,DAVE MCCORMICK(REP),469
+Horsham 4-2,Election Day,ROBERT P CASEY JR(DEM),****
+Horsham 4-2,Election Day,DAVE MCCORMICK(REP),****
+Horsham 4-2,Mail-in,ROBERT P CASEY JR(DEM),****
+Horsham 4-2,Mail-in,DAVE MCCORMICK(REP),****
+Horsham 4-2,Provisional,ROBERT P CASEY JR(DEM),****
+Horsham 4-2,Provisional,DAVE MCCORMICK(REP),****
+Horsham 4-2,Total,ROBERT P CASEY JR(DEM),462
+Horsham 4-2,Total,DAVE MCCORMICK(REP),378
+Horsham 4-3,Election Day,ROBERT P CASEY JR(DEM),****
+Horsham 4-3,Election Day,DAVE MCCORMICK(REP),****
+Horsham 4-3,Mail-in,ROBERT P CASEY JR(DEM),****
+Horsham 4-3,Mail-in,DAVE MCCORMICK(REP),****
+Horsham 4-3,Provisional,ROBERT P CASEY JR(DEM),****
+Horsham 4-3,Provisional,DAVE MCCORMICK(REP),****
+Horsham 4-3,Total,ROBERT P CASEY JR(DEM),287
+Horsham 4-3,Total,DAVE MCCORMICK(REP),224
+Horsham 4-4,Election Day,ROBERT P CASEY JR(DEM),****
+Horsham 4-4,Election Day,DAVE MCCORMICK(REP),****
+Horsham 4-4,Mail-in,ROBERT P CASEY JR(DEM),****
+Horsham 4-4,Mail-in,DAVE MCCORMICK(REP),****
+Horsham 4-4,Provisional,ROBERT P CASEY JR(DEM),****
+Horsham 4-4,Provisional,DAVE MCCORMICK(REP),****
+Horsham 4-4,Total,ROBERT P CASEY JR(DEM),541
+Horsham 4-4,Total,DAVE MCCORMICK(REP),338
+Limerick 1,Election Day,ROBERT P CASEY JR(DEM),786
+Limerick 1,Election Day,DAVE MCCORMICK(REP),"1,018"
+Limerick 1,Mail-in,ROBERT P CASEY JR(DEM),633
+Limerick 1,Mail-in,DAVE MCCORMICK(REP),409
+Limerick 1,Provisional,ROBERT P CASEY JR(DEM),0
+Limerick 1,Provisional,DAVE MCCORMICK(REP),0
+Limerick 1,Total,ROBERT P CASEY JR(DEM),"1,419"
+Limerick 1,Total,DAVE MCCORMICK(REP),"1,427"
+Limerick 2,Election Day,ROBERT P CASEY JR(DEM),582
+Limerick 2,Election Day,DAVE MCCORMICK(REP),705
+Limerick 2,Mail-in,ROBERT P CASEY JR(DEM),444
+Limerick 2,Mail-in,DAVE MCCORMICK(REP),220
+Limerick 2,Provisional,ROBERT P CASEY JR(DEM),6
+Limerick 2,Provisional,DAVE MCCORMICK(REP),8
+Limerick 2,Total,ROBERT P CASEY JR(DEM),"1,032"
+Limerick 2,Total,DAVE MCCORMICK(REP),933

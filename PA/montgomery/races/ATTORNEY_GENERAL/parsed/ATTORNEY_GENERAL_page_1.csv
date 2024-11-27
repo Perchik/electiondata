@@ -1,0 +1,41 @@
+precinct,method,candidate,votes
+Ambler 1,Election Day,EUGENE DEPASQUALE(DEM),****
+Ambler 1,Election Day,DAVE SUNDAY(REP),****
+Ambler 1,Mail-in,EUGENE DEPASQUALE(DEM),****
+Ambler 1,Mail-in,DAVE SUNDAY(REP),****
+Ambler 1,Provisional,EUGENE DEPASQUALE(DEM),****
+Ambler 1,Provisional,DAVE SUNDAY(REP),****
+Ambler 1,Total,EUGENE DEPASQUALE(DEM),826
+Ambler 1,Total,DAVE SUNDAY(REP),421
+Ambler 2,Election Day,EUGENE DEPASQUALE(DEM),605
+Ambler 2,Election Day,DAVE SUNDAY(REP),326
+Ambler 2,Mail-in,EUGENE DEPASQUALE(DEM),274
+Ambler 2,Mail-in,DAVE SUNDAY(REP),62
+Ambler 2,Provisional,EUGENE DEPASQUALE(DEM),9
+Ambler 2,Provisional,DAVE SUNDAY(REP),3
+Ambler 2,Total,EUGENE DEPASQUALE(DEM),888
+Ambler 2,Total,DAVE SUNDAY(REP),391
+Ambler 3,Election Day,EUGENE DEPASQUALE(DEM),****
+Ambler 3,Election Day,DAVE SUNDAY(REP),****
+Ambler 3,Mail-in,EUGENE DEPASQUALE(DEM),****
+Ambler 3,Mail-in,DAVE SUNDAY(REP),****
+Ambler 3,Provisional,EUGENE DEPASQUALE(DEM),****
+Ambler 3,Provisional,DAVE SUNDAY(REP),****
+Ambler 3,Total,EUGENE DEPASQUALE(DEM),758
+Ambler 3,Total,DAVE SUNDAY(REP),337
+Bridgeport 1,Election Day,EUGENE DEPASQUALE(DEM),****
+Bridgeport 1,Election Day,DAVE SUNDAY(REP),****
+Bridgeport 1,Mail-in,EUGENE DEPASQUALE(DEM),****
+Bridgeport 1,Mail-in,DAVE SUNDAY(REP),****
+Bridgeport 1,Provisional,EUGENE DEPASQUALE(DEM),****
+Bridgeport 1,Provisional,DAVE SUNDAY(REP),****
+Bridgeport 1,Total,EUGENE DEPASQUALE(DEM),389
+Bridgeport 1,Total,DAVE SUNDAY(REP),215
+Bridgeport 2,Election Day,EUGENE DEPASQUALE(DEM),****
+Bridgeport 2,Election Day,DAVE SUNDAY(REP),****
+Bridgeport 2,Mail-in,EUGENE DEPASQUALE(DEM),****
+Bridgeport 2,Mail-in,DAVE SUNDAY(REP),****
+Bridgeport 2,Provisional,EUGENE DEPASQUALE(DEM),****
+Bridgeport 2,Provisional,DAVE SUNDAY(REP),****
+Bridgeport 2,Total,EUGENE DEPASQUALE(DEM),439
+Bridgeport 2,Total,DAVE SUNDAY(REP),393

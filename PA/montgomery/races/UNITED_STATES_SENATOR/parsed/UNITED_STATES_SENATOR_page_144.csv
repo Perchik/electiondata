@@ -1,0 +1,33 @@
+precinct,method,candidate,votes
+Worcester West,Election Day,JOHN C THOMAS(LIB),14
+Worcester West,Election Day,LEILA HAZOU(GRE),10
+Worcester West,Election Day,MARTY SELKER(CON),1
+Worcester West,Election Day,UnresolvedWrite-In,3
+Worcester West,Mail-in,JOHN C THOMAS(LIB),4
+Worcester West,Mail-in,LEILA HAZOU(GRE),4
+Worcester West,Mail-in,MARTY SELKER(CON),0
+Worcester West,Mail-in,UnresolvedWrite-In,0
+Worcester West,Provisional,JOHN C THOMAS(LIB),1
+Worcester West,Provisional,LEILA HAZOU(GRE),0
+Worcester West,Provisional,MARTY SELKER(CON),0
+Worcester West,Provisional,UnresolvedWrite-In,0
+Worcester West,Total,JOHN C THOMAS(LIB),19
+Worcester West,Total,LEILA HAZOU(GRE),14
+Worcester West,Total,MARTY SELKER(CON),1
+Worcester West,Total,UnresolvedWrite-In,3
+Cumulative,Election Day,JOHN C THOMAS(LIB),0
+Cumulative,Election Day,LEILA HAZOU(GRE),0
+Cumulative,Election Day,MARTY SELKER(CON),0
+Cumulative,Election Day,UnresolvedWrite-In,0
+Cumulative,Mail-in,JOHN C THOMAS(LIB),0
+Cumulative,Mail-in,LEILA HAZOU(GRE),0
+Cumulative,Mail-in,MARTY SELKER(CON),0
+Cumulative,Mail-in,UnresolvedWrite-In,0
+Cumulative,Provisional,JOHN C THOMAS(LIB),0
+Cumulative,Provisional,LEILA HAZOU(GRE),0
+Cumulative,Provisional,MARTY SELKER(CON),0
+Cumulative,Provisional,UnresolvedWrite-In,0
+Cumulative,Total,JOHN C THOMAS(LIB),0
+Cumulative,Total,LEILA HAZOU(GRE),0
+Cumulative,Total,MARTY SELKER(CON),0
+Cumulative,Total,UnresolvedWrite-In,0

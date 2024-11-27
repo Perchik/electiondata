@@ -1,0 +1,33 @@
+0,1,2
+Precinct,Times Cast,"Registered 
+Voters"
+Montgomery 1,,
+Election Day,788,"1,369"
+Mail-in,395,"1,369"
+Provisional,5,"1,369"
+Total,"1,188","1,369"
+Montgomery 2,,
+Election Day,"1,053","2,295"
+Mail-in,861,"2,295"
+Provisional,16,"2,295"
+Total,"1,930","2,295"
+Montgomery 3,,
+Election Day,"1,607","3,366"
+Mail-in,"1,153","3,366"
+Provisional,25,"3,366"
+Total,"2,785","3,366"
+Montgomery 4,,
+Election Day,668,"1,267"
+Mail-in,378,"1,267"
+Provisional,4,"1,267"
+Total,"1,050","1,267"
+Montgomery 5,,
+Election Day,"1,044","1,948"
+Mail-in,599,"1,948"
+Provisional,16,"1,948"
+Total,"1,659","1,948"
+Montgomery 6,,
+Election Day,"1,092","2,005"
+Mail-in,628,"2,005"
+Provisional,25,"2,005"
+Total,"1,745","2,005"

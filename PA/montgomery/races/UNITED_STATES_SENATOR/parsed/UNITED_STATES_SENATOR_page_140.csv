@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Whitpain 4,Election Day,JOHN C THOMAS(LIB),****
+Whitpain 4,Election Day,LEILA HAZOU(GRE),****
+Whitpain 4,Election Day,MARTY SELKER(CON),****
+Whitpain 4,Election Day,UnresolvedWrite-In,****
+Whitpain 4,Mail-in,JOHN C THOMAS(LIB),****
+Whitpain 4,Mail-in,LEILA HAZOU(GRE),****
+Whitpain 4,Mail-in,MARTY SELKER(CON),****
+Whitpain 4,Mail-in,UnresolvedWrite-In,****
+Whitpain 4,Provisional,JOHN C THOMAS(LIB),****
+Whitpain 4,Provisional,LEILA HAZOU(GRE),****
+Whitpain 4,Provisional,MARTY SELKER(CON),****
+Whitpain 4,Provisional,UnresolvedWrite-In,****
+Whitpain 4,Total,JOHN C THOMAS(LIB),7
+Whitpain 4,Total,LEILA HAZOU(GRE),4
+Whitpain 4,Total,MARTY SELKER(CON),3
+Whitpain 4,Total,UnresolvedWrite-In,0
+Whitpain 5,Election Day,JOHN C THOMAS(LIB),****
+Whitpain 5,Election Day,LEILA HAZOU(GRE),****
+Whitpain 5,Election Day,MARTY SELKER(CON),****
+Whitpain 5,Election Day,UnresolvedWrite-In,****
+Whitpain 5,Mail-in,JOHN C THOMAS(LIB),****
+Whitpain 5,Mail-in,LEILA HAZOU(GRE),****
+Whitpain 5,Mail-in,MARTY SELKER(CON),****
+Whitpain 5,Mail-in,UnresolvedWrite-In,****
+Whitpain 5,Provisional,JOHN C THOMAS(LIB),****
+Whitpain 5,Provisional,LEILA HAZOU(GRE),****
+Whitpain 5,Provisional,MARTY SELKER(CON),****
+Whitpain 5,Provisional,UnresolvedWrite-In,****
+Whitpain 5,Total,JOHN C THOMAS(LIB),7
+Whitpain 5,Total,LEILA HAZOU(GRE),3
+Whitpain 5,Total,MARTY SELKER(CON),0
+Whitpain 5,Total,UnresolvedWrite-In,0
+Whitpain 6,Election Day,JOHN C THOMAS(LIB),****
+Whitpain 6,Election Day,LEILA HAZOU(GRE),****
+Whitpain 6,Election Day,MARTY SELKER(CON),****
+Whitpain 6,Election Day,UnresolvedWrite-In,****
+Whitpain 6,Mail-in,JOHN C THOMAS(LIB),****
+Whitpain 6,Mail-in,LEILA HAZOU(GRE),****
+Whitpain 6,Mail-in,MARTY SELKER(CON),****
+Whitpain 6,Mail-in,UnresolvedWrite-In,****
+Whitpain 6,Provisional,JOHN C THOMAS(LIB),****
+Whitpain 6,Provisional,LEILA HAZOU(GRE),****
+Whitpain 6,Provisional,MARTY SELKER(CON),****
+Whitpain 6,Provisional,UnresolvedWrite-In,****
+Whitpain 6,Total,JOHN C THOMAS(LIB),9
+Whitpain 6,Total,LEILA HAZOU(GRE),13
+Whitpain 6,Total,MARTY SELKER(CON),1
+Whitpain 6,Total,UnresolvedWrite-In,0
+Whitpain 7,Election Day,JOHN C THOMAS(LIB),****
+Whitpain 7,Election Day,LEILA HAZOU(GRE),****
+Whitpain 7,Election Day,MARTY SELKER(CON),****
+Whitpain 7,Election Day,UnresolvedWrite-In,****
+Whitpain 7,Mail-in,JOHN C THOMAS(LIB),****
+Whitpain 7,Mail-in,LEILA HAZOU(GRE),****
+Whitpain 7,Mail-in,MARTY SELKER(CON),****
+Whitpain 7,Mail-in,UnresolvedWrite-In,****
+Whitpain 7,Provisional,JOHN C THOMAS(LIB),****
+Whitpain 7,Provisional,LEILA HAZOU(GRE),****
+Whitpain 7,Provisional,MARTY SELKER(CON),****
+Whitpain 7,Provisional,UnresolvedWrite-In,****
+Whitpain 7,Total,JOHN C THOMAS(LIB),4
+Whitpain 7,Total,LEILA HAZOU(GRE),9
+Whitpain 7,Total,MARTY SELKER(CON),2
+Whitpain 7,Total,UnresolvedWrite-In,2
+Whitpain 8,Election Day,JOHN C THOMAS(LIB),****
+Whitpain 8,Election Day,LEILA HAZOU(GRE),****
+Whitpain 8,Election Day,MARTY SELKER(CON),****
+Whitpain 8,Election Day,UnresolvedWrite-In,****
+Whitpain 8,Mail-in,JOHN C THOMAS(LIB),****
+Whitpain 8,Mail-in,LEILA HAZOU(GRE),****
+Whitpain 8,Mail-in,MARTY SELKER(CON),****
+Whitpain 8,Mail-in,UnresolvedWrite-In,****
+Whitpain 8,Provisional,JOHN C THOMAS(LIB),****
+Whitpain 8,Provisional,LEILA HAZOU(GRE),****
+Whitpain 8,Provisional,MARTY SELKER(CON),****
+Whitpain 8,Provisional,UnresolvedWrite-In,****
+Whitpain 8,Total,JOHN C THOMAS(LIB),6
+Whitpain 8,Total,LEILA HAZOU(GRE),9
+Whitpain 8,Total,MARTY SELKER(CON),2
+Whitpain 8,Total,UnresolvedWrite-In,1
+Whitpain 9,Election Day,JOHN C THOMAS(LIB),12
+Whitpain 9,Election Day,LEILA HAZOU(GRE),13
+Whitpain 9,Election Day,MARTY SELKER(CON),6
+Whitpain 9,Election Day,UnresolvedWrite-In,1
+Whitpain 9,Mail-in,JOHN C THOMAS(LIB),3
+Whitpain 9,Mail-in,LEILA HAZOU(GRE),5
+Whitpain 9,Mail-in,MARTY SELKER(CON),2
+Whitpain 9,Mail-in,UnresolvedWrite-In,0
+Whitpain 9,Provisional,JOHN C THOMAS(LIB),0
+Whitpain 9,Provisional,LEILA HAZOU(GRE),0
+Whitpain 9,Provisional,MARTY SELKER(CON),0
+Whitpain 9,Provisional,UnresolvedWrite-In,0
+Whitpain 9,Total,JOHN C THOMAS(LIB),15
+Whitpain 9,Total,LEILA HAZOU(GRE),18
+Whitpain 9,Total,MARTY SELKER(CON),8
+Whitpain 9,Total,UnresolvedWrite-In,1

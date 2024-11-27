@@ -1,0 +1,25 @@
+precinct,method,candidate,votes
+Pottstown 5,Election Day,UnresolvedWrite-In,0
+Pottstown 5,Mail-in,UnresolvedWrite-In,1
+Pottstown 5,Provisional,UnresolvedWrite-In,0
+Pottstown 5,Total,UnresolvedWrite-In,1
+Pottstown 6,Election Day,UnresolvedWrite-In,0
+Pottstown 6,Mail-in,UnresolvedWrite-In,2
+Pottstown 6,Provisional,UnresolvedWrite-In,0
+Pottstown 6,Total,UnresolvedWrite-In,2
+Pottstown 7-1,Election Day,UnresolvedWrite-In,1
+Pottstown 7-1,Mail-in,UnresolvedWrite-In,0
+Pottstown 7-1,Provisional,UnresolvedWrite-In,0
+Pottstown 7-1,Total,UnresolvedWrite-In,1
+Pottstown 7-2,Election Day,UnresolvedWrite-In,****
+Pottstown 7-2,Mail-in,UnresolvedWrite-In,****
+Pottstown 7-2,Provisional,UnresolvedWrite-In,****
+Pottstown 7-2,Total,UnresolvedWrite-In,3
+Rockledge,Election Day,UnresolvedWrite-In,****
+Rockledge,Mail-in,UnresolvedWrite-In,****
+Rockledge,Provisional,UnresolvedWrite-In,****
+Rockledge,Total,UnresolvedWrite-In,4
+Royersford 1,Election Day,UnresolvedWrite-In,****
+Royersford 1,Mail-in,UnresolvedWrite-In,****
+Royersford 1,Provisional,UnresolvedWrite-In,****
+Royersford 1,Total,UnresolvedWrite-In,4

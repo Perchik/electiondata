@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Hatboro South 1,Election Day,MADELEINE DEAN(DEM),****
+Hatboro South 1,Election Day,DAVID WINKLER(REP),****
+Hatboro South 1,Mail-in,MADELEINE DEAN(DEM),****
+Hatboro South 1,Mail-in,DAVID WINKLER(REP),****
+Hatboro South 1,Provisional,MADELEINE DEAN(DEM),****
+Hatboro South 1,Provisional,DAVID WINKLER(REP),****
+Hatboro South 1,Total,MADELEINE DEAN(DEM),763
+Hatboro South 1,Total,DAVID WINKLER(REP),471
+Hatboro South 2,Election Day,MADELEINE DEAN(DEM),****
+Hatboro South 2,Election Day,DAVID WINKLER(REP),****
+Hatboro South 2,Mail-in,MADELEINE DEAN(DEM),****
+Hatboro South 2,Mail-in,DAVID WINKLER(REP),****
+Hatboro South 2,Provisional,MADELEINE DEAN(DEM),****
+Hatboro South 2,Provisional,DAVID WINKLER(REP),****
+Hatboro South 2,Total,MADELEINE DEAN(DEM),578
+Hatboro South 2,Total,DAVID WINKLER(REP),342
+Jenkintown 1,Election Day,MADELEINE DEAN(DEM),****
+Jenkintown 1,Election Day,DAVID WINKLER(REP),****
+Jenkintown 1,Mail-in,MADELEINE DEAN(DEM),****
+Jenkintown 1,Mail-in,DAVID WINKLER(REP),****
+Jenkintown 1,Provisional,MADELEINE DEAN(DEM),****
+Jenkintown 1,Provisional,DAVID WINKLER(REP),****
+Jenkintown 1,Total,MADELEINE DEAN(DEM),604
+Jenkintown 1,Total,DAVID WINKLER(REP),176
+Jenkintown 2,Election Day,MADELEINE DEAN(DEM),****
+Jenkintown 2,Election Day,DAVID WINKLER(REP),****
+Jenkintown 2,Mail-in,MADELEINE DEAN(DEM),****
+Jenkintown 2,Mail-in,DAVID WINKLER(REP),****
+Jenkintown 2,Provisional,MADELEINE DEAN(DEM),****
+Jenkintown 2,Provisional,DAVID WINKLER(REP),****
+Jenkintown 2,Total,MADELEINE DEAN(DEM),595
+Jenkintown 2,Total,DAVID WINKLER(REP),148
+Jenkintown 3,Election Day,MADELEINE DEAN(DEM),****
+Jenkintown 3,Election Day,DAVID WINKLER(REP),****
+Jenkintown 3,Mail-in,MADELEINE DEAN(DEM),****
+Jenkintown 3,Mail-in,DAVID WINKLER(REP),****
+Jenkintown 3,Provisional,MADELEINE DEAN(DEM),****
+Jenkintown 3,Provisional,DAVID WINKLER(REP),****
+Jenkintown 3,Total,MADELEINE DEAN(DEM),594
+Jenkintown 3,Total,DAVID WINKLER(REP),147
+Jenkintown 4,Election Day,MADELEINE DEAN(DEM),482
+Jenkintown 4,Election Day,DAVID WINKLER(REP),115
+Jenkintown 4,Mail-in,MADELEINE DEAN(DEM),195
+Jenkintown 4,Mail-in,DAVID WINKLER(REP),38
+Jenkintown 4,Provisional,MADELEINE DEAN(DEM),9
+Jenkintown 4,Provisional,DAVID WINKLER(REP),4
+Jenkintown 4,Total,MADELEINE DEAN(DEM),686
+Jenkintown 4,Total,DAVID WINKLER(REP),157

@@ -1,0 +1,97 @@
+precinct,method,candidate,votes
+Upper Merion Belmont 5,Election Day,JOHN C THOMAS(LIB),10
+Upper Merion Belmont 5,Election Day,LEILA HAZOU(GRE),18
+Upper Merion Belmont 5,Election Day,MARTY SELKER(CON),2
+Upper Merion Belmont 5,Election Day,UnresolvedWrite-In,0
+Upper Merion Belmont 5,Mail-in,JOHN C THOMAS(LIB),3
+Upper Merion Belmont 5,Mail-in,LEILA HAZOU(GRE),6
+Upper Merion Belmont 5,Mail-in,MARTY SELKER(CON),0
+Upper Merion Belmont 5,Mail-in,UnresolvedWrite-In,0
+Upper Merion Belmont 5,Provisional,JOHN C THOMAS(LIB),0
+Upper Merion Belmont 5,Provisional,LEILA HAZOU(GRE),0
+Upper Merion Belmont 5,Provisional,MARTY SELKER(CON),0
+Upper Merion Belmont 5,Provisional,UnresolvedWrite-In,0
+Upper Merion Belmont 5,Total,JOHN C THOMAS(LIB),13
+Upper Merion Belmont 5,Total,LEILA HAZOU(GRE),24
+Upper Merion Belmont 5,Total,MARTY SELKER(CON),2
+Upper Merion Belmont 5,Total,UnresolvedWrite-In,0
+Upper Merion Candle 1,Election Day,JOHN C THOMAS(LIB),****
+Upper Merion Candle 1,Election Day,LEILA HAZOU(GRE),****
+Upper Merion Candle 1,Election Day,MARTY SELKER(CON),****
+Upper Merion Candle 1,Election Day,UnresolvedWrite-In,****
+Upper Merion Candle 1,Mail-in,JOHN C THOMAS(LIB),****
+Upper Merion Candle 1,Mail-in,LEILA HAZOU(GRE),****
+Upper Merion Candle 1,Mail-in,MARTY SELKER(CON),****
+Upper Merion Candle 1,Mail-in,UnresolvedWrite-In,****
+Upper Merion Candle 1,Provisional,JOHN C THOMAS(LIB),****
+Upper Merion Candle 1,Provisional,LEILA HAZOU(GRE),****
+Upper Merion Candle 1,Provisional,MARTY SELKER(CON),****
+Upper Merion Candle 1,Provisional,UnresolvedWrite-In,****
+Upper Merion Candle 1,Total,JOHN C THOMAS(LIB),15
+Upper Merion Candle 1,Total,LEILA HAZOU(GRE),27
+Upper Merion Candle 1,Total,MARTY SELKER(CON),1
+Upper Merion Candle 1,Total,UnresolvedWrite-In,1
+Upper Merion Candle 2,Election Day,JOHN C THOMAS(LIB),20
+Upper Merion Candle 2,Election Day,LEILA HAZOU(GRE),9
+Upper Merion Candle 2,Election Day,MARTY SELKER(CON),4
+Upper Merion Candle 2,Election Day,UnresolvedWrite-In,1
+Upper Merion Candle 2,Mail-in,JOHN C THOMAS(LIB),2
+Upper Merion Candle 2,Mail-in,LEILA HAZOU(GRE),7
+Upper Merion Candle 2,Mail-in,MARTY SELKER(CON),0
+Upper Merion Candle 2,Mail-in,UnresolvedWrite-In,0
+Upper Merion Candle 2,Provisional,JOHN C THOMAS(LIB),0
+Upper Merion Candle 2,Provisional,LEILA HAZOU(GRE),0
+Upper Merion Candle 2,Provisional,MARTY SELKER(CON),0
+Upper Merion Candle 2,Provisional,UnresolvedWrite-In,0
+Upper Merion Candle 2,Total,JOHN C THOMAS(LIB),22
+Upper Merion Candle 2,Total,LEILA HAZOU(GRE),16
+Upper Merion Candle 2,Total,MARTY SELKER(CON),4
+Upper Merion Candle 2,Total,UnresolvedWrite-In,1
+Upper Merion Gulph 1,Election Day,JOHN C THOMAS(LIB),10
+Upper Merion Gulph 1,Election Day,LEILA HAZOU(GRE),13
+Upper Merion Gulph 1,Election Day,MARTY SELKER(CON),1
+Upper Merion Gulph 1,Election Day,UnresolvedWrite-In,1
+Upper Merion Gulph 1,Mail-in,JOHN C THOMAS(LIB),2
+Upper Merion Gulph 1,Mail-in,LEILA HAZOU(GRE),3
+Upper Merion Gulph 1,Mail-in,MARTY SELKER(CON),1
+Upper Merion Gulph 1,Mail-in,UnresolvedWrite-In,2
+Upper Merion Gulph 1,Provisional,JOHN C THOMAS(LIB),1
+Upper Merion Gulph 1,Provisional,LEILA HAZOU(GRE),0
+Upper Merion Gulph 1,Provisional,MARTY SELKER(CON),0
+Upper Merion Gulph 1,Provisional,UnresolvedWrite-In,0
+Upper Merion Gulph 1,Total,JOHN C THOMAS(LIB),13
+Upper Merion Gulph 1,Total,LEILA HAZOU(GRE),16
+Upper Merion Gulph 1,Total,MARTY SELKER(CON),2
+Upper Merion Gulph 1,Total,UnresolvedWrite-In,3
+Upper Merion Gulph 2,Election Day,JOHN C THOMAS(LIB),8
+Upper Merion Gulph 2,Election Day,LEILA HAZOU(GRE),7
+Upper Merion Gulph 2,Election Day,MARTY SELKER(CON),3
+Upper Merion Gulph 2,Election Day,UnresolvedWrite-In,0
+Upper Merion Gulph 2,Mail-in,JOHN C THOMAS(LIB),2
+Upper Merion Gulph 2,Mail-in,LEILA HAZOU(GRE),12
+Upper Merion Gulph 2,Mail-in,MARTY SELKER(CON),3
+Upper Merion Gulph 2,Mail-in,UnresolvedWrite-In,1
+Upper Merion Gulph 2,Provisional,JOHN C THOMAS(LIB),0
+Upper Merion Gulph 2,Provisional,LEILA HAZOU(GRE),0
+Upper Merion Gulph 2,Provisional,MARTY SELKER(CON),0
+Upper Merion Gulph 2,Provisional,UnresolvedWrite-In,0
+Upper Merion Gulph 2,Total,JOHN C THOMAS(LIB),10
+Upper Merion Gulph 2,Total,LEILA HAZOU(GRE),19
+Upper Merion Gulph 2,Total,MARTY SELKER(CON),6
+Upper Merion Gulph 2,Total,UnresolvedWrite-In,1
+Upper Merion King 1,Election Day,JOHN C THOMAS(LIB),8
+Upper Merion King 1,Election Day,LEILA HAZOU(GRE),6
+Upper Merion King 1,Election Day,MARTY SELKER(CON),1
+Upper Merion King 1,Election Day,UnresolvedWrite-In,2
+Upper Merion King 1,Mail-in,JOHN C THOMAS(LIB),5
+Upper Merion King 1,Mail-in,LEILA HAZOU(GRE),8
+Upper Merion King 1,Mail-in,MARTY SELKER(CON),0
+Upper Merion King 1,Mail-in,UnresolvedWrite-In,2
+Upper Merion King 1,Provisional,JOHN C THOMAS(LIB),0
+Upper Merion King 1,Provisional,LEILA HAZOU(GRE),0
+Upper Merion King 1,Provisional,MARTY SELKER(CON),0
+Upper Merion King 1,Provisional,UnresolvedWrite-In,0
+Upper Merion King 1,Total,JOHN C THOMAS(LIB),13
+Upper Merion King 1,Total,LEILA HAZOU(GRE),14
+Upper Merion King 1,Total,MARTY SELKER(CON),1
+Upper Merion King 1,Total,UnresolvedWrite-In,4

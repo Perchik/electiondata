@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+West Norriton 3-1,Election Day,EUGENE DEPASQUALE(DEM),678
+West Norriton 3-1,Election Day,DAVE SUNDAY(REP),466
+West Norriton 3-1,Mail-in,EUGENE DEPASQUALE(DEM),527
+West Norriton 3-1,Mail-in,DAVE SUNDAY(REP),176
+West Norriton 3-1,Provisional,EUGENE DEPASQUALE(DEM),16
+West Norriton 3-1,Provisional,DAVE SUNDAY(REP),3
+West Norriton 3-1,Total,EUGENE DEPASQUALE(DEM),"1,221"
+West Norriton 3-1,Total,DAVE SUNDAY(REP),645
+West Norriton 3-2,Election Day,EUGENE DEPASQUALE(DEM),****
+West Norriton 3-2,Election Day,DAVE SUNDAY(REP),****
+West Norriton 3-2,Mail-in,EUGENE DEPASQUALE(DEM),****
+West Norriton 3-2,Mail-in,DAVE SUNDAY(REP),****
+West Norriton 3-2,Provisional,EUGENE DEPASQUALE(DEM),****
+West Norriton 3-2,Provisional,DAVE SUNDAY(REP),****
+West Norriton 3-2,Total,EUGENE DEPASQUALE(DEM),566
+West Norriton 3-2,Total,DAVE SUNDAY(REP),412
+West Norriton 4-1,Election Day,EUGENE DEPASQUALE(DEM),****
+West Norriton 4-1,Election Day,DAVE SUNDAY(REP),****
+West Norriton 4-1,Mail-in,EUGENE DEPASQUALE(DEM),****
+West Norriton 4-1,Mail-in,DAVE SUNDAY(REP),****
+West Norriton 4-1,Provisional,EUGENE DEPASQUALE(DEM),****
+West Norriton 4-1,Provisional,DAVE SUNDAY(REP),****
+West Norriton 4-1,Total,EUGENE DEPASQUALE(DEM),714
+West Norriton 4-1,Total,DAVE SUNDAY(REP),485
+West Norriton 4-2,Election Day,EUGENE DEPASQUALE(DEM),526
+West Norriton 4-2,Election Day,DAVE SUNDAY(REP),295
+West Norriton 4-2,Mail-in,EUGENE DEPASQUALE(DEM),214
+West Norriton 4-2,Mail-in,DAVE SUNDAY(REP),57
+West Norriton 4-2,Provisional,EUGENE DEPASQUALE(DEM),0
+West Norriton 4-2,Provisional,DAVE SUNDAY(REP),0
+West Norriton 4-2,Total,EUGENE DEPASQUALE(DEM),740
+West Norriton 4-2,Total,DAVE SUNDAY(REP),352
+West Pottsgrove,Election Day,EUGENE DEPASQUALE(DEM),594
+West Pottsgrove,Election Day,DAVE SUNDAY(REP),790
+West Pottsgrove,Mail-in,EUGENE DEPASQUALE(DEM),258
+West Pottsgrove,Mail-in,DAVE SUNDAY(REP),138
+West Pottsgrove,Provisional,EUGENE DEPASQUALE(DEM),0
+West Pottsgrove,Provisional,DAVE SUNDAY(REP),0
+West Pottsgrove,Total,EUGENE DEPASQUALE(DEM),852
+West Pottsgrove,Total,DAVE SUNDAY(REP),928
+Whitemarsh East 1,Election Day,EUGENE DEPASQUALE(DEM),****
+Whitemarsh East 1,Election Day,DAVE SUNDAY(REP),****
+Whitemarsh East 1,Mail-in,EUGENE DEPASQUALE(DEM),****
+Whitemarsh East 1,Mail-in,DAVE SUNDAY(REP),****
+Whitemarsh East 1,Provisional,EUGENE DEPASQUALE(DEM),****
+Whitemarsh East 1,Provisional,DAVE SUNDAY(REP),****
+Whitemarsh East 1,Total,EUGENE DEPASQUALE(DEM),745
+Whitemarsh East 1,Total,DAVE SUNDAY(REP),602

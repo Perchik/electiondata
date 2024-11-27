@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Montgomery 1,Election Day,KAMALA D HARRIS(DEM),****
+Montgomery 1,Election Day,DONALD J TRUMP(REP),****
+Montgomery 1,Mail-in,KAMALA D HARRIS(DEM),****
+Montgomery 1,Mail-in,DONALD J TRUMP(REP),****
+Montgomery 1,Provisional,KAMALA D HARRIS(DEM),****
+Montgomery 1,Provisional,DONALD J TRUMP(REP),****
+Montgomery 1,Total,KAMALA D HARRIS(DEM),703
+Montgomery 1,Total,DONALD J TRUMP(REP),474
+Montgomery 2,Election Day,KAMALA D HARRIS(DEM),509
+Montgomery 2,Election Day,DONALD J TRUMP(REP),523
+Montgomery 2,Mail-in,KAMALA D HARRIS(DEM),604
+Montgomery 2,Mail-in,DONALD J TRUMP(REP),243
+Montgomery 2,Provisional,KAMALA D HARRIS(DEM),9
+Montgomery 2,Provisional,DONALD J TRUMP(REP),7
+Montgomery 2,Total,KAMALA D HARRIS(DEM),"1,122"
+Montgomery 2,Total,DONALD J TRUMP(REP),773
+Montgomery 3,Election Day,KAMALA D HARRIS(DEM),756
+Montgomery 3,Election Day,DONALD J TRUMP(REP),822
+Montgomery 3,Mail-in,KAMALA D HARRIS(DEM),831
+Montgomery 3,Mail-in,DONALD J TRUMP(REP),311
+Montgomery 3,Provisional,KAMALA D HARRIS(DEM),14
+Montgomery 3,Provisional,DONALD J TRUMP(REP),10
+Montgomery 3,Total,KAMALA D HARRIS(DEM),"1,601"
+Montgomery 3,Total,DONALD J TRUMP(REP),"1,143"
+Montgomery 4,Election Day,KAMALA D HARRIS(DEM),****
+Montgomery 4,Election Day,DONALD J TRUMP(REP),****
+Montgomery 4,Mail-in,KAMALA D HARRIS(DEM),****
+Montgomery 4,Mail-in,DONALD J TRUMP(REP),****
+Montgomery 4,Provisional,KAMALA D HARRIS(DEM),****
+Montgomery 4,Provisional,DONALD J TRUMP(REP),****
+Montgomery 4,Total,KAMALA D HARRIS(DEM),575
+Montgomery 4,Total,DONALD J TRUMP(REP),460
+Montgomery 5,Election Day,KAMALA D HARRIS(DEM),535
+Montgomery 5,Election Day,DONALD J TRUMP(REP),487
+Montgomery 5,Mail-in,KAMALA D HARRIS(DEM),427
+Montgomery 5,Mail-in,DONALD J TRUMP(REP),166
+Montgomery 5,Provisional,KAMALA D HARRIS(DEM),12
+Montgomery 5,Provisional,DONALD J TRUMP(REP),4
+Montgomery 5,Total,KAMALA D HARRIS(DEM),974
+Montgomery 5,Total,DONALD J TRUMP(REP),657
+Montgomery 6,Election Day,KAMALA D HARRIS(DEM),561
+Montgomery 6,Election Day,DONALD J TRUMP(REP),514
+Montgomery 6,Mail-in,KAMALA D HARRIS(DEM),420
+Montgomery 6,Mail-in,DONALD J TRUMP(REP),187
+Montgomery 6,Provisional,KAMALA D HARRIS(DEM),15
+Montgomery 6,Provisional,DONALD J TRUMP(REP),10
+Montgomery 6,Total,KAMALA D HARRIS(DEM),996
+Montgomery 6,Total,DONALD J TRUMP(REP),711

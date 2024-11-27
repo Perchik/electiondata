@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Lansdale 3-2,Election Day,EUGENE DEPASQUALE(DEM),****
+Lansdale 3-2,Election Day,DAVE SUNDAY(REP),****
+Lansdale 3-2,Mail-in,EUGENE DEPASQUALE(DEM),****
+Lansdale 3-2,Mail-in,DAVE SUNDAY(REP),****
+Lansdale 3-2,Provisional,EUGENE DEPASQUALE(DEM),****
+Lansdale 3-2,Provisional,DAVE SUNDAY(REP),****
+Lansdale 3-2,Total,EUGENE DEPASQUALE(DEM),643
+Lansdale 3-2,Total,DAVE SUNDAY(REP),468
+Lansdale 3-3,Election Day,EUGENE DEPASQUALE(DEM),****
+Lansdale 3-3,Election Day,DAVE SUNDAY(REP),****
+Lansdale 3-3,Mail-in,EUGENE DEPASQUALE(DEM),****
+Lansdale 3-3,Mail-in,DAVE SUNDAY(REP),****
+Lansdale 3-3,Provisional,EUGENE DEPASQUALE(DEM),****
+Lansdale 3-3,Provisional,DAVE SUNDAY(REP),****
+Lansdale 3-3,Total,EUGENE DEPASQUALE(DEM),795
+Lansdale 3-3,Total,DAVE SUNDAY(REP),487
+Narberth 1,Election Day,EUGENE DEPASQUALE(DEM),****
+Narberth 1,Election Day,DAVE SUNDAY(REP),****
+Narberth 1,Mail-in,EUGENE DEPASQUALE(DEM),****
+Narberth 1,Mail-in,DAVE SUNDAY(REP),****
+Narberth 1,Provisional,EUGENE DEPASQUALE(DEM),****
+Narberth 1,Provisional,DAVE SUNDAY(REP),****
+Narberth 1,Total,EUGENE DEPASQUALE(DEM),714
+Narberth 1,Total,DAVE SUNDAY(REP),165
+Narberth 2,Election Day,EUGENE DEPASQUALE(DEM),****
+Narberth 2,Election Day,DAVE SUNDAY(REP),****
+Narberth 2,Mail-in,EUGENE DEPASQUALE(DEM),****
+Narberth 2,Mail-in,DAVE SUNDAY(REP),****
+Narberth 2,Provisional,EUGENE DEPASQUALE(DEM),****
+Narberth 2,Provisional,DAVE SUNDAY(REP),****
+Narberth 2,Total,EUGENE DEPASQUALE(DEM),"1,190"
+Narberth 2,Total,DAVE SUNDAY(REP),289
+Narberth 3,Election Day,EUGENE DEPASQUALE(DEM),****
+Narberth 3,Election Day,DAVE SUNDAY(REP),****
+Narberth 3,Mail-in,EUGENE DEPASQUALE(DEM),****
+Narberth 3,Mail-in,DAVE SUNDAY(REP),****
+Narberth 3,Provisional,EUGENE DEPASQUALE(DEM),****
+Narberth 3,Provisional,DAVE SUNDAY(REP),****
+Narberth 3,Total,EUGENE DEPASQUALE(DEM),521
+Narberth 3,Total,DAVE SUNDAY(REP),82
+Norristown 1-1,Election Day,EUGENE DEPASQUALE(DEM),347
+Norristown 1-1,Election Day,DAVE SUNDAY(REP),98
+Norristown 1-1,Mail-in,EUGENE DEPASQUALE(DEM),151
+Norristown 1-1,Mail-in,DAVE SUNDAY(REP),34
+Norristown 1-1,Provisional,EUGENE DEPASQUALE(DEM),11
+Norristown 1-1,Provisional,DAVE SUNDAY(REP),3
+Norristown 1-1,Total,EUGENE DEPASQUALE(DEM),509
+Norristown 1-1,Total,DAVE SUNDAY(REP),135

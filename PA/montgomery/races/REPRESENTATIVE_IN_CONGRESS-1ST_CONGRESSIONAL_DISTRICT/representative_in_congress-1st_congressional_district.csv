@@ -1,0 +1,673 @@
+precinct,method,candidate,votes
+East Greenville,Election Day,ASHLEY EHASZ(DEM),446
+East Greenville,Election Day,BRIAN FITZPATRICK(REP),770
+East Greenville,Mail-in,ASHLEY EHASZ(DEM),238
+East Greenville,Mail-in,BRIAN FITZPATRICK(REP),99
+East Greenville,Provisional,ASHLEY EHASZ(DEM),8
+East Greenville,Provisional,BRIAN FITZPATRICK(REP),8
+East Greenville,Total,ASHLEY EHASZ(DEM),692
+East Greenville,Total,BRIAN FITZPATRICK(REP),877
+Hatfield Borough,Election Day,ASHLEY EHASZ(DEM),****
+Hatfield Borough,Election Day,BRIAN FITZPATRICK(REP),****
+Hatfield Borough,Mail-in,ASHLEY EHASZ(DEM),****
+Hatfield Borough,Mail-in,BRIAN FITZPATRICK(REP),****
+Hatfield Borough,Provisional,ASHLEY EHASZ(DEM),****
+Hatfield Borough,Provisional,BRIAN FITZPATRICK(REP),****
+Hatfield Borough,Total,ASHLEY EHASZ(DEM),782
+Hatfield Borough,Total,BRIAN FITZPATRICK(REP),812
+Pennsburg,Election Day,ASHLEY EHASZ(DEM),****
+Pennsburg,Election Day,BRIAN FITZPATRICK(REP),****
+Pennsburg,Mail-in,ASHLEY EHASZ(DEM),****
+Pennsburg,Mail-in,BRIAN FITZPATRICK(REP),****
+Pennsburg,Provisional,ASHLEY EHASZ(DEM),****
+Pennsburg,Provisional,BRIAN FITZPATRICK(REP),****
+Pennsburg,Total,ASHLEY EHASZ(DEM),807
+Pennsburg,Total,BRIAN FITZPATRICK(REP),"1,053"
+Red Hill,Election Day,ASHLEY EHASZ(DEM),355
+Red Hill,Election Day,BRIAN FITZPATRICK(REP),662
+Red Hill,Mail-in,ASHLEY EHASZ(DEM),269
+Red Hill,Mail-in,BRIAN FITZPATRICK(REP),133
+Red Hill,Provisional,ASHLEY EHASZ(DEM),4
+Red Hill,Provisional,BRIAN FITZPATRICK(REP),6
+Red Hill,Total,ASHLEY EHASZ(DEM),628
+Red Hill,Total,BRIAN FITZPATRICK(REP),801
+Souderton 1,Election Day,ASHLEY EHASZ(DEM),****
+Souderton 1,Election Day,BRIAN FITZPATRICK(REP),****
+Souderton 1,Mail-in,ASHLEY EHASZ(DEM),****
+Souderton 1,Mail-in,BRIAN FITZPATRICK(REP),****
+Souderton 1,Provisional,ASHLEY EHASZ(DEM),****
+Souderton 1,Provisional,BRIAN FITZPATRICK(REP),****
+Souderton 1,Total,ASHLEY EHASZ(DEM),563
+Souderton 1,Total,BRIAN FITZPATRICK(REP),752
+Hatfield 4-2,Election Day,Unresolved Write-In,****
+Hatfield 4-2,Mail-in,Unresolved Write-In,****
+Hatfield 4-2,Provisional,Unresolved Write-In,****
+Hatfield 4-2,Total,Unresolved Write-In,1
+Hatfield 5-1,Election Day,Unresolved Write-In,****
+Hatfield 5-1,Mail-in,Unresolved Write-In,****
+Hatfield 5-1,Provisional,Unresolved Write-In,****
+Hatfield 5-1,Total,Unresolved Write-In,1
+Hatfield 5-2,Election Day,Unresolved Write-In,3
+Hatfield 5-2,Mail-in,Unresolved Write-In,1
+Hatfield 5-2,Provisional,Unresolved Write-In,0
+Hatfield 5-2,Total,Unresolved Write-In,4
+Horsham 1-1,Election Day,Unresolved Write-In,1
+Horsham 1-1,Mail-in,Unresolved Write-In,0
+Horsham 1-1,Provisional,Unresolved Write-In,0
+Horsham 1-1,Total,Unresolved Write-In,1
+Horsham 1-2,Election Day,Unresolved Write-In,1
+Horsham 1-2,Mail-in,Unresolved Write-In,1
+Horsham 1-2,Provisional,Unresolved Write-In,0
+Horsham 1-2,Total,Unresolved Write-In,2
+Horsham 1-3,Election Day,Unresolved Write-In,****
+Horsham 1-3,Mail-in,Unresolved Write-In,****
+Horsham 1-3,Provisional,Unresolved Write-In,****
+Horsham 1-3,Total,Unresolved Write-In,1
+Horsham 1-4,Election Day,ASHLEY EHASZ(DEM),****
+Horsham 1-4,Election Day,BRIAN FITZPATRICK(REP),****
+Horsham 1-4,Mail-in,ASHLEY EHASZ(DEM),****
+Horsham 1-4,Mail-in,BRIAN FITZPATRICK(REP),****
+Horsham 1-4,Provisional,ASHLEY EHASZ(DEM),****
+Horsham 1-4,Provisional,BRIAN FITZPATRICK(REP),****
+Horsham 1-4,Total,ASHLEY EHASZ(DEM),355
+Horsham 1-4,Total,BRIAN FITZPATRICK(REP),486
+Horsham 1-5,Election Day,ASHLEY EHASZ(DEM),337
+Horsham 1-5,Election Day,BRIAN FITZPATRICK(REP),506
+Horsham 1-5,Mail-in,ASHLEY EHASZ(DEM),193
+Horsham 1-5,Mail-in,BRIAN FITZPATRICK(REP),103
+Horsham 1-5,Provisional,ASHLEY EHASZ(DEM),10
+Horsham 1-5,Provisional,BRIAN FITZPATRICK(REP),5
+Horsham 1-5,Total,ASHLEY EHASZ(DEM),540
+Horsham 1-5,Total,BRIAN FITZPATRICK(REP),614
+Horsham 2-1,Election Day,ASHLEY EHASZ(DEM),299
+Horsham 2-1,Election Day,BRIAN FITZPATRICK(REP),568
+Horsham 2-1,Mail-in,ASHLEY EHASZ(DEM),324
+Horsham 2-1,Mail-in,BRIAN FITZPATRICK(REP),208
+Horsham 2-1,Provisional,ASHLEY EHASZ(DEM),4
+Horsham 2-1,Provisional,BRIAN FITZPATRICK(REP),8
+Horsham 2-1,Total,ASHLEY EHASZ(DEM),627
+Horsham 2-1,Total,BRIAN FITZPATRICK(REP),784
+Horsham 2-2,Election Day,ASHLEY EHASZ(DEM),427
+Horsham 2-2,Election Day,BRIAN FITZPATRICK(REP),560
+Horsham 2-2,Mail-in,ASHLEY EHASZ(DEM),233
+Horsham 2-2,Mail-in,BRIAN FITZPATRICK(REP),109
+Horsham 2-2,Provisional,ASHLEY EHASZ(DEM),8
+Horsham 2-2,Provisional,BRIAN FITZPATRICK(REP),3
+Horsham 2-2,Total,ASHLEY EHASZ(DEM),668
+Horsham 2-2,Total,BRIAN FITZPATRICK(REP),672
+Horsham 2-3,Election Day,ASHLEY EHASZ(DEM),****
+Horsham 2-3,Election Day,BRIAN FITZPATRICK(REP),****
+Horsham 2-3,Mail-in,ASHLEY EHASZ(DEM),****
+Horsham 2-3,Mail-in,BRIAN FITZPATRICK(REP),****
+Horsham 2-3,Provisional,ASHLEY EHASZ(DEM),****
+Horsham 2-3,Provisional,BRIAN FITZPATRICK(REP),****
+Horsham 2-3,Total,ASHLEY EHASZ(DEM),327
+Horsham 2-3,Total,BRIAN FITZPATRICK(REP),446
+Horsham 3-1,Election Day,ASHLEY EHASZ(DEM),****
+Horsham 3-1,Election Day,BRIAN FITZPATRICK(REP),****
+Horsham 3-1,Mail-in,ASHLEY EHASZ(DEM),****
+Horsham 3-1,Mail-in,BRIAN FITZPATRICK(REP),****
+Horsham 3-1,Provisional,ASHLEY EHASZ(DEM),****
+Horsham 3-1,Provisional,BRIAN FITZPATRICK(REP),****
+Horsham 3-1,Total,ASHLEY EHASZ(DEM),502
+Horsham 3-1,Total,BRIAN FITZPATRICK(REP),556
+Horsham 1-4,Election Day,Unresolved Write-In,****
+Horsham 1-4,Mail-in,Unresolved Write-In,****
+Horsham 1-4,Provisional,Unresolved Write-In,****
+Horsham 1-4,Total,Unresolved Write-In,2
+Horsham 1-5,Election Day,Unresolved Write-In,2
+Horsham 1-5,Mail-in,Unresolved Write-In,3
+Horsham 1-5,Provisional,Unresolved Write-In,0
+Horsham 1-5,Total,Unresolved Write-In,5
+Horsham 2-1,Election Day,Unresolved Write-In,0
+Horsham 2-1,Mail-in,Unresolved Write-In,1
+Horsham 2-1,Provisional,Unresolved Write-In,0
+Horsham 2-1,Total,Unresolved Write-In,1
+Horsham 2-2,Election Day,Unresolved Write-In,4
+Horsham 2-2,Mail-in,Unresolved Write-In,0
+Horsham 2-2,Provisional,Unresolved Write-In,0
+Horsham 2-2,Total,Unresolved Write-In,4
+Horsham 2-3,Election Day,Unresolved Write-In,****
+Horsham 2-3,Mail-in,Unresolved Write-In,****
+Horsham 2-3,Provisional,Unresolved Write-In,****
+Horsham 2-3,Total,Unresolved Write-In,1
+Horsham 3-1,Election Day,Unresolved Write-In,****
+Horsham 3-1,Mail-in,Unresolved Write-In,****
+Horsham 3-1,Provisional,Unresolved Write-In,****
+Horsham 3-1,Total,Unresolved Write-In,2
+Horsham 3-2,Election Day,ASHLEY EHASZ(DEM),****
+Horsham 3-2,Election Day,BRIAN FITZPATRICK(REP),****
+Horsham 3-2,Mail-in,ASHLEY EHASZ(DEM),****
+Horsham 3-2,Mail-in,BRIAN FITZPATRICK(REP),****
+Horsham 3-2,Provisional,ASHLEY EHASZ(DEM),****
+Horsham 3-2,Provisional,BRIAN FITZPATRICK(REP),****
+Horsham 3-2,Total,ASHLEY EHASZ(DEM),493
+Horsham 3-2,Total,BRIAN FITZPATRICK(REP),418
+Horsham 3-4,Election Day,ASHLEY EHASZ(DEM),****
+Horsham 3-4,Election Day,BRIAN FITZPATRICK(REP),****
+Horsham 3-4,Mail-in,ASHLEY EHASZ(DEM),****
+Horsham 3-4,Mail-in,BRIAN FITZPATRICK(REP),****
+Horsham 3-4,Provisional,ASHLEY EHASZ(DEM),****
+Horsham 3-4,Provisional,BRIAN FITZPATRICK(REP),****
+Horsham 3-4,Total,ASHLEY EHASZ(DEM),417
+Horsham 3-4,Total,BRIAN FITZPATRICK(REP),358
+Horsham 3-5,Election Day,ASHLEY EHASZ(DEM),****
+Horsham 3-5,Election Day,BRIAN FITZPATRICK(REP),****
+Horsham 3-5,Mail-in,ASHLEY EHASZ(DEM),****
+Horsham 3-5,Mail-in,BRIAN FITZPATRICK(REP),****
+Horsham 3-5,Provisional,ASHLEY EHASZ(DEM),****
+Horsham 3-5,Provisional,BRIAN FITZPATRICK(REP),****
+Horsham 3-5,Total,ASHLEY EHASZ(DEM),358
+Horsham 3-5,Total,BRIAN FITZPATRICK(REP),365
+Horsham 4-1,Election Day,ASHLEY EHASZ(DEM),****
+Horsham 4-1,Election Day,BRIAN FITZPATRICK(REP),****
+Horsham 4-1,Mail-in,ASHLEY EHASZ(DEM),****
+Horsham 4-1,Mail-in,BRIAN FITZPATRICK(REP),****
+Horsham 4-1,Provisional,ASHLEY EHASZ(DEM),****
+Horsham 4-1,Provisional,BRIAN FITZPATRICK(REP),****
+Horsham 4-1,Total,ASHLEY EHASZ(DEM),238
+Horsham 4-1,Total,BRIAN FITZPATRICK(REP),297
+Horsham 4-2,Election Day,ASHLEY EHASZ(DEM),****
+Horsham 4-2,Election Day,BRIAN FITZPATRICK(REP),****
+Horsham 4-2,Mail-in,ASHLEY EHASZ(DEM),****
+Horsham 4-2,Mail-in,BRIAN FITZPATRICK(REP),****
+Horsham 4-2,Provisional,ASHLEY EHASZ(DEM),****
+Horsham 4-2,Provisional,BRIAN FITZPATRICK(REP),****
+Horsham 4-2,Total,ASHLEY EHASZ(DEM),381
+Horsham 4-2,Total,BRIAN FITZPATRICK(REP),453
+Horsham 4-3,Election Day,ASHLEY EHASZ(DEM),****
+Horsham 4-3,Election Day,BRIAN FITZPATRICK(REP),****
+Horsham 4-3,Mail-in,ASHLEY EHASZ(DEM),****
+Horsham 4-3,Mail-in,BRIAN FITZPATRICK(REP),****
+Horsham 4-3,Provisional,ASHLEY EHASZ(DEM),****
+Horsham 4-3,Provisional,BRIAN FITZPATRICK(REP),****
+Horsham 4-3,Total,ASHLEY EHASZ(DEM),225
+Horsham 4-3,Total,BRIAN FITZPATRICK(REP),275
+Horsham 3-2,Election Day,Unresolved Write-In,****
+Horsham 3-2,Mail-in,Unresolved Write-In,****
+Horsham 3-2,Provisional,Unresolved Write-In,****
+Horsham 3-2,Total,Unresolved Write-In,4
+Horsham 3-4,Election Day,Unresolved Write-In,****
+Horsham 3-4,Mail-in,Unresolved Write-In,****
+Horsham 3-4,Provisional,Unresolved Write-In,****
+Horsham 3-4,Total,Unresolved Write-In,1
+Horsham 3-5,Election Day,Unresolved Write-In,****
+Horsham 3-5,Mail-in,Unresolved Write-In,****
+Horsham 3-5,Provisional,Unresolved Write-In,****
+Horsham 3-5,Total,Unresolved Write-In,1
+Horsham 4-1,Election Day,Unresolved Write-In,****
+Horsham 4-1,Mail-in,Unresolved Write-In,****
+Horsham 4-1,Provisional,Unresolved Write-In,****
+Horsham 4-1,Total,Unresolved Write-In,0
+Horsham 4-2,Election Day,Unresolved Write-In,****
+Horsham 4-2,Mail-in,Unresolved Write-In,****
+Horsham 4-2,Provisional,Unresolved Write-In,****
+Horsham 4-2,Total,Unresolved Write-In,0
+Horsham 4-3,Election Day,Unresolved Write-In,****
+Horsham 4-3,Mail-in,Unresolved Write-In,****
+Horsham 4-3,Provisional,Unresolved Write-In,****
+Horsham 4-3,Total,Unresolved Write-In,1
+Horsham 4-4,Election Day,ASHLEY EHASZ(DEM),****
+Horsham 4-4,Election Day,BRIAN FITZPATRICK(REP),****
+Horsham 4-4,Mail-in,ASHLEY EHASZ(DEM),****
+Horsham 4-4,Mail-in,BRIAN FITZPATRICK(REP),****
+Horsham 4-4,Provisional,ASHLEY EHASZ(DEM),****
+Horsham 4-4,Provisional,BRIAN FITZPATRICK(REP),****
+Horsham 4-4,Total,ASHLEY EHASZ(DEM),505
+Horsham 4-4,Total,BRIAN FITZPATRICK(REP),394
+Salford,Election Day,ASHLEY EHASZ(DEM),377
+Salford,Election Day,BRIAN FITZPATRICK(REP),"1,094"
+Salford,Mail-in,ASHLEY EHASZ(DEM),228
+Salford,Mail-in,BRIAN FITZPATRICK(REP),218
+Salford,Provisional,ASHLEY EHASZ(DEM),3
+Salford,Provisional,BRIAN FITZPATRICK(REP),10
+Salford,Total,ASHLEY EHASZ(DEM),608
+Salford,Total,BRIAN FITZPATRICK(REP),"1,322"
+Marlborough,Election Day,ASHLEY EHASZ(DEM),385
+Marlborough,Election Day,BRIAN FITZPATRICK(REP),"1,172"
+Marlborough,Mail-in,ASHLEY EHASZ(DEM),394
+Marlborough,Mail-in,BRIAN FITZPATRICK(REP),314
+Marlborough,Provisional,ASHLEY EHASZ(DEM),12
+Marlborough,Provisional,BRIAN FITZPATRICK(REP),7
+Marlborough,Total,ASHLEY EHASZ(DEM),791
+Marlborough,Total,BRIAN FITZPATRICK(REP),"1,493"
+Montgomery 1,Election Day,ASHLEY EHASZ(DEM),****
+Montgomery 1,Election Day,BRIAN FITZPATRICK(REP),****
+Montgomery 1,Mail-in,ASHLEY EHASZ(DEM),****
+Montgomery 1,Mail-in,BRIAN FITZPATRICK(REP),****
+Montgomery 1,Provisional,ASHLEY EHASZ(DEM),****
+Montgomery 1,Provisional,BRIAN FITZPATRICK(REP),****
+Montgomery 1,Total,ASHLEY EHASZ(DEM),611
+Montgomery 1,Total,BRIAN FITZPATRICK(REP),552
+Montgomery 2,Election Day,ASHLEY EHASZ(DEM),429
+Montgomery 2,Election Day,BRIAN FITZPATRICK(REP),580
+Montgomery 2,Mail-in,ASHLEY EHASZ(DEM),529
+Montgomery 2,Mail-in,BRIAN FITZPATRICK(REP),324
+Montgomery 2,Provisional,ASHLEY EHASZ(DEM),8
+Montgomery 2,Provisional,BRIAN FITZPATRICK(REP),7
+Montgomery 2,Total,ASHLEY EHASZ(DEM),966
+Montgomery 2,Total,BRIAN FITZPATRICK(REP),911
+Montgomery 3,Election Day,ASHLEY EHASZ(DEM),650
+Montgomery 3,Election Day,BRIAN FITZPATRICK(REP),882
+Montgomery 3,Mail-in,ASHLEY EHASZ(DEM),730
+Montgomery 3,Mail-in,BRIAN FITZPATRICK(REP),406
+Montgomery 3,Provisional,ASHLEY EHASZ(DEM),13
+Montgomery 3,Provisional,BRIAN FITZPATRICK(REP),10
+Montgomery 3,Total,ASHLEY EHASZ(DEM),"1,393"
+Montgomery 3,Total,BRIAN FITZPATRICK(REP),"1,298"
+Horsham 4-4,Election Day,Unresolved Write-In,****
+Horsham 4-4,Mail-in,Unresolved Write-In,****
+Horsham 4-4,Provisional,Unresolved Write-In,****
+Horsham 4-4,Total,Unresolved Write-In,3
+Salford,Election Day,Unresolved Write-In,3
+Salford,Mail-in,Unresolved Write-In,1
+Salford,Provisional,Unresolved Write-In,0
+Salford,Total,Unresolved Write-In,4
+Marlborough,Election Day,Unresolved Write-In,11
+Marlborough,Mail-in,Unresolved Write-In,1
+Marlborough,Provisional,Unresolved Write-In,0
+Marlborough,Total,Unresolved Write-In,12
+Montgomery 1,Election Day,Unresolved Write-In,****
+Montgomery 1,Mail-in,Unresolved Write-In,****
+Montgomery 1,Provisional,Unresolved Write-In,****
+Montgomery 1,Total,Unresolved Write-In,5
+Montgomery 2,Election Day,Unresolved Write-In,3
+Montgomery 2,Mail-in,Unresolved Write-In,3
+Montgomery 2,Provisional,Unresolved Write-In,0
+Montgomery 2,Total,Unresolved Write-In,6
+Montgomery 3,Election Day,Unresolved Write-In,8
+Montgomery 3,Mail-in,Unresolved Write-In,3
+Montgomery 3,Provisional,Unresolved Write-In,0
+Montgomery 3,Total,Unresolved Write-In,11
+Montgomery 4,Election Day,ASHLEY EHASZ(DEM),****
+Montgomery 4,Election Day,BRIAN FITZPATRICK(REP),****
+Montgomery 4,Mail-in,ASHLEY EHASZ(DEM),****
+Montgomery 4,Mail-in,BRIAN FITZPATRICK(REP),****
+Montgomery 4,Provisional,ASHLEY EHASZ(DEM),****
+Montgomery 4,Provisional,BRIAN FITZPATRICK(REP),****
+Montgomery 4,Total,ASHLEY EHASZ(DEM),454
+Montgomery 4,Total,BRIAN FITZPATRICK(REP),542
+Montgomery 5,Election Day,ASHLEY EHASZ(DEM),433
+Montgomery 5,Election Day,BRIAN FITZPATRICK(REP),577
+Montgomery 5,Mail-in,ASHLEY EHASZ(DEM),365
+Montgomery 5,Mail-in,BRIAN FITZPATRICK(REP),230
+Montgomery 5,Provisional,ASHLEY EHASZ(DEM),11
+Montgomery 5,Provisional,BRIAN FITZPATRICK(REP),5
+Montgomery 5,Total,ASHLEY EHASZ(DEM),809
+Montgomery 5,Total,BRIAN FITZPATRICK(REP),812
+Montgomery 6,Election Day,ASHLEY EHASZ(DEM),472
+Montgomery 6,Election Day,BRIAN FITZPATRICK(REP),582
+Montgomery 6,Mail-in,ASHLEY EHASZ(DEM),360
+Montgomery 6,Mail-in,BRIAN FITZPATRICK(REP),255
+Montgomery 6,Provisional,ASHLEY EHASZ(DEM),10
+Montgomery 6,Provisional,BRIAN FITZPATRICK(REP),13
+Montgomery 6,Total,ASHLEY EHASZ(DEM),842
+Montgomery 6,Total,BRIAN FITZPATRICK(REP),850
+Montgomery 7,Election Day,ASHLEY EHASZ(DEM),592
+Montgomery 7,Election Day,BRIAN FITZPATRICK(REP),894
+Montgomery 7,Mail-in,ASHLEY EHASZ(DEM),819
+Montgomery 7,Mail-in,BRIAN FITZPATRICK(REP),642
+Montgomery 7,Provisional,ASHLEY EHASZ(DEM),17
+Montgomery 7,Provisional,BRIAN FITZPATRICK(REP),6
+Montgomery 7,Total,ASHLEY EHASZ(DEM),"1,428"
+Montgomery 7,Total,BRIAN FITZPATRICK(REP),"1,542"
+Montgomery 8,Election Day,ASHLEY EHASZ(DEM),724
+Montgomery 8,Election Day,BRIAN FITZPATRICK(REP),879
+Montgomery 8,Mail-in,ASHLEY EHASZ(DEM),996
+Montgomery 8,Mail-in,BRIAN FITZPATRICK(REP),596
+Montgomery 8,Provisional,ASHLEY EHASZ(DEM),23
+Montgomery 8,Provisional,BRIAN FITZPATRICK(REP),13
+Montgomery 8,Total,ASHLEY EHASZ(DEM),"1,743"
+Montgomery 8,Total,BRIAN FITZPATRICK(REP),"1,488"
+Upper Hanover 1,Election Day,ASHLEY EHASZ(DEM),644
+Upper Hanover 1,Election Day,BRIAN FITZPATRICK(REP),"1,377"
+Upper Hanover 1,Mail-in,ASHLEY EHASZ(DEM),611
+Upper Hanover 1,Mail-in,BRIAN FITZPATRICK(REP),483
+Upper Hanover 1,Provisional,ASHLEY EHASZ(DEM),5
+Upper Hanover 1,Provisional,BRIAN FITZPATRICK(REP),19
+Upper Hanover 1,Total,ASHLEY EHASZ(DEM),"1,260"
+Upper Hanover 1,Total,BRIAN FITZPATRICK(REP),"1,879"
+Montgomery 4,Election Day,Unresolved Write-In,****
+Montgomery 4,Mail-in,Unresolved Write-In,****
+Montgomery 4,Provisional,Unresolved Write-In,****
+Montgomery 4,Total,Unresolved Write-In,3
+Montgomery 5,Election Day,Unresolved Write-In,4
+Montgomery 5,Mail-in,Unresolved Write-In,0
+Montgomery 5,Provisional,Unresolved Write-In,0
+Montgomery 5,Total,Unresolved Write-In,4
+Montgomery 6,Election Day,Unresolved Write-In,2
+Montgomery 6,Mail-in,Unresolved Write-In,1
+Montgomery 6,Provisional,Unresolved Write-In,0
+Montgomery 6,Total,Unresolved Write-In,3
+Montgomery 7,Election Day,Unresolved Write-In,2
+Montgomery 7,Mail-in,Unresolved Write-In,3
+Montgomery 7,Provisional,Unresolved Write-In,1
+Montgomery 7,Total,Unresolved Write-In,6
+Montgomery 8,Election Day,Unresolved Write-In,4
+Montgomery 8,Mail-in,Unresolved Write-In,0
+Montgomery 8,Provisional,Unresolved Write-In,0
+Montgomery 8,Total,Unresolved Write-In,4
+Upper Hanover 1,Election Day,Unresolved Write-In,10
+Upper Hanover 1,Mail-in,Unresolved Write-In,6
+Upper Hanover 1,Provisional,Unresolved Write-In,0
+Upper Hanover 1,Total,Unresolved Write-In,16
+Upper Hanover 2,Election Day,ASHLEY EHASZ(DEM),****
+Upper Hanover 2,Election Day,BRIAN FITZPATRICK(REP),****
+Upper Hanover 2,Mail-in,ASHLEY EHASZ(DEM),****
+Upper Hanover 2,Mail-in,BRIAN FITZPATRICK(REP),****
+Upper Hanover 2,Provisional,ASHLEY EHASZ(DEM),****
+Upper Hanover 2,Provisional,BRIAN FITZPATRICK(REP),****
+Upper Hanover 2,Total,ASHLEY EHASZ(DEM),337
+Upper Hanover 2,Total,BRIAN FITZPATRICK(REP),636
+Upper Hanover 3,Election Day,ASHLEY EHASZ(DEM),****
+Upper Hanover 3,Election Day,BRIAN FITZPATRICK(REP),****
+Upper Hanover 3,Mail-in,ASHLEY EHASZ(DEM),****
+Upper Hanover 3,Mail-in,BRIAN FITZPATRICK(REP),****
+Upper Hanover 3,Provisional,ASHLEY EHASZ(DEM),****
+Upper Hanover 3,Provisional,BRIAN FITZPATRICK(REP),****
+Upper Hanover 3,Total,ASHLEY EHASZ(DEM),346
+Upper Hanover 3,Total,BRIAN FITZPATRICK(REP),796
+Cumulative,Election Day,ASHLEY EHASZ(DEM),0
+Cumulative,Election Day,BRIAN FITZPATRICK(REP),0
+Cumulative,Mail-in,ASHLEY EHASZ(DEM),0
+Cumulative,Mail-in,BRIAN FITZPATRICK(REP),0
+Cumulative,Provisional,ASHLEY EHASZ(DEM),0
+Cumulative,Provisional,BRIAN FITZPATRICK(REP),0
+Cumulative,Total,ASHLEY EHASZ(DEM),0
+Cumulative,Total,BRIAN FITZPATRICK(REP),0
+East Greenville,Election Day,Unresolved Write-In,2
+East Greenville,Mail-in,Unresolved Write-In,0
+East Greenville,Provisional,Unresolved Write-In,0
+East Greenville,Total,Unresolved Write-In,2
+Hatfield Borough,Election Day,Unresolved Write-In,****
+Hatfield Borough,Mail-in,Unresolved Write-In,****
+Hatfield Borough,Provisional,Unresolved Write-In,****
+Hatfield Borough,Total,Unresolved Write-In,5
+Pennsburg,Election Day,Unresolved Write-In,****
+Pennsburg,Mail-in,Unresolved Write-In,****
+Pennsburg,Provisional,Unresolved Write-In,****
+Pennsburg,Total,Unresolved Write-In,4
+Red Hill,Election Day,Unresolved Write-In,2
+Red Hill,Mail-in,Unresolved Write-In,1
+Red Hill,Provisional,Unresolved Write-In,0
+Red Hill,Total,Unresolved Write-In,3
+Souderton 1,Election Day,Unresolved Write-In,****
+Souderton 1,Mail-in,Unresolved Write-In,****
+Souderton 1,Provisional,Unresolved Write-In,****
+Souderton 1,Total,Unresolved Write-In,3
+Upper Hanover 2,Election Day,Unresolved Write-In,****
+Upper Hanover 2,Mail-in,Unresolved Write-In,****
+Upper Hanover 2,Provisional,Unresolved Write-In,****
+Upper Hanover 2,Total,Unresolved Write-In,2
+Upper Hanover 3,Election Day,Unresolved Write-In,****
+Upper Hanover 3,Mail-in,Unresolved Write-In,****
+Upper Hanover 3,Provisional,Unresolved Write-In,****
+Upper Hanover 3,Total,Unresolved Write-In,5
+Cumulative,Election Day,Unresolved Write-In,0
+Cumulative,Mail-in,Unresolved Write-In,0
+Cumulative,Provisional,Unresolved Write-In,0
+Cumulative,Total,Unresolved Write-In,0
+Souderton 2,Election Day,ASHLEY EHASZ(DEM),369
+Souderton 2,Election Day,BRIAN FITZPATRICK(REP),602
+Souderton 2,Mail-in,ASHLEY EHASZ(DEM),158
+Souderton 2,Mail-in,BRIAN FITZPATRICK(REP),113
+Souderton 2,Provisional,ASHLEY EHASZ(DEM),8
+Souderton 2,Provisional,BRIAN FITZPATRICK(REP),3
+Souderton 2,Total,ASHLEY EHASZ(DEM),535
+Souderton 2,Total,BRIAN FITZPATRICK(REP),718
+Souderton 3,Election Day,ASHLEY EHASZ(DEM),****
+Souderton 3,Election Day,BRIAN FITZPATRICK(REP),****
+Souderton 3,Mail-in,ASHLEY EHASZ(DEM),****
+Souderton 3,Mail-in,BRIAN FITZPATRICK(REP),****
+Souderton 3,Provisional,ASHLEY EHASZ(DEM),****
+Souderton 3,Provisional,BRIAN FITZPATRICK(REP),****
+Souderton 3,Total,ASHLEY EHASZ(DEM),439
+Souderton 3,Total,BRIAN FITZPATRICK(REP),555
+Telford,Election Day,ASHLEY EHASZ(DEM),387
+Telford,Election Day,BRIAN FITZPATRICK(REP),599
+Telford,Mail-in,ASHLEY EHASZ(DEM),213
+Telford,Mail-in,BRIAN FITZPATRICK(REP),104
+Telford,Provisional,ASHLEY EHASZ(DEM),10
+Telford,Provisional,BRIAN FITZPATRICK(REP),6
+Telford,Total,ASHLEY EHASZ(DEM),610
+Telford,Total,BRIAN FITZPATRICK(REP),709
+Franconia 1,Election Day,ASHLEY EHASZ(DEM),****
+Franconia 1,Election Day,BRIAN FITZPATRICK(REP),****
+Franconia 1,Mail-in,ASHLEY EHASZ(DEM),****
+Franconia 1,Mail-in,BRIAN FITZPATRICK(REP),****
+Franconia 1,Provisional,ASHLEY EHASZ(DEM),****
+Franconia 1,Provisional,BRIAN FITZPATRICK(REP),****
+Franconia 1,Total,ASHLEY EHASZ(DEM),243
+Franconia 1,Total,BRIAN FITZPATRICK(REP),636
+Franconia 2,Election Day,ASHLEY EHASZ(DEM),****
+Franconia 2,Election Day,BRIAN FITZPATRICK(REP),****
+Franconia 2,Mail-in,ASHLEY EHASZ(DEM),****
+Franconia 2,Mail-in,BRIAN FITZPATRICK(REP),****
+Franconia 2,Provisional,ASHLEY EHASZ(DEM),****
+Franconia 2,Provisional,BRIAN FITZPATRICK(REP),****
+Franconia 2,Total,ASHLEY EHASZ(DEM),554
+Franconia 2,Total,BRIAN FITZPATRICK(REP),771
+Franconia 3,Election Day,ASHLEY EHASZ(DEM),****
+Franconia 3,Election Day,BRIAN FITZPATRICK(REP),****
+Franconia 3,Mail-in,ASHLEY EHASZ(DEM),****
+Franconia 3,Mail-in,BRIAN FITZPATRICK(REP),****
+Franconia 3,Provisional,ASHLEY EHASZ(DEM),****
+Franconia 3,Provisional,BRIAN FITZPATRICK(REP),****
+Franconia 3,Total,ASHLEY EHASZ(DEM),466
+Franconia 3,Total,BRIAN FITZPATRICK(REP),820
+Souderton 2,Election Day,Unresolved Write-In,2
+Souderton 2,Mail-in,Unresolved Write-In,0
+Souderton 2,Provisional,Unresolved Write-In,0
+Souderton 2,Total,Unresolved Write-In,2
+Souderton 3,Election Day,Unresolved Write-In,****
+Souderton 3,Mail-in,Unresolved Write-In,****
+Souderton 3,Provisional,Unresolved Write-In,****
+Souderton 3,Total,Unresolved Write-In,1
+Telford,Election Day,Unresolved Write-In,6
+Telford,Mail-in,Unresolved Write-In,0
+Telford,Provisional,Unresolved Write-In,0
+Telford,Total,Unresolved Write-In,6
+Franconia 1,Election Day,Unresolved Write-In,****
+Franconia 1,Mail-in,Unresolved Write-In,****
+Franconia 1,Provisional,Unresolved Write-In,****
+Franconia 1,Total,Unresolved Write-In,4
+Franconia 2,Election Day,Unresolved Write-In,****
+Franconia 2,Mail-in,Unresolved Write-In,****
+Franconia 2,Provisional,Unresolved Write-In,****
+Franconia 2,Total,Unresolved Write-In,4
+Franconia 3,Election Day,Unresolved Write-In,****
+Franconia 3,Mail-in,Unresolved Write-In,****
+Franconia 3,Provisional,Unresolved Write-In,****
+Franconia 3,Total,Unresolved Write-In,2
+Franconia 4,Election Day,ASHLEY EHASZ(DEM),****
+Franconia 4,Election Day,BRIAN FITZPATRICK(REP),****
+Franconia 4,Mail-in,ASHLEY EHASZ(DEM),****
+Franconia 4,Mail-in,BRIAN FITZPATRICK(REP),****
+Franconia 4,Provisional,ASHLEY EHASZ(DEM),****
+Franconia 4,Provisional,BRIAN FITZPATRICK(REP),****
+Franconia 4,Total,ASHLEY EHASZ(DEM),317
+Franconia 4,Total,BRIAN FITZPATRICK(REP),631
+Franconia 5,Election Day,ASHLEY EHASZ(DEM),****
+Franconia 5,Election Day,BRIAN FITZPATRICK(REP),****
+Franconia 5,Mail-in,ASHLEY EHASZ(DEM),****
+Franconia 5,Mail-in,BRIAN FITZPATRICK(REP),****
+Franconia 5,Provisional,ASHLEY EHASZ(DEM),****
+Franconia 5,Provisional,BRIAN FITZPATRICK(REP),****
+Franconia 5,Total,ASHLEY EHASZ(DEM),361
+Franconia 5,Total,BRIAN FITZPATRICK(REP),626
+Franconia 6,Election Day,ASHLEY EHASZ(DEM),****
+Franconia 6,Election Day,BRIAN FITZPATRICK(REP),****
+Franconia 6,Mail-in,ASHLEY EHASZ(DEM),****
+Franconia 6,Mail-in,BRIAN FITZPATRICK(REP),****
+Franconia 6,Provisional,ASHLEY EHASZ(DEM),****
+Franconia 6,Provisional,BRIAN FITZPATRICK(REP),****
+Franconia 6,Total,ASHLEY EHASZ(DEM),419
+Franconia 6,Total,BRIAN FITZPATRICK(REP),776
+Franconia 7,Election Day,ASHLEY EHASZ(DEM),****
+Franconia 7,Election Day,BRIAN FITZPATRICK(REP),****
+Franconia 7,Mail-in,ASHLEY EHASZ(DEM),****
+Franconia 7,Mail-in,BRIAN FITZPATRICK(REP),****
+Franconia 7,Provisional,ASHLEY EHASZ(DEM),****
+Franconia 7,Provisional,BRIAN FITZPATRICK(REP),****
+Franconia 7,Total,ASHLEY EHASZ(DEM),478
+Franconia 7,Total,BRIAN FITZPATRICK(REP),660
+Franconia 8,Election Day,ASHLEY EHASZ(DEM),****
+Franconia 8,Election Day,BRIAN FITZPATRICK(REP),****
+Franconia 8,Mail-in,ASHLEY EHASZ(DEM),****
+Franconia 8,Mail-in,BRIAN FITZPATRICK(REP),****
+Franconia 8,Provisional,ASHLEY EHASZ(DEM),****
+Franconia 8,Provisional,BRIAN FITZPATRICK(REP),****
+Franconia 8,Total,ASHLEY EHASZ(DEM),349
+Franconia 8,Total,BRIAN FITZPATRICK(REP),536
+Hatfield 1-1,Election Day,ASHLEY EHASZ(DEM),279
+Hatfield 1-1,Election Day,BRIAN FITZPATRICK(REP),310
+Hatfield 1-1,Mail-in,ASHLEY EHASZ(DEM),205
+Hatfield 1-1,Mail-in,BRIAN FITZPATRICK(REP),87
+Hatfield 1-1,Provisional,ASHLEY EHASZ(DEM),7
+Hatfield 1-1,Provisional,BRIAN FITZPATRICK(REP),7
+Hatfield 1-1,Total,ASHLEY EHASZ(DEM),491
+Hatfield 1-1,Total,BRIAN FITZPATRICK(REP),404
+Franconia 4,Election Day,Unresolved Write-In,****
+Franconia 4,Mail-in,Unresolved Write-In,****
+Franconia 4,Provisional,Unresolved Write-In,****
+Franconia 4,Total,Unresolved Write-In,1
+Franconia 5,Election Day,Unresolved Write-In,****
+Franconia 5,Mail-in,Unresolved Write-In,****
+Franconia 5,Provisional,Unresolved Write-In,****
+Franconia 5,Total,Unresolved Write-In,1
+Franconia 6,Election Day,Unresolved Write-In,****
+Franconia 6,Mail-in,Unresolved Write-In,****
+Franconia 6,Provisional,Unresolved Write-In,****
+Franconia 6,Total,Unresolved Write-In,1
+Franconia 7,Election Day,Unresolved Write-In,****
+Franconia 7,Mail-in,Unresolved Write-In,****
+Franconia 7,Provisional,Unresolved Write-In,****
+Franconia 7,Total,Unresolved Write-In,2
+Franconia 8,Election Day,Unresolved Write-In,****
+Franconia 8,Mail-in,Unresolved Write-In,****
+Franconia 8,Provisional,Unresolved Write-In,****
+Franconia 8,Total,Unresolved Write-In,1
+Hatfield 1-1,Election Day,Unresolved Write-In,0
+Hatfield 1-1,Mail-in,Unresolved Write-In,0
+Hatfield 1-1,Provisional,Unresolved Write-In,0
+Hatfield 1-1,Total,Unresolved Write-In,0
+Hatfield 1-2,Election Day,ASHLEY EHASZ(DEM),354
+Hatfield 1-2,Election Day,BRIAN FITZPATRICK(REP),589
+Hatfield 1-2,Mail-in,ASHLEY EHASZ(DEM),212
+Hatfield 1-2,Mail-in,BRIAN FITZPATRICK(REP),155
+Hatfield 1-2,Provisional,ASHLEY EHASZ(DEM),7
+Hatfield 1-2,Provisional,BRIAN FITZPATRICK(REP),5
+Hatfield 1-2,Total,ASHLEY EHASZ(DEM),573
+Hatfield 1-2,Total,BRIAN FITZPATRICK(REP),749
+Hatfield 2-1,Election Day,ASHLEY EHASZ(DEM),206
+Hatfield 2-1,Election Day,BRIAN FITZPATRICK(REP),289
+Hatfield 2-1,Mail-in,ASHLEY EHASZ(DEM),112
+Hatfield 2-1,Mail-in,BRIAN FITZPATRICK(REP),68
+Hatfield 2-1,Provisional,ASHLEY EHASZ(DEM),9
+Hatfield 2-1,Provisional,BRIAN FITZPATRICK(REP),3
+Hatfield 2-1,Total,ASHLEY EHASZ(DEM),327
+Hatfield 2-1,Total,BRIAN FITZPATRICK(REP),360
+Hatfield 2-2,Election Day,ASHLEY EHASZ(DEM),****
+Hatfield 2-2,Election Day,BRIAN FITZPATRICK(REP),****
+Hatfield 2-2,Mail-in,ASHLEY EHASZ(DEM),****
+Hatfield 2-2,Mail-in,BRIAN FITZPATRICK(REP),****
+Hatfield 2-2,Provisional,ASHLEY EHASZ(DEM),****
+Hatfield 2-2,Provisional,BRIAN FITZPATRICK(REP),****
+Hatfield 2-2,Total,ASHLEY EHASZ(DEM),252
+Hatfield 2-2,Total,BRIAN FITZPATRICK(REP),252
+Hatfield 3-1,Election Day,ASHLEY EHASZ(DEM),417
+Hatfield 3-1,Election Day,BRIAN FITZPATRICK(REP),538
+Hatfield 3-1,Mail-in,ASHLEY EHASZ(DEM),235
+Hatfield 3-1,Mail-in,BRIAN FITZPATRICK(REP),151
+Hatfield 3-1,Provisional,ASHLEY EHASZ(DEM),17
+Hatfield 3-1,Provisional,BRIAN FITZPATRICK(REP),11
+Hatfield 3-1,Total,ASHLEY EHASZ(DEM),669
+Hatfield 3-1,Total,BRIAN FITZPATRICK(REP),700
+Hatfield 3-2,Election Day,ASHLEY EHASZ(DEM),339
+Hatfield 3-2,Election Day,BRIAN FITZPATRICK(REP),614
+Hatfield 3-2,Mail-in,ASHLEY EHASZ(DEM),312
+Hatfield 3-2,Mail-in,BRIAN FITZPATRICK(REP),232
+Hatfield 3-2,Provisional,ASHLEY EHASZ(DEM),7
+Hatfield 3-2,Provisional,BRIAN FITZPATRICK(REP),6
+Hatfield 3-2,Total,ASHLEY EHASZ(DEM),658
+Hatfield 3-2,Total,BRIAN FITZPATRICK(REP),852
+Hatfield 4-1,Election Day,ASHLEY EHASZ(DEM),288
+Hatfield 4-1,Election Day,BRIAN FITZPATRICK(REP),347
+Hatfield 4-1,Mail-in,ASHLEY EHASZ(DEM),153
+Hatfield 4-1,Mail-in,BRIAN FITZPATRICK(REP),73
+Hatfield 4-1,Provisional,ASHLEY EHASZ(DEM),7
+Hatfield 4-1,Provisional,BRIAN FITZPATRICK(REP),3
+Hatfield 4-1,Total,ASHLEY EHASZ(DEM),448
+Hatfield 4-1,Total,BRIAN FITZPATRICK(REP),423
+Hatfield 1-2,Election Day,Unresolved Write-In,0
+Hatfield 1-2,Mail-in,Unresolved Write-In,3
+Hatfield 1-2,Provisional,Unresolved Write-In,0
+Hatfield 1-2,Total,Unresolved Write-In,3
+Hatfield 2-1,Election Day,Unresolved Write-In,0
+Hatfield 2-1,Mail-in,Unresolved Write-In,1
+Hatfield 2-1,Provisional,Unresolved Write-In,0
+Hatfield 2-1,Total,Unresolved Write-In,1
+Hatfield 2-2,Election Day,Unresolved Write-In,****
+Hatfield 2-2,Mail-in,Unresolved Write-In,****
+Hatfield 2-2,Provisional,Unresolved Write-In,****
+Hatfield 2-2,Total,Unresolved Write-In,2
+Hatfield 3-1,Election Day,Unresolved Write-In,4
+Hatfield 3-1,Mail-in,Unresolved Write-In,1
+Hatfield 3-1,Provisional,Unresolved Write-In,0
+Hatfield 3-1,Total,Unresolved Write-In,5
+Hatfield 3-2,Election Day,Unresolved Write-In,3
+Hatfield 3-2,Mail-in,Unresolved Write-In,2
+Hatfield 3-2,Provisional,Unresolved Write-In,0
+Hatfield 3-2,Total,Unresolved Write-In,5
+Hatfield 4-1,Election Day,Unresolved Write-In,5
+Hatfield 4-1,Mail-in,Unresolved Write-In,2
+Hatfield 4-1,Provisional,Unresolved Write-In,0
+Hatfield 4-1,Total,Unresolved Write-In,7
+Hatfield 4-2,Election Day,ASHLEY EHASZ(DEM),****
+Hatfield 4-2,Election Day,BRIAN FITZPATRICK(REP),****
+Hatfield 4-2,Mail-in,ASHLEY EHASZ(DEM),****
+Hatfield 4-2,Mail-in,BRIAN FITZPATRICK(REP),****
+Hatfield 4-2,Provisional,ASHLEY EHASZ(DEM),****
+Hatfield 4-2,Provisional,BRIAN FITZPATRICK(REP),****
+Hatfield 4-2,Total,ASHLEY EHASZ(DEM),682
+Hatfield 4-2,Total,BRIAN FITZPATRICK(REP),801
+Hatfield 5-1,Election Day,ASHLEY EHASZ(DEM),****
+Hatfield 5-1,Election Day,BRIAN FITZPATRICK(REP),****
+Hatfield 5-1,Mail-in,ASHLEY EHASZ(DEM),****
+Hatfield 5-1,Mail-in,BRIAN FITZPATRICK(REP),****
+Hatfield 5-1,Provisional,ASHLEY EHASZ(DEM),****
+Hatfield 5-1,Provisional,BRIAN FITZPATRICK(REP),****
+Hatfield 5-1,Total,ASHLEY EHASZ(DEM),402
+Hatfield 5-1,Total,BRIAN FITZPATRICK(REP),506
+Hatfield 5-2,Election Day,ASHLEY EHASZ(DEM),349
+Hatfield 5-2,Election Day,BRIAN FITZPATRICK(REP),338
+Hatfield 5-2,Mail-in,ASHLEY EHASZ(DEM),222
+Hatfield 5-2,Mail-in,BRIAN FITZPATRICK(REP),90
+Hatfield 5-2,Provisional,ASHLEY EHASZ(DEM),10
+Hatfield 5-2,Provisional,BRIAN FITZPATRICK(REP),2
+Hatfield 5-2,Total,ASHLEY EHASZ(DEM),581
+Hatfield 5-2,Total,BRIAN FITZPATRICK(REP),430
+Horsham 1-1,Election Day,ASHLEY EHASZ(DEM),201
+Horsham 1-1,Election Day,BRIAN FITZPATRICK(REP),242
+Horsham 1-1,Mail-in,ASHLEY EHASZ(DEM),72
+Horsham 1-1,Mail-in,BRIAN FITZPATRICK(REP),29
+Horsham 1-1,Provisional,ASHLEY EHASZ(DEM),0
+Horsham 1-1,Provisional,BRIAN FITZPATRICK(REP),0
+Horsham 1-1,Total,ASHLEY EHASZ(DEM),273
+Horsham 1-1,Total,BRIAN FITZPATRICK(REP),271
+Horsham 1-2,Election Day,ASHLEY EHASZ(DEM),253
+Horsham 1-2,Election Day,BRIAN FITZPATRICK(REP),437
+Horsham 1-2,Mail-in,ASHLEY EHASZ(DEM),140
+Horsham 1-2,Mail-in,BRIAN FITZPATRICK(REP),102
+Horsham 1-2,Provisional,ASHLEY EHASZ(DEM),0
+Horsham 1-2,Provisional,BRIAN FITZPATRICK(REP),0
+Horsham 1-2,Total,ASHLEY EHASZ(DEM),393
+Horsham 1-2,Total,BRIAN FITZPATRICK(REP),539
+Horsham 1-3,Election Day,ASHLEY EHASZ(DEM),****
+Horsham 1-3,Election Day,BRIAN FITZPATRICK(REP),****
+Horsham 1-3,Mail-in,ASHLEY EHASZ(DEM),****
+Horsham 1-3,Mail-in,BRIAN FITZPATRICK(REP),****
+Horsham 1-3,Provisional,ASHLEY EHASZ(DEM),****
+Horsham 1-3,Provisional,BRIAN FITZPATRICK(REP),****
+Horsham 1-3,Total,ASHLEY EHASZ(DEM),356
+Horsham 1-3,Total,BRIAN FITZPATRICK(REP),438

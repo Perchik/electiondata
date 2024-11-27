@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Upper Merion Belmont 5,Election Day,KAMALA D HARRIS(DEM),500
+Upper Merion Belmont 5,Election Day,DONALD J TRUMP(REP),294
+Upper Merion Belmont 5,Mail-in,KAMALA D HARRIS(DEM),382
+Upper Merion Belmont 5,Mail-in,DONALD J TRUMP(REP),85
+Upper Merion Belmont 5,Provisional,KAMALA D HARRIS(DEM),0
+Upper Merion Belmont 5,Provisional,DONALD J TRUMP(REP),0
+Upper Merion Belmont 5,Total,KAMALA D HARRIS(DEM),882
+Upper Merion Belmont 5,Total,DONALD J TRUMP(REP),379
+Upper Merion Candle 1,Election Day,KAMALA D HARRIS(DEM),****
+Upper Merion Candle 1,Election Day,DONALD J TRUMP(REP),****
+Upper Merion Candle 1,Mail-in,KAMALA D HARRIS(DEM),****
+Upper Merion Candle 1,Mail-in,DONALD J TRUMP(REP),****
+Upper Merion Candle 1,Provisional,KAMALA D HARRIS(DEM),****
+Upper Merion Candle 1,Provisional,DONALD J TRUMP(REP),****
+Upper Merion Candle 1,Total,KAMALA D HARRIS(DEM),675
+Upper Merion Candle 1,Total,DONALD J TRUMP(REP),336
+Upper Merion Candle 2,Election Day,KAMALA D HARRIS(DEM),575
+Upper Merion Candle 2,Election Day,DONALD J TRUMP(REP),454
+Upper Merion Candle 2,Mail-in,KAMALA D HARRIS(DEM),407
+Upper Merion Candle 2,Mail-in,DONALD J TRUMP(REP),99
+Upper Merion Candle 2,Provisional,KAMALA D HARRIS(DEM),9
+Upper Merion Candle 2,Provisional,DONALD J TRUMP(REP),6
+Upper Merion Candle 2,Total,KAMALA D HARRIS(DEM),991
+Upper Merion Candle 2,Total,DONALD J TRUMP(REP),559
+Upper Merion Gulph 1,Election Day,KAMALA D HARRIS(DEM),714
+Upper Merion Gulph 1,Election Day,DONALD J TRUMP(REP),539
+Upper Merion Gulph 1,Mail-in,KAMALA D HARRIS(DEM),448
+Upper Merion Gulph 1,Mail-in,DONALD J TRUMP(REP),155
+Upper Merion Gulph 1,Provisional,KAMALA D HARRIS(DEM),9
+Upper Merion Gulph 1,Provisional,DONALD J TRUMP(REP),6
+Upper Merion Gulph 1,Total,KAMALA D HARRIS(DEM),"1,171"
+Upper Merion Gulph 1,Total,DONALD J TRUMP(REP),700
+Upper Merion Gulph 2,Election Day,KAMALA D HARRIS(DEM),516
+Upper Merion Gulph 2,Election Day,DONALD J TRUMP(REP),380
+Upper Merion Gulph 2,Mail-in,KAMALA D HARRIS(DEM),557
+Upper Merion Gulph 2,Mail-in,DONALD J TRUMP(REP),174
+Upper Merion Gulph 2,Provisional,KAMALA D HARRIS(DEM),0
+Upper Merion Gulph 2,Provisional,DONALD J TRUMP(REP),0
+Upper Merion Gulph 2,Total,KAMALA D HARRIS(DEM),"1,073"
+Upper Merion Gulph 2,Total,DONALD J TRUMP(REP),554
+Upper Merion King 1,Election Day,KAMALA D HARRIS(DEM),256
+Upper Merion King 1,Election Day,DONALD J TRUMP(REP),188
+Upper Merion King 1,Mail-in,KAMALA D HARRIS(DEM),150
+Upper Merion King 1,Mail-in,DONALD J TRUMP(REP),54
+Upper Merion King 1,Provisional,KAMALA D HARRIS(DEM),7
+Upper Merion King 1,Provisional,DONALD J TRUMP(REP),4
+Upper Merion King 1,Total,KAMALA D HARRIS(DEM),413
+Upper Merion King 1,Total,DONALD J TRUMP(REP),246

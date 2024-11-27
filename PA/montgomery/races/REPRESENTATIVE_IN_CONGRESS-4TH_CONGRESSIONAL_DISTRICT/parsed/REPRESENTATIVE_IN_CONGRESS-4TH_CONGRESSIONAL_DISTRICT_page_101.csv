@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Whitpain 1,Election Day,MADELEINE DEAN(DEM),687
+Whitpain 1,Election Day,DAVID WINKLER(REP),500
+Whitpain 1,Mail-in,MADELEINE DEAN(DEM),661
+Whitpain 1,Mail-in,DAVID WINKLER(REP),286
+Whitpain 1,Provisional,MADELEINE DEAN(DEM),12
+Whitpain 1,Provisional,DAVID WINKLER(REP),7
+Whitpain 1,Total,MADELEINE DEAN(DEM),"1,360"
+Whitpain 1,Total,DAVID WINKLER(REP),793
+Whitpain 2,Election Day,MADELEINE DEAN(DEM),368
+Whitpain 2,Election Day,DAVID WINKLER(REP),315
+Whitpain 2,Mail-in,MADELEINE DEAN(DEM),338
+Whitpain 2,Mail-in,DAVID WINKLER(REP),141
+Whitpain 2,Provisional,MADELEINE DEAN(DEM),7
+Whitpain 2,Provisional,DAVID WINKLER(REP),1
+Whitpain 2,Total,MADELEINE DEAN(DEM),713
+Whitpain 2,Total,DAVID WINKLER(REP),457
+Whitpain 3,Election Day,MADELEINE DEAN(DEM),****
+Whitpain 3,Election Day,DAVID WINKLER(REP),****
+Whitpain 3,Mail-in,MADELEINE DEAN(DEM),****
+Whitpain 3,Mail-in,DAVID WINKLER(REP),****
+Whitpain 3,Provisional,MADELEINE DEAN(DEM),****
+Whitpain 3,Provisional,DAVID WINKLER(REP),****
+Whitpain 3,Total,MADELEINE DEAN(DEM),589
+Whitpain 3,Total,DAVID WINKLER(REP),334
+Whitpain 4,Election Day,MADELEINE DEAN(DEM),****
+Whitpain 4,Election Day,DAVID WINKLER(REP),****
+Whitpain 4,Mail-in,MADELEINE DEAN(DEM),****
+Whitpain 4,Mail-in,DAVID WINKLER(REP),****
+Whitpain 4,Provisional,MADELEINE DEAN(DEM),****
+Whitpain 4,Provisional,DAVID WINKLER(REP),****
+Whitpain 4,Total,MADELEINE DEAN(DEM),614
+Whitpain 4,Total,DAVID WINKLER(REP),298
+Whitpain 5,Election Day,MADELEINE DEAN(DEM),****
+Whitpain 5,Election Day,DAVID WINKLER(REP),****
+Whitpain 5,Mail-in,MADELEINE DEAN(DEM),****
+Whitpain 5,Mail-in,DAVID WINKLER(REP),****
+Whitpain 5,Provisional,MADELEINE DEAN(DEM),****
+Whitpain 5,Provisional,DAVID WINKLER(REP),****
+Whitpain 5,Total,MADELEINE DEAN(DEM),609
+Whitpain 5,Total,DAVID WINKLER(REP),392
+Whitpain 6,Election Day,MADELEINE DEAN(DEM),****
+Whitpain 6,Election Day,DAVID WINKLER(REP),****
+Whitpain 6,Mail-in,MADELEINE DEAN(DEM),****
+Whitpain 6,Mail-in,DAVID WINKLER(REP),****
+Whitpain 6,Provisional,MADELEINE DEAN(DEM),****
+Whitpain 6,Provisional,DAVID WINKLER(REP),****
+Whitpain 6,Total,MADELEINE DEAN(DEM),600
+Whitpain 6,Total,DAVID WINKLER(REP),379

@@ -1,0 +1,25 @@
+precinct,method,candidate,votes
+Lansdale 3-1,Election Day,UnresolvedWrite-In,3
+Lansdale 3-1,Mail-in,UnresolvedWrite-In,1
+Lansdale 3-1,Provisional,UnresolvedWrite-In,1
+Lansdale 3-1,Total,UnresolvedWrite-In,5
+Lansdale 3-2,Election Day,UnresolvedWrite-In,****
+Lansdale 3-2,Mail-in,UnresolvedWrite-In,****
+Lansdale 3-2,Provisional,UnresolvedWrite-In,****
+Lansdale 3-2,Total,UnresolvedWrite-In,4
+Lansdale 3-3,Election Day,UnresolvedWrite-In,****
+Lansdale 3-3,Mail-in,UnresolvedWrite-In,****
+Lansdale 3-3,Provisional,UnresolvedWrite-In,****
+Lansdale 3-3,Total,UnresolvedWrite-In,0
+North Wales 1,Election Day,UnresolvedWrite-In,****
+North Wales 1,Mail-in,UnresolvedWrite-In,****
+North Wales 1,Provisional,UnresolvedWrite-In,****
+North Wales 1,Total,UnresolvedWrite-In,1
+North Wales 2,Election Day,UnresolvedWrite-In,0
+North Wales 2,Mail-in,UnresolvedWrite-In,1
+North Wales 2,Provisional,UnresolvedWrite-In,0
+North Wales 2,Total,UnresolvedWrite-In,1
+North Wales 3,Election Day,UnresolvedWrite-In,****
+North Wales 3,Mail-in,UnresolvedWrite-In,****
+North Wales 3,Provisional,UnresolvedWrite-In,****
+North Wales 3,Total,UnresolvedWrite-In,0

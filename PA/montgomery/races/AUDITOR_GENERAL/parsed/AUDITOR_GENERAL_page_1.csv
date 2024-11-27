@@ -1,0 +1,41 @@
+precinct,method,candidate,votes
+Ambler 1,Election Day,MALCOLM KENYATTA(DEM),****
+Ambler 1,Election Day,TIM DEFOOR(REP),****
+Ambler 1,Mail-in,MALCOLM KENYATTA(DEM),****
+Ambler 1,Mail-in,TIM DEFOOR(REP),****
+Ambler 1,Provisional,MALCOLM KENYATTA(DEM),****
+Ambler 1,Provisional,TIM DEFOOR(REP),****
+Ambler 1,Total,MALCOLM KENYATTA(DEM),830
+Ambler 1,Total,TIM DEFOOR(REP),406
+Ambler 2,Election Day,MALCOLM KENYATTA(DEM),610
+Ambler 2,Election Day,TIM DEFOOR(REP),310
+Ambler 2,Mail-in,MALCOLM KENYATTA(DEM),279
+Ambler 2,Mail-in,TIM DEFOOR(REP),62
+Ambler 2,Provisional,MALCOLM KENYATTA(DEM),8
+Ambler 2,Provisional,TIM DEFOOR(REP),3
+Ambler 2,Total,MALCOLM KENYATTA(DEM),897
+Ambler 2,Total,TIM DEFOOR(REP),375
+Ambler 3,Election Day,MALCOLM KENYATTA(DEM),****
+Ambler 3,Election Day,TIM DEFOOR(REP),****
+Ambler 3,Mail-in,MALCOLM KENYATTA(DEM),****
+Ambler 3,Mail-in,TIM DEFOOR(REP),****
+Ambler 3,Provisional,MALCOLM KENYATTA(DEM),****
+Ambler 3,Provisional,TIM DEFOOR(REP),****
+Ambler 3,Total,MALCOLM KENYATTA(DEM),763
+Ambler 3,Total,TIM DEFOOR(REP),331
+Bridgeport 1,Election Day,MALCOLM KENYATTA(DEM),****
+Bridgeport 1,Election Day,TIM DEFOOR(REP),****
+Bridgeport 1,Mail-in,MALCOLM KENYATTA(DEM),****
+Bridgeport 1,Mail-in,TIM DEFOOR(REP),****
+Bridgeport 1,Provisional,MALCOLM KENYATTA(DEM),****
+Bridgeport 1,Provisional,TIM DEFOOR(REP),****
+Bridgeport 1,Total,MALCOLM KENYATTA(DEM),394
+Bridgeport 1,Total,TIM DEFOOR(REP),205
+Bridgeport 2,Election Day,MALCOLM KENYATTA(DEM),****
+Bridgeport 2,Election Day,TIM DEFOOR(REP),****
+Bridgeport 2,Mail-in,MALCOLM KENYATTA(DEM),****
+Bridgeport 2,Mail-in,TIM DEFOOR(REP),****
+Bridgeport 2,Provisional,MALCOLM KENYATTA(DEM),****
+Bridgeport 2,Provisional,TIM DEFOOR(REP),****
+Bridgeport 2,Total,MALCOLM KENYATTA(DEM),443
+Bridgeport 2,Total,TIM DEFOOR(REP),374

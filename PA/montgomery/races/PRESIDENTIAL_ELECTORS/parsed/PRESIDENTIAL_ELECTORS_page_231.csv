@@ -1,0 +1,49 @@
+precinct,method,candidate,votes
+Montgomery 7,Election Day,KAMALA D HARRIS(DEM),770
+Montgomery 7,Election Day,DONALD J TRUMP(REP),794
+Montgomery 7,Mail-in,KAMALA D HARRIS(DEM),"1,007"
+Montgomery 7,Mail-in,DONALD J TRUMP(REP),459
+Montgomery 7,Provisional,KAMALA D HARRIS(DEM),21
+Montgomery 7,Provisional,DONALD J TRUMP(REP),5
+Montgomery 7,Total,KAMALA D HARRIS(DEM),"1,798"
+Montgomery 7,Total,DONALD J TRUMP(REP),"1,258"
+Montgomery 8,Election Day,KAMALA D HARRIS(DEM),886
+Montgomery 8,Election Day,DONALD J TRUMP(REP),767
+Montgomery 8,Mail-in,KAMALA D HARRIS(DEM),"1,169"
+Montgomery 8,Mail-in,DONALD J TRUMP(REP),432
+Montgomery 8,Provisional,KAMALA D HARRIS(DEM),30
+Montgomery 8,Provisional,DONALD J TRUMP(REP),7
+Montgomery 8,Total,KAMALA D HARRIS(DEM),"2,085"
+Montgomery 8,Total,DONALD J TRUMP(REP),"1,206"
+New Hanover 1,Election Day,KAMALA D HARRIS(DEM),553
+New Hanover 1,Election Day,DONALD J TRUMP(REP),"1,233"
+New Hanover 1,Mail-in,KAMALA D HARRIS(DEM),577
+New Hanover 1,Mail-in,DONALD J TRUMP(REP),401
+New Hanover 1,Provisional,KAMALA D HARRIS(DEM),8
+New Hanover 1,Provisional,DONALD J TRUMP(REP),4
+New Hanover 1,Total,KAMALA D HARRIS(DEM),"1,138"
+New Hanover 1,Total,DONALD J TRUMP(REP),"1,638"
+New Hanover 2,Election Day,KAMALA D HARRIS(DEM),467
+New Hanover 2,Election Day,DONALD J TRUMP(REP),"1,017"
+New Hanover 2,Mail-in,KAMALA D HARRIS(DEM),503
+New Hanover 2,Mail-in,DONALD J TRUMP(REP),345
+New Hanover 2,Provisional,KAMALA D HARRIS(DEM),5
+New Hanover 2,Provisional,DONALD J TRUMP(REP),9
+New Hanover 2,Total,KAMALA D HARRIS(DEM),975
+New Hanover 2,Total,DONALD J TRUMP(REP),"1,371"
+New Hanover 3,Election Day,KAMALA D HARRIS(DEM),752
+New Hanover 3,Election Day,DONALD J TRUMP(REP),"1,300"
+New Hanover 3,Mail-in,KAMALA D HARRIS(DEM),625
+New Hanover 3,Mail-in,DONALD J TRUMP(REP),295
+New Hanover 3,Provisional,KAMALA D HARRIS(DEM),10
+New Hanover 3,Provisional,DONALD J TRUMP(REP),4
+New Hanover 3,Total,KAMALA D HARRIS(DEM),"1,387"
+New Hanover 3,Total,DONALD J TRUMP(REP),"1,599"
+Perkiomen 1,Election Day,KAMALA D HARRIS(DEM),717
+Perkiomen 1,Election Day,DONALD J TRUMP(REP),891
+Perkiomen 1,Mail-in,KAMALA D HARRIS(DEM),773
+Perkiomen 1,Mail-in,DONALD J TRUMP(REP),321
+Perkiomen 1,Provisional,KAMALA D HARRIS(DEM),8
+Perkiomen 1,Provisional,DONALD J TRUMP(REP),6
+Perkiomen 1,Total,KAMALA D HARRIS(DEM),"1,498"
+Perkiomen 1,Total,DONALD J TRUMP(REP),"1,218"
