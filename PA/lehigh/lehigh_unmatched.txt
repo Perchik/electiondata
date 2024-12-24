@@ -1,0 +1,3 @@
+﻿Official Election Results
+LEHIGH
+Precinct,Contest Name,Candidate Name,Votes,Voter Turnout
